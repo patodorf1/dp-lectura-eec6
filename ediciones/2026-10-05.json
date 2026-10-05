@@ -1,317 +1,317 @@
 {
- "fecha": "Lunes 5 de octubre de 2026",
- "ticker": [
-  [
-   "Oficial",
-   "$1.540",
-   "▼0,3%"
+  "fecha": "Lunes 5 de octubre de 2026",
+  "ticker": [
+    [
+      "Oficial",
+      "$1.540",
+      "▼0,3%"
+    ],
+    [
+      "Blue",
+      "$1.560",
+      "▲0,3%"
+    ],
+    [
+      "MEP",
+      "$1.553",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.625",
+      ""
+    ],
+    [
+      "Riesgo país",
+      "655",
+      "▲1,1%"
+    ]
   ],
-  [
-   "Blue",
-   "$1.560",
-   "▲0,3%"
+  "lead": "dep0",
+  "side": [
+    "pol0",
+    "eco0",
+    "tec0",
+    "fon0"
   ],
-  [
-   "MEP",
-   "$1.553",
-   ""
+  "secciones": [
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Startups",
+    "Deportes",
+    "Fórmula 1"
   ],
-  [
-   "CCL",
-   "$1.625",
-   ""
-  ],
-  [
-   "Riesgo país",
-   "655",
-   "▲1,1%"
+  "fuentes": "TechCrunch, Anthropic, GitHub, Infobae, Perfil, La Política Online, Ecosistema Startup",
+  "notas": [
+    {
+      "id": "tec0",
+      "sec": "Tecnología",
+      "v": "Política e IA",
+      "t": "Trump presenta su «Super Intelligence Force», un grupo para coordinar la IA en Estados Unidos",
+      "b": "El gobierno de Trump armó un equipo federal para ordenar el desarrollo de la inteligencia artificial. Tiene 120 días para entregar un informe.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
+      "body": [
+        "Donald Trump anunció la creación de la «Super Intelligence Force». Es un grupo de trabajo del gobierno federal. Su objetivo es coordinar los esfuerzos de inteligencia artificial en el país.",
+        "Lo preside Jay Clayton, director de Inteligencia Nacional. Tiene tres vicepresidentes. Son Andrew Ferguson, titular de la Comisión Federal de Comercio, y Emil Michael, subsecretario de Guerra para Investigación e Ingeniería. El tercero es Scott Kupor, director de la Oficina de Gestión de Personal.",
+        "El equipo tiene 120 días para presentar un informe. Debe analizar los riesgos y las oportunidades de la IA. Su documento fundacional habla de preparar planes contra amenazas de la «superinteligencia». También pide evitar una regulación excesiva que frene la innovación.",
+        "La novedad viene de un decreto de septiembre. Ese decreto rebautizó a la IA como «super intelligence». Antes, Trump había dicho que los miedos sobre la seguridad de la IA eran un invento de sus rivales políticos. Aun así, formó este grupo.",
+        "Clayton explicó cuál es para él uno de los grandes riesgos. Que Estados Unidos no llegue primero, sobre todo frente a China.",
+        "Por qué importa: es la señal más clara de cómo piensa el gobierno estadounidense la IA. Prioriza ganar la carrera tecnológica y desconfía de las regulaciones. Eso influye en las empresas que hacen los programas que usás todos los días."
+      ]
+    },
+    {
+      "id": "tec1",
+      "sec": "Tecnología",
+      "v": "Seguridad IA",
+      "t": "Un pacto de seguridad sin obligación legal, ¿alcanza para mejorar la imagen de la IA?",
+      "b": "Líderes tecnológicos firmaron un compromiso voluntario en la Casa Blanca. Nadie está obligado a cumplirlo.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
+      "body": [
+        "En un almuerzo en la Casa Blanca, varios empresarios firmaron un documento. Se llama «Joint Commitment on Frontier Responsibilities». Entre los firmantes estaban Mark Zuckerberg, Jeff Bezos, Elon Musk y Dario Amodei, de Anthropic.",
+        "El pacto es voluntario. No es vinculante, es decir, la ley no obliga a cumplirlo. Trump dijo que es «moralmente vinculante». Según la nota, no tiene mecanismos reales para hacerlo cumplir.",
+        "Hubo un detalle llamativo. El texto tenía mal escrito el nombre «United States». Eso sugiere que se preparó con apuro.",
+        "El artículo sostiene que lo importante no es el contenido. Lo importante es el símbolo. Llamar «superinteligencia» a la IA suena más optimista. La palabra «inteligencia artificial» hoy se asocia con cosas que asustan, como perder el empleo.",
+        "También aparece Amodei en un contexto delicado. Tuvo una cena privada con Trump después de las críticas del Departamento de Defensa a su empresa. Ese organismo la sigue viendo con recelo, como un tema de seguridad nacional.",
+        "Por qué importa: los compromisos voluntarios son fáciles de firmar y difíciles de exigir. La nota plantea que el cambio de nombre pesa más que el acuerdo."
+      ]
+    },
+    {
+      "id": "tec2",
+      "sec": "Tecnología",
+      "v": "Seguridad",
+      "t": "Google frenó su programa de recompensas por bugs de código abierto por el aluvión de reportes con IA",
+      "b": "Google pausó hasta 2027 el pago por encontrar fallas en software libre. Recibía demasiados reportes automáticos y casi todos eran falsos.",
+      "src": "TechCrunch",
+      "u": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "body": [
+        "Google suspendió su programa de recompensas para software de código abierto. La pausa rige desde el 1 de octubre de 2026. Se extiende hasta el primer trimestre de 2027.",
+        "Un «bug bounty» es un premio en dinero. Se le paga a quien encuentra una falla de seguridad en un programa y la avisa. El código abierto es software cuyo código puede ver y usar cualquiera.",
+        "La empresa explicó el motivo. Hubo, dijo, «una suba significativa de envíos automáticos». Y la gran mayoría no eran válidos.",
+        "Según la información publicada, ingenieros de Google y responsables de proyectos abiertos quedaron desbordados. Los reportes falsos incluían invenciones de la IA, lo que se llama alucinaciones. Eso obliga a revisar cada uno a mano.",
+        "Google invitó a los participantes a mirar otros programas de recompensas de la compañía. Prometió una novedad en el primer trimestre de 2027. TechCrunch ya había contado en julio de 2025 que los expertos temían este problema.",
+        "Por qué importa: mucho del software que usás depende de proyectos abiertos. Si cuesta más encontrar fallas reales entre tanto ruido, la seguridad de esos programas puede resentirse."
+      ]
+    },
+    {
+      "id": "tec3",
+      "sec": "Tecnología",
+      "v": "Código abierto",
+      "t": "Un proyecto abierto permite correr un modelo gigante de IA en una compu hogareña",
+      "b": "Strata, muy votado en Hacker News, promete usar un modelo de 125.000 millones de parámetros en una placa de video común. Reparte el trabajo entre varias piezas de la máquina.",
+      "src": "GitHub",
+      "u": "https://github.com/Niko1221/Strata",
+      "body": [
+        "Strata es un proyecto gratuito de código abierto. Permite correr en tu propia computadora el modelo Qwen3.8-Flash-Next. Es un modelo con 125.000 millones de parámetros. Los parámetros son, a grandes rasgos, el tamaño del «cerebro» de la IA.",
+        "Normalmente un modelo así necesita equipos carísimos. Strata reparte el trabajo. El modelo es de tipo «mezcla de expertos». Eso quiere decir que tiene miles de especialistas internos y usa solo 10 por cada palabra generada.",
+        "La placa de video guarda los expertos más usados, unos mil. La memoria RAM tiene los 24.576 en total. El procesador hace el resto en paralelo. El disco guarda tablas de consulta.",
+        "Según sus autores, responde a entre 44 y 94 tokens por segundo, según la placa y el nivel de compresión. Un token es un pedacito de palabra. Pide placas Nvidia RTX series 20 a 50, o AMD compatibles. Necesitan al menos 12 GB de memoria de video. También hacen falta entre 32 y 96 GB de RAM y unos 80 GB de disco.",
+        "La instalación es de un clic en Windows y Linux. La licencia es MIT, muy permisiva. Estas cifras son las que declara el proyecto, no pruebas independientes.",
+        "Por qué importa: correr la IA en tu propia máquina evita enviar tus datos a terceros. Y no dependés de pagar un servicio."
+      ]
+    },
+    {
+      "id": "tec4",
+      "sec": "Tecnología",
+      "v": "Formación",
+      "t": "Anthropic invierte 100 millones de dólares para formar 10.000 ingenieros",
+      "b": "La empresa lanzó la Claude Frontier Academy. Quiere capacitar a miles de especialistas que lleven su IA a las empresas.",
+      "src": "Anthropic",
+      "u": "https://www.anthropic.com/news/claude-frontier-academy",
+      "body": [
+        "Anthropic anunció la Claude Frontier Academy el 2 de octubre. Invertirá 100 millones de dólares. La meta es formar 10.000 «Frontier Deployed Engineers» hasta diciembre de 2027.",
+        "Estos ingenieros ayudan a las empresas a implementar Claude en su trabajo. La compañía dice que faltan profesionales así. Quiere entrenarlos con sus propios estándares.",
+        "El programa se inspira en la formación médica. Primero hay un entrenamiento presencial de varios días, con casos simulados de empresas. Tras una evaluación práctica, se obtiene la insignia «Claude Resident Engineer».",
+        "Después viene una residencia de 12 semanas. Allí lideran proyectos reales de Claude en sus propias organizaciones. Con una evaluación final reciben la insignia de ingeniero desplegado. Las primeras se esperan a principios de 2027.",
+        "Hay sedes en San Francisco, Nueva York y Londres. Participan Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley y Novo Nordisk, entre otras.",
+        "Por qué importa: muestra que el cuello de botella de la IA ya no es solo la tecnología. También falta gente que sepa usarla dentro de las empresas."
+      ]
+    },
+    {
+      "id": "eco0",
+      "sec": "Economía",
+      "v": "Actividad",
+      "t": "La economía se frenó y Caputo dice que no hay recesión",
+      "b": "La actividad cayó en julio y los analistas bajaron sus pronósticos de crecimiento. El ministro admite que se crece menos, pero niega que haya recesión.",
+      "src": "Infobae / Perfil",
+      "u": "https://www.infobae.com/economia/2026/10/04/por-que-se-freno-la-actividad-economica-y-que-esperan-los-especialistas-para-el-futuro/",
+      "body": [
+        "Según Infobae, el EMAE cayó 2,9% en julio frente a junio. El EMAE es el índice mensual que mide la actividad. Contra julio del año pasado, la baja fue de 1,4%. En el segundo trimestre, el PBI retrocedió 0,6%.",
+        "Los especialistas señalan al consumo privado como el motor que se apagó. Pesan la inflación más alta, el empleo frágil y el crédito débil. La inversión también cae hace más de un año. Comercio, industria y construcción fueron los rubros más golpeados.",
+        "Para 2026 se esperaba un crecimiento de 3,5%. Hoy las estimaciones rondan el 2,1%. JP Morgan y Eco Go hablan de 1,5%. Infobae suma señales de mejora en septiembre. La demanda de electricidad subió 3,9% y la confianza del consumidor, 2,4%.",
+        "Perfil cuenta que Luis Caputo, en París, negó la recesión. Dijo que se crece 0,2% mensual, menos que antes, pero que eso es distinto. Culpó al petróleo y a las tasas de Estados Unidos. Dijo también que la recaudación de septiembre fue mejor. La mejora de septiembre todavía es parcial.",
+        "Por qué importa: si el consumo no repunta, se resiente el empleo y las ventas. El Gobierno ve un freno pasajero. Varios analistas ven un cuadro más frágil."
+      ]
+    },
+    {
+      "id": "eco1",
+      "sec": "Economía",
+      "v": "Voto de confianza",
+      "t": "Milei pide paciencia: el mejor año económico llegaría en 2028",
+      "b": "El Presidente admite que el crecimiento fuerte no llegará antes de la elección de 2027. Pide a la clase media un voto de confianza.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/economia/2026/10/04/milei-pidio-un-voto-de-confianza-y-promete-crecimiento-a-tasas-chinas-en-2028-la-clase-media-tendra-la-ultima-palabra/",
+      "body": [
+        "Infobae informa que Javier Milei prometió el mejor año de la historia económica. Pero recién para 2028. Es decir, después de la elección presidencial de 2027. En la práctica, pide paciencia a los votantes.",
+        "Para 2027 las metas son modestas. Según la nota, el Gobierno busca contener la presión sobre el dólar. También quiere consolidar la baja de la inflación. Proyecta crecer 2,5% y mantener la inflación mensual debajo del 2%. No habría reformas grandes en año electoral.",
+        "Hay además un plan de contingencia de USD 75.000 millones. Incluye swaps, que son acuerdos de intercambio de monedas, con Estados Unidos y China. Caputo dijo que cree que no pasará nada, pero que están preparados. El riesgo país superó los 650 puntos.",
+        "Milei proyecta crecer entre 7% y 8% anual después de 2028. Lo apoya en el RIGI. Es un régimen de incentivos para grandes proyectos. Hay inversiones comprometidas por más de USD 150.000 millones. La nota remarca que el Gobierno llevó a 14 gobernadores a París para mostrar respaldo institucional.",
+        "Por qué importa: su reelección depende de la clase media. Según Infobae, la golpearon la inflación mayor que los sueldos y las tarifas más caras. Ese sector tendrá la última palabra."
+      ]
+    },
+    {
+      "id": "pol0",
+      "sec": "Política",
+      "v": "CGT",
+      "t": "Dos decisiones del Gobierno tensan la relación con la CGT",
+      "b": "Según Infobae, la CGT lee como hostiles un recurso ante la Corte y un cambio en Trabajo. El paro general podría adelantarse.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/",
+      "body": [
+        "Infobae cuenta que el Gobierno tomó dos decisiones que molestaron a los sindicatos. La primera fue un recurso extraordinario ante la Corte Suprema. Busca frenar la certificación de la elección de Luis Barrionuevo. Él conduce el gremio gastronómico, la UTHGRA. Un tribunal inferior ya había validado su triunfo.",
+        "La segunda: Claudia Testa dejó la Subsecretaría de Trabajo. La reemplaza Mariano Sartoris. Los dirigentes sindicales lo ven sin experiencia en relaciones laborales. Valoraban a Testa por su diálogo con sindicatos y empresarios.",
+        "Un alto dirigente de la CGT calificó la apelación como intromisión total del Ejecutivo. Infobae agrega que la central toma ambas medidas como señales hostiles. Según Infobae, los dirigentes sienten que el diálogo con el Gobierno se debilitó. La central no convoca un paro general desde febrero.",
+        "Ahora acelera la planificación de una medida para fines de noviembre. Sería después de la visita del papa León XIV. En esta nota no aparece una respuesta oficial. La CGT mantiene abierta la opción del paro.",
+        "Por qué importa: un paro general frena la actividad. También mide la fuerza del sindicalismo frente al Gobierno."
+      ]
+    },
+    {
+      "id": "pol1",
+      "sec": "Política",
+      "v": "Iglesia",
+      "t": "Luján: homilía de García Cuerva y cruce con Caputo",
+      "b": "El arzobispo pidió terminar con la descalificación. Caputo compartió un mensaje crítico y la oposición respondió.",
+      "src": "Perfil",
+      "u": "https://www.perfil.com/noticias/politica/garcia-cuerva-pidio-en-lujan-terminar-con-las-heridas-de-la-descalificacion.phtml",
+      "body": [
+        "Perfil informa que se realizó la 52.ª peregrinación juvenil a Luján. Miles caminaron unos 60 kilómetros, desde Liniers, bajo lluvia y frío. Fue un anticipo de la visita del papa León XIV. Llegará del 8 al 11 de noviembre.",
+        "En la homilía, el arzobispo Jorge García Cuerva habló de heridas infectadas. Las causas serían la descalificación, la intolerancia y la violencia. Pidió cuidar a jubilados, desocupados, personas en situación de calle y adolescentes con adicciones. Llamó a reemplazar el conflicto por diálogo y respeto.",
+        "Perfil cuenta que Luis Caputo compartió un mensaje de su asesor Felipe Núñez. Núñez dirige el BICE. El mensaje decía que, como católico, estaba cansado. Pedía a Cuerva menos política y más predicar la palabra de Dios.",
+        "El exembajador Ricardo Alfonsín criticó esa actitud. La calificó de grosería y falta de respeto. Dijo que atender a los pobres es parte del cristianismo. Perfil también cita fuentes oficiales. Les preocupa que los movimientos sociales resten solemnidad a la visita papal. Perfil dice que la CGT, la UTEP y la CTA participaron, pero con perfil bajo. Los organizadores contaron 6.000 voluntarios.",
+        "Por qué importa: la visita del Papa se acerca. La relación entre Iglesia y Gobierno ya genera cruces públicos."
+      ]
+    },
+    {
+      "id": "pol2",
+      "sec": "Política",
+      "v": "Armado 2027",
+      "t": "Alianza LLA-PRO, fin de las PASO y la duda de Bullrich",
+      "b": "El oficialismo prepara el mapa electoral de 2027. Hay una alianza en marcha, un debate por las PASO y una candidatura en suspenso.",
+      "src": "Infobae / La Política Online",
+      "u": "https://www.infobae.com/politica/2026/10/04/guillermo-francos-anticipo-una-alianza-electoral-amplia-de-lla-con-el-pro-y-mayor-presencia-oficialista-en-el-congreso/",
+      "body": [
+        "Según Infobae, Guillermo Francos anticipó una alianza amplia entre La Libertad Avanza y el PRO. Se mostró convencido de que irán juntos. Prevé también un oficialismo muy fuerte en Diputados, quizá mayoritario.",
+        "Infobae cuenta además que el Gobierno busca fecha para eliminar las PASO, las primarias abiertas. El debate sería en el Senado. Habría un principio de entendimiento con provincias aliadas. Octubre está cargado. Hay marcha sindical el 8. Milei viaja a Estados Unidos el 14. La oposición sesiona el 15. Karina Milei decidiría la fecha.",
+        "Sobre Patricia Bullrich, Francos descartó una ruptura. Recordó que ella quiere competir tras un eventual segundo mandato de Milei. La Política Online cita a Bullrich, del 3 de octubre. Dijo que analizará cómo llega Milei. Y agregó que no tiene tanto tiempo.",
+        "El medio agrega que Bullrich marcha más independiente del Gobierno. Según esa nota, mide bien en las encuestas. Todo esto ocurre con la visita del Papa, del 8 al 11 de noviembre, como telón de fondo.",
+        "Por qué importa: de la alianza y de las reglas depende la oferta electoral de 2027."
+      ]
+    },
+    {
+      "id": "sta2",
+      "sec": "Startups",
+      "v": "Medioambiente",
+      "t": "ReForest Latam y Charly Alberti restauran 200 hectáreas de araucarias",
+      "b": "Una startup tucumana usará drones y cápsulas de semillas en el Parque Nacional Lanín. El proyecto va de 2026 a 2027.",
+      "src": "Ecosistema Startup",
+      "u": "https://ecosistemastartup.com/reforest-latam-y-charly-alberti-restauran-200-ha-de-araucarias/",
+      "body": [
+        "ReForest Latam, startup de Tucumán, restaurará más de 200 hectáreas de bosque de araucarias. Será en el Parque Nacional Lanín, en Neuquén. El plan se llama \"Regenerar Patagonia\". Participan el músico Charly Alberti, de Soda Stereo, y el Proyecto Pewen.",
+        "La empresa combina tres herramientas. Una son las iSeeds, cápsulas biodegradables con semillas nativas, microorganismos y nutrientes. Otra son drones autónomos que plantan miles de árboles por día. La tercera es una plataforma que usa satélites y sensores para mapear la vegetación.",
+        "Según la nota, el método costaría cerca de un quinto del promedio regional. Ese promedio se estima en USD 7.000 por hectárea. La empresa levantó más de USD 1 millón, con liderazgo del fondo iThink VC. Tiene 12 especialistas. Opera en Argentina, Brasil y Bolivia, y va por Paraguay.",
+        "Dicen que sus cápsulas son 25 veces más efectivas que la regeneración natural asistida. Es un dato de la propia empresa. Los medios no lo verificaron de forma independiente. El proyecto se ejecutará entre 2026 y 2027.",
+        "Por qué importa: replantar bosques nativos con tecnología más barata podría acelerar su recuperación."
+      ]
+    },
+    {
+      "id": "dep0",
+      "sec": "Deportes",
+      "v": "Despedida",
+      "t": "Messi llegó a Ezeiza para su última función con la Selección",
+      "b": "El capitán se sumó al plantel en el predio de la AFA. El martes jugará contra Benín en el Monumental, su presentación número 208.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/deportes/2026/10/04/messi-llego-al-predio-de-ezeiza-para-su-ultima-funcion-con-la-seleccion-argentina-las-postales-y-el-agasajo-especial/",
+      "body": [
+        "Lionel Messi llegó este domingo al predio de Ezeiza. Empezó así la cuenta regresiva para su despedida con la Selección.",
+        "La AFA mostró fotos de su arribo. Bajó de una camioneta negra dentro del predio. Posó con Claudio Tapia y con Giovani Lo Celso. El mensaje oficial fue de bienvenida y mucha emoción.",
+        "Hubo un agasajo especial. El plantel compartió un asado nocturno con el capitán. Antes y después, el equipo siguió con los entrenamientos del domingo y del lunes.",
+        "El partido será el martes 6 de octubre, a las 20. Se juega en el Monumental. Rival: Benín. Las entradas están agotadas. Será la aparición 208 de Messi con la camiseta argentina.",
+        "Scaloni ya dejó ver su once para la ocasión. En el arco, Emiliano Martínez. La defensa: Giay, Romero, Otamendi y Tagliafico. En el medio: De Paul, Enzo Fernández y Mac Allister. Arriba, Messi con Julián Álvarez y Lautaro Martínez. También habrá un homenaje y campeones del mundo invitados.",
+        "Por qué importa: es el cierre de una era. El martes la Selección despide a su capitán, en la cancha."
+      ]
+    },
+    {
+      "id": "dep1",
+      "sec": "Deportes",
+      "v": "Sub-17",
+      "t": "Remontada histórica de la Sub-17: perdía 0-2 y ganó sobre la hora",
+      "b": "Argentina dio vuelta el partido ante Tanzania en Londres. Tobías Goytía marcó el 3-2 a los 95 minutos.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/deportes/2026/10/04/historica-remontada-de-la-seleccion-argentina-sub-17-perdia-0-2-y-lo-gano-con-el-tanto-de-tobias-goytia-a-los-95/",
+      "body": [
+        "La Selección Sub-17 vivió una tarde de locos en Londres. Perdía 2-0 y terminó ganando 3-2 ante Tanzania.",
+        "El partido fue por la Vertex Cup 2026, un torneo amistoso de preparación. Se jugó en el SkyEx Community Stadium. El equipo es dirigido por Diego Placente.",
+        "Tanzania se puso 2-0 con dos penales. Los convirtieron Soann Adam y Luqman Ally. Argentina parecía sin salida.",
+        "Todo cambió a falta de unos 15 minutos. Mateo Sánchez descontó con un remate cruzado, después de avanzar por la derecha. Más tarde empató al anticiparse dentro del área.",
+        "El golpe final llegó en el minuto 95. Tobías Goytía quedó mano a mano con el arquero y definió. Fue el 3-2 definitivo.",
+        "Lo que viene: el miércoles 7, a las 19, el equipo juega contra China. Es el siguiente examen del torneo. Después llega el Mundial Sub-17, en Qatar, del 19 de noviembre al 13 de diciembre.",
+        "Por qué importa: el equipo mostró carácter cuando todo parecía perdido. Es una buena señal para un grupo que se prepara para el Mundial. Y suma confianza antes del duelo con China."
+      ]
+    },
+    {
+      "id": "dep2",
+      "sec": "Deportes",
+      "v": "Boca",
+      "t": "Preocupa Velasco en Boca antes de la semi con Vasco",
+      "b": "Arruabarrena contó que Alan Velasco sufrió un pequeño desgarro ante Unión. El equipo viaja a Córdoba el viernes y el 13 recibe a Vasco da Gama.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/deportes/2026/10/03/8-frases-del-vasco-arruabarrena-tras-la-goleada-de-boca-de-los-elogios-a-leonel-flores-a-la-figura-que-se-lesiono-ante-union/",
+      "body": [
+        "Boca ganó 3-0 a Unión el viernes. Pero la noticia grande llegó después, con una lesión.",
+        "Alan Velasco sintió una molestia muscular. Arruabarrena dijo que creía que fue \"un pequeño desgarro\". Según el reporte, la recuperación rondaría un mes. Falta confirmar el diagnóstico.",
+        "El golpe llega en mal momento. La semifinal de la Sudamericana ante Vasco da Gama empieza el martes 13 de octubre. Se juega a las 21:30, en La Bombonera. La vuelta será el 20, a la misma hora, en Brasil.",
+        "Antes, Boca visita a Instituto en Córdoba. Es el viernes 9, a las 19:30, por la fecha 12 del Clausura. Según un medio, el técnico planea un equipo alternativo. La idea es cuidar a los titulares.",
+        "Además, Álvaro Montero no estará. Lo convocó Colombia para un amistoso el 7 de octubre. Boca lleva 16 partidos sin perder en torneos oficiales. Tiene una racha larga que cuidar. El técnico quiere sostenerla sin gastar a nadie de más.",
+        "Por qué importa: Velasco es pieza clave y Boca juega tres frentes sin descanso. Cada baja pesa más en la carrera por la Sudamericana."
+      ]
+    },
+    {
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "v": "Colapinto",
+      "t": "Colapinto, furioso con Alpine: \"la peor decisión\" en el GP de Bahréin",
+      "b": "Franco largó 21° y terminó 13° en una carrera caótica en Sepang. Criticó la elección de gomas blandas con pista mojada.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/deportes/2026/10/04/el-enojo-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-barein-de-f1-la-peor-decision-que-se-podia-haber-tomado/",
+      "body": [
+        "Franco Colapinto cruzó la meta en el puesto 13 del GP de Bahréin. La carrera se corrió en Sepang, Malasia, este domingo 4. Y el argentino terminó muy enojado con Alpine.",
+        "Largó 21° por una penalización. Alpine puso neumáticos blandos en sus dos autos. La pista seguía mojada. Para Colapinto fue \"la peor decisión que se podía haber tomado\".",
+        "Según el piloto, los dos autos quedaron sin grip y patinando. El equipo admitió que asumió un riesgo. Reconoció que a veces sale bien y a veces no.",
+        "Después, Franco mostró buen ritmo con gomas lisas. Pasó a varios rivales y ganó ocho posiciones. Pero no alcanzó para sumar puntos.",
+        "Su manager, Jamie Campbell-Walter, y María Catarineu, de Bullet Sports Management, lo respaldaron. Dijeron que el P13 no cuenta toda la historia. Hablaron de una carrera caótica. Hubo varios safety cars.",
+        "La victoria fue para Max Verstappen, de Red Bull. Segundo, Kimi Antonelli (Mercedes). Tercero, Lewis Hamilton (Ferrari).",
+        "Por qué importa: Alpine volvió a irse sin puntos. Se alejó de Racing Bulls en el campeonato de constructores. La pelea es por el quinto puesto."
+      ]
+    },
+    {
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "v": "Caos",
+      "t": "La F1 reveló la falla de software que frenó a los autos en Malasia",
+      "b": "Un error en las unidades de potencia dejó autos parados en la vuelta de formación. La carrera tuvo bandera roja y una larga demora.",
+      "src": "Infobae",
+      "u": "https://www.infobae.com/deportes/2026/10/04/la-f1-revelo-la-falla-de-software-que-detuvo-a-los-autos-y-provoco-un-caos-en-el-gp-de-barein-la-dura-reaccion-de-los-pilotos/",
+      "body": [
+        "La Fórmula 1 explicó por qué varios autos se detuvieron antes de largar en Sepang. Fue una falla de software en las unidades de potencia.",
+        "Todo empezó con lluvia fuerte. La largada ya había sufrido 40 minutos de demora. Después, en la vuelta de formación, los autos iban muy lento. La pista estaba mojada.",
+        "Eso generó un efecto acordeón. Algunos coches no pudieron recuperar potencia y quedaron frenados. Se mostró bandera roja.",
+        "La carrera se postergó más de una hora y media. Técnicos de la FIA detectaron el problema. Instalaron una actualización en unos 20 minutos.",
+        "Los pilotos no se guardaron nada. Checo Pérez lo llamó \"inaceptable\". Lando Norris dijo que fue \"simplemente horrible\". George Russell opinó que el día no pareció muy Fórmula 1.",
+        "Carlos Sainz pidió revisar decisiones del reglamento nuevo. Nikolas Tombazis, de la FIA, explicó algo. En la temporada no hubo pruebas con lluvia real. Por eso nadie vio esta combinación. Además influyó la nueva motorización. Tiene 47% de potencia eléctrica.",
+        "Por qué importa: el reglamento nuevo mostró un punto débil. Puede obligar a revisar los protocolos con lluvia. Es una advertencia para las próximas carreras mojadas."
+      ]
+    }
   ]
- ],
- "lead": "dep0",
- "side": [
-  "pol0",
-  "eco0",
-  "tec0",
-  "fon0"
- ],
- "secciones": [
-  "Tecnología",
-  "Economía",
-  "Política",
-  "Startups",
-  "Deportes",
-  "Fórmula 1"
- ],
- "fuentes": "TechCrunch, Anthropic, GitHub, Infobae, Perfil, La Política Online, Ecosistema Startup",
- "notas": [
-  {
-   "id": "tec0",
-   "sec": "Tecnología",
-   "v": "Política e IA",
-   "t": "Trump presenta su «Super Intelligence Force», un grupo para coordinar la IA en Estados Unidos",
-   "b": "El gobierno de Trump armó un equipo federal para ordenar el desarrollo de la inteligencia artificial. Tiene 120 días para entregar un informe.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-   "body": [
-    "Donald Trump anunció la creación de la «Super Intelligence Force». Es un grupo de trabajo del gobierno federal. Su objetivo es coordinar los esfuerzos de inteligencia artificial en el país.",
-    "Lo preside Jay Clayton, director de Inteligencia Nacional. Tiene tres vicepresidentes. Son Andrew Ferguson, titular de la Comisión Federal de Comercio, y Emil Michael, subsecretario de Guerra para Investigación e Ingeniería. El tercero es Scott Kupor, director de la Oficina de Gestión de Personal.",
-    "El equipo tiene 120 días para presentar un informe. Debe analizar los riesgos y las oportunidades de la IA. Su documento fundacional habla de preparar planes contra amenazas de la «superinteligencia». También pide evitar una regulación excesiva que frene la innovación.",
-    "La novedad viene de un decreto de septiembre. Ese decreto rebautizó a la IA como «super intelligence». Antes, Trump había dicho que los miedos sobre la seguridad de la IA eran un invento de sus rivales políticos. Aun así, formó este grupo.",
-    "Clayton explicó cuál es para él uno de los grandes riesgos. Que Estados Unidos no llegue primero, sobre todo frente a China.",
-    "Por qué importa: es la señal más clara de cómo piensa el gobierno estadounidense la IA. Prioriza ganar la carrera tecnológica y desconfía de las regulaciones. Eso influye en las empresas que hacen los programas que usás todos los días."
-   ]
-  },
-  {
-   "id": "tec1",
-   "sec": "Tecnología",
-   "v": "Seguridad IA",
-   "t": "Un pacto de seguridad sin obligación legal, ¿alcanza para mejorar la imagen de la IA?",
-   "b": "Líderes tecnológicos firmaron un compromiso voluntario en la Casa Blanca. Nadie está obligado a cumplirlo.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-   "body": [
-    "En un almuerzo en la Casa Blanca, varios empresarios firmaron un documento. Se llama «Joint Commitment on Frontier Responsibilities». Entre los firmantes estaban Mark Zuckerberg, Jeff Bezos, Elon Musk y Dario Amodei, de Anthropic.",
-    "El pacto es voluntario. No es vinculante, es decir, la ley no obliga a cumplirlo. Trump dijo que es «moralmente vinculante». Según la nota, no tiene mecanismos reales para hacerlo cumplir.",
-    "Hubo un detalle llamativo. El texto tenía mal escrito el nombre «United States». Eso sugiere que se preparó con apuro.",
-    "El artículo sostiene que lo importante no es el contenido. Lo importante es el símbolo. Llamar «superinteligencia» a la IA suena más optimista. La palabra «inteligencia artificial» hoy se asocia con cosas que asustan, como perder el empleo.",
-    "También aparece Amodei en un contexto delicado. Tuvo una cena privada con Trump después de las críticas del Departamento de Defensa a su empresa. Ese organismo la sigue viendo con recelo, como un tema de seguridad nacional.",
-    "Por qué importa: los compromisos voluntarios son fáciles de firmar y difíciles de exigir. La nota plantea que el cambio de nombre pesa más que el acuerdo."
-   ]
-  },
-  {
-   "id": "tec2",
-   "sec": "Tecnología",
-   "v": "Seguridad",
-   "t": "Google frenó su programa de recompensas por bugs de código abierto por el aluvión de reportes con IA",
-   "b": "Google pausó hasta 2027 el pago por encontrar fallas en software libre. Recibía demasiados reportes automáticos y casi todos eran falsos.",
-   "src": "TechCrunch",
-   "u": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "body": [
-    "Google suspendió su programa de recompensas para software de código abierto. La pausa rige desde el 1 de octubre de 2026. Se extiende hasta el primer trimestre de 2027.",
-    "Un «bug bounty» es un premio en dinero. Se le paga a quien encuentra una falla de seguridad en un programa y la avisa. El código abierto es software cuyo código puede ver y usar cualquiera.",
-    "La empresa explicó el motivo. Hubo, dijo, «una suba significativa de envíos automáticos». Y la gran mayoría no eran válidos.",
-    "Según la información publicada, ingenieros de Google y responsables de proyectos abiertos quedaron desbordados. Los reportes falsos incluían invenciones de la IA, lo que se llama alucinaciones. Eso obliga a revisar cada uno a mano.",
-    "Google invitó a los participantes a mirar otros programas de recompensas de la compañía. Prometió una novedad en el primer trimestre de 2027. TechCrunch ya había contado en julio de 2025 que los expertos temían este problema.",
-    "Por qué importa: mucho del software que usás depende de proyectos abiertos. Si cuesta más encontrar fallas reales entre tanto ruido, la seguridad de esos programas puede resentirse."
-   ]
-  },
-  {
-   "id": "tec3",
-   "sec": "Tecnología",
-   "v": "Código abierto",
-   "t": "Un proyecto abierto permite correr un modelo gigante de IA en una compu hogareña",
-   "b": "Strata, muy votado en Hacker News, promete usar un modelo de 125.000 millones de parámetros en una placa de video común. Reparte el trabajo entre varias piezas de la máquina.",
-   "src": "GitHub",
-   "u": "https://github.com/Niko1221/Strata",
-   "body": [
-    "Strata es un proyecto gratuito de código abierto. Permite correr en tu propia computadora el modelo Qwen3.8-Flash-Next. Es un modelo con 125.000 millones de parámetros. Los parámetros son, a grandes rasgos, el tamaño del «cerebro» de la IA.",
-    "Normalmente un modelo así necesita equipos carísimos. Strata reparte el trabajo. El modelo es de tipo «mezcla de expertos». Eso quiere decir que tiene miles de especialistas internos y usa solo 10 por cada palabra generada.",
-    "La placa de video guarda los expertos más usados, unos mil. La memoria RAM tiene los 24.576 en total. El procesador hace el resto en paralelo. El disco guarda tablas de consulta.",
-    "Según sus autores, responde a entre 44 y 94 tokens por segundo, según la placa y el nivel de compresión. Un token es un pedacito de palabra. Pide placas Nvidia RTX series 20 a 50, o AMD compatibles. Necesitan al menos 12 GB de memoria de video. También hacen falta entre 32 y 96 GB de RAM y unos 80 GB de disco.",
-    "La instalación es de un clic en Windows y Linux. La licencia es MIT, muy permisiva. Estas cifras son las que declara el proyecto, no pruebas independientes.",
-    "Por qué importa: correr la IA en tu propia máquina evita enviar tus datos a terceros. Y no dependés de pagar un servicio."
-   ]
-  },
-  {
-   "id": "tec4",
-   "sec": "Tecnología",
-   "v": "Formación",
-   "t": "Anthropic invierte 100 millones de dólares para formar 10.000 ingenieros",
-   "b": "La empresa lanzó la Claude Frontier Academy. Quiere capacitar a miles de especialistas que lleven su IA a las empresas.",
-   "src": "Anthropic",
-   "u": "https://www.anthropic.com/news/claude-frontier-academy",
-   "body": [
-    "Anthropic anunció la Claude Frontier Academy el 2 de octubre. Invertirá 100 millones de dólares. La meta es formar 10.000 «Frontier Deployed Engineers» hasta diciembre de 2027.",
-    "Estos ingenieros ayudan a las empresas a implementar Claude en su trabajo. La compañía dice que faltan profesionales así. Quiere entrenarlos con sus propios estándares.",
-    "El programa se inspira en la formación médica. Primero hay un entrenamiento presencial de varios días, con casos simulados de empresas. Tras una evaluación práctica, se obtiene la insignia «Claude Resident Engineer».",
-    "Después viene una residencia de 12 semanas. Allí lideran proyectos reales de Claude en sus propias organizaciones. Con una evaluación final reciben la insignia de ingeniero desplegado. Las primeras se esperan a principios de 2027.",
-    "Hay sedes en San Francisco, Nueva York y Londres. Participan Accenture, Bain, Capgemini, Deloitte, McKinsey, Morgan Stanley y Novo Nordisk, entre otras.",
-    "Por qué importa: muestra que el cuello de botella de la IA ya no es solo la tecnología. También falta gente que sepa usarla dentro de las empresas."
-   ]
-  },
-  {
-   "id": "eco0",
-   "sec": "Economía",
-   "v": "Actividad",
-   "t": "La economía se frenó y Caputo dice que no hay recesión",
-   "b": "La actividad cayó en julio y los analistas bajaron sus pronósticos de crecimiento. El ministro admite que se crece menos, pero niega que haya recesión.",
-   "src": "Infobae / Perfil",
-   "u": "https://www.infobae.com/economia/2026/10/04/por-que-se-freno-la-actividad-economica-y-que-esperan-los-especialistas-para-el-futuro/",
-   "body": [
-    "Según Infobae, el EMAE cayó 2,9% en julio frente a junio. El EMAE es el índice mensual que mide la actividad. Contra julio del año pasado, la baja fue de 1,4%. En el segundo trimestre, el PBI retrocedió 0,6%.",
-    "Los especialistas señalan al consumo privado como el motor que se apagó. Pesan la inflación más alta, el empleo frágil y el crédito débil. La inversión también cae hace más de un año. Comercio, industria y construcción fueron los rubros más golpeados.",
-    "Para 2026 se esperaba un crecimiento de 3,5%. Hoy las estimaciones rondan el 2,1%. JP Morgan y Eco Go hablan de 1,5%. Infobae suma señales de mejora en septiembre. La demanda de electricidad subió 3,9% y la confianza del consumidor, 2,4%.",
-    "Perfil cuenta que Luis Caputo, en París, negó la recesión. Dijo que se crece 0,2% mensual, menos que antes, pero que eso es distinto. Culpó al petróleo y a las tasas de Estados Unidos. Dijo también que la recaudación de septiembre fue mejor. La mejora de septiembre todavía es parcial.",
-    "Por qué importa: si el consumo no repunta, se resiente el empleo y las ventas. El Gobierno ve un freno pasajero. Varios analistas ven un cuadro más frágil."
-   ]
-  },
-  {
-   "id": "eco1",
-   "sec": "Economía",
-   "v": "Voto de confianza",
-   "t": "Milei pide paciencia: el mejor año económico llegaría en 2028",
-   "b": "El Presidente admite que el crecimiento fuerte no llegará antes de la elección de 2027. Pide a la clase media un voto de confianza.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/economia/2026/10/04/milei-pidio-un-voto-de-confianza-y-promete-crecimiento-a-tasas-chinas-en-2028-la-clase-media-tendra-la-ultima-palabra/",
-   "body": [
-    "Infobae informa que Javier Milei prometió el mejor año de la historia económica. Pero recién para 2028. Es decir, después de la elección presidencial de 2027. En la práctica, pide paciencia a los votantes.",
-    "Para 2027 las metas son modestas. Según la nota, el Gobierno busca contener la presión sobre el dólar. También quiere consolidar la baja de la inflación. Proyecta crecer 2,5% y mantener la inflación mensual debajo del 2%. No habría reformas grandes en año electoral.",
-    "Hay además un plan de contingencia de USD 75.000 millones. Incluye swaps, que son acuerdos de intercambio de monedas, con Estados Unidos y China. Caputo dijo que cree que no pasará nada, pero que están preparados. El riesgo país superó los 650 puntos.",
-    "Milei proyecta crecer entre 7% y 8% anual después de 2028. Lo apoya en el RIGI. Es un régimen de incentivos para grandes proyectos. Hay inversiones comprometidas por más de USD 150.000 millones. La nota remarca que el Gobierno llevó a 14 gobernadores a París para mostrar respaldo institucional.",
-    "Por qué importa: su reelección depende de la clase media. Según Infobae, la golpearon la inflación mayor que los sueldos y las tarifas más caras. Ese sector tendrá la última palabra."
-   ]
-  },
-  {
-   "id": "pol0",
-   "sec": "Política",
-   "v": "CGT",
-   "t": "Dos decisiones del Gobierno tensan la relación con la CGT",
-   "b": "Según Infobae, la CGT lee como hostiles un recurso ante la Corte y un cambio en Trabajo. El paro general podría adelantarse.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/politica/2026/10/04/las-dos-decisiones-del-gobierno-que-tensaron-al-maximo-la-relacion-con-la-cgt-y-podrian-acelerar-el-paro-general/",
-   "body": [
-    "Infobae cuenta que el Gobierno tomó dos decisiones que molestaron a los sindicatos. La primera fue un recurso extraordinario ante la Corte Suprema. Busca frenar la certificación de la elección de Luis Barrionuevo. Él conduce el gremio gastronómico, la UTHGRA. Un tribunal inferior ya había validado su triunfo.",
-    "La segunda: Claudia Testa dejó la Subsecretaría de Trabajo. La reemplaza Mariano Sartoris. Los dirigentes sindicales lo ven sin experiencia en relaciones laborales. Valoraban a Testa por su diálogo con sindicatos y empresarios.",
-    "Un alto dirigente de la CGT calificó la apelación como intromisión total del Ejecutivo. Infobae agrega que la central toma ambas medidas como señales hostiles. Según Infobae, los dirigentes sienten que el diálogo con el Gobierno se debilitó. La central no convoca un paro general desde febrero.",
-    "Ahora acelera la planificación de una medida para fines de noviembre. Sería después de la visita del papa León XIV. En esta nota no aparece una respuesta oficial. La CGT mantiene abierta la opción del paro.",
-    "Por qué importa: un paro general frena la actividad. También mide la fuerza del sindicalismo frente al Gobierno."
-   ]
-  },
-  {
-   "id": "pol1",
-   "sec": "Política",
-   "v": "Iglesia",
-   "t": "Luján: homilía de García Cuerva y cruce con Caputo",
-   "b": "El arzobispo pidió terminar con la descalificación. Caputo compartió un mensaje crítico y la oposición respondió.",
-   "src": "Perfil",
-   "u": "https://www.perfil.com/noticias/politica/garcia-cuerva-pidio-en-lujan-terminar-con-las-heridas-de-la-descalificacion.phtml",
-   "body": [
-    "Perfil informa que se realizó la 52.ª peregrinación juvenil a Luján. Miles caminaron unos 60 kilómetros, desde Liniers, bajo lluvia y frío. Fue un anticipo de la visita del papa León XIV. Llegará del 8 al 11 de noviembre.",
-    "En la homilía, el arzobispo Jorge García Cuerva habló de heridas infectadas. Las causas serían la descalificación, la intolerancia y la violencia. Pidió cuidar a jubilados, desocupados, personas en situación de calle y adolescentes con adicciones. Llamó a reemplazar el conflicto por diálogo y respeto.",
-    "Perfil cuenta que Luis Caputo compartió un mensaje de su asesor Felipe Núñez. Núñez dirige el BICE. El mensaje decía que, como católico, estaba cansado. Pedía a Cuerva menos política y más predicar la palabra de Dios.",
-    "El exembajador Ricardo Alfonsín criticó esa actitud. La calificó de grosería y falta de respeto. Dijo que atender a los pobres es parte del cristianismo. Perfil también cita fuentes oficiales. Les preocupa que los movimientos sociales resten solemnidad a la visita papal. Perfil dice que la CGT, la UTEP y la CTA participaron, pero con perfil bajo. Los organizadores contaron 6.000 voluntarios.",
-    "Por qué importa: la visita del Papa se acerca. La relación entre Iglesia y Gobierno ya genera cruces públicos."
-   ]
-  },
-  {
-   "id": "pol2",
-   "sec": "Política",
-   "v": "Armado 2027",
-   "t": "Alianza LLA-PRO, fin de las PASO y la duda de Bullrich",
-   "b": "El oficialismo prepara el mapa electoral de 2027. Hay una alianza en marcha, un debate por las PASO y una candidatura en suspenso.",
-   "src": "Infobae / La Política Online",
-   "u": "https://www.infobae.com/politica/2026/10/04/guillermo-francos-anticipo-una-alianza-electoral-amplia-de-lla-con-el-pro-y-mayor-presencia-oficialista-en-el-congreso/",
-   "body": [
-    "Según Infobae, Guillermo Francos anticipó una alianza amplia entre La Libertad Avanza y el PRO. Se mostró convencido de que irán juntos. Prevé también un oficialismo muy fuerte en Diputados, quizá mayoritario.",
-    "Infobae cuenta además que el Gobierno busca fecha para eliminar las PASO, las primarias abiertas. El debate sería en el Senado. Habría un principio de entendimiento con provincias aliadas. Octubre está cargado. Hay marcha sindical el 8. Milei viaja a Estados Unidos el 14. La oposición sesiona el 15. Karina Milei decidiría la fecha.",
-    "Sobre Patricia Bullrich, Francos descartó una ruptura. Recordó que ella quiere competir tras un eventual segundo mandato de Milei. La Política Online cita a Bullrich, del 3 de octubre. Dijo que analizará cómo llega Milei. Y agregó que no tiene tanto tiempo.",
-    "El medio agrega que Bullrich marcha más independiente del Gobierno. Según esa nota, mide bien en las encuestas. Todo esto ocurre con la visita del Papa, del 8 al 11 de noviembre, como telón de fondo.",
-    "Por qué importa: de la alianza y de las reglas depende la oferta electoral de 2027."
-   ]
-  },
-  {
-   "id": "sta2",
-   "sec": "Startups",
-   "v": "Medioambiente",
-   "t": "ReForest Latam y Charly Alberti restauran 200 hectáreas de araucarias",
-   "b": "Una startup tucumana usará drones y cápsulas de semillas en el Parque Nacional Lanín. El proyecto va de 2026 a 2027.",
-   "src": "Ecosistema Startup",
-   "u": "https://ecosistemastartup.com/reforest-latam-y-charly-alberti-restauran-200-ha-de-araucarias/",
-   "body": [
-    "ReForest Latam, startup de Tucumán, restaurará más de 200 hectáreas de bosque de araucarias. Será en el Parque Nacional Lanín, en Neuquén. El plan se llama \"Regenerar Patagonia\". Participan el músico Charly Alberti, de Soda Stereo, y el Proyecto Pewen.",
-    "La empresa combina tres herramientas. Una son las iSeeds, cápsulas biodegradables con semillas nativas, microorganismos y nutrientes. Otra son drones autónomos que plantan miles de árboles por día. La tercera es una plataforma que usa satélites y sensores para mapear la vegetación.",
-    "Según la nota, el método costaría cerca de un quinto del promedio regional. Ese promedio se estima en USD 7.000 por hectárea. La empresa levantó más de USD 1 millón, con liderazgo del fondo iThink VC. Tiene 12 especialistas. Opera en Argentina, Brasil y Bolivia, y va por Paraguay.",
-    "Dicen que sus cápsulas son 25 veces más efectivas que la regeneración natural asistida. Es un dato de la propia empresa. Los medios no lo verificaron de forma independiente. El proyecto se ejecutará entre 2026 y 2027.",
-    "Por qué importa: replantar bosques nativos con tecnología más barata podría acelerar su recuperación."
-   ]
-  },
-  {
-   "id": "dep0",
-   "sec": "Deportes",
-   "v": "Despedida",
-   "t": "Messi llegó a Ezeiza para su última función con la Selección",
-   "b": "El capitán se sumó al plantel en el predio de la AFA. El martes jugará contra Benín en el Monumental, su presentación número 208.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/deportes/2026/10/04/messi-llego-al-predio-de-ezeiza-para-su-ultima-funcion-con-la-seleccion-argentina-las-postales-y-el-agasajo-especial/",
-   "body": [
-    "Lionel Messi llegó este domingo al predio de Ezeiza. Empezó así la cuenta regresiva para su despedida con la Selección.",
-    "La AFA mostró fotos de su arribo. Bajó de una camioneta negra dentro del predio. Posó con Claudio Tapia y con Giovani Lo Celso. El mensaje oficial fue de bienvenida y mucha emoción.",
-    "Hubo un agasajo especial. El plantel compartió un asado nocturno con el capitán. Antes y después, el equipo siguió con los entrenamientos del domingo y del lunes.",
-    "El partido será el martes 6 de octubre, a las 20. Se juega en el Monumental. Rival: Benín. Las entradas están agotadas. Será la aparición 208 de Messi con la camiseta argentina.",
-    "Scaloni ya dejó ver su once para la ocasión. En el arco, Emiliano Martínez. La defensa: Giay, Romero, Otamendi y Tagliafico. En el medio: De Paul, Enzo Fernández y Mac Allister. Arriba, Messi con Julián Álvarez y Lautaro Martínez. También habrá un homenaje y campeones del mundo invitados.",
-    "Por qué importa: es el cierre de una era. El martes la Selección despide a su capitán, en la cancha."
-   ]
-  },
-  {
-   "id": "dep1",
-   "sec": "Deportes",
-   "v": "Sub-17",
-   "t": "Remontada histórica de la Sub-17: perdía 0-2 y ganó sobre la hora",
-   "b": "Argentina dio vuelta el partido ante Tanzania en Londres. Tobías Goytía marcó el 3-2 a los 95 minutos.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/deportes/2026/10/04/historica-remontada-de-la-seleccion-argentina-sub-17-perdia-0-2-y-lo-gano-con-el-tanto-de-tobias-goytia-a-los-95/",
-   "body": [
-    "La Selección Sub-17 vivió una tarde de locos en Londres. Perdía 2-0 y terminó ganando 3-2 ante Tanzania.",
-    "El partido fue por la Vertex Cup 2026, un torneo amistoso de preparación. Se jugó en el SkyEx Community Stadium. El equipo es dirigido por Diego Placente.",
-    "Tanzania se puso 2-0 con dos penales. Los convirtieron Soann Adam y Luqman Ally. Argentina parecía sin salida.",
-    "Todo cambió a falta de unos 15 minutos. Mateo Sánchez descontó con un remate cruzado, después de avanzar por la derecha. Más tarde empató al anticiparse dentro del área.",
-    "El golpe final llegó en el minuto 95. Tobías Goytía quedó mano a mano con el arquero y definió. Fue el 3-2 definitivo.",
-    "Lo que viene: el miércoles 7, a las 19, el equipo juega contra China. Es el siguiente examen del torneo. Después llega el Mundial Sub-17, en Qatar, del 19 de noviembre al 13 de diciembre.",
-    "Por qué importa: el equipo mostró carácter cuando todo parecía perdido. Es una buena señal para un grupo que se prepara para el Mundial. Y suma confianza antes del duelo con China."
-   ]
-  },
-  {
-   "id": "dep2",
-   "sec": "Deportes",
-   "v": "Boca",
-   "t": "Preocupa Velasco en Boca antes de la semi con Vasco",
-   "b": "Arruabarrena contó que Alan Velasco sufrió un pequeño desgarro ante Unión. El equipo viaja a Córdoba el viernes y el 13 recibe a Vasco da Gama.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/deportes/2026/10/03/8-frases-del-vasco-arruabarrena-tras-la-goleada-de-boca-de-los-elogios-a-leonel-flores-a-la-figura-que-se-lesiono-ante-union/",
-   "body": [
-    "Boca ganó 3-0 a Unión el viernes. Pero la noticia grande llegó después, con una lesión.",
-    "Alan Velasco sintió una molestia muscular. Arruabarrena dijo que creía que fue \"un pequeño desgarro\". Según el reporte, la recuperación rondaría un mes. Falta confirmar el diagnóstico.",
-    "El golpe llega en mal momento. La semifinal de la Sudamericana ante Vasco da Gama empieza el martes 13 de octubre. Se juega a las 21:30, en La Bombonera. La vuelta será el 20, a la misma hora, en Brasil.",
-    "Antes, Boca visita a Instituto en Córdoba. Es el viernes 9, a las 19:30, por la fecha 12 del Clausura. Según un medio, el técnico planea un equipo alternativo. La idea es cuidar a los titulares.",
-    "Además, Álvaro Montero no estará. Lo convocó Colombia para un amistoso el 7 de octubre. Boca lleva 16 partidos sin perder en torneos oficiales. Tiene una racha larga que cuidar. El técnico quiere sostenerla sin gastar a nadie de más.",
-    "Por qué importa: Velasco es pieza clave y Boca juega tres frentes sin descanso. Cada baja pesa más en la carrera por la Sudamericana."
-   ]
-  },
-  {
-   "id": "fon0",
-   "sec": "Fórmula 1",
-   "v": "Colapinto",
-   "t": "Colapinto, furioso con Alpine: \"la peor decisión\" en el GP de Bahréin",
-   "b": "Franco largó 21° y terminó 13° en una carrera caótica en Sepang. Criticó la elección de gomas blandas con pista mojada.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/deportes/2026/10/04/el-enojo-de-colapinto-por-la-estrategia-de-alpine-en-el-gp-de-barein-de-f1-la-peor-decision-que-se-podia-haber-tomado/",
-   "body": [
-    "Franco Colapinto cruzó la meta en el puesto 13 del GP de Bahréin. La carrera se corrió en Sepang, Malasia, este domingo 4. Y el argentino terminó muy enojado con Alpine.",
-    "Largó 21° por una penalización. Alpine puso neumáticos blandos en sus dos autos. La pista seguía mojada. Para Colapinto fue \"la peor decisión que se podía haber tomado\".",
-    "Según el piloto, los dos autos quedaron sin grip y patinando. El equipo admitió que asumió un riesgo. Reconoció que a veces sale bien y a veces no.",
-    "Después, Franco mostró buen ritmo con gomas lisas. Pasó a varios rivales y ganó ocho posiciones. Pero no alcanzó para sumar puntos.",
-    "Su manager, Jamie Campbell-Walter, y María Catarineu, de Bullet Sports Management, lo respaldaron. Dijeron que el P13 no cuenta toda la historia. Hablaron de una carrera caótica. Hubo varios safety cars.",
-    "La victoria fue para Max Verstappen, de Red Bull. Segundo, Kimi Antonelli (Mercedes). Tercero, Lewis Hamilton (Ferrari).",
-    "Por qué importa: Alpine volvió a irse sin puntos. Se alejó de Racing Bulls en el campeonato de constructores. La pelea es por el quinto puesto."
-   ]
-  },
-  {
-   "id": "fon1",
-   "sec": "Fórmula 1",
-   "v": "Caos",
-   "t": "La F1 reveló la falla de software que frenó a los autos en Malasia",
-   "b": "Un error en las unidades de potencia dejó autos parados en la vuelta de formación. La carrera tuvo bandera roja y una larga demora.",
-   "src": "Infobae",
-   "u": "https://www.infobae.com/deportes/2026/10/04/la-f1-revelo-la-falla-de-software-que-detuvo-a-los-autos-y-provoco-un-caos-en-el-gp-de-barein-la-dura-reaccion-de-los-pilotos/",
-   "body": [
-    "La Fórmula 1 explicó por qué varios autos se detuvieron antes de largar en Sepang. Fue una falla de software en las unidades de potencia.",
-    "Todo empezó con lluvia fuerte. La largada ya había sufrido 40 minutos de demora. Después, en la vuelta de formación, los autos iban muy lento. La pista estaba mojada.",
-    "Eso generó un efecto acordeón. Algunos coches no pudieron recuperar potencia y quedaron frenados. Se mostró bandera roja.",
-    "La carrera se postergó más de una hora y media. Técnicos de la FIA detectaron el problema. Instalaron una actualización en unos 20 minutos.",
-    "Los pilotos no se guardaron nada. Checo Pérez lo llamó \"inaceptable\". Lando Norris dijo que fue \"simplemente horrible\". George Russell opinó que el día no pareció muy Fórmula 1.",
-    "Carlos Sainz pidió revisar decisiones del reglamento nuevo. Nikolas Tombazis, de la FIA, explicó algo. En la temporada no hubo pruebas con lluvia real. Por eso nadie vio esta combinación. Además influyó la nueva motorización. Tiene 47% de potencia eléctrica.",
-    "Por qué importa: el reglamento nuevo mostró un punto débil. Puede obligar a revisar los protocolos con lluvia. Es una advertencia para las próximas carreras mojadas."
-   ]
-  }
- ]
 }
