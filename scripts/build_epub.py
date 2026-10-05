@@ -21,7 +21,7 @@ def foto(u):
         if not m: return None
         im=Image.open(io.BytesIO(get(urllib.parse.urljoin(u,html.unescape(m.group(1))),8000000))).convert('L')
         w,hh=im.size
-        if hh>w*.75: c=int((hh-w*.75)*.35); im=im.crop((0,c,w,c+int(w*.75)))  # fotos verticales: recorte apaisado
+        if hh>w*.5625: c=int((hh-w*.5625)*.3); im=im.crop((0,c,w,c+int(w*.5625)))  # fotos más altas que 16:9: recorte apaisado, así entran en la primera pantalla de la nota
         if im.width>900: im=im.resize((900,round(im.height*900/im.width)),Image.LANCZOS)
         im=ImageOps.autocontrast(im,cutoff=1)
         # Miniatura para "Noticias de hoy": recorte 4:3 al centro, chica para que la lista pese poco
@@ -92,6 +92,7 @@ table.nl{width:100%;border-collapse:collapse}
 table.nl td{vertical-align:top;padding:0}
 table.nl td.mi{width:34%;padding-left:.6em}
 table.nl td.mi img{width:100%;height:auto}
+.ni,table.nl,table.nl tr,.foto,.why,table.back{page-break-inside:avoid}
 '''
 def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="es" xml:lang="es"><head><meta charset="utf-8"/><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
 secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
