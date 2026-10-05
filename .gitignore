@@ -1,0 +1,8 @@
+site/
+*.epub
+__pycache__/
+.DS_Store
+CLAUDE.md
+tarea_programada/
+docs/
+plantilla/

@@ -1,0 +1,34 @@
+name: Publicar diario
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: false
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v7
+      - id: pages
+        uses: actions/configure-pages@v6
+      - name: Armar EPUBs y catálogo
+        run: |
+          mkdir -p site/ediciones
+          for f in $(ls ediciones/*.json | sort -r | head -7); do
+            python3 scripts/build_epub.py "$f" "site/ediciones/$(basename "$f" .json).epub"
+          done
+          python3 scripts/build_opds.py "${{ steps.pages.outputs.base_url }}"
+      - uses: actions/upload-pages-artifact@v5
+        with:
+          path: site
+      - id: deploy
+        uses: actions/deploy-pages@v5
