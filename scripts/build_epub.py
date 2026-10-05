@@ -2,7 +2,7 @@
 Uso: python3 scripts/build_epub.py ediciones/AAAA-MM-DD.json salida.epub
 (también acepta el HTML de la página web con el bloque <script id="edicion">)
 """
-import json,re,zipfile,uuid,html,sys,os
+import json,re,zipfile,uuid,html,sys,os,datetime
 E=html.escape
 src,out=sys.argv[1],sys.argv[2]
 s=open(src,encoding='utf-8').read()
@@ -49,7 +49,7 @@ table.back a{color:#000;text-decoration:none}
 .mast p{text-align:center}
 .t,.bajada,.kicker,.lbl,.band,h1,h2,.art-bajada{text-align:left}
 '''
-def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es"><head><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
+def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="es" xml:lang="es"><head><meta charset="utf-8"/><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
 secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
 fn=lambda n:f"{n['id']}.xhtml"
 mast=f'<div class="mast"><p class="name">Diario de Pato</p><p class="date">{E(ED["fecha"])}</p></div>'
@@ -75,14 +75,21 @@ for s_ in secs:
             else: body+=f'<p>{E(p)}</p>'
         docs.append((n['id'],n['t'],f'<p class="band">{E(s_)}</p><p class="kicker">{E(n["v"])}</p><h2 class="art">{E(n["t"])}</h2><p class="art-bajada">{E(n["b"])}</p>{body}<p class="src">Fuente: {E(n["src"])}<br/><a href="{E(n["u"])}">{E(n["u"])}</a></p><table class="back"><tr><td><a href="noticias.xhtml#h{n["id"]}">← Noticias de hoy</a></td><td><a href="tapa.xhtml">Tapa</a></td></tr></table>'))
 TITLE=f"Diario de Pato · {ED['fecha']}"
+# Mismo identificador para la misma edición, aunque se rearme el libro
+UID=f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL,'diario-de-pato:'+ED['fecha'])}"
+NOW=datetime.datetime.now(datetime.timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+# Tapa con imagen e índice NCX: sin ellos, el envío a la Kindle por mail (Send to Kindle) se trababa al descargar
+PORTADA=open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'portada.png'),'rb').read()
 with zipfile.ZipFile(out,"w",zipfile.ZIP_DEFLATED) as z:
     z.writestr(zipfile.ZipInfo("mimetype"),"application/epub+zip",compress_type=zipfile.ZIP_STORED)
     z.writestr("META-INF/container.xml",'<?xml version="1.0"?><container version="1.0" xmlns="urn:oasis:names:tc:opendocument:xmlns:container"><rootfiles><rootfile full-path="O/c.opf" media-type="application/oebps-package+xml"/></rootfiles></container>')
     z.writestr("O/s.css",CSS)
+    z.writestr("O/portada.png",PORTADA)
     for i,t,b in docs: z.writestr(f"O/{i}.xhtml",page(t,b))
     toc=[('tapa','Tapa'),('noticias','Noticias de hoy')]
-    z.writestr("O/nav.xhtml",'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops"><head><title>Índice</title></head><body><nav epub:type="toc"><ol>'+''.join(f'<li><a href="{i}.xhtml">{E(t)}</a></li>' for i,t in toc)+'</ol></nav></body></html>')
+    z.writestr("O/nav.xhtml",'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="es" xml:lang="es"><head><meta charset="utf-8"/><title>Índice</title></head><body><nav epub:type="toc"><ol>'+''.join(f'<li><a href="{i}.xhtml">{E(t)}</a></li>' for i,t in toc)+'</ol></nav></body></html>')
+    z.writestr("O/toc.ncx",f'<?xml version="1.0" encoding="utf-8"?><ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="es"><head><meta name="dtb:uid" content="{UID}"/><meta name="dtb:depth" content="1"/><meta name="dtb:totalPageCount" content="0"/><meta name="dtb:maxPageNumber" content="0"/></head><docTitle><text>{E(TITLE)}</text></docTitle><navMap>'+''.join(f'<navPoint id="np{k}" playOrder="{k}"><navLabel><text>{E(t)}</text></navLabel><content src="{i}.xhtml"/></navPoint>' for k,(i,t) in enumerate(toc,1))+'</navMap></ncx>')
     man=''.join(f'<item id="{i}" href="{i}.xhtml" media-type="application/xhtml+xml"/>' for i,_,_ in docs)
     sp=''.join(f'<itemref idref="{i}"/>' for i,_,_ in docs)
-    z.writestr("O/c.opf",f'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="id">urn:uuid:{uuid.uuid4()}</dc:identifier><dc:title>{E(TITLE)}</dc:title><dc:language>es</dc:language><dc:creator>Diario de Pato</dc:creator><meta property="dcterms:modified">2026-10-05T10:00:00Z</meta></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/><item id="css" href="s.css" media-type="text/css"/>{man}</manifest><spine>{sp}</spine></package>')
+    z.writestr("O/c.opf",f'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="es"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="id">{UID}</dc:identifier><dc:title>{E(TITLE)}</dc:title><dc:language>es</dc:language><dc:creator>Diario de Pato</dc:creator><meta property="dcterms:modified">{NOW}</meta><meta name="cover" content="portada"/></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/><item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/><item id="css" href="s.css" media-type="text/css"/><item id="portada" href="portada.png" media-type="image/png" properties="cover-image"/>{man}</manifest><spine toc="ncx">{sp}</spine><guide><reference type="text" title="Tapa" href="tapa.xhtml"/></guide></package>')
 print(ED['fecha'],len(N),'notas',[d[0] for d in docs][:4])
