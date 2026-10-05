@@ -21,15 +21,12 @@ table.tick .val{display:block;font-weight:bold;font-size:1.15em}
 .kicker{font-family:sans-serif;font-size:.68em;font-weight:bold;text-transform:uppercase;letter-spacing:.1em;margin:0}
 .lead{border-bottom:2px solid #000;padding-bottom:.7em;margin-bottom:.6em}
 .lead h1{font-size:1.65em;line-height:1.12;margin:.15em 0 .3em}
-.lead h1 a,.t a,.toc a{color:#000;text-decoration:none}
+.lead h1 a,.t a{color:#000;text-decoration:none}
 .bajada{font-style:italic;margin:0}
 .lbl{font-family:sans-serif;font-size:.7em;font-weight:bold;text-transform:uppercase;letter-spacing:.12em;border-bottom:1px solid #000;margin:.8em 0 .3em}
 .item{border-bottom:1px solid #999;padding:.45em 0}
 .t{font-weight:bold;font-size:1.05em;line-height:1.2;margin:.1em 0}
 .band{background:#000;color:#fff;font-family:sans-serif;font-weight:bold;text-transform:uppercase;letter-spacing:.12em;padding:.3em .5em;margin:0 0 .6em;font-size:.95em}
-.toc{list-style:none;padding:0;margin:0}
-.toc li{border-bottom:1px solid #999;padding:.35em 0;font-weight:bold}
-.toc .n{float:right;font-weight:normal;font-family:sans-serif;font-size:.8em}
 h2.art{font-size:1.45em;line-height:1.15;margin:.2em 0 .35em}
 .art-bajada{font-style:italic;border-bottom:1px solid #000;padding-bottom:.6em;margin:0 0 .8em}
 p{margin:0 0 .7em;text-align:justify}
@@ -40,8 +37,10 @@ p{margin:0 0 .7em;text-align:justify}
 .nav a{color:#000}
 .title{font-family:sans-serif;font-weight:bold;font-size:1.2em;text-transform:uppercase;letter-spacing:.1em;text-align:center;margin:.4em 0 .9em}
 .band{margin-top:1.1em}
-.hl{font-weight:bold;font-size:1.05em;line-height:1.25;text-align:left;border-bottom:1px solid #999;padding:.45em 0;margin:0}
-.hl a{color:#000;text-decoration:none}
+.ni{border-bottom:1px solid #999;padding:1.1em 0 1em}
+.nt{font-size:1.15em;line-height:1.2;text-align:left;margin:.15em 0 .25em}
+.nt a{color:#000;text-decoration:none}
+.nb{font-size:.9em;line-height:1.3;text-align:left;margin:0}
 .go{font-family:sans-serif;font-weight:bold;font-size:1.1em;text-align:center;border:2px solid #000;padding:.45em;margin:1em 0 .6em}
 .go a{color:#000;text-decoration:none}
 table.back{width:100%;border-collapse:collapse;font-family:sans-serif;font-weight:bold;font-size:.9em;margin-top:1.2em}
@@ -49,23 +48,22 @@ table.back td{width:50%;border:2px solid #000;text-align:center;padding:.6em .3e
 table.back a{color:#000;text-decoration:none}
 .mast p{text-align:center}
 .t,.bajada,.kicker,.lbl,.band,h1,h2,.art-bajada{text-align:left}
-.toc li a{font-weight:bold}
 '''
 def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="es"><head><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
 secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
-sid={s_:f"s{k}" for k,s_ in enumerate(secs)}
 fn=lambda n:f"{n['id']}.xhtml"
 mast=f'<div class="mast"><p class="name">Diario de Pato</p><p class="date">{E(ED["fecha"])}</p></div>'
-tick='<table class="tick"><tr>'+''.join(f'<td><span class="k">{E(k)}</span><span class="val">{E(v)}</span>{E(x)}</td>' for k,v,x in ED['ticker'])+'</tr></table>'
+# Del dólar solo el blue; el resto del ticker (riesgo país) se mantiene
+TK=[t for t in ED['ticker'] if 'blue' in t[0].lower() or 'riesgo' in t[0].lower()]
+tick='<table class="tick"><tr>'+''.join(f'<td><span class="k">{E(k)}</span><span class="val">{E(v)}</span>{E(x)}</td>' for k,v,x in TK)+'</tr></table>'
 L=by[ED['lead']]
 tapa=mast+tick+f'<div class="lead"><p class="kicker">{E(L["sec"])} · {E(L["v"])}</p><h1><a href="{fn(L)}">{E(L["t"])}</a></h1><p class="bajada">{E(L["b"])}</p></div>'
 tapa+='<p class="lbl">También hoy</p>'+''.join(f'<div class="item"><p class="kicker">{E(by[i]["sec"])}</p><p class="t"><a href="{fn(by[i])}">{E(by[i]["t"])}</a></p></div>' for i in ED['side'])
 tapa+='<p class="go"><a href="noticias.xhtml">Noticias de hoy →</a></p>'
-tapa+='<ul class="toc">'+''.join(f'<li><a href="noticias.xhtml#{sid[s_]}">{E(s_)}</a><span class="n">{sum(n["sec"]==s_ for n in N)} notas</span></li>' for s_ in secs)+'</ul>'
+# Noticias de hoy: lista para leer de corrido (categoría, título, bajada). El id h<id> es el ancla de "← Noticias de hoy"
 nots=mast+'<p class="title">Noticias de hoy</p>'
 for s_ in secs:
-    ns=[n for n in N if n['sec']==s_]
-    nots+=f'<p class="band" id="{sid[s_]}">{E(s_)}</p>'+''.join(f'<p class="hl" id="h{n["id"]}"><a href="{fn(n)}">{E(n["t"])}</a></p>' for n in ns)
+    nots+=''.join(f'<div class="ni"><p class="kicker" id="h{n["id"]}">{E(s_)}</p><p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p></div>' for n in N if n['sec']==s_)
 nots+='<p class="nav"><a href="tapa.xhtml">← Tapa</a></p>'
 docs=[("tapa","Tapa",tapa),("noticias","Noticias de hoy",nots)]
 for s_ in secs:
