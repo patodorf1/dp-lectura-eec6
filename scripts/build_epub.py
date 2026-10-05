@@ -10,6 +10,7 @@ if src.endswith('.json'): ED=json.loads(s)
 else: ED=json.loads(re.search(r'<script id="edicion" type="application/json">(.*?)</script>',s,re.S).group(1))
 N=ED['notas'];by={n['id']:n for n in N}
 CSS='''
+a{color:#000;text-decoration:none !important}
 body{font-family:serif;line-height:1.4;margin:0 .4em}
 .mast{text-align:center;border-top:4px solid #000;border-bottom:1px solid #000;padding:.3em 0;margin:0 0 .2em}
 .mast .name{font-size:2em;font-weight:bold;letter-spacing:.02em;margin:0;line-height:1.1}
