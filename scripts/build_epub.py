@@ -52,6 +52,11 @@ table.back a{color:#000;text-decoration:none}
 '''
 def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="es" xml:lang="es"><head><meta charset="utf-8"/><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
 secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
+# Orden de lectura: "orden" lo arma la tarea (Deportes y F1 primero, después el resto mezclado por interés).
+# Las ediciones viejas no lo tienen: ahí van por sección. Una nota que falte en "orden" va al final.
+ORDEN=[by[i] for i in dict.fromkeys(ED.get('orden',[])) if i in by]
+ORDEN+=[n for s_ in secs for n in N if n['sec']==s_ and n not in ORDEN]
+ORDEN+=[n for n in N if n not in ORDEN]
 fn=lambda n:f"{n['id']}.xhtml"
 mast=f'<div class="mast"><p class="name">Diario de Pato</p><p class="date">{E(ED["fecha"])}</p></div>'
 # Del dólar solo el blue; el resto del ticker (riesgo país) se mantiene
@@ -59,22 +64,18 @@ TK=[t for t in ED['ticker'] if 'blue' in t[0].lower() or 'riesgo' in t[0].lower(
 tick='<table class="tick"><tr>'+''.join(f'<td><span class="k">{E(k)}</span><span class="val">{E(v)}</span>{E(x)}</td>' for k,v,x in TK)+'</tr></table>'
 L=by[ED['lead']]
 tapa=mast+tick+f'<div class="lead"><p class="kicker">{E(L["sec"])} · {E(L["v"])}</p><h1><a href="{fn(L)}">{E(L["t"])}</a></h1><p class="bajada">{E(L["b"])}</p></div>'
-tapa+='<p class="lbl">También hoy</p>'+''.join(f'<div class="item"><p class="kicker">{E(by[i]["sec"])}</p><p class="t"><a href="{fn(by[i])}">{E(by[i]["t"])}</a></p></div>' for i in ED['side'])
 tapa+='<p class="go"><a href="noticias.xhtml">Noticias de hoy →</a></p>'
 # Noticias de hoy: lista para leer de corrido (categoría, título, bajada). El id h<id> es el ancla de "← Noticias de hoy"
-nots=mast+'<p class="title">Noticias de hoy</p>'
-for s_ in secs:
-    nots+=''.join(f'<div class="ni"><p class="kicker" id="h{n["id"]}">{E(s_)}</p><p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p></div>' for n in N if n['sec']==s_)
+nots=mast+''.join(f'<div class="ni"><p class="kicker" id="h{n["id"]}">{E(n["sec"])}</p><p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p></div>' for n in ORDEN)
 nots+='<p class="nav"><a href="tapa.xhtml">← Tapa</a></p>'
 docs=[("tapa","Tapa",tapa),("noticias","Noticias de hoy",nots)]
-for s_ in secs:
-    for n in [n for n in N if n['sec']==s_]:
+for n in ORDEN:
         body=''
         for p in n['body']:
             if p.startswith('Por qué importa'):
                 body+=f'<p class="why"><b>Por qué importa</b>{E((lambda x:x[:1].upper()+x[1:])(p.split(":",1)[1].strip() if ":" in p else p))}</p>'
             else: body+=f'<p>{E(p)}</p>'
-        docs.append((n['id'],n['t'],f'<p class="band">{E(s_)}</p><p class="kicker">{E(n["v"])}</p><h2 class="art">{E(n["t"])}</h2><p class="art-bajada">{E(n["b"])}</p>{body}<p class="src">Fuente: {E(n["src"])}<br/><a href="{E(n["u"])}">{E(n["u"])}</a></p><table class="back"><tr><td><a href="noticias.xhtml#h{n["id"]}">← Noticias de hoy</a></td><td><a href="tapa.xhtml">Tapa</a></td></tr></table>'))
+        docs.append((n['id'],n['t'],f'<p class="band">{E(n["sec"])}</p><p class="kicker">{E(n["v"])}</p><h2 class="art">{E(n["t"])}</h2><p class="art-bajada">{E(n["b"])}</p>{body}<p class="src">Fuente: {E(n["src"])}<br/><a href="{E(n["u"])}">{E(n["u"])}</a></p><table class="back"><tr><td><a href="noticias.xhtml#h{n["id"]}">← Noticias de hoy</a></td><td><a href="tapa.xhtml">Tapa</a></td></tr></table>'))
 TITLE=f"Diario de Pato · {ED['fecha']}"
 # Mismo identificador para la misma edición, aunque se rearme el libro
 UID=f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL,'diario-de-pato:'+ED['fecha'])}"
