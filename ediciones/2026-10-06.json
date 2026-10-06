@@ -1,0 +1,417 @@
+{
+ "fecha": "Martes 6 de octubre de 2026",
+ "ticker": [
+  [
+   "Oficial",
+   "$1.540",
+   "▼0,3%"
+  ],
+  [
+   "Blue",
+   "$1.560",
+   "▲0,3%"
+  ],
+  [
+   "MEP",
+   "$1.553",
+   ""
+  ],
+  [
+   "CCL",
+   "$1.625",
+   ""
+  ],
+  [
+   "Riesgo país",
+   "646",
+   "▼0,5%"
+  ]
+ ],
+ "lead": "dep0",
+ "side": [
+  "eco0",
+  "tec0",
+  "pol0",
+  "lat0"
+ ],
+ "secciones": [
+  "Deportes",
+  "Fórmula 1",
+  "Tecnología",
+  "Economía",
+  "Política",
+  "Latinoamérica",
+  "Startups"
+ ],
+ "orden": [
+  "dep0",
+  "dep1",
+  "dep2",
+  "fon0",
+  "fon1",
+  "eco0",
+  "tec0",
+  "pol0",
+  "lat0",
+  "eco1",
+  "eco2",
+  "tec1",
+  "pol1",
+  "tec3",
+  "sta1",
+  "pol2",
+  "tec2",
+  "sta0"
+ ],
+ "fuentes": "Infobae, La Política Online, Perfil, La Nación, Letra P, TechCrunch, TechSpot, Tom's Hardware, Vals AI, Reflection AI, iProUP",
+ "notas": [
+  {
+   "id": "dep0",
+   "sec": "Deportes",
+   "v": "Despedida",
+   "t": "Messi se despide de la Selección en el Monumental",
+   "b": "Hoy a las 20, ante Benín, Lionel juega su partido 208 con Argentina. Cierra una era de 21 años.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/deportes/2026/10/06/la-posible-formacion-de-argentina-en-el-partido-despedida-de-lionel-messi-de-la-seleccion/",
+   "body": [
+    "Hoy martes 6, a las 20, Lionel Messi se despide de la Selección. Será en el Monumental, en un amistoso ante Benín.",
+    "Para Messi es el partido 208 con la camiseta argentina. Debutó el 17 de agosto de 2005, ante Hungría. Hace 21 años de eso.",
+    "Llega con 125 goles en 207 partidos y 68 asistencias. Es el máximo goleador de la historia del equipo. Batistuta quedó lejísimos, con 56.",
+    "La formación probable tiene a Dibu Martínez en el arco. La defensa sería Giay, Romero, Otamendi y Tagliafico. En el medio, De Paul, Enzo Fernández y Mac Allister. Arriba, Messi con Julián Álvarez y Lautaro Martínez.",
+    "Otamendi también juega su último partido con la Selección. Se va junto con el capitán.",
+    "Se espera un homenaje con excompañeros. Se habla de Di María, Paredes, Almada, Montiel, Acuña, Pezzella y Correa. La nota no aclara por qué canal se transmite.",
+    "Messi anticipó el clima con fotos de su última práctica en Ezeiza. Dijo que iba a extrañar esos momentos.",
+    "Su vitrina en la Selección tiene seis títulos. Están el Mundial Sub-20 de 2005, el oro olímpico de 2008 y la Copa América 2021. Siguen la Finalissima 2022, el Mundial 2022 y la Copa América 2024. Jugó seis Mundiales, con 34 partidos en total.",
+    "Por qué importa: es el último partido de la figura más grande de nuestro fútbol. Hoy se cierra un capítulo que muchos vivimos desde chicos."
+   ]
+  },
+  {
+   "id": "dep1",
+   "sec": "Deportes",
+   "v": "Boca",
+   "t": "El empate de Vélez le sirvió a Boca en la tabla anual",
+   "b": "Con el 2-2 de Vélez ante Platense, Boca sigue segundo en la anual. Ya sueña con ganarle la tabla a River.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/deportes/2026/10/06/el-empate-de-velez-favorecio-a-boca-juniors-para-la-copa-libertadores-y-river-plate-salio-de-la-zona-de-sudamericana/",
+   "body": [
+    "El empate de Vélez ayudó a Boca. El lunes, el Fortín igualó 2-2 con Platense. Con eso, el Xeneize mantiene su lugar en la pelea.",
+    "En la tabla anual, Independiente Rivadavia lidera. Boca es segundo y Argentinos Juniors es tercero. Después vienen Vélez, Rosario Central e Instituto.",
+    "Esa tabla da tres pasajes a la Libertadores 2027. Hoy los tendrían Independiente Rivadavia, Boca y Argentinos. Belgrano, campeón del Apertura, ya tiene el suyo.",
+    "El último partido de Boca fue el viernes 2 de octubre. Le ganó 3-0 a Unión de Santa Fe, por la fecha 11 del Clausura.",
+    "River, en cambio, quedó afuera de la zona de Sudamericana. Está a dos puntos de entrar. Tiene un partido pendiente el miércoles 14, a las 19, contra Sarmiento en Junín.",
+    "Quedan seis fechas. El cruce directo será en la penúltima, con Boca de local en la Bombonera. La anual es un título oficial que la AFA creó a fines de 2025.",
+    "El tema ya genera polémica. En ESPN, Astrada recordó que Ruggeri dio la vuelta olímpica en la cancha de Boca en 1986. Ruggeri contestó que después le ganaron 2-0. Y dijo que después de una vuelta hay que ganar.",
+    "Por qué importa: Boca tiene un camino concreto a la Libertadores y a un título. Y el clásico con River puede definir todo."
+   ]
+  },
+  {
+   "id": "dep2",
+   "sec": "Deportes",
+   "v": "Boca",
+   "t": "El agente de Merentiel habló de su futuro en Boca",
+   "b": "Marcelo Tejera dijo que busca mejorar el contrato del Chino. Quiere extenderlo cinco años más.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/deportes/2026/10/06/la-revelacion-del-agente-de-miguel-merentiel-sobre-el-futuro-del-delantero-de-boca-juniors/",
+   "body": [
+    "El agente de Miguel Merentiel contó cómo está el futuro del delantero. Se llama Marcelo Tejera.",
+    "Dijo que habló con Juan Román Riquelme y con Marcelo Delgado. La idea es mejorar el contrato actual.",
+    "También quiere sumar cinco años más al vínculo. Hoy el contrato vence en diciembre de 2027.",
+    "Según la nota, todavía no hay avances concretos en las charlas.",
+    "Hay un detalle clave. En ocho meses, o sea en mayo de 2027, Merentiel podrá negociar con otros clubes. Si no renueva, podría irse libre.",
+    "Tejera dijo que esa no es la idea. Lo justificó por lo mucho que Boca le dio al jugador y él al club.",
+    "Merentiel llegó en febrero de 2023 desde Palmeiras. Costó cerca de 3 millones de dólares. Desde entonces jugó 182 partidos, hizo 62 goles y dio 19 asistencias.",
+    "El agente también criticó el trato en la selección uruguaya. Dijo que Bielsa lo dejó de lado tras una única citación, en septiembre de 2024.",
+    "Por qué importa: Merentiel es pieza de ataque en un Boca que pelea por todo. Su renovación es una cuenta pendiente."
+   ]
+  },
+  {
+   "id": "fon0",
+   "sec": "Fórmula 1",
+   "v": "Colapinto",
+   "t": "Colapinto, séptimo mejor de la carrera según The Race",
+   "b": "El argentino terminó 13° en el GP de Baréin, corrido en Sepang. Igual, un medio inglés lo destacó.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/deportes/2026/10/05/el-destacado-puesto-que-logro-colapinto-en-el-ranking-de-un-medio-ingles-pese-a-los-problemas-que-sufrio-en-el-gp-de-barein/",
+   "body": [
+    "Franco Colapinto no tuvo un domingo fácil en el GP de Baréin, que se corrió en Malasia. Pero un medio inglés lo valoró bastante.",
+    "The Race lo ubicó séptimo en su ranking de pilotos de la carrera. Dijo que fue más sólido de lo que muestran los resultados.",
+    "Colapinto terminó 13°. Largó 21°, es decir último, por una sanción de cinco lugares. Además, su auto estrenó componentes en la unidad de potencia.",
+    "Remontó ocho posiciones. Igual, no le alcanzó para meterse en los puntos.",
+    "La estrategia no ayudó. Según la nota, usó gomas lisas con la pista mojada. Además, paró en boxes justo antes de un safety car virtual.",
+    "Su compañero Pierre Gasly terminó 16°. Alpine fue calificado como uno de los grandes perdedores del fin de semana.",
+    "Racing Bulls sumó siete puntos. Así amplió su ventaja sobre Alpine en la pelea por el quinto puesto de constructores.",
+    "La próxima carrera es el Gran Premio de Singapur, el fin de semana que viene. Tiene formato sprint. La carrera principal es el domingo 11 de octubre, a las 9 de la Argentina.",
+    "Por qué importa: muestra que Colapinto rindió mejor que su resultado. Singapur es la chance de revancha."
+   ]
+  },
+  {
+   "id": "fon1",
+   "sec": "Fórmula 1",
+   "v": "Norris",
+   "t": "Se burlaron de Norris por una maniobra y nombraron a Colapinto",
+   "b": "Tras una jugada peligrosa en el GP de Baréin, comentaristas bromearon con las críticas que Norris le hizo a Franco.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/deportes/2026/10/05/la-burla-contra-lando-norris-tras-una-peligrosa-maniobra-durante-el-gp-de-barein-de-la-f1-que-pasa-si-ahora-sale-a-hablar-colapinto/",
+   "body": [
+    "Lando Norris quedó en el centro de las burlas tras el GP de Baréin, que se corrió en Malasia.",
+    "Todo pasó después de un safety car. Norris se salió de la pista para evitar chocar con su compañero Oscar Piastri. Volvió de forma insegura.",
+    "Los comisarios lo citaron por conducción errática bajo safety car. Al final solo recibió una reprimenda.",
+    "Los comentaristas de la televisión polaca hicieron una ironía. Imaginaron qué pasaría si ahora hablara Colapinto, con un tono de reclamo contra Norris.",
+    "El chiste viene de un antecedente. En el GP de Azerbaiyán, Colapinto bloqueó las gomas al frenar y tocó a Gasly. El Alpine de Gasly golpeó al McLaren de Norris. Los tres quedaron fuera.",
+    "Entonces Norris fue duro. Dijo que quien provoca un accidente en un reinicio merece al menos una suspensión.",
+    "Antes de Malasia, Norris pidió disculpas públicas a Colapinto. Reconoció que se las debía y lo llamó buen amigo.",
+    "En la carrera, Piastri terminó sexto. Norris admitió que fue un error elegir gomas medias.",
+    "Por qué importa: muestra cómo cambian las críticas en la F1. Y deja a Colapinto, con la disculpa recibida, en una posición más cómoda."
+   ]
+  },
+  {
+   "id": "eco0",
+   "sec": "Economía",
+   "v": "Reservas",
+   "t": "El Central aceleró la compra de dólares tras la visita del FMI",
+   "b": "Después de semanas flojas, el Banco Central compró US$369 millones en cinco días. Caputo proyecta superar los US$20.000 millones de compras acumuladas para las elecciones.",
+   "src": "Infobae",
+   "u": "https://www.infobae.com/economia/2026/10/05/tras-el-paso-del-fmi-el-banco-central-acelero-la-compra-de-reservas-a-que-poder-de-fuego-aspira-caputo-para-las-elecciones/",
+   "body": [
+    "El Banco Central (BCRA) compró dólares con más fuerza esta semana. Fue justo después de que terminara la revisión técnica del FMI. Es la tercera revisión del acuerdo vigente.",
+    "Las compras sumaron US$369 millones en cinco días. El lunes fueron US$11 millones. El martes subieron a US$70 millones. El miércoles llegó el máximo, con US$160 millones.",
+    "El jueves compró US$93 millones y el viernes US$35 millones. Antes de eso, el ritmo venía cayendo. Septiembre cerró con US$473 millones, el peor mes del año.",
+    "Para comparar: en abril el Central compró US$2.769 millones. En mayo, US$2.596 millones. En julio, US$2.162 millones. Agosto bajó a US$768 millones.",
+    "El ministro de Economía, Luis Caputo, mostró números en el CFO Summit. Hasta septiembre, las compras acumuladas fueron de US$14.350 millones. Para diciembre proyecta US$19.438 millones.",
+    "Si el ritmo sigue, llegaría a las elecciones con más de US$20.000 millones. Ese es el poder de fuego que busca Caputo. Son dólares para calmar al mercado antes de votar.",
+    "Según las fuentes oficiales, habrá más dólares por la cosecha de trigo. También por las exportaciones de energía, Vaca Muerta y la minería. El Central, que conduce Santiago Bausili, dice que solo compra cuando sobra oferta. Aclara que no busca mover el precio del dólar.",
+    "El FMI fijó metas para las reservas netas. Son los dólares propios del Central, sin contar deudas. Esa meta se cumplió con holgura. La meta del superávit fiscal primario, en cambio, no se alcanzó. Ese superávit es el saldo de las cuentas públicas antes de pagar intereses.",
+    "Por qué importa: las reservas son el colchón del país frente a una corrida. Tener más dólares baja el riesgo de sobresaltos cambiarios. Eso pesa en el bolsillo, porque el dólar mueve los precios."
+   ]
+  },
+  {
+   "id": "tec0",
+   "sec": "Tecnología",
+   "v": "Privacidad",
+   "t": "Claude usado como diario terminó en una denuncia policial y una causa penal",
+   "b": "Una mujer de Florida escribió en Claude que atacaría una comisaría. Anthropic avisó a la policía y ahora enfrenta un cargo grave.",
+   "src": "TechSpot / Tom's Hardware",
+   "u": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "body": [
+    "Una mujer de Florida usaba Claude como si fuera un diario íntimo. Vive en Bonita Springs.",
+    "El 26 de septiembre escribió que quería atacar a tiros la oficina del sheriff. Es la del condado de Lee. Según Tom's Hardware, después mencionó un arma nueva.",
+    "Los sistemas de seguridad de Claude marcaron el mensaje. Lo derivó un revisor humano de Anthropic. Esa persona lo consideró una amenaza creíble y avisó a la policía.",
+    "La mujer fue arrestada el 30 de septiembre en su casa, sin incidentes. Le imputaron un delito grave de segundo grado, bajo la ley 836.10 de Florida. Esa norma castiga las amenazas escritas o electrónicas de violencia masiva. Le asignaron un defensor público. La audiencia de acusación está fijada para el 2 de noviembre.",
+    "Anthropic no dio una explicación propia en estas notas. TechSpot cita su política. La empresa puede revelar datos en emergencias limitadas. Eso vale si hace falta para evitar una muerte o una lesión grave. Tom's Hardware nota algo más. El informe oficial de Anthropic no mostraba divulgaciones de emergencia en la segunda mitad de 2025. Pero ese informe no cuenta las denuncias que la empresa hace por su cuenta.",
+    "No es un caso aislado. Según Tom's Hardware, desde agosto al menos tres charlas con Claude llegaron a la policía. En San Antonio arrestaron a un joven de 22 años. Había consultado sobre un tiroteo en una escuela primaria. En San Francisco, alguien amenazó al CEO Dario Amodei. No hubo arresto.",
+    "El sheriff Carmine Marceno advirtió que hablar con una IA nunca es del todo anónimo. Los expertos piden reglas más estrictas, aprobadas por organismos independientes.",
+    "Por qué importa: un chat con una IA no es un cuaderno bajo llave. Hay sistemas automáticos y personas que pueden leerlo. La empresa puede avisar a las autoridades. El debate es dónde queda el límite entre prevenir un daño y proteger la privacidad."
+   ]
+  },
+  {
+   "id": "pol0",
+   "sec": "Política",
+   "v": "PASO 2027",
+   "t": "El Gobierno apura la negociación para suspender las PASO en 2027",
+   "b": "Cinco gobernadores radicales dieron señales a favor de suspenderlas. El peronismo, según Letra P, quiere mantenerlas para ordenar su frente.",
+   "src": "Infobae / Letra P",
+   "u": "https://www.infobae.com/politica/2026/10/05/con-el-guino-de-los-cinco-gobernadores-radicales-la-casa-rosada-apura-la-negociacion-para-suspender-las-paso-en-2027/",
+   "body": [
+    "La Casa Rosada acelera las conversaciones para suspender las PASO de 2027. Son las primarias abiertas, donde se eligen candidatos antes de la elección general. Para lograrlo necesita votos en el Congreso.",
+    "En el Senado hacen falta 37 votos para aprobar la reforma electoral. Por eso importan los cinco gobernadores radicales. Cuatro de ellos viajaron a París con Milei. Faltó Maximiliano Pullaro.",
+    "Javier Milei quiere eliminar las PASO para siempre. Las calificó de \"inmorales\" y dijo que las inventó Néstor Kirchner. Argumenta que los contribuyentes no deberían pagar las disputas internas de los partidos.",
+    "Los gobernadores radicales no piensan todos igual. Juan Pablo Valdés, de Corrientes, dijo que eliminarlas \"no sería descabellado\". Carlos Sadir, de Jujuy, acepta suspenderlas otra vez, pero no eliminarlas.",
+    "Pullaro, de Santa Fe, apoya suspender las nacionales. Dice que se usaron poco y cuestan mucho. Defiende las primarias provinciales. Leandro Zdero, de Chaco, también respalda la suspensión.",
+    "Alfredo Cornejo, de Mendoza, distingue entre lo provincial y lo nacional. Cuestiona el costo de primarias donde los candidatos llegan sin competencia interna. En la negociación participan Karina Milei, Diego Santilli, Patricia Bullrich y Martín Menem.",
+    "Del otro lado, según Letra P, el peronismo quiere sostenerlas. Cree que las PASO son clave para armar un candidato único contra Milei en 2027. También reconoce que sin primarias el Presidente tendría ventaja.",
+    "Por qué importa: las reglas definen cómo se arman las listas y quién compite. El resultado de esta negociación afecta a todos los partidos de cara a 2027."
+   ]
+  },
+  {
+   "id": "lat0",
+   "sec": "Latinoamérica",
+   "v": "Brasil",
+   "t": "Flávio Bolsonaro y Lula van al balotaje del 25 de octubre",
+   "b": "Flávio Bolsonaro quedó primero con 47,12% y Lula tuvo 45,06%. Ninguno llegó al 50% y habrá segunda vuelta.",
+   "src": "La Política Online / La Nación",
+   "u": "https://www.lapoliticaonline.com/internacionales/flavio-lidera-la-eleccion-en-brasil/",
+   "body": [
+    "Brasil votó el domingo 4 de octubre. Con el 99,89% de los votos contados, Flávio Bolsonaro, del Partido Liberal, sacó 47,12%. Luiz Inácio Lula da Silva, del PT, obtuvo 45,06%.",
+    "Como nadie pasó el 50%, habrá balotaje, o segunda vuelta, el 25 de octubre. Los demás candidatos sumaron 7,6%. Augusto Cury tuvo 2,89%, Renan Santos 2,25% y Ronaldo Caiado 2,19%.",
+    "Participaron 125,14 millones de personas, de 158,75 millones habilitadas. La abstención fue de 21,01%. Hubo 1,84% de votos en blanco y 2,93% nulos.",
+    "El resultado sorprendió. Según La Política Online, ninguna encuesta lo anticipó. Quaest, Atlas y Datafolha esperaban paridad o una leve ventaja de Lula.",
+    "El medio da varias explicaciones. Menciona el malestar económico, aunque la inflación está controlada. También el desgaste de 20 años del PT y la crisis con el Supremo Tribunal. Suma la cancelación del debate de Globo.",
+    "En las elecciones a gobernador hubo récord. Se definieron 20 en primera vuelta. Sergio Moro, del PL, ganó Paraná con 50,34%. Tarcísio de Freitas fue reelecto en San Pablo con 62,85%.",
+    "En el Senado, Michelle Bolsonaro, esposa de Jair, ganó por el Distrito Federal con 28,98%. Según La Política Online, el PL domina las elecciones legislativas. Eso podría darle estabilidad a Flávio si gana.",
+    "Para la Argentina, hay un gesto claro. Javier Milei felicitó a Flávio. Le dijo \"querido amigo\" y habló de una elección histórica contra Lula, según La Nación.",
+    "Por qué importa: Brasil es un vecino clave para la Argentina. El resultado puede cambiar el vínculo político entre los dos gobiernos."
+   ]
+  },
+  {
+   "id": "eco1",
+   "sec": "Economía",
+   "v": "Mercados",
+   "t": "Los activos argentinos vuelven al nivel previo a las elecciones de 2025",
+   "b": "El riesgo país sube y el mercado no se entusiasmó con los anuncios de París. Los inversores distinguen entre dólares en mano y líneas de crédito posibles.",
+   "src": "Infobae / La Política Online",
+   "u": "https://www.infobae.com/economia/2026/10/05/por-que-los-precios-de-los-activos-argentinos-volvieron-al-nivel-preelectoral-de-2025/",
+   "body": [
+    "Los bonos y las acciones argentinas retrocedieron. Hoy cotizan parecido a octubre de 2025, antes de las elecciones de aquel año. Aquel momento fue de mucha tensión financiera.",
+    "El S&P Merval, el índice de las acciones líderes, tocó 2.200 puntos en junio. Ahora está en torno a 1.700. Grupo Galicia cotiza a US$36,70, casi igual que los US$35,43 de octubre de 2025.",
+    "El riesgo país mide cuánto más paga la Argentina que Estados Unidos para endeudarse. En octubre de 2025 llegó a 1.081 puntos, después de superar los 1.400. Según La Política Online, el 2 de octubre estaba en 655. Es el nivel más alto de 2026.",
+    "Pesa también el contexto global. El bono del Tesoro de Estados Unidos a 10 años rinde 5,34%. Hace un año rendía 4%. Con ese rendimiento, los inversores exigen más a países como el nuestro.",
+    "Los bonos en dólares rinden cerca de 11%. Eso encarece salir a pedir plata afuera. Las consultoras ven poco margen para nuevas emisiones de deuda. Para 2027 hay vencimientos por más de US$21.000 millones.",
+    "Sobre la gira por París, el Gobierno habló de una \"bazooka\" de US$75.000 millones. Según La Política Online, el mercado no la compró. Dice que incluye líneas de swap, o préstamos de otros bancos centrales. Solo pueden activarse. Incluye también reservas que todavía hay que comprar.",
+    "El swap con China ya usó unos US$5.000 millones de US$19.200 millones disponibles. La línea con Estados Unidos es de US$20.000 millones. Los anuncios de empresas como TotalEnergies y Pan American Energy eran proyectos ya planeados.",
+    "La economía real tampoco ayuda. La actividad cayó 2,9% en julio frente a junio, y 1,4% contra un año atrás. La pobreza llegó a 32,3%, unos 15 millones de personas.",
+    "Por qué importa: si el riesgo país sube, cuesta más conseguir dólares. Refinanciar la deuda se complica. Eso suele terminar en más presión sobre el dólar y los precios."
+   ]
+  },
+  {
+   "id": "eco2",
+   "sec": "Economía",
+   "v": "Deudas",
+   "t": "Mora bancaria: miles de deudores argentinos siguen atrapados",
+   "b": "La morosidad de las familias sigue cerca del 13%. En los prestamistas no bancarios, el incumplimiento llegó a un récord de casi 34%.",
+   "src": "iProUP",
+   "u": "https://www.iproup.com/finanzas/72001-mora-bancaria-trampa-hunde-miles-deudores-argentinos-octubre-2026",
+   "body": [
+    "La mora es el atraso en el pago de una deuda. En agosto de 2026, la mora de las familias en los bancos fue de 12,8%. Un mes antes era de 12,9%, así que bajó apenas un poco.",
+    "La de las empresas fue distinta. Subió de 3,6% a 3,8%. Sumando todo, el 7,7% del crédito al sector privado está en situación irregular.",
+    "Donde más duele es fuera de los bancos. Billeteras digitales, fintech y tarjetas de comercios tienen 33,9% de incumplimiento. Es un máximo histórico, por 21° mes seguido. Ese sector pesa 17% del crédito total a los hogares.",
+    "Los bancos grandes están refinanciando a escala. El saldo refinanciado es de $2,7 billones. Cada mes se hacen operaciones con unos 115.000 clientes. Refinanciar es renegociar la deuda con nuevos plazos.",
+    "El Banco Nación ofrece esas refinanciaciones a una tasa de 29%. El Banco Ciudad, a 28%. Pero no todas las entidades están igual. Según la nota, 17 de las 30 principales empeoraron sus ratios en agosto.",
+    "Hay una señal positiva. La mora temprana, que es la de los deudores recién atrasados, fue de 2,7%. Es el valor más bajo en 12 meses. Eso podría anticipar menos problemas más adelante.",
+    "En julio había 882.173 deudores en situación de cobranza. Las tasas en dólares a futuro saltaron hasta 20% anual entre los bonos AO27 y AO28.",
+    "Por qué importa: si tenés deudas, la mora condiciona tu acceso al crédito. Refinanciar en un banco grande puede costar menos que seguir atrasado."
+   ]
+  },
+  {
+   "id": "tec1",
+   "sec": "Tecnología",
+   "v": "Ciencia con IA",
+   "t": "Agentes de IA proponen dos materiales para memorias del futuro",
+   "b": "Con Claude Opus 5.5, investigadores de Vals AI buscaron semiconductores magnéticos que funcionen a temperatura ambiente. Salieron dos candidatos, pero faltan pruebas reales.",
+   "src": "Vals AI",
+   "u": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+   "body": [
+    "El equipo de Vals AI usó agentes de Claude Opus 5.5 para buscar materiales nuevos. Lo lidera Geby Jaff. Publicaron los resultados el 4 de octubre de 2026.",
+    "El objetivo son memorias de la llamada espintrónica. Es una electrónica que usa el magnetismo de los electrones, además de su carga eléctrica. Para que sirva en un dispositivo real, el material tiene que funcionar a temperatura ambiente.",
+    "Los agentes hicieron simulaciones de física cuántica en computadora. Usaron un método llamado teoría del funcional de la densidad. Tiene dos niveles de precisión: uno rápido y otro lento pero más exacto. Con eso evaluaron estructuras cristalinas y su magnetismo. También su capacidad de separar electrones según su giro.",
+    "El primer candidato es YBaMnFeO₅. Es un compuesto diseñado por los agentes, que nadie había fabricado ni propuesto. Se predice que mantiene su orden magnético hasta unos 420 a 490 kelvin. Pero hay un problema. Su patrón de átomos se desarma por encima de los 950 kelvin. La síntesis habitual usa temperaturas mayores. Podría salir un cristal desordenado e inútil.",
+    "El segundo es KV[Cr(CN)₆], un material que se fabricó por primera vez en 1999. Mantiene su magnetismo hasta 376 kelvin, unos 103 grados Celsius. Cada metal ocupa un lugar fijo en su estructura, lo que es una ventaja. La muestra original tenía agua. Los métodos de cálculo no coinciden sobre cuánto afecta eso.",
+    "El paso siguiente es fabricar una muestra pura de KV[Cr(CN)₆]. Después hay que medir en laboratorio si separa los giros como predice la simulación. Los cálculos y el código están en GitHub para que otros los revisen.",
+    "Por qué importa: es un ejemplo concreto de agentes de IA proponiendo ciencia nueva. Pero por ahora son predicciones de computadora. Sin el experimento en el laboratorio, ninguno de los dos materiales está confirmado."
+   ]
+  },
+  {
+   "id": "pol1",
+   "sec": "Política",
+   "v": "Gobierno y prensa",
+   "t": "Milei lanzó una ofensiva contra el dueño de La Nación y la licitación de Tecnópolis queda en duda",
+   "b": "El Presidente atacó con dureza a Fernán Saguier. La Nación es la única oferente por Tecnópolis y el decreto de adjudicación está frenado.",
+   "src": "La Política Online / El Ancasti",
+   "u": "https://www.lapoliticaonline.com/politica/milei-le-dijo-mierda-humana-al-dueno-de-la-nacion-y-hay-dudas-sobre-si-le-entregara-tecnopolis/",
+   "body": [
+    "Javier Milei lanzó una ofensiva pública contra La Nación y su director, Fernán Saguier. Lo hizo en redes sociales, con insultos hacia Saguier y su equipo. Según los medios, el conflicto pone en duda la concesión de Tecnópolis.",
+    "Según La Política Online, el conflicto viene de una reunión previa en Olivos. Allí Milei habría presentado una lista de periodistas para que el diario los despidiera. Saguier se negó y el encuentro terminó mal. La información es de ese medio y no fue confirmada por las partes.",
+    "El ministro de Justicia, Juan Bautista Mahiques, también cuestionó al columnista Joaquín Morales Solá. Dijo que las investigaciones judiciales sobre deportistas se habían frenado antes de que él asumiera.",
+    "Tecnópolis es el predio de exposiciones en Villa Martelli. Hoy el Estado gasta cerca de $1.000 millones por mes en mantenerlo. Quien gane la concesión debe invertir unos US$150 millones.",
+    "La Nación quedó como único oferente. Su competidor, Marcelo Figoli, tuvo observaciones que lo dejaron afuera. El Gobierno ya había redactado un decreto de adjudicación, pero lo guardó por la tensión.",
+    "Un funcionario reconoció el dilema. Hay dos caminos: adjudicar o anular toda la licitación. Dentro del Gobierno no hay acuerdo sobre cuál elegir.",
+    "El choque venía de antes. El 1 de octubre, Milei criticó un editorial de La Nación. Trataba sobre las jubilaciones de privilegio de expresidentes. Dijo que Saguier omitía que él había renunciado a la suya. El diario había planteado qué justifica una renta vitalicia por ocupar el cargo.",
+    "En las fuentes consultadas no apareció una respuesta oficial del diario a los insultos. La Nación sí publicó su cobertura del cruce del 1 de octubre.",
+    "Por qué importa: la relación entre el poder y la prensa pesa en decisiones concretas. Acá hay un predio público, una licitación y una oferta única en juego."
+   ]
+  },
+  {
+   "id": "tec3",
+   "sec": "Tecnología",
+   "v": "Inteligencia artificial",
+   "t": "OpenAI marcará con una huella invisible los textos de ChatGPT en Europa",
+   "b": "La marca se llama textGrain y se despliega en la Unión Europea en las próximas semanas. Responde a las nuevas reglas de transparencia del bloque.",
+   "src": "TechCrunch",
+   "u": "https://techcrunch.com/2026/10/05/openai-will-start-watermarking-chatgpts-text-in-the-eu/",
+   "body": [
+    "OpenAI anunció el 5 de octubre que marcará los textos de ChatGPT. Será una marca de agua. Por ahora, solo en la Unión Europea. También afecta a Codex, su herramienta de programación.",
+    "No es una marca que se vea. La tecnología se llama textGrain. Ajusta apenas las palabras que elige el modelo. Deja un patrón que el lector no nota. Un detector, en cambio, sí lo reconoce. Y el patrón viaja con el texto si alguien lo copia.",
+    "El motivo es legal. Desde el 2 de agosto de 2026 rigen las reglas de transparencia de la ley europea de IA. Piden que el contenido hecho por IA se pueda identificar. OpenAI se comprometió a seguir el código de buenas prácticas del bloque. Lo mismo hicieron Anthropic, Google, Meta y Microsoft.",
+    "El despliegue en ChatGPT llegará en las próximas semanas. Los desarrolladores que usan la API pueden activar la marca desde ya. Viene apagada por defecto en el resto del mundo.",
+    "La marca tiene límites. Según el artículo, el detector acierta en alrededor del 92 por ciento de los casos. Si se cambia el 10 por ciento de las palabras por sinónimos, baja a 66. Cuesta más detectarla en textos cortos, en respuestas de matemática y en traducciones. Por ahora, el detector solo lo tendrán investigadores aprobados.",
+    "Hubo críticas. Cuando Anthropic anunció algo parecido en agosto, algunos usuarios de Claude protestaron. Decían que ellos aportan las instrucciones, el contexto y las decisiones. Por eso, el texto no debería marcarse como de la IA.",
+    "El mismo día, OpenAI anunció publicidad visual junto a las imágenes generadas en ChatGPT. Empieza en Estados Unidos, más adelante en octubre. Estará señalada como anuncio.",
+    "Por qué importa: las leyes empiezan a exigir que se distinga lo escrito por una máquina. La marca ayuda, pero no es infalible. Un texto retocado puede escaparse."
+   ]
+  },
+  {
+   "id": "sta1",
+   "sec": "Startups",
+   "v": "Inteligencia artificial",
+   "t": "Wonderful, la startup de IA que levantó US$550 millones, llega a la Argentina",
+   "b": "La empresa tiene 16 personas en el país y planea llegar a 30 o 40 antes de fin de año. Usará la Argentina como centro regional.",
+   "src": "iProUP",
+   "u": "https://www.iproup.com/startups/71866-startup-de-ia-que-levanto-usd-550-millones-ahora-va-por-el-mercado-argentino",
+   "body": [
+    "Wonderful es una startup de IA fundada en 2025 por Bar Winkler y Roey Lalazar. Ahora desembarca en el mercado argentino.",
+    "Acaba de cerrar una ronda Serie C de US$550 millones. Eso la valúa en US$5.000 millones. La lideraron Insight Partners y Salesforce, junto con inversores que ya tenía.",
+    "Vende agentes de IA a grandes empresas. Un agente es un programa que hace tareas solo, como atender clientes. Trabaja con servicios financieros, telecomunicaciones, salud, manufactura, servicios públicos y comercio.",
+    "Hoy opera en más de 35 países. Tiene 650 empleados y unos 100 clientes empresariales.",
+    "En la Argentina ya hay 16 personas. La idea es sumar entre 30 y 40 antes de que termine el año. El país será el centro de operaciones y talento para la región.",
+    "Desde acá coordinará la actividad en Chile, Uruguay, Paraguay y Bolivia.",
+    "Con el dinero nuevo, quiere acelerar la implementación en empresas locales. Busca pasar de un primer caso de uso a varios agentes dentro de cada organización.",
+    "Por qué importa: abre trabajo calificado y muestra el interés global por el talento argentino en IA."
+   ]
+  },
+  {
+   "id": "pol2",
+   "sec": "Política",
+   "v": "Justicia",
+   "t": "Hotesur y Los Sauces: la Justicia define si se unifican los juicios contra Cristina Kirchner",
+   "b": "La fiscalía pide un solo juicio y el tribunal quiso dos. Casación escuchará a las partes el 15 de octubre.",
+   "src": "Perfil",
+   "u": "https://www.perfil.com/noticias/politica/el-juicio-por-hotesur-y-los-sauces-se-encamina-hacia-la-unificacion-otro-proceso-contra-cristina-fernandez-de-kirchner.phtml",
+   "body": [
+    "Las causas Hotesur y Los Sauces siguen en debate. Se trata de dos expedientes contra Cristina Fernández de Kirchner. La Justicia define ahora si se juzgan juntas o por separado.",
+    "Además de la expresidenta, está acusado su hijo, el diputado Máximo Kirchner. Hay unos diez imputados más. Les atribuyen asociación ilícita y lavado de dinero.",
+    "El Tribunal Oral Federal 5 decidió dividir los juicios en dos procesos sucesivos. Lo integran José Michilini, Adriana Palliotti y Fernando Machado Pelloni. Según el cronograma, Los Sauces empezaba el 23 de octubre.",
+    "Hotesur estaba previsto para el 19 de marzo de 2027. Esa fecha es incierta. Todo depende de lo que se resuelva sobre la unificación.",
+    "El fiscal Diego Velasco pide unificar. Sostiene que separar los juicios pone en riesgo sostener la acusación y lograr una condena. Por eso impugnó la decisión del tribunal ante Casación.",
+    "La Sala I de Casación Penal confirmó una audiencia para el 15 de octubre. Allí se debatirá si los juicios se separan o no. Resolvieron Daniel Petrone y Diego Barroetaveña, en mayoría.",
+    "La nota de Perfil no detalla la postura de las defensas de Cristina y Máximo Kirchner. Por eso no corresponde atribuirles una posición.",
+    "Por qué importa: la decisión define cuántos juicios habrá y cuándo empiezan. También marca el calendario judicial de una figura central de la política."
+   ]
+  },
+  {
+   "id": "tec2",
+   "sec": "Tecnología",
+   "v": "Inteligencia artificial",
+   "t": "Reflection lanza Beam, un modelo abierto para competir con los chinos",
+   "b": "La startup estadounidense presentó un modelo de 501.000 millones de parámetros con licencia Apache 2.0. Dice que gasta mucho menos cómputo que sus rivales.",
+   "src": "TechCrunch / Reflection AI",
+   "u": "https://techcrunch.com/2026/10/05/reflection-debuts-beam-a-open-weight-ai-model-to-rival-chinese-models-at-lower-compute-cost/",
+   "body": [
+    "Reflection AI presentó el 5 de octubre su primer modelo grande de pesos abiertos. Se llama Beam. \"Pesos abiertos\" significa que cualquiera podrá descargar el modelo y correrlo por su cuenta.",
+    "Beam tiene 501.000 millones de parámetros en total. Pero es un modelo de \"mezcla de expertos\". Eso quiere decir que, para cada palabra, solo se activan 23.000 millones de parámetros. Así gasta menos energía y cómputo. Trabaja solo con texto.",
+    "Lo entrenaron con 23,8 billones de tokens, que son pedacitos de texto. Según Reflection, el preentrenamiento llevó menos de cuatro semanas con 6.144 chips Nvidia GB300. Después hubo un entrenamiento por refuerzo. Incluyó más de cien millones de pruebas en entornos simulados de programación y ciencia.",
+    "La empresa dice que Beam iguala a GLM-5.2, de la china Z.ai, en razonamiento avanzado. Y que usa de tres a cuatro veces menos cómputo. TechCrunch aclara que estos datos no fueron verificados por terceros. En su blog, Reflection cita 80,9 en SWE-bench Verified y 80,1 en Terminal Bench.",
+    "El modelo maneja contextos de hasta un millón de tokens. La licencia es Apache 2.0, bastante permisiva. Los pesos se publicarán más adelante en octubre. Por ahora hay una lista de acceso anticipado. No informaron precios.",
+    "Reflection levantó unos 4.700 millones de dólares, con Nvidia, Sequoia y Lightspeed entre sus inversores. Su valuación previa fue de 25.000 millones. También cerró acuerdos de cómputo con SpaceX y Nebius. Suman más de 7.000 millones y llegan hasta 2029. Apunta a gobiernos y empresas que quieran sistemas propios, entrenados con sus datos.",
+    "Por qué importa: hoy los mejores modelos abiertos vienen sobre todo de China. Beam es un intento de ofrecer una alternativa estadounidense. Habrá que ver si los resultados se sostienen. Eso se sabrá cuando salgan los pesos y otros lo prueben."
+   ]
+  },
+  {
+   "id": "sta0",
+   "sec": "Startups",
+   "v": "Comercio",
+   "t": "Pistacho App busca que los emprendedores vendan por ChatGPT",
+   "b": "La startup argentina ofrece tiendas online simples. Su apuesta es el comercio agéntico, donde una inteligencia artificial compra por vos.",
+   "src": "iProUP",
+   "u": "https://www.iproup.com/startups/71842-startup-argentina-pistacho-app-emprendedores-vendan-chatgpt-comercio-agentico",
+   "body": [
+    "Pistacho App es una startup argentina creada por Alex Nemirovsky. Ayuda a pequeños emprendedores a vender por internet, sin saber de tecnología.",
+    "La plataforma permite registrar ventas y controlar el inventario. También ordenar clientes, cargar gastos y ver el balance del negocio. Todo desde un mismo lugar.",
+    "Según la nota, ya tiene más de 10.000 personas registradas. Hay más de 2.000 tiendas activas y 50.000 productos publicados.",
+    "Tiene un plan gratuito. Los planes pagos cuestan unos $8.000 por mes, en promedio. Permiten publicar entre 100 y 300 productos.",
+    "Se integra con Mercado Pago, Ualá Bis, GoCuotas, MODO, Talo Pay y Correo Argentino. Así el emprendedor cobra y envía sin armar nada por su cuenta.",
+    "La apuesta de fondo es el comercio agéntico. Es cuando un asistente de IA, como ChatGPT o Gemini, recomienda y compra por vos. Pistacho quiere que sus tiendas aparezcan en esas recomendaciones.",
+    "La empresa proyecta ingresos de US$45 millones para 2027. Es una proyección de la propia startup, no un resultado.",
+    "Por qué importa: si comprar con IA se vuelve común, los comercios chicos necesitan aparecer ahí. Herramientas así buscan que no queden afuera."
+   ]
+  }
+ ]
+}
