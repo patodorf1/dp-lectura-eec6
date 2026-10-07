@@ -2,9 +2,13 @@
 Diario de Pato para KOReader.
 
 Al arrancar KOReader o al despertar la Kindle: si todavía no está la edición
-de hoy (hora Argentina), prende el Wi-Fi, la baja de GitHub Pages, apaga el
-Wi-Fi si lo prendió y la abre en la tapa. Si ya está, no hace nada y deja
-todo como estaba. Guarda las últimas 7 ediciones y borra las más viejas.
+de hoy (hora Argentina), la baja de GitHub Pages y la abre en la tapa. Si ya
+está, no hace nada. Guarda las últimas 7 ediciones y borra las más viejas.
+
+El Wi-Fi queda siempre prendido. Al despertar, la Kindle se reconecta sola en
+unos segundos: el agregado espera hasta un minuto a que lo haga. Si el Wi-Fi
+está apagado, lo prende y lo deja prendido. (Antes lo apagaba después de
+bajar, y al día siguiente prenderlo justo al despertar fallaba seguido.)
 ]]
 
 local DataStorage = require("datastorage")
@@ -26,6 +30,8 @@ local BASE = "https://patodorf1.github.io/dp-lectura-eec6/ediciones/"
 local GUARDAR = 7           -- ediciones que quedan en la Kindle
 local DESDE = 6 * 60 + 30   -- antes de las 6:30 (hora Argentina) no busca
 local REINTENTO = 15 * 60   -- después de un intento, no vuelve a buscar por 15 minutos
+local ESPERA_WIFI = 60      -- segundos que espera a que la Kindle se reconecte al despertar
+local PASO = 3              -- cada cuántos segundos se fija si ya se conectó
 
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
     or DataStorage:getFullDataDir() .. "/Diario de Pato"
@@ -34,6 +40,7 @@ local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
 -- biblioteca y el lector.
 local arranco = false
 local ultimo_intento = 0
+local turno = 0  -- cada revisión nueva deja sin efecto la espera de la anterior
 
 -- Fecha y minutos del día en Argentina (UTC-3 todo el año), sin depender de
 -- la zona horaria que tenga configurada la Kindle.
@@ -100,14 +107,6 @@ local function limpiar()
     end
 end
 
-local function apagarWifi()
-    if NetworkMgr.disableWifi then
-        NetworkMgr:disableWifi()
-    else
-        NetworkMgr:turnOffWifi()
-    end
-end
-
 local function revisar()
     local fecha, minutos = ahoraArgentina()
     if minutos < DESDE or existe(rutaDe(fecha)) then
@@ -116,21 +115,22 @@ local function revisar()
     if os.time() - ultimo_intento < REINTENTO then
         return
     end
-    ultimo_intento = os.time()
     if lfs.attributes(carpeta, "mode") ~= "directory" then
         lfs.mkdir(carpeta)
     end
+    turno = turno + 1
+    local mio = turno
 
-    local prendio_wifi = not NetworkMgr:isWifiOn()
     local function seguir()
+        if mio ~= turno or existe(rutaDe(fecha)) then
+            return
+        end
+        ultimo_intento = os.time()
         local aviso = InfoMessage:new{ text = "Bajando el diario de hoy…" }
         UIManager:show(aviso)
         UIManager:forceRePaint()
         local ok, motivo = bajar(fecha)
         UIManager:close(aviso)
-        if prendio_wifi then
-            apagarWifi()
-        end
         if ok then
             local ReaderUI = require("apps/reader/readerui")
             ReaderUI:showReader(rutaDe(fecha))
@@ -141,10 +141,28 @@ local function revisar()
         end
     end
 
-    if NetworkMgr:isWifiOn() and NetworkMgr:isConnected() then
+    if NetworkMgr:isConnected() then
         seguir()
-    elseif NetworkMgr:turnOnWifiAndWaitForConnection(seguir) == false and prendio_wifi then
-        apagarWifi()
+    elseif NetworkMgr:isWifiOn() then
+        -- Recién despierta: la Kindle se está reconectando sola. Esperamos.
+        UIManager:show(InfoMessage:new{ text = "Esperando el Wi-Fi para bajar el diario…", timeout = 3 })
+        local limite = os.time() + ESPERA_WIFI
+        local function esperar()
+            if mio ~= turno then
+                return
+            elseif NetworkMgr:isConnected() then
+                seguir()
+            elseif os.time() < limite then
+                UIManager:scheduleIn(PASO, esperar)
+            else
+                logger.info("Diario de Pato: el Wi-Fi no se conectó en", ESPERA_WIFI, "segundos")
+            end
+        end
+        UIManager:scheduleIn(PASO, esperar)
+    else
+        -- Wi-Fi apagado: lo prende y lo deja prendido para las próximas veces.
+        ultimo_intento = os.time()
+        NetworkMgr:turnOnWifiAndWaitForConnection(seguir)
     end
 end
 
