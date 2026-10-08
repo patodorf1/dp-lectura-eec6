@@ -1,0 +1,429 @@
+{
+  "fecha": "Jueves 8 de octubre de 2026",
+  "fuentes": "Infobae, La Política Online, Perfil, OpenAI, Anthropic, TechCrunch, MIT News, The Next Web, iProUP, Diario Río Negro, C5N, Cadena 3, El Sol, MDZ, El Litoral",
+  "lead": "tec0",
+  "notas": [
+    {
+      "b": "Conmebol designó al chileno Piero Maza para la ida del martes 13 en la Bombonera. Antes, Boca visita a Instituto en Córdoba y piensa en rotar.",
+      "body": [
+        "Boca ya tiene árbitro para la semifinal de la Copa Sudamericana. Conmebol, el organismo que manda en el fútbol sudamericano, eligió al chileno Piero Maza. Tiene 41 años.",
+        "La ida contra Vasco da Gama es el martes 13 de octubre. Se juega a las 21:30 en la Bombonera. Maza estará acompañado por compatriotas suyos. José Cabero estará en el VAR, el sistema de video que revisa jugadas dudosas.",
+        "Para Boca, Maza es un viejo conocido. Ya dirigió al equipo dos veces en esta edición del torneo. Fue en la ida de octavos, ante Deportivo Recoleta. Y en la ida de cuartos, con el 1 a 0 a San Pablo.",
+        "Será la tercera vez seguida que arbitra a Boca en un partido de ida. Antes lo había dirigido en 2022, con un 1 a 0 a Deportivo Cali. En 2024 fue un 0 a 0 con Nacional Potosí, en Bolivia.",
+        "La vuelta será el martes 20 de octubre, también a las 21:30. Se jugará en el estadio Nilton Santos, en Río de Janeiro. Vasco quería usar el Maracaná, pero el consorcio que lo administra rechazó el pedido. El Nilton Santos tiene césped sintético y lugar para 46.931 espectadores.",
+        "Antes de la semifinal, Boca tiene otro compromiso. Visita a Instituto el viernes 9 de octubre. Juega a las 19:30 en el Kempes de Córdoba. Es por la fecha 12 del Clausura, el torneo local.",
+        "Rodolfo Arruabarrena, el entrenador, piensa descansar a varios titulares. Leandro Paredes es uno de los que podría quedar afuera. Todavía no se sabe si iría al banco o si ni viajaría. Álvaro Montero volvería al arco, en lugar de Leandro Brey. Rodrigo Battaglia se recupera de una lesión y quizás sea suplente.",
+        "Por qué importa: la semifinal define quién pelea por la final del torneo. Boca juega la ida en casa y la vuelta sobre césped sintético. Por eso el partido de Córdoba sirve para llegar con el plantel descansado."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Diario Río Negro / C5N / Cadena 3",
+      "t": "Boca ya sabe quién será el árbitro de la semifinal ante Vasco da Gama",
+      "u": "https://www.rionegro.com.ar/deportes/boca-vs-vasco-da-gama-arbitro-confirmado-para-la-semifinal-de-la-copa-sudamericana-4751578/",
+      "v": "Boca"
+    },
+    {
+      "b": "Tras el 3 a 0 a Benín, Lionel Messi habló nueve minutos en el Monumental. Enzo Fernández lloró durante casi todo el discurso.",
+      "body": [
+        "El martes 6, Argentina le ganó 3 a 0 a Benín en el Monumental. Fue la despedida de Lionel Messi de la Selección. Tiene 39 años y pasó 21 con la camiseta.",
+        "Después del partido, Messi habló ante el estadio. Su discurso duró nueve minutos. Dijo que fue el día más triste de su carrera, según el título de Infobae.",
+        "Lo primero que mencionó fue a su padre, Jorge Messi. Había muerto el 8 de agosto de 2026. Messi contó que pensó en él en esos momentos.",
+        "También reconoció que dejar la Selección le va a costar mucho. Dijo que jugar con ella es lo más lindo que le puede pasar a alguien.",
+        "Agradeció a sus compañeros por los títulos: el Mundial, la Finalissima y las Copas América. Destacó la unión del grupo. Dijo que no hay que darle el gusto a quienes quieren verla mal.",
+        "Habló del Mundial 2022. Recordó el desgaste físico y emocional de la semifinal contra Inglaterra. Aseguró que no pasó nada raro, como se dice. Agradeció a los hinchas de todo el país y se despidió con un \"Los quiero\".",
+        "Enzo Fernández fue el más emocionado. Lloró casi todo el discurso y volvió a llorar al final. La nota recuerda una carta que Enzo le escribió a Messi en 2016. Fue tras la final perdida con Chile. Se hizo viral. Su familia también estaba en la cancha. Thiago, su hijo, lloró y recibió un abrazo de su papá. Antonela Roccuzzo, su esposa, se emocionó.",
+        "Por qué importa: es el final de una etapa de más de dos décadas. Messi fue clave en los títulos más importantes de la Selección. A partir de ahora, el equipo tiene que seguir sin él."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Messi se despidió de la Selección: \"el día más triste de mi carrera\"",
+      "u": "https://www.infobae.com/deportes/2026/10/07/el-discurso-completo-de-messi-en-su-despedida-de-la-seleccion-y-el-llanto-de-enzo-fernandez-es-el-dia-mas-triste-de-mi-carrera/",
+      "v": "Selección"
+    },
+    {
+      "b": "El volante del Como anotó el segundo gol ante Benín tras una asistencia de Messi. Usa el 18, que fue del capitán.",
+      "body": [
+        "En la despedida de Messi hubo un momento que mira hacia adelante. Nico Paz entró desde el banco. Convirtió el segundo gol del 3 a 0 contra Benín.",
+        "La jugada empezó con un pase de Messi cerca del área. Paz tomó la pelota y definió con un zurdazo colocado. El arquero Marcel Dandjinou no llegó. Paz había entrado dos minutos antes, en lugar de Rodrigo De Paul.",
+        "Infobae lo llamó \"el grito de la sucesión\". Es que Paz usa la camiseta 18, que fue de Messi en la Selección. La nota lo señala como posible heredero de la 10.",
+        "Paz nació el 8 de septiembre de 2004 en Tenerife, España. Es hijo de Pablo Paz, un ex defensor que jugó el Mundial de Francia 1998. Hoy juega en el Como 1907, de Italia, que disputa la Champions League esta temporada.",
+        "Jugó su primer Mundial en 2026 y se ganó la confianza de Lionel Scaloni. Argentina perdió la final 1 a 0 contra España. Paz prometió dar todo para recuperar la copa. Messi, en tanto, cerró su camino con números enormes. Fue su partido 208 con la Selección y su gol 126, de penal. Había debutado el 17 de agosto de 2005 contra Hungría, en Budapest.",
+        "Ganó el Mundial 2022, las Copas América 2021 y 2024 y la Finalissima 2022. También el oro olímpico de Beijing 2008 y el Mundial Sub-20 de 2005.",
+        "Scaloni ya reconoció que armar el recambio sin Messi será duro. La nota no trae fechas de los próximos partidos de la Selección. Todavía no hay datos confirmados en la fuente.",
+        "Por qué importa: Argentina arranca una etapa nueva sin su capitán. Un gol de un joven de 22 años, asistido por Messi, marca un posible camino."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Nico Paz hizo un golazo en la despedida de Messi y suena como sucesor",
+      "u": "https://www.infobae.com/deportes/2026/10/07/el-grito-de-la-sucesion-el-golazo-de-nico-paz-en-la-despedida-de-messi-de-la-seleccion-y-el-guino-del-destino/",
+      "v": "Selección"
+    },
+    {
+      "b": "Franco llega al fin de semana sprint de Marina Bay tras el 13° puesto en Malasia. Alpine arriesgó con la estrategia y le salió mal.",
+      "body": [
+        "Franco Colapinto se prepara para el Gran Premio de Singapur. Lo definió como un circuito extremo. \"Es una pista implacable\", dijo, según El Sol.",
+        "Llega con la espina de Malasia. Largó 21° por sanciones y terminó 13°. La carrera se disputó en Sepang y la ganó Max Verstappen. Kimi Antonelli fue segundo.",
+        "En esa carrera, Alpine tomó una decisión que le costó caro. La largada se demoró por la pista mojada. El equipo mandó a Franco y a Pierre Gasly con neumáticos para piso seco. El asfalto tardó mucho en secarse.",
+        "Los dos autos perdieron agarre y patinaron en la largada. Colapinto fue muy duro con la elección. Dijo que fue la peor decisión que se podía haber tomado. Alpine respondió que a veces asume riesgos y salen mal.",
+        "Franco destacó que, con neumáticos lisos, tuvo buen ritmo y pasó a varios rivales. Aun así, Alpine no sumó puntos.",
+        "Ahora viene Marina Bay, un circuito callejero de 5,065 kilómetros y 23 curvas, según MDZ. Colapinto lo considera uno de sus favoritos del año. Le gusta la mezcla de velocidad y precisión. Hay muy poco margen de error, con muros muy cerca.",
+        "Será el último fin de semana sprint de la temporada. Un sprint es una carrera corta, con su propia clasificación. Por eso habrá dos clasificaciones. Franco quiere aprovecharlas para largar bien y terminar entre los diez primeros. Los horarios, en hora argentina: la clasificación del sprint es el viernes a las 9:30. El sprint es el sábado a las 6:00. La clasificación va a las 10:00. La carrera es el domingo 11 a las 9:00.",
+        "Por qué importa: Alpine no suma puntos hace dos carreras. Singapur es una chance de revancha. El calor y la humedad exigen mucho."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "El Sol / MDZ",
+      "t": "Colapinto va por la revancha en Singapur: \"Es una pista implacable\"",
+      "u": "https://www.elsol.com.ar/deportes/franco-colapinto-anticipo-un-gp-de-singapur-extremo-es-una-pista-implacable/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "Sin puntos en sus últimas dos carreras, el equipo de Colapinto y Gasly busca reacomodarse. Gasly dice que el auto dio buenas señales.",
+      "body": [
+        "Alpine llega a Singapur con una distancia que preocupa. Está a 22 puntos de Racing Bulls en el campeonato de constructores. Es la tabla que suma los puntos de los dos pilotos de cada equipo.",
+        "Alpine no puntuó en sus últimas dos carreras. En Malasia quedó con 68 puntos. Racing Bulls, en cambio, sumó siete allí: Liam Lawson fue séptimo y Arvid Lindblad, décimo.",
+        "Pierre Gasly, compañero de Colapinto, evaluó el fin de semana de Sepang. Reconoció que la estrategia arriesgada del equipo no funcionó. Aun así, dijo que el auto dejó señales positivas.",
+        "Según Gasly, Alpine se apoya en esa buena base para Singapur. Admitió que los rivales están bastante lejos. Pero cree que todavía hay puntos en juego. Viajó por carretera desde Sepang el lunes.",
+        "El fin de semana tiene una particularidad. Es sprint. Hay una sola práctica libre antes de la primera clasificación del viernes. Los equipos tendrán poco tiempo para ajustar los autos.",
+        "Panorama País suma otros datos de la pista. Marina Bay entró al calendario en 2008, cuando ganó Fernando Alonso la primera carrera nocturna. En 2023 el trazado pasó de 23 a 19 curvas, según esa nota. En 16 carreras allí, el ganador salió desde la pole en 11. La pole es el primer lugar de la grilla.",
+        "Esa nota calcula una probabilidad de 83% de que salga el Safety Car. Es el auto que entra a pista para frenar a los demás tras un accidente. Aclaró que Verstappen nunca ganó en Singapur. Hay una diferencia entre fuentes: MDZ habla de 23 curvas y Panorama País de 19. Conviene tomar el dato con cuidado.",
+        "Por qué importa: con dos clasificaciones y un sprint, Alpine tiene más chances de puntuar. Cada punto cuenta para achicar la brecha con Racing Bulls."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "El Litoral / Panorama País",
+      "t": "Alpine llega a Singapur a 22 puntos de Racing Bulls en el campeonato",
+      "u": "https://www.ellitoral.com/deportes/francocolapinto-singapur-marinabay-alpine-pierregasly-circuitourbano_0_NdbAQI3yif.html",
+      "v": "Alpine"
+    },
+    {
+      "b": "OpenAI lanzó GPT-6 en ChatGPT junto con \"Intelligent UI\", una forma de contestar con elementos interactivos. Empezó el miércoles para los planes pagos y llega hoy a los gratuitos.",
+      "body": [
+        "OpenAI presentó el miércoles GPT-6 para ChatGPT. Un modelo es el programa de inteligencia artificial que genera las respuestas. Según la empresa, más de 1.200 millones de personas usan ChatGPT cada semana. Los primeros GPT-6 para clientes pagos habían salido el mes pasado.",
+        "La gran novedad se llama Intelligent UI. UI significa interfaz de usuario: lo que ves en pantalla. Ahora ChatGPT puede contestar con gráficos, botones para tocar y formularios. Ya no solo con texto.",
+        "El formato depende de la pregunta. Si alcanza con texto, sigue usando texto. Si te sirve más un mapa o una calculadora, te la arma ahí mismo.",
+        "OpenAI dio ejemplos cotidianos. Una línea de tiempo para cocinar un asado. Un armador de outfits. Un mapa de viaje en auto, con paradas y notas. También explicaciones interactivas del PBI o del problema de Monty Hall. Ahí podés cambiar los datos y ver cómo cambia el resultado. Se puede pedir además un divisor de cuentas o un juego retro.",
+        "TechCrunch sumó otros casos. Ante la pregunta de cómo vuela un avión, ChatGPT dibujó varios diagramas del ala. También mostró una calculadora de ahorros personales. Quien prefiera menos imágenes puede reducirlas.",
+        "Hay datos de velocidad, pero salen de pruebas internas de OpenAI. En búsquedas web, GPT-6 Instant empieza a responder un 44% antes que GPT-5.6 Instant. La empresa dice que rechaza menos pedidos sin motivo. También afirma que resiste mejor los intentos de saltarse sus reglas de seguridad.",
+        "El despliegue es escalonado. Desde el miércoles 7 de octubre llega a los planes Plus, Pro, Business y Enterprise. Ahí usan el modelo GPT-6 Sol. Este jueves 8 se suma a los planes Free y Go, con GPT-6 Luna. Las secciones Work y Codex no cambian. La nota no informa precios.",
+        "Por qué importa: hasta ahora los chatbots te devolvían párrafos. Si las respuestas son pantallas con herramientas, usar la IA es como abrir una app. Y llega a millones de personas que no programan."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "OpenAI / TechCrunch",
+      "t": "ChatGPT estrena GPT-6 y responde con gráficos, botones y formularios",
+      "u": "https://openai.com/index/gpt-6-for-everyone/",
+      "v": "ChatGPT"
+    },
+    {
+      "b": "El REM del Banco Central proyecta un dólar mayorista de $1.614 en diciembre. La inflación de 2026 cerraría en 30%.",
+      "body": [
+        "Los analistas privados esperan un dólar mayorista de $1.614 para diciembre. Es la mediana del REM, la encuesta mensual que hace el Banco Central.",
+        "Ojo con un detalle. El REM informa el promedio del mes, no el precio del último día. Para octubre proyectan $1.545 y para noviembre $1.580. El pronóstico de diciembre bajó $15,30 respecto de la encuesta anterior. Contra diciembre de 2025, la suba sería de 11,5%. Los diez analistas más acertados apuntan a $1.602.",
+        "En inflación, la mediana prevé 30% para todo 2026, de diciembre a diciembre. Los más acertados estiman 30,3%. En agosto, la inflación interanual fue de 33,5%. Eso significa una baja de 3,5 puntos en cuatro meses. A fines de 2025, el mercado esperaba cerca de 20% para este año. Esa cifra quedó descartada en agosto.",
+        "Mes a mes, esperan 1,9% en septiembre, 1,7% en octubre y 1,6% en noviembre. Diciembre subiría a 1,8%. Noviembre sería el mes más bajo del año. La inflación núcleo, que deja afuera los precios más volátiles, cerraría 2026 en 28%.",
+        "Las tasas siguen por encima de los precios. La Tamar, que pagan los bancos privados por depósitos grandes, rondaría 23,56% anual en octubre. Equivale a 1,94% mensual. Es más que la inflación mensual esperada.",
+        "La actividad preocupa. Prevén una caída del PBI de 1% en el tercer trimestre. En el segundo había bajado 0,6%. Dos caídas seguidas se llaman recesión técnica. Esperan un rebote de 1,8% en el cuarto trimestre. Para todo 2026 proyectan un crecimiento de 1,5%. El Presupuesto del Gobierno suponía 5%. La desocupación llegaría a 7,5% en el tercer trimestre y 7,7% en el cuarto.",
+        "En el frente externo, estiman exportaciones por USD 101.200 millones. Las importaciones sumarían USD 75.499 millones. El superávit comercial sería de USD 25.701 millones. El superávit primario sería de $15 billones. Es lo que sobra de ingresos tras gastos, sin contar intereses.",
+        "Por qué importa: estos números sirven de referencia para contratos, ahorros y precios en pesos. Son expectativas del sector privado y pueden no cumplirse."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Dólar a $1.614 e inflación de 30%: qué esperan los analistas para fin de año",
+      "u": "https://www.infobae.com/economia/2026/10/07/a-cuanto-llegaran-el-dolar-y-la-inflacion-a-fin-de-ano-segun-los-principales-analistas-del-pais/",
+      "v": "Expectativas"
+    },
+    {
+      "b": "La empresa dice que es el modelo pequeño más capaz que sacó. Cuesta un 75% menos que su versión anterior, según la compañía.",
+      "body": [
+        "Anthropic presentó el miércoles Claude Haiku 5.5. Claude es su asistente de inteligencia artificial. Haiku es la línea de modelos chicos. Un modelo es el programa que genera las respuestas.",
+        "La empresa dice que es el más barato, rápido y capaz de sus modelos pequeños. Sirve para tareas masivas, como resumir textos, clasificar mensajes o consultar bases de datos. También para atención al cliente en vivo, donde importa responder rápido. Es el primer Haiku con un ajuste de esfuerzo. Con él, elegís entre gastar menos o ganar inteligencia.",
+        "El precio se mide en tokens. Un token es un pedacito de texto, más o menos una sílaba. Los desarrolladores pagan por cada millón de tokens que envían y que reciben. En pedidos de hasta 100.000 tokens, Haiku 5.5 cobra 0,10 dólar por millón de entrada. Por millón de salida cobra 0,50. Haiku 4.5 cobraba 1 y 5 dólares.",
+        "Anthropic calcula un ahorro promedio del 75% frente a Haiku 4.5. En pedidos chicos llega al 90%. En pedidos largos, al 50%.",
+        "Los resultados de pruebas de rendimiento los informó la propia empresa. Una prueba mide si la IA maneja programas sola. Ahí Haiku 5.5 sacó 72,4%. Haiku 4.5 había sacado 15,7%. Anthropic dice que también supera a GPT-6 Luna, de OpenAI, en las pruebas comparadas. Clientes como Asana y Box reportaron respuestas más rápidas.",
+        "No es el más potente. Sonnet 5.5 puntúa más alto en todas las pruebas. Sigue siendo la opción para programación compleja. Anthropic también bajó a la mitad el costo de reutilizar datos guardados en Sonnet 5.5.",
+        "Haiku 5.5 ya está disponible en Amazon Web Services, Google Cloud y Microsoft Azure. Los programadores lo llaman con el nombre claude-haiku-5-5. Lo hacen mediante una API. Es la puerta para conectar un programa propio con el modelo. Los suscriptores Max y Team reciben además créditos mensuales de API.",
+        "Por qué importa: los modelos chicos corren millones de veces por día en apps. Si cuestan una décima parte, muchos productos con IA pueden abaratarse."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "Anthropic",
+      "t": "Anthropic lanza Claude Haiku 5.5, su modelo chico más barato y rápido",
+      "u": "https://www.anthropic.com/claude-haiku-5-5",
+      "v": "Anthropic"
+    },
+    {
+      "b": "El ministro quiere acuerdos rápidos con gobernadores. Karina Milei y los Menem esperan definir antes las PASO.",
+      "body": [
+        "Luis Caputo quiere cerrar ya un gran acuerdo entre la Casa Rosada y las provincias. Busca respaldo político para el programa económico. El sector político de La Libertad Avanza (LLA) tiene otros tiempos. Primero quiere definir la eliminación de las PASO, las primarias abiertas.",
+        "Según Infobae, el entorno de Karina Milei pospone el acuerdo electoral y las candidaturas. Un colaborador resumió: \"Una vez que eliminemos las PASO, vemos\". Diego Santilli, jefe de Gabinete, todavía no convocó a los gobernadores radicales. Sus allegados dijeron: \"Esta semana nada\".",
+        "Del lado de los gobernadores hay matices. Maximiliano Pullaro (Santa Fe) apoya suspender las PASO. Raúl Jalil (Catamarca) muestra buena predisposición. Un gobernador de una provincia grande, sin nombre, pide cerrar el acuerdo antes de suspenderlas. Rolando Figueroa (Neuquén) pidió dejar de pelear por \"el último concejal\".",
+        "La Política Online cuenta el cálculo en el Senado. El Gobierno quiere la media sanción antes de fin de octubre. La Cámara Nacional Electoral recomendó que cualquier reforma se haga este año. Los gobernadores radicales controlan siete de los diez senadores de la UCR.",
+        "Alfredo Cornejo (Mendoza) es el más duro. Pide que la Casa Rosada evite que Luis Petri compita por la gobernación. El Gobierno aceptó analizarlo. Sus senadores Rodolfo Suárez y Mariana Juri aún no recibieron orden de voto. Leandro Zdero (Chaco) respaldó eliminar las PASO. Chaco ya las suprimió a nivel provincial.",
+        "En el bloque radical, Eduardo Vischi dice que no hay posición definida. Presentó a título personal una propuesta para hacerlas optativas. Según fuentes correntinas, a Gustavo Valdés le convendría que sigan vigentes. Su par Juan Pablo Valdés se manifestó a favor de eliminarlas.",
+        "El Gobierno sostiene que los cinco gobernadores radicales tienen posiciones públicas compatibles con la suspensión. LPO advierte que apoyan en público, pero no definen los votos. LPO suma otro objetivo oficial: restarle margen a Patricia Bullrich. Según fuentes del Gobierno, ella traba iniciativas en el Senado.",
+        "Por qué importa: la suspensión de las PASO necesita votos en el Senado. Sin acuerdo con los gobernadores, puede demorarse. Cada sector pide garantías antes de ceder."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / La Política Online",
+      "t": "Suspensión de las PASO: Caputo pide acelerar, el ala política tiene otro timing",
+      "u": "https://www.infobae.com/politica/2026/10/08/luis-caputo-pide-acelerar-los-acuerdos-con-gobernadores-pero-el-ala-politica-tiene-otro-timing/",
+      "v": "PASO"
+    },
+    {
+      "b": "El Gobierno frenó licitaciones del Bonar 2029 y evalúa alternativas. Una economista advierte un faltante de USD 23.300 millones.",
+      "body": [
+        "El programa financiero del Gobierno para 2026 y 2027 quedó en duda. Subieron las tasas internacionales y se frenaron las licitaciones de bonos en el mercado local.",
+        "Caputo buscaba colocar USD 6.000 millones en 2026 en el mercado local. Para 2027 quería USD 5.000 millones. La Secretaría de Finanzas, a cargo de Federico Furiase, dejó de ofrecer el Bonar 2029. No llegó a la meta de USD 2.000 millones para este año. Faltan USD 800 millones. Fuentes del Ministerio dicen que no es un problema si las condiciones no convienen.",
+        "Para 2027, Economía prevé pagos por USD 25.400 millones. Los cubriría con USD 4.900 millones de compras de dólares al Banco Central. Sumaría USD 1.800 millones de rollover dentro del sector público. El FMI aportaría USD 1.700 millones. Otros USD 4.200 millones vendrían de organismos internacionales. Solo los intereses de Globales y Bonares de enero suman USD 4.300 millones.",
+        "La opción principal es el rollover, o sea renovar los bonos que vencen. Funcionarios dicen que un escenario sin rollover sería \"un poco ridículo\". Depende de las tasas y de la confianza de los inversores en un año electoral. Una fuente oficial agrega que hay amortiguadores previstos aun sin renovación.",
+        "Milei y Caputo hablan de USD 75.000 millones ante una posible corrida cambiaria. Incluyen compras del Banco Central y swaps de USD 20.000 millones con Estados Unidos. Otro swap igual es con China. Suman intervención en dólar futuro. No está definido si esos fondos pagarían deuda en moneda extranjera.",
+        "La mirada crítica viene de Marina Dal Poggetto, de EcoGo. Rehízo las cuentas con supuestos menos favorables. Calculó un faltante de USD 23.300 millones. Supone que 2027 arranca sin los USD 3.700 millones de caja que Economía preveía. También advierte que colocar bonos locales será difícil si las tasas no bajan.",
+        "Contrasta con lo dicho en julio. Entonces Caputo aseguró que los vencimientos de 2026 y 2027 estaban cubiertos. Según Clarín, citado por La Política Online, Economía avisó a inversores que frenó los Bonares. El Banco Galicia señaló algo parecido. Si las tasas no bajan, el mercado preguntará por fuentes alternativas.",
+        "Por qué importa: el Gobierno ve cubierto el pago de 2027. Los críticos ven un hueco de miles de millones. Esa diferencia define cuánta deuda nueva hará falta."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae / La Política Online",
+      "t": "Cómo pagaría Economía la deuda de 2027 si suben las tasas y se frenan las colocaciones",
+      "u": "https://www.infobae.com/economia/2026/10/07/las-alternativas-que-evalua-economia-para-pagar-la-deuda-en-2027-ante-la-suba-de-tasas-y-el-freno-de-las-colocaciones-locales/",
+      "v": "Deuda"
+    },
+    {
+      "b": "La fintech argentina presentó un protocolo que conecta agentes de IA con cuentas en pesos, reales, dólares y cripto.",
+      "body": [
+        "Belo, una fintech argentina, lanzó Agentic Banking MCP V1.0. Es un protocolo que conecta agentes de inteligencia artificial con cuentas financieras. Permite operar en pesos, reales, dólares y criptomonedas. La empresa quiere liderar la \"banca agéntica\" en América Latina.",
+        "El sistema usa el Model Context Protocol (MCP). Es un estándar que da herramientas a los modelos de lenguaje. Así pueden actuar sobre sistemas reales. Para el CEO Manuel Beaudroit, la banca supuso por un siglo que alguien hacía clic.",
+        "La regla es simple. El usuario da la orden, el agente propone y el humano aprueba. El agente analiza saldos, tipos de cambio y comisiones. Después presenta la operación para la confirmación final. La empresa lo llama autonomía delegada bajo supervisión humana.",
+        "La primera versión permite tres usos. Uno es cambiar divisas y cripto. Por ejemplo, comprar Bitcoin con reales o USDT con pesos. Otro es emitir una tarjeta Visa virtual prepagada. Sirve para pagar servicios o pasajes en el exterior. El tercero son pagos entre países. Por ejemplo, pagar un hospedaje en Brasil por Pix con una orden de voz.",
+        "Según la nota, un agente necesita cuatro cosas. Permisos persistentes con límites de gasto. Cuentas legibles por máquinas. Liquidación en tiempo real. Y trazabilidad, con registro de cada instrucción que ejecuta la IA.",
+        "El cronograma de octubre tiene tres hitos. En la segunda semana habrá acceso progresivo para la lista de espera. El 7 Beaudroit presentó el producto en el evento Agentic Zero, en San Francisco. El 28 habrá un hackatón para desarrolladores en las oficinas de Belo en Buenos Aires.",
+        "El artículo no informa montos, comisiones ni cantidad de usuarios en espera. Las afirmaciones sobre el producto vienen de la propia empresa.",
+        "Por qué importa: grandes redes como Visa también exploran pagos hechos por agentes de IA. Belo apuesta a llegar primero en la región, con la aprobación humana como límite."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Belo lanza la primera banca agéntica de Latam para que una IA opere tu cuenta",
+      "u": "https://www.iproup.com/finanzas/72121-inteligencia-artificial-bancos-como-acceder-sistema-argentino-automatiza-cuenta",
+      "v": "Fintech"
+    },
+    {
+      "b": "Dos consorcios compiten por AySA. El Gobierno espera menos de USD 500 millones, según Infobae.",
+      "body": [
+        "Este jueves 8 de octubre, a las 10, el Gobierno abre los sobres económicos. Son las ofertas por AySA. Se vende el 90% de las acciones. El 10% restante pertenece a los trabajadores y queda afuera.",
+        "AySA da agua y cloacas a unos 14 millones de personas. Cubre la Ciudad y 26 municipios del conurbano. La licitación no tiene precio base. De 17 oferentes iniciales, quedaron dos consorcios.",
+        "El primero es Roggio ROAS, liderado por el Grupo Roggio, que opera Aguas Cordobesas. El segundo es Rowing S.A., una ingeniería fundada por Walter Román. Lo integran Transclor, de Mauricio Filiberti, y el grupo brasileño Equipav. También un fondo con sede en Países Bajos.",
+        "Según Infobae, ambas ofertas serían menores a los USD 500 millones que espera recaudar Economía. Existe una tasación del BICE, un banco público, guardada bajo encriptación. Es indicativa y no vinculante. Aun así, la comisión puede declarar inconveniente una oferta que quede por debajo.",
+        "Si las dos mejores ofertas difieren en 5% o menos, hay un día hábil. Sirve para mejorarlas. El proceso se repite hasta tener un ganador. Perfil aclara que abrir los sobres no implica adjudicar. Falta evaluar y adjudicar.",
+        "El contrato dura 30 años, prorrogables por diez. La tarifa y el plan de inversiones ya están fijados. El ganador debe invertir al menos USD 2.000 millones en cinco años. En toda la concesión, entre USD 13.000 y USD 15.000 millones. La revisión integral de tarifas llegaría recién en 2032. Los 160.000 usuarios con tarifa social conservarían el beneficio.",
+        "AySA fue estatizada en 2006. Recibió unos USD 13.400 millones del Estado en 20 años. Perdió $503.647 millones en 2023. Ganó $63.522 millones en 2024 y $22.088 millones en 2025. El nuevo operador asumiría entre enero y febrero de 2027.",
+        "Por qué importa: es la privatización más grande en marcha. Define quién maneja un servicio esencial para millones de hogares y cuánto cobra el Estado. El resultado de la apertura de ofertas todavía no se conocía al cierre de esta edición."
+      ],
+      "id": "eco2",
+      "sec": "Economía",
+      "src": "Infobae / Perfil",
+      "t": "AySA: hoy se abren las ofertas por el 90% de la empresa de agua",
+      "u": "https://www.infobae.com/economia/2026/10/07/manana-se-define-la-privatizacion-de-aysa-que-consorcios-compiten-por-el-control-de-una-empresa-de-servicios-clave/",
+      "v": "Privatización"
+    },
+    {
+      "b": "Flávio Bolsonaro y Lula se enfrentan el 25 de octubre. Cada campaña ajusta su estrategia.",
+      "body": [
+        "Brasil define su presidente el 25 de octubre. En la primera vuelta, Flávio Bolsonaro, del Partido Liberal (PL), sacó cerca de 47%. Lula da Silva, del PT, obtuvo cerca de 45%. Nadie alcanzó la mayoría. Unos 33 millones de brasileños no votaron.",
+        "Flávio sumó apoyos. Romeu Zema, gobernador de Minas Gerais, lo respaldó el lunes. El martes lo hizo Ronaldo Caiado, ex gobernador de Goiás, que quedó quinto con 2,18%. En campaña Caiado había llamado \"mentiroso\" a Flávio. Ahora dice que busca impedir que el PT gobierne. También pidió una amnistía para Jair Bolsonaro, condenado a 27 años por una trama golpista.",
+        "Flávio prometió reformar la Constitución si gana. Habló de \"redemocratizar\" el país. No detalló qué artículos cambiaría. El PL pasó de 98 a 121 diputados y de 15 a 28 senadores. Una enmienda necesita tres quintos de ambas cámaras: 308 diputados y 49 senadores. Por eso tendría que negociar con otros partidos. La federación Unión Brasil-Progresistas ya declaró su apoyo.",
+        "En lo económico, Flávio rechaza eliminar la escala de seis días de trabajo. Plantea más flexibilidad horaria, apoyo a guarderías y menos impuestos y burocracia sobre la nómina. Dijo: \"Quienes quieran trabajar más, trabajarán más\". Confirmó que irá a los debates.",
+        "El equipo de Lula prepara una campaña más confrontativa. Presenta una victoria de Flávio como amenaza para los programas sociales. Una de sus primeras piezas recordó recortes del gobierno de Jair Bolsonaro. Afectaron medicinas, vivienda y alimentación escolar. Lula admitió que esperaba ganar en la primera vuelta. Anunció \"otra campaña\" para recuperar a quienes no votaron.",
+        "Ambos comandos buscan votantes ausentes y de candidatos eliminados. La campaña de Lula apunta a los estados donde la diferencia será más reducida. Algunos candidatos de centro y derecha descartaron apoyar a cualquiera de los dos.",
+        "Por qué importa: el Gobierno argentino leyó la primera vuelta como respaldo a su rumbo. Milei dijo ante su gabinete que el plan de Lula no sirve. Ambos candidatos buscan ahora votantes que no fueron a las urnas."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae",
+      "t": "Balotaje en Brasil: Flávio suma apoyos y promete reformar la Constitución; Lula cambia el tono",
+      "u": "https://www.infobae.com/america/america-latina/2026/10/07/balotaje-en-brasil-bolsonaro-busca-confrontar-a-lula-y-el-oficialismo-apuesta-por-una-campana-de-miedo-y-polarizacion/",
+      "v": "Brasil"
+    },
+    {
+      "b": "La empresa subió a GitHub pruebas sobre problemas abiertos, con verificación por computadora. Un grupo independiente del Instituto de Estudios Avanzados la asesora.",
+      "body": [
+        "OpenAI publicó el 6 de octubre resultados matemáticos de un modelo interno. Un modelo es el programa de IA que genera las respuestas. Este todavía no está disponible para el público. Los resultados incluyen problemas abiertos. Son preguntas que ningún matemático había resuelto.",
+        "Los materiales están en GitHub, un sitio donde se comparten archivos de programación. Incluyen las pruebas, un protocolo para corregirlas y reglas para citarlas.",
+        "Muchas demostraciones traen formalizaciones en Lean. Lean es un lenguaje. Permite que una computadora compruebe, paso a paso, si una demostración es correcta. OpenAI dice que agregará más a medida que estén listas.",
+        "También se publicaron diez resúmenes del razonamiento del modelo y estadísticas de cuántos problemas intentó. En promedio, cada resultado usó unas tres horas de razonamiento de ChatGPT Pro.",
+        "La forma de difundirlo se consultó con un grupo independiente. Es el Grupo Asesor sobre Matemática e Inteligencia Artificial. Lo aloja el Instituto de Estudios Avanzados de Princeton. Según The Next Web, lo integran nueve matemáticos, entre ellos Timothy Gowers y Edward Witten. Los miembros no cobran.",
+        "En septiembre, OpenAI dijo que el modelo resolvió más de 100 problemas abiertos. Esa lista no se hizo pública. Una carta abierta criticó usar problemas abiertos para medir a una IA. La firmaron 25 ganadores de la medalla Fields. Entre los nuevos asesores, solo Camillo De Lellis la firmó.",
+        "El grupo aclara que no tiene poder de decisión. La responsabilidad es de la empresa. Puede publicar consejos que OpenAI no pidió. Lo que viene: OpenAI financiará talleres y congresos. También busca liberar el modelo a científicos de forma responsable.",
+        "Por qué importa: si una IA resuelve problemas que nadie resolvió, hay que poder comprobarlo. Con verificación por computadora y revisión externa, los matemáticos evalúan los resultados. No dependen de la palabra de la empresa."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "OpenAI / The Next Web",
+      "t": "OpenAI publica resultados matemáticos de su modelo y pide revisión externa",
+      "u": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "v": "Matemática"
+    },
+    {
+      "b": "Funcionarios estadounidenses recorren el país hasta el viernes. El titular habla de USD 7.000 millones.",
+      "body": [
+        "Una misión del gobierno de Estados Unidos llegó el lunes 5 de octubre. Se queda hasta el viernes 9. Busca concretar inversiones en el corredor Andes-Atlántico. El título de la nota las calcula en USD 7.000 millones.",
+        "El corredor es una iniciativa bilateral. Apunta a mejorar la conexión entre zonas productivas argentinas y los puertos del Atlántico. Cubre transporte, energía, minería e infraestructura. Se lanzó el 23 de septiembre en Nueva York. Lo presentaron el canciller Pablo Quirno y el subsecretario de Estado Christopher Landau.",
+        "Encabeza la delegación Katrien Hinderdael. Dirige Infraestructura e Inversión Global en el Departamento de Estado. La integran Danielle Monosson, de la oficina de Brasil y Cono Sur. También Ryan Berg, de la DFC. Y Carter Mateer, del Exim Bank. La DFC y el Exim son organismos estadounidenses de financiamiento.",
+        "El embajador Peter Lamelas recibió a la misión. El martes 6 se reunió con Quirno en el Palacio San Martín.",
+        "La agenda incluye Buenos Aires y el norte del país. En Jujuy habrá un seminario de litio. Hinderdael participará en un panel sobre la relación bilateral. Hablará de seguridad de suministro y minerales críticos.",
+        "Infobae explica el contexto. En 2026 ambos países profundizaron su cooperación en minería y procesamiento. Washington busca diversificar sus cadenas de suministro de minerales críticos.",
+        "La nota no detalla los proyectos concretos ni las empresas involucradas. Tampoco explica cómo se compone la cifra de USD 7.000 millones.",
+        "Por qué importa: el corredor abarca transporte, energía y minería. Busca atraer inversión estadounidense en minerales críticos, como el litio."
+      ],
+      "id": "pol3",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Una misión de EE.UU. llegó para concretar inversiones en el corredor Andes-Atlántico",
+      "u": "https://www.infobae.com/politica/2026/10/08/una-mision-de-eeuu-llego-a-la-argentina-para-concretar-las-inversiones-de-usd-7-mil-millones-en-el-corredor-andes-atlantico/",
+      "v": "EE.UU."
+    },
+    {
+      "b": "La Casa Rosada quiere a Nadia Márquez al frente de la comisión que trata los pliegos judiciales. Los dialoguistas reprochan la presión.",
+      "body": [
+        "La comisión de Acuerdos del Senado es clave. Trata todos los pliegos judiciales, incluidos los de la Corte Suprema. También ascensos militares y diplomáticos. Hoy está en disputa.",
+        "Todo empezó con la muerte de Juan Carlos Pagotto la semana pasada. Era senador mileísta por La Rioja. La Casa Rosada quiso poner rápido en su lugar a la neuquina Nadia Márquez. Márquez es abogada. El año pasado encabezó la lista al Senado que ganó en Neuquén.",
+        "El plan oficialista tenía tres pasos. Primero, que el rionegrino Enzo Fullone reemplazara a Pagotto en la comisión. No se concretó, porque el decreto llegó cuando la reunión ya había terminado. Segundo, votar a Márquez presidenta. Tercero, que ella cediera Legislación General al chaqueño Juan Cruz Godoy.",
+        "El miércoles 7 hubo audiencia en el Salón Azul. No hubo quórum, aunque los postulantes expusieron. Faltaron varios dialoguistas. Maximiliano Abad, vicepresidente de la comisión, estaba en España. Sandra Mendoza y Beatriz Ávila, de Tucumán, no asistieron. Carolina Losada decidió no ir. Solo estuvieron senadores de La Libertad Avanza, con Carlos Arce a cargo.",
+        "Los aliados no discuten que el oficialismo conserve Acuerdos. Reprochan la velocidad y los llamados con presión tras la muerte de Pagotto. Dos dialoguistas recordaron una probation, una suspensión del proceso penal, que Márquez aceptó años atrás. La ley de Ficha Limpia de Neuquén le impide ser candidata allí. No le impide serlo a nivel nacional. Para ellos, ese antecedente no encaja con presidir la comisión de pliegos de la Corte.",
+        "La defienden Karina Milei, Martín Menem y Lule Menem. En el Senado, La Libertad Avanza empata con el kirchnerismo en 21 bancas.",
+        "Por qué importa: quien presida Acuerdos influye en los tiempos de los nombramientos de jueces. Oficialismo y aliados todavía no se ponen de acuerdo."
+      ],
+      "id": "pol2",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Puja en el Senado por la comisión de Acuerdos: los aliados dudan de la candidata oficial",
+      "u": "https://www.infobae.com/politica/2026/10/08/puja-en-el-senado-por-la-estrategica-comision-de-acuerdos-los-aliados-dudan-de-la-candidata-del-gobierno/",
+      "v": "Senado"
+    },
+    {
+      "b": "El máximo tribunal bonaerense funciona con tres de siete miembros y pide crear más de 60 órganos judiciales.",
+      "body": [
+        "La Suprema Corte bonaerense funciona con tres de sus siete integrantes. Hay cuatro cargos vacantes. Los jueces en funciones son Sergio Torres, presidente, Daniel Soria, vicepresidente, e Hilda Kogan.",
+        "Según Infobae, en seis años de Axel Kicillof no se enviaron postulantes a la Corte. La última designación fue la de Torres, bajo la gobernación de María Eugenia Vidal. Torres se reunió con Alejandro Dichiara, presidente de Diputados, y con la vicegobernadora Verónica Magario. Hasta la publicación no había novedades.",
+        "El 28 de abril, la Corte ya había reclamado cubrir las vacantes. También presentó un proyecto de autonomía presupuestaria para el Poder Judicial.",
+        "Ahora suma pedidos para ampliar la estructura. La Resolución 2917/26 pide crear más de 60 órganos judiciales. Abarca los fueros Penal, Civil y Comercial, Familia, Contencioso Administrativo y Laboral. Incluye 12 Juzgados de Garantías y 12 tribunales laborales. Advierte que necesitan presupuesto, personal y edificios.",
+        "La Resolución 2918/26 propone crear 40 cargos de jueces suplentes. El argumento: las vacantes subieron más de 100%. Los jueces en funciones crecieron 12%. Propone reorganizar el cuerpo en nueve regiones.",
+        "Una tercera iniciativa apunta a las Cámaras de Apelación en lo Contencioso Administrativo. Los ingresos anuales pasaron de 3.900 causas en 2015 a 15.700 en 2025. Pide un juez más en La Plata. También dos en cada cámara de San Martín, San Nicolás y Mar del Plata.",
+        "Las tres resoluciones fueron remitidas a la Comisión Permanente del Mapa Judicial. La nota no recoge la respuesta del gobierno de Kicillof. La propia nota señala que las fechas de las resoluciones no son del todo consistentes.",
+        "Por qué importa: la Justicia bonaerense pide más jueces y recursos a Kicillof. Mientras, la Corte sigue incompleta."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "La Corte bonaerense le reclama a Kicillof ampliar juzgados mientras discuten sus vacantes",
+      "u": "https://www.infobae.com/politica/2026/10/08/en-plena-puja-por-sus-vacantes-la-corte-bonaerense-tambien-le-reclama-a-kicillof-ampliar-juzgados/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "Tenía 90 años. Lideró el equipo del software de vuelo del programa Apolo y ayudó a darle forma a la ingeniería de software.",
+      "body": [
+        "Margaret Hamilton murió el 30 de septiembre, a los 90 años. El MIT publicó su obituario el 7 de octubre. Fue una de las grandes pioneras de la programación.",
+        "Nació en 1936 en Paoli, Indiana. Se recibió de matemática en 1958 en Earlham College. En 1959 se mudó a Boston. Allí programó un software de pronóstico del tiempo para el meteorólogo Edward Lorenz.",
+        "En 1961 pasó al Laboratorio Lincoln del MIT. Trabajó en SAGE, el sistema de defensa aérea de Estados Unidos. Ahí le interesó que el software fuera confiable.",
+        "En 1965 entró al Laboratorio de Instrumentación del MIT. Ese lugar programaba las computadoras de a bordo del Apolo. Fue la primera programadora del proyecto. En 1968 ya dirigía el equipo de la nave principal. Más de 400 personas trabajaron en ese software.",
+        "Su aporte más conocido es la programación defensiva. Consiste en escribir programas que se anticipan a los errores humanos. Su hija pequeña jugaba en un simulador. Lanzó por error un programa de prelanzamiento en pleno vuelo. El sistema falló. Hamilton propuso un arreglo y al principio lo rechazaron. En el Apolo 8, el astronauta Jim Lovell cometió el mismo error. Se borraron datos de navegación. Entonces adoptaron sus cambios.",
+        "En el alunizaje del Apolo 11 saltó una alarma, la 1202, por una sobrecarga. El software de su equipo dejó de lado las tareas menos importantes. Control de Misión autorizó seguir con el alunizaje.",
+        "En 1976 fundó Higher Order Software. Años después creó Hamilton Technologies. Publicó más de 130 trabajos y popularizó el término ingeniería de software. En 2016 Barack Obama le dio la Medalla Presidencial de la Libertad. Sobreviven su hija Lauren, nietos, bisnietos y hermanos. Habrá un homenaje en Cambridge en primavera.",
+        "Por qué importa: su trabajo ayudó a que el software se considerara ingeniería de verdad. La idea de que un programa debe seguir funcionando cuando algo falla sigue vigente hoy."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "MIT News",
+      "t": "Murió Margaret Hamilton, la programadora que ayudó a llevar al hombre a la Luna",
+      "u": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "v": "Homenaje"
+    },
+    {
+      "b": "La plataforma ya tiene más de 2.000 tiendas activas y crece sin ronda de inversión.",
+      "body": [
+        "Pistacho App es una plataforma argentina para que microemprendedores armen una tienda online. También administran el negocio desde el mismo lugar. Su fundador es Alex Nemirovsky.",
+        "Los números actuales son modestos pero concretos. Hay más de 10.000 personas registradas, más de 2.000 tiendas activas y 50.000 productos publicados. La empresa proyecta ingresos por $45 millones en 2027.",
+        "Además de vender, la app ayuda a gestionar. Registra ventas, controla el inventario, organiza clientes, carga gastos y muestra el balance. Una función de IA permite fotografiar un ticket para cargar el gasto automáticamente.",
+        "Se integra con medios de cobro y envío. Entre ellos, Mercado Pago, Ualá Bis, GoCuotas, MODO, Talo Pay y Correo Argentino.",
+        "El modelo de precios combina una versión gratuita con una suscripción paga. El ticket promedio mensual ronda los $8.000. Los planes pagos permiten publicar entre 100 y 300 productos. Incluyen dominio propio, medición de rendimiento y publicidad.",
+        "El próximo paso es el comercio agéntico. Es la compra que realiza un asistente de IA en nombre del usuario. Pistacho quiere que sus productos aparezcan en las respuestas de ChatGPT y Gemini. También sigue el protocolo UCP, el Universal Commerce Protocol de Google.",
+        "En cuanto al financiamiento, la empresa crecerá con recursos propios. No planea una ronda por ahora, aunque está abierta a socios estratégicos.",
+        "Por qué importa: una startup chica busca que los comercios vendan por asistentes de IA. No solo en marketplaces."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Pistacho: la app argentina que prepara tiendas de emprendedores para vender por ChatGPT",
+      "u": "https://www.iproup.com/startups/71842-startup-argentina-pistacho-app-emprendedores-vendan-chatgpt-comercio-agentico",
+      "v": "Comercio"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "tec0",
+    "eco0",
+    "tec1",
+    "pol0",
+    "eco1",
+    "sta0",
+    "eco2",
+    "lat0",
+    "tec3",
+    "pol3",
+    "pol2",
+    "pol1",
+    "tec4",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "eco0",
+    "pol0",
+    "dep1",
+    "lat0"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.540",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.550",
+      ""
+    ],
+    [
+      "MEP",
+      "$1.542",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.614",
+      ""
+    ],
+    [
+      "Riesgo país",
+      "573",
+      ""
+    ]
+  ]
+}
