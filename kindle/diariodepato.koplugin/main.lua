@@ -6,9 +6,14 @@ de hoy (hora Argentina), la baja de GitHub Pages y la abre en la tapa. Si ya
 está, no hace nada. Guarda las últimas 7 ediciones y borra las más viejas.
 
 El Wi-Fi queda siempre prendido. Al despertar, la Kindle se reconecta sola en
-unos segundos: el agregado espera hasta un minuto a que lo haga. Si el Wi-Fi
-está apagado, lo prende y lo deja prendido. (Antes lo apagaba después de
-bajar, y al día siguiente prenderlo justo al despertar fallaba seguido.)
+unos segundos: el agregado espera hasta un minuto y medio a que lo haga. Si el
+Wi-Fi está apagado, lo prende como lo hace la Kindle (sin buscar redes, que es
+lo que fallaba) y espera a que se conecte sola a la red guardada.
+
+Además, en la Kindle, KOReader apagaba el Wi-Fi cada vez que un intento de
+conexión fallaba, y fallaba seguido porque busca redes en el mismo segundo en
+que lo prende, antes de que la Kindle esté lista. Este agregado evita ese
+apagado: un intento fallido deja el Wi-Fi prendido y la Kindle se conecta sola.
 ]]
 
 local DataStorage = require("datastorage")
@@ -30,7 +35,7 @@ local BASE = "https://patodorf1.github.io/dp-lectura-eec6/ediciones/"
 local GUARDAR = 7           -- ediciones que quedan en la Kindle
 local DESDE = 6 * 60 + 30   -- antes de las 6:30 (hora Argentina) no busca
 local REINTENTO = 15 * 60   -- después de un intento, no vuelve a buscar por 15 minutos
-local ESPERA_WIFI = 60      -- segundos que espera a que la Kindle se reconecte al despertar
+local ESPERA_WIFI = 90      -- segundos que espera a que la Kindle se conecte al Wi-Fi
 local PASO = 3              -- cada cuántos segundos se fija si ya se conectó
 
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
@@ -41,6 +46,33 @@ local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
 local arranco = false
 local ultimo_intento = 0
 local turno = 0  -- cada revisión nueva deja sin efecto la espera de la anterior
+
+-- En la Kindle, un intento fallido de conexión ya no apaga el Wi-Fi (ver arriba).
+-- KOReader lo apaga desde NetworkMgr:_abortWifiConnection; acá lo envolvemos para
+-- que haga todo lo demás igual, menos apagar el Wi-Fi.
+if Device:isKindle() and NetworkMgr._abortWifiConnection and not NetworkMgr.diario_no_apagar_wifi then
+    NetworkMgr.diario_no_apagar_wifi = true
+    local abortar = NetworkMgr._abortWifiConnection
+    NetworkMgr._abortWifiConnection = function(self)
+        local apagar = self.turnOffWifi
+        self.turnOffWifi = function() end
+        local ok, err = pcall(abortar, self)
+        self.turnOffWifi = apagar
+        if not ok then
+            logger.warn("Diario de Pato: no se pudo cancelar la conexión", err)
+        end
+    end
+end
+
+-- Prende el Wi-Fi como la Kindle: solo lo habilita y la Kindle se conecta sola a
+-- la red guardada. (KOReader además busca redes enseguida, y eso es lo que fallaba.)
+local function prenderWifi()
+    if Device:isKindle() and NetworkMgr.restoreWifiAsync then
+        NetworkMgr:restoreWifiAsync()
+        return true
+    end
+    return false
+end
 
 -- Fecha y minutos del día en Argentina (UTC-3 todo el año), sin depender de
 -- la zona horaria que tenga configurada la Kindle.
@@ -143,8 +175,8 @@ local function revisar()
 
     if NetworkMgr:isConnected() then
         seguir()
-    elseif NetworkMgr:isWifiOn() then
-        -- Recién despierta: la Kindle se está reconectando sola. Esperamos.
+    elseif NetworkMgr:isWifiOn() or prenderWifi() then
+        -- Recién despierta o recién prendido: la Kindle se está conectando sola. Esperamos.
         UIManager:show(InfoMessage:new{ text = "Esperando el Wi-Fi para bajar el diario…", timeout = 3 })
         local limite = os.time() + ESPERA_WIFI
         local function esperar()
@@ -160,7 +192,7 @@ local function revisar()
         end
         UIManager:scheduleIn(PASO, esperar)
     else
-        -- Wi-Fi apagado: lo prende y lo deja prendido para las próximas veces.
+        -- Fuera de la Kindle: lo prende KOReader y queda prendido.
         ultimo_intento = os.time()
         NetworkMgr:turnOnWifiAndWaitForConnection(seguir)
     end
