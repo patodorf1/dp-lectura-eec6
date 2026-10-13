@@ -1,0 +1,394 @@
+{
+  "fecha": "Martes 13 de octubre de 2026",
+  "fuentes": "Infobae, La Política Online, Perfil, 442, Bolavip, elDiario.es, Los Andes, TechCrunch, Meta, Anthropic, GitHub, Hugging Face, iProUP",
+  "lead": "eco0",
+  "notas": [
+    {
+      "b": "Arruabarrena define en la concentración si pone a Alarcón o a Villa. Vasco llega con una baja inesperada y sin sede confirmada para la vuelta.",
+      "body": [
+        "Boca juega esta noche, a las 21.30, la ida de la semifinal de la Sudamericana ante Vasco da Gama. Hasta la tarde de ayer, Rodolfo Arruabarrena no había confirmado el once. Lo definirá en la concentración.",
+        "La defensa y el arco están claros: Montero; Lozano, Di Lollo, Herrera y Blanco. Ascacíbar y Delgado serían los dos volantes centrales. Adelante, Flores, Palacios y Merentiel.",
+        "La duda es el reemplazo de Paredes. Con Alarcón, Boca armaría tres volantes y Palacios jugaría de enganche. Con Villa, repetiría el 4-2-3-1 que usó contra Instituto.",
+        "El técnico no dio nombres. Dijo que el equipo no tendrá las mismas características, pero que cuenta con chicos con mucho para dar. Elogió el rendimiento reciente de Alarcón y Palacios. También pidió inteligencia para evitar expulsiones.",
+        "El cuerpo técnico sumó a la lista al juvenil Camilo Rey Domenech como recambio de Paredes. El volante se perderá la serie por un desgarro de grado 2. Tomás Aranda sigue lesionado hasta fin de año.",
+        "Del lado de Vasco, la noticia es el accidente de tránsito de Cauan Barros, de 22 años. Se cortó el pie izquierdo en la madrugada del domingo y fue internado en Río. En Brasil dan por hecho que no viajará. Barros no era titular desde hacía varios partidos.",
+        "Vasco, dirigido por el portugués Pedro Emanuel, empató 0-0 con Remo el sábado en São Januário. Ese resultado lo dejó 14° en el Brasileirão, con 35 puntos. Antes había ganado cuatro seguidos. Facundo Colidio salió reemplazado en ese partido y tampoco puede jugar la serie por un problema de inscripción.",
+        "El probable once visitante: Léo Jardim; José Luis Rodríguez, Saldivia, Robert Renan y Cuiabano; Sosa, Thiago Mendes y Lescano; Andrés Gómez, Spinelli y David.",
+        "Boca llega con 17 partidos sin perder. Arbitra el chileno Piero Maza, con José Cabero en el VAR. Se ve por ESPN, Disney+ y DSports.",
+        "La vuelta es el martes 20 en Río y todavía no tiene estadio confirmado. Maracaná fue descartado. Vasco insiste con São Januário, que no llega a la capacidad que pide Conmebol. La alternativa es el Nilton Santos."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "442 / Bolavip / La Número 12 / MDZ / Netvasco",
+      "t": "Boca recibe a Vasco con una sola duda en el equipo y un rival golpeado por el accidente de Cauan Barros",
+      "u": "https://442.perfil.com/noticias/futbol/como-reemplaza-boca-a-paredes-la-respuesta-de-arruabarrena-antes-de-recibir-a-vasco-da-gama.phtml",
+      "v": "Sudamericana"
+    },
+    {
+      "b": "El lateral argentino tuvo una tarde redonda en el clásico paulista. Palmeiras quedó segundo en el Brasileirão y el miércoles juega la semifinal de la Libertadores.",
+      "body": [
+        "Agustín Giay marcó dos goles en el 4-1 de Palmeiras sobre Corinthians, por la fecha 30 del Brasileirão. El partido fue en el Nubank Parque, el domingo 11.",
+        "Alexander Barboza abrió el marcador a los 16 minutos, de cabeza, tras un córner. Antes del descanso llegó el primero de Giay. Remató de derecha después de un pase de Jhon Arias, que había recibido de Víctor Roque.",
+        "En el arranque del segundo tiempo, Matheus Bidu desvió un centro y se hizo un gol en contra. A los 51 minutos, Giay aprovechó un rebote. Arias había rematado y Hugo Souza había atajado. Gustavo Henrique descontó para Corinthians.",
+        "Paulinho falló un penal a los 35 minutos. Lo atajó Hugo Souza.",
+        "Fue el primer gol de Giay con Palmeiras desde el 9 de septiembre, ante LDU de Quito por la Libertadores.",
+        "El defensor llegaba de ser titular en los tres amistosos de la Selección en la fecha FIFA jugada en Argentina. Estuvo en la despedida de Lionel Messi en el Monumental, junto al Flaco López. Allí intercambió un poncho con Soledad Pastorutti. Ese poncho terminó en manos de su madre, Lorena Bertossi.",
+        "Tras el partido, Giay destacó el nivel del equipo y dijo que hay que mantener la concentración. Calificó el triunfo en el clásico como algo hermoso.",
+        "Con la victoria, Palmeiras quedó segundo en el Brasileirão, con 63 puntos. Está a uno de Flamengo, el líder.",
+        "El próximo desafío es grande. Palmeiras recibe a Fluminense este miércoles, a las 21.30, en la ida de la semifinal de la Libertadores. La vuelta será el miércoles 21 de octubre en el Allianz Parque."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Giay hizo dos goles en el 4-1 de Palmeiras a Corinthians, tras ser titular con la Selección",
+      "u": "https://www.infobae.com/deportes/2026/10/12/los-dos-goles-de-agustin-giay-en-el-clasico-paulista-despues-de-haber-sido-titular-con-la-seleccion-argentina/",
+      "v": "Selección"
+    },
+    {
+      "b": "El piloto de Mercedes puede definir el campeonato en Estados Unidos. Colapinto suma 27 puntos y Gasly 41.",
+      "body": [
+        "Kimi Antonelli lidera el Mundial de pilotos con 340 puntos, tras el Gran Premio de Singapur. Su compañero George Russell es segundo con 238. La diferencia es de 102 puntos.",
+        "Singapur lo ganó Max Verstappen. Charles Leclerc fue segundo y Antonelli, tercero. Russell terminó noveno.",
+        "Según elDiario.es, el Gran Premio de Estados Unidos, en Austin, será el primer match ball de Antonelli. Si gana, sería el campeón más joven de la historia de la F1.",
+        "Detrás de los Mercedes aparecen Lewis Hamilton con 229 puntos, Verstappen con 221, Leclerc con 215 y Lando Norris con 201. Oscar Piastri tiene 138, Isack Hadjar 97 y Liam Lawson 75.",
+        "Pierre Gasly es décimo con 41 puntos. Franco Colapinto es 12° con 27. Los dos suman los 68 de Alpine, sexto en constructores.",
+        "En el campeonato de equipos, Mercedes lidera con 578 puntos. Ferrari tiene 444, McLaren 339 y Red Bull 332. Racing Bulls es quinto con 100.",
+        "Quedan seis fechas. Austin es del 23 al 25 de octubre. México, del 30 de octubre al 1 de noviembre. Brasil, del 6 al 8 de noviembre.",
+        "Después llegan Las Vegas, del 19 al 21 de noviembre, y Qatar, del 27 al 29. La temporada cierra en Abu Dabi, del 4 al 6 de diciembre."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "elDiario.es / Los Andes",
+      "t": "Antonelli llega a Austin con 102 puntos de ventaja y primera chance de título; Colapinto es 12°",
+      "u": "https://www.eldiario.es/spin/deportes/verstappen-impone-antonelli-acaricia-mundial-f1-deja-gran-premio-singapur-formula-1-pm_1_13580353.html",
+      "v": "Mundial"
+    },
+    {
+      "b": "El Presidente elevó la cifra que había dado días atrás. La Política Online la contrasta con los cálculos de Caputo y de Broda.",
+      "body": [
+        "Javier Milei afirmó que el Gobierno dispone de USD 125.000 millones para enfrentar una corrida el año próximo. Lo dijo el lunes en Radio Mitre, con Eduardo Feinmann. Aclaró que no espera una corrida, pero se prepara.",
+        "Según Infobae, la cuenta suma dólares comerciales, financiamiento ya negociado, los swaps con China y Estados Unidos y los dólares futuros. Milei mencionó compras del Banco Central por USD 20.000 millones desde noviembre. Citó USD 20.000 millones de swap con China y otros USD 20.000 millones con Estados Unidos. Agregó unos USD 15.000 millones en futuros.",
+        "Los vencimientos de 2027 son de USD 25.000 millones. Milei dijo que los tenedores locales refinancian porque no pueden emitir deuda afuera. Sostuvo que los pagos externos están arreglados con organismos y otros países. También afirmó que el mercado asigna probabilidad cero de default durante su gestión.",
+        "Habló además de energía. Dijo que el balance energético tenía antes un déficit de USD 5.000 millones. Con el petróleo actual sería de USD 20.000 millones. Hoy, según el Presidente, las exportaciones de energía funcionan como cobertura natural. Comparó con 2025, cuando dijo que se juntaron unos USD 70.000 millones para la presión electoral.",
+        "La Política Online mira la cifra con más distancia. Recuerda que con Luis Majul el Presidente había hablado de USD 70.000 millones. Días después, desde París, subió a USD 75.000 millones. Ahora llegó a USD 125.000 millones, unos USD 50.000 millones más en una semana.",
+        "El medio señala que Luis Caputo había detallado la primera cifra, de USD 75.000 millones, con cuatro piezas. Eran las compras del Banco Central, los dos swaps y los futuros. Según LPO, el ministro todavía no respaldó los USD 50.000 millones adicionales. La nota agrega que el riesgo país subió a unos 650 puntos tras el primer anuncio.",
+        "LPO cita al economista Miguel Ángel Broda, que estima una necesidad mayor: USD 183.475 millones. Su cuenta incluye el M3 privado, de unos USD 84.454 millones. Suma la deuda pública en pesos con acreedores privados, de unos USD 99.020 millones. A eso agrega las compras del Banco Central, los swaps y los futuros.",
+        "El medio enlaza además un análisis de Dal Poggeto. Detecta un faltante de unos USD 23.000 millones en el plan de Caputo para pagar deuda."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae / La Política Online",
+      "t": "Milei dice que hay USD 125.000 millones para una eventual corrida en 2027",
+      "u": "https://www.infobae.com/economia/2026/10/12/milei-tenemos-usd-125000-millones-para-enfrentar-una-corrida-el-ano-que-viene/",
+      "v": "Corrida"
+    },
+    {
+      "b": "El Presidente habló de una relación simbiótica con el ministro. Menem dijo que no hay dudas sobre su continuidad.",
+      "body": [
+        "Javier Milei negó que Luis Caputo vaya a dejar el Ministerio de Economía. Lo hizo el lunes en Radio Mitre. Habló de una relación simbiótica con el ministro y dijo que ambos piensan igual.",
+        "Calificó los rumores de disparate y los llamó traición a la Patria. Argumentó que debilitan a Caputo cuando debe negociar con Kristalina Georgieva, la titular del FMI.",
+        "La versión surgió la semana pasada. Milei había invitado al economista Alberto Ades a una reunión de Gabinete. Ades critica el plan monetario de Caputo. Según La Política Online, el ministro no fue a esa reunión y alegó malestar.",
+        "Ades aclaró después que no busca reemplazar a Caputo. Aun así, criticó el rumbo económico en varios medios y publicó los cambios que haría.",
+        "La Política Online sostiene que el mercado reaccionó con una caída del Merval de 2,5%. Agrega que el riesgo país se acercó a los 600 puntos. El medio vincula el episodio con tensiones entre Caputo y el ala política que lidera Karina Milei. Caputo respondió en redes que no renunciará.",
+        "El sábado, Martín Menem también respaldó al ministro. En una entrevista con Luis Majul en LN+, dijo que no hay dudas sobre su continuidad. Sostuvo que hay operadores que instalan versiones de su salida para debilitar al Gobierno.",
+        "Menem reconoció que algunos sectores atraviesan dificultades. Atribuyó parte de la desaceleración al alza internacional del petróleo y a la crisis en el estrecho de Ormuz.",
+        "Confirmó que Milei será candidato de La Libertad Avanza en 2027 y que el espacio buscará presencia en los 24 distritos. Dijo que buscarán acuerdos con gobernadores que compartan la agenda de baja de impuestos y desregulación.",
+        "Consultado por una posible candidatura de Axel Kicillof, no hizo una evaluación. Dijo que el oficialismo compite contra sí mismo. Reiteró su pedido de eliminar las PASO, que calificó de gasto innecesario."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "La Política Online / Perfil",
+      "t": "Milei negó la salida de Caputo y Menem confirmó que buscará la reelección",
+      "u": "https://www.lapoliticaonline.com/politica/milei-tuvo-que-negar-la-salida-de-toto-caputo-tenemos-una-relacion-simbiotica/",
+      "v": "Gabinete"
+    },
+    {
+      "b": "Es el estreno de la serie Wonder, más grande que Muse Spark. Se paga por API y por suscripción, y Meta no habló de pesos abiertos.",
+      "body": [
+        "Meta presentó el lunes 12 de octubre Muse Wonder y Muse Wonder Full. Los desarrolló su laboratorio de superinteligencia. Es el primer modelo de frontera de la compañía.",
+        "Los dos modelos son más grandes que Muse Spark, pensado para responder rápido y barato. Meta dice que rinden mejor en tareas complejas, como programar. Los entrenó en Prometheus, su centro de datos en el centro de Ohio, que empezó a operar este año.",
+        "Según la tarjeta del modelo, los puntajes quedan cerca de los de Fable 5.1 y GPT-6 Astra. Meta también afirma que Muse Wonder supera a Fable, Opus y Astra en MemoryBench. Esa prueba mide memoria y aprendizaje continuo.",
+        "El blog de Meta nombra otras pruebas: el Legal Agent Benchmark de Harvey, Vals Finance Agent V2, FocusBench, SWE-Marathon y DeepSWE. No publica cifras en texto. Los resultados están en gráficos. Hay dos funciones centrales. Active Memory retiene lo que cada usuario cuenta durante largos períodos. Active Focus mantiene al modelo trabajando hacia un objetivo. Prueba otros caminos, corrige errores y pide aclaraciones antes de acciones importantes.",
+        "Muse Wonder cuesta USD 4 por millón de tokens de entrada y USD 20 por millón de salida en la API de Meta. Es un precio parecido al de GPT-6 Sol o Opus 5.5. Alexandr Wang, jefe de IA de Meta, había dicho que quedaría bastante por debajo de OpenAI y Anthropic.",
+        "Muse Wonder ya está disponible en la API y en Muse Code. Muse Wonder Full queda solo para suscriptores de Muse Code y no se sirve por API. Los planes de Muse Code salen USD 50 y USD 200 por mes, según Tech Insider. El de USD 200 incluye el Full.",
+        "Meta no aclaró si los pesos son abiertos. El acceso es solo por API y suscripción. Tampoco informó parámetros ni ventana de contexto. Los modelos van a alimentar al agente Muse y, más adelante, a la generación de artefactos, con los suscriptores primero.",
+        "Meta promete un informe de seguridad completo \"pronto\", sin fecha. Dice que tiene sus mayores salvaguardas contra mal uso químico, biológico, nuclear y cibernético. Es el primer lanzamiento de punta desde que Wang reestructuró el área de IA en agosto de 2025."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "TechCrunch / Meta / Unite.AI",
+      "t": "Meta lanza Muse Wonder, su primer modelo de frontera",
+      "u": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder/",
+      "v": "Modelos"
+    },
+    {
+      "b": "La empresa afirma que los atacantes extraen entre 10 y 100 veces menos razonamiento. Admite que todavía no enfrentó un intento sofisticado y persistente.",
+      "body": [
+        "Anthropic publicó el lunes 12 de octubre un informe sobre cómo frena la destilación de Claude. Los atacantes copian las respuestas del modelo para entrenar uno propio. La empresa dice que sus nuevas medidas redujeron entre 90% y 99% los datos que se llevan.",
+        "Los tokens de razonamiento extraídos cayeron entre 10 y más de 100 veces, según Anthropic. Aclara que son pruebas tempranas. Hasta ahora no vio un intento sofisticado y persistente de saltarse las defensas.",
+        "Hay tres defensas. La primera controla dónde puede ir el razonamiento. Con \"preserved thinking\", las cuentas de API creadas desde el 31 de agosto no pueden editar el contexto previo de Claude. Con Sonnet 5.5, las transcripciones las ve solo la organización de origen.",
+        "La segunda es un clasificador de dos etapas que bloquea y corrige. Anthropic lo compara en robustez con las defensas contra armas biológicas. Tiene menos de 0,1% de falsos positivos. Corre en Sonnet 5.5, Opus 5 y 5.5, y Fable 5 y 5.1.",
+        "La tercera dificulta la insistencia. Quien reincide tiene límites más estrictos y bajas de cuenta. Desde el 24 de septiembre, Anthropic cobra los pedidos que sus salvaguardas bloquean. Dio de baja decenas de miles de cuentas, muchas dentro de las dos horas de empezada una campaña.",
+        "El informe cita a Zhipu. Según Anthropic, esa empresa destiló capacidades de ciberseguridad de modelos estadounidenses mientras desarrollaba GLM-5.3. Cuando las defensas de Claude degradaron sus ataques, pasó a un Claude más viejo y a otro laboratorio. El CAISI, el instituto de seguridad de EE. UU., evaluó después a GLM-5.3 como el modelo de pesos abiertos con más capacidad cibernética.",
+        "También menciona a Moonshot. Pedidos a sus modelos Kimi se reenviaban en secreto a Claude. Un usuario, vinculado según Anthropic al Ejército chino, quiso analizar videovigilancia de una persona.",
+        "Resumir el razonamiento de Claude ya había bajado la nota en SWE-bench Verified de un modelo destilado, de 80,4% a 71,8%. Los atacantes pasaron a la extracción activa, con redes de proxies y cientos de miles de cuentas falsas. Las defensas tienen costos. Anthropic rechazó ingresos y billones de tokens de tráfico de destiladores. Algunos desarrolladores deben actualizar sus integraciones. La empresa espera un juego del gato y el ratón, y pide a otras plataformas y proveedores de nube que detecten abusos."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "Anthropic / Resultsense",
+      "t": "Anthropic dice que sus nuevas defensas frenan hasta 99% de la destilación de Claude",
+      "u": "https://www.anthropic.com/research/distillation-defenses",
+      "v": "Anthropic"
+    },
+    {
+      "b": "Londres rechazó el planteo argentino. La Cancillería presentaría esta semana un pedido de medidas provisionales.",
+      "body": [
+        "Venció el plazo que la Argentina le dio al Reino Unido por el proyecto petrolero Sea Lion. Como se había informado, el ultimátum de dos semanas terminaba este lunes 12. Londres rechazó el planteo y defendió las actividades autorizadas por las autoridades de las islas.",
+        "Sin acuerdo, el Gobierno avanzaría con el pedido ante el Tribunal Internacional del Derecho del Mar, en Hamburgo. La Cancillería, a cargo de Pablo Quirno, prevé presentar esta semana un pedido de medidas provisionales. No hay fecha pública confirmada.",
+        "La Procuración del Tesoro, que conduce Sebastián Amerio, colaboró con los aspectos legales. Falta definir si el país irá solo con abogados argentinos o sumará estudios externos.",
+        "Presentar el pedido no suspende el proyecto de manera automática. El tribunal debe decidir si ordena medidas y con qué alcance. La Argentina no le pide que resuelva sobre la soberanía. Busca preservar la situación actual mientras avanza un arbitraje de fondo. Si se presenta en octubre, una decisión podría llegar en noviembre, sin garantía de resultado.",
+        "Los argumentos argentinos incluyen las resoluciones de la ONU 2065 y 31/49, que piden negociar y evitar cambios unilaterales. Citan también el artículo 83.3 de la Convemar, sobre conducta provisoria mientras no se delimite la plataforma continental. Sostienen que el petróleo no es renovable y que una perforación podría causar daños irreversibles.",
+        "Sea Lion está a unos 220 kilómetros al norte de las islas. La israelí Navitas Petroleum, operadora, tiene 65%. La británica Rockhopper Exploration, que lo descubrió en 2010, tiene 35%. La decisión final de inversión fue a fines de 2025. La producción se apunta para el primer trimestre de 2028.",
+        "Halliburton habría confirmado que sus subsidiarias no prestarán servicios al proyecto. Navitas reemplaza a dos contratistas afectados y no espera un daño material.",
+        "La principal dificultad es la jurisdicción. El Reino Unido sostiene que actúa conforme a las normas de las islas y al derecho internacional. La Argentina debe plantear un reclamo que el tribunal pueda tratar sin resolver antes la soberanía. Infobae recuerda un antecedente: en el caso Chagos, un tribunal rechazó reclamos que requerían zanjar una disputa territorial.",
+        "Como precedente favorable, cita el caso de la fragata Libertad en 2012. El tribunal ordenó liberarla de Ghana un mes después de la presentación."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Malvinas: venció el ultimátum por Sea Lion y se acerca el pedido ante el Tribunal del Mar",
+      "u": "https://www.infobae.com/politica/2026/10/13/malvinas-vencio-el-ultimatum-de-la-argentina-al-reino-unido-y-es-inminente-el-pedido-de-arbitraje-al-tribunal-del-mar/",
+      "v": "Malvinas"
+    },
+    {
+      "b": "El proyecto de mapas pasó de exigir una persona a cargo a una prohibición total. La propuesta se fusionó el 7 de octubre y reavivó el debate.",
+      "body": [
+        "El proyecto de código abierto QGIS, el software de mapas, prohibió el código hecho con ayuda de IA. La propuesta QEP428 se llama \"No AI contributions permitted\". La abrió Nyall Dawson, uno de los mantenedores. Se fusionó el 7 de octubre y el debate se encendió el fin de semana.",
+        "La regla dice que no se permiten contribuciones de código asistidas por modelos de lenguaje. Reemplaza la política anterior, que aceptaba aportes si había una persona al control. El texto corrige, según su autor, una norma que en la práctica no se cumplía.",
+        "Dawson describe la medida como un punto de partida, una puerta cerrada que se puede abrir después de discutir. Even Rouault, también mantenedor, la llamó un parche mientras se entienden mejor las consecuencias. Haubourg citó la carga de trabajo de los mantenedores y el volumen de aportes generados con IA.",
+        "Un colaborador contó que bajo la política vieja se etiquetaron unos 50 pull requests como asistidos por IA. Cerca de 40 se cerraron sin fusionar. Amalvir, que mandó dos arreglos hechos con IA, dijo que recién después notó la carga que le pasaban a los revisores.",
+        "La aplicación depende de la honestidad de cada colaborador. Tim Sutton, del comité directivo, admitió que es difícil de controlar. Las infracciones pueden llevar a revertir el código y a sanciones. Se discutió pedir una declaración en cada pull request, sin decisión confirmada.",
+        "Hay críticas por el alcance. Un participante advirtió que la redacción podría vedar herramientas útiles, como explorar código C++ o simular revisiones. Otro preguntó si cubre issues, comentarios y el repositorio de propuestas. Haubourg propuso tratar aparte el uso de LLM en revisión, auditoría y seguridad, en la conferencia de usuarios.",
+        "El tema pegó en Hacker News, con cientos de puntos y comentarios en pocas horas. Hubo quejas de que contribuir a QGIS ya exige hardware caro. Un comentarista dijo que compilar en una laptop vieja le llevaba toda la noche.",
+        "Otros proyectos tienen reglas propias. OpenJDK, de Oracle, prohíbe contenido generado con IA total o parcialmente, incluso en reportes de bugs y correos. Permite usarla para leer, depurar y revisar. Su política interina es de abril. GraalVM, también de Oracle, permite usarla si el autor puede defender el cambio en la revisión."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "GitHub / DEV Community / Hyper.ai",
+      "t": "QGIS prohíbe las contribuciones hechas con ayuda de IA",
+      "u": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "v": "Agentes"
+    },
+    {
+      "b": "El secretario de Hacienda expone hoy ante la comisión de Presupuesto. El oficialismo quiere dictamen antes del 7 de noviembre.",
+      "body": [
+        "El secretario de Hacienda, Carlos Guberman, defiende hoy el Presupuesto 2027 en Diputados. La primera reunión de la comisión de Presupuesto es a las 12. La convocó su presidente, Alberto Benegas Lynch.",
+        "El proyecto parte de un crecimiento de 4% y una inflación de 18% anual. Fija un dólar de $1.847. Según la Oficina de Presupuesto del Congreso, los ingresos crecerán 3,5% real. Los subsidios energéticos caerían 25,2%.",
+        "El oficialismo busca un dictamen antes del 7 de noviembre, previo a la visita del papa León XIV. Según Perfil, apunta a llevar el texto al recinto el 17 de noviembre. Así evitaría extender las sesiones ordinarias.",
+        "La Libertad Avanza usa el Presupuesto como eje de negociación con los gobernadores. Esa negociación corre en paralelo con su estrategia para suspender o eliminar las PASO. Los aliados piden fondos para obras viales y para deudas previsionales de ANSES.",
+        "Guberman presentó partidas para la iniciativa oficial sobre discapacidad. La definió como superadora frente a la extensión de la emergencia en el área. La oposición, en cambio, impulsa esa prórroga y el rechazo del DNU 70.",
+        "El financiamiento universitario será otro foco de tensión. El sector reclama mejoras salariales, aplicación de la ley de financiamiento y actualización de becas. El jueves 15 hay una nueva Marcha Federal Universitaria frente al Congreso.",
+        "La agenda legislativa de la semana es cargada. El miércoles 14 figura la ley de Inviolabilidad de la Propiedad Privada. Los libertarios prometieron a sus aliados restablecer límites a la venta de tierras a extranjeros. También se comprometieron a impulsar la Ley Malvinas.",
+        "La oposición convocó una sesión para esta semana. Busca rechazar el DNU 70, extender la emergencia en discapacidad y debatir una ley de sobreendeudamiento familiar. El oficialismo convocó otra para el miércoles 21, con el fin de neutralizar el quórum."
+      ],
+      "id": "eco2",
+      "sec": "Economía",
+      "src": "Perfil",
+      "t": "Presupuesto 2027: Guberman abre el debate en Diputados",
+      "u": "https://www.perfil.com/noticias/politica/presupuesto-2027-carlos-guberman-abre-en-el-debate-en-diputados.phtml",
+      "v": "Presupuesto"
+    },
+    {
+      "b": "Infobae reconstruye la estrategia oficial. Una encuesta de DC Consultores mide candidatos del peronismo y fórmulas opositoras.",
+      "body": [
+        "El oficialismo sigue de cerca la posibilidad de un frente amplio contra Javier Milei en 2027. La interna entre Cristina Kirchner y Axel Kicillof ya se había contado. Ahora Infobae suma cómo lo ve Casa Rosada.",
+        "Según la nota, en el Gobierno creen que hay tiempo. Reconocen que un frente podría complicar a La Libertad Avanza. Un funcionario advierte que un candidato de centro podría quitarle votos entre moderados que apoyan el rumbo pero cuestionan las formas.",
+        "Casa Rosada considera que perdería más ante un moderado que ante un perfil ultra K. Por eso preferiría un rival más radicalizado, para plantear una elección entre dos modelos de país.",
+        "Sobre Kicillof, fuentes oficialistas dicen que tendría dificultades para captar opositores no kirchneristas. Admiten que, en un balotaje, un candidato unificado de todo el espacio anti-Milei sería más competitivo que él.",
+        "Kicillof impulsa una alternativa propia con apoyo de parte del PJ y de dirigentes como Emilio Monzó y Nicolás Massot. Encuentra resistencia en La Cámpora. Máximo Kirchner la criticó porque la unidad no puede basarse solo en ganarle a Milei. Martín Lousteau propone reunir desde Myriam Bregman hasta Cristina Kirchner y Kicillof, bajo la consigna “coordinar para ganar”.",
+        "Casa Rosada ubica la intención de voto de Milei en torno a 35 puntos. Management & Fit, en su monitoreo de septiembre, le da 31,2% de imagen positiva y 52,7% de negativa.",
+        "Perfil publicó una encuesta de DC Consultores. Se hizo del 26 al 29 de septiembre, con 1.710 casos y margen de error de 2,5%, con muestreo no probabilístico. La Libertad Avanza tiene 40,2% de intención de voto. El peronismo y el kirchnerismo suman 28,2%, medidos por separado.",
+        "Sobre el candidato que elegiría Cristina Kirchner, Sergio Massa tiene 30,6%. Siguen Eduardo “Wado” de Pedro con 15,4%, Kicillof con 11,7% y Gerardo Zamora con 8,2%.",
+        "En fórmulas opositoras preferidas, Kicillof–Bregman encabeza con ventaja, sin cifra publicada. Villarruel–Jorge Brito tiene 29,3% y Hadad–Larreta, 18,9%. Si Patricia Bullrich no fuera la vice de Milei, 40,7% votaría igual a La Libertad Avanza."
+      ],
+      "id": "pol2",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "El Gobierno mira un posible frente anti-Milei: prefiere un rival más duro y teme a un moderado",
+      "u": "https://www.infobae.com/politica/2026/10/13/el-dilema-del-gobierno-ante-un-posible-frente-anti-milei-la-amenaza-de-un-moderado-y-el-factor-kicillof/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "Su equipo de Red Team Frontier probó con cajas de Android TV. Proyecta que modelos abiertos pequeños podrían lograrlo hacia fines de 2026.",
+      "body": [
+        "Anthropic publicó el lunes 12 de octubre un estudio sobre IA que se copia sola en aparatos baratos de internet de las cosas. Lo firman William Zhou y Daniel Freeman, de su equipo de Red Team Frontier. El escenario es un gusano que lleva los pesos del modelo y corre en equipos infectados.",
+        "Los autores dividieron la tarea en cuatro etapas: hallar objetivos, ganar ejecución, montar la inferencia y propagarse. Se concentraron en la tercera. Las etapas de ciberataque las simplificaron mucho.",
+        "Un modelo de 9.000 millones de parámetros logró montar inferencia en 8 de 9 tipos de hardware. Fueron desde Jetson Nano hasta placas con RTX 4090. Gemma4-26B-A4B corrió repartido en 15 cajas de Android TV de unos USD 55 cada una. Generó 0,39 tokens por segundo.",
+        "En la prueba completa, solo GLM-5.2 se replicó de punta a punta. Llegó a los 8 nodos en 4 de 5 intentos, y a 7 en el restante. Los otros modelos abiertos fallaron de forma sistemática.",
+        "Qwen3.5-9B mejoró al heredar notas de la generación anterior. Su tasa de éxito pasó de 45% a entre 61% y 84%. Darle un asesor más fuerte, Opus 4.8, no produjo mejoras significativas. Con una tendencia de capacidad de 13,7 puntos por año, los autores calculan que los modelos chicos alcanzan el nivel de GLM-5.2 a fines de 2026. Aclaran que es una extrapolación y no una capacidad actual de un modelo de 9B.",
+        "Como referencia de escala usaron Kimwolf, una botnet con más de 2 millones de aparatos, sobre todo Android TV genéricos. Estimaron unas 133.000 copias simultáneas. Eso equivale, como máximo, a unas 40 H100.",
+        "La replicación sería lenta. Montar la inferencia llevó entre 28 y 51 horas con Qwen3.5-9B. Con Gemma4-26B-A4B, sin optimizar, tomó entre 71 y 150. Los modelos chicos rindieron muy mal en spearphishing, así que dependerían de fallas técnicas.",
+        "Los autores admiten límites. El puerto ADB de la prueba no tenía autenticación, así que el resultado es un techo. El índice de capacidad es solo una aproximación. Entre las defensas, proponen vigilar transferencias de varios gigas y tráfico sostenido entre equipos. También señuelos y cuarentena por parte de los proveedores. Con Mirai, avisar a los abonados limpió el 92% de las infecciones en 14 días, contra 74% sin aviso."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "Anthropic / AI Weekly",
+      "t": "Anthropic investigó si modelos chicos pueden replicarse solos en dispositivos baratos",
+      "u": "https://www.anthropic.com/research/self-replicating-ai",
+      "v": "Seguridad"
+    },
+    {
+      "b": "A dos semanas del balotaje del 25 de octubre, ambos campos ordenan sus campañas. Datafolha y Atlas dan ventaja a Flávio.",
+      "body": [
+        "Flávio Bolsonaro se reunió en el estado de San Pablo con el gobernador Tarcísio de Freitas y el alcalde Ricardo Nunes. También participaron alcaldes y concejales del área metropolitana, que reúne 39 municipios. Entre ellos estaban Guarulhos, Osasco y São Bernardo do Campo.",
+        "Infobae no reporta un acuerdo formal. Según la prensa brasileña citada, la idea es ampliar votos donde hay margen y consolidar los estados donde Flávio ganó. Prometió más financiamiento federal para que los municipios combatan el delito si gana. Tarcísio pidió movilizar votantes y advirtió que nada está decidido.",
+        "La derecha prepara un acto en la avenida Paulista el 18 de octubre. Estarán Flávio, Tarcísio, Nunes y el diputado Nikolas Ferreira. Nunes negó que sea una disputa de público con Lula.",
+        "Lula, que busca un cuarto mandato, respondió con un mitin en la Paulista, frente al Masp. Dijo que la protección es para la clase trabajadora y la prisión para los delincuentes. Propuso, si es reelecto, una mayor participación del Gobierno federal contra el delito. Pidió a los jóvenes que voten y apeló a los mayores de 70, para quienes el voto es optativo.",
+        "En la primera vuelta del 4 de octubre, Flávio obtuvo 47,03% de los votos válidos y Lula, 45,16%. La diferencia fue de unos 2,25 millones de votos. La abstención fue de 21,08%, unos 33,4 millones de personas, la más alta en una primera vuelta presidencial desde 1998. Flávio ganó también en San Pablo.",
+        "En el campo de Lula hubo cambios. Según La Política Online, el PT desplazó al secretario de Comunicación, Sidonio Palmeira, de la conducción. La nueva mesa la integran Edinho Silva, Camilo Santana y Geraldo Alckmin. El medio basa gran parte del relato en fuentes anónimas del PT.",
+        "La encuesta de Atlas, difundida el 9 de octubre, da a Flávio 51,1% y a Lula 45,7%, una diferencia de 5,4 puntos. Datafolha había dado 52% a 48% en votos válidos. La encuesta Atlas no informa tamaño de muestra ni fechas de relevamiento."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae / La Política Online",
+      "t": "Brasil: Flávio Bolsonaro suma apoyos en San Pablo y Lula responde con un acto en Paulista",
+      "u": "https://www.infobae.com/america/america-latina/2026/10/12/flavio-bolsonaro-se-reunio-con-el-gobernador-y-el-alcalde-de-san-pablo-para-afianzar-apoyos-de-cara-al-balotaje-en-brasil/",
+      "v": "Brasil"
+    },
+    {
+      "b": "Underdog comprimió Qwen3.8-27B a casi 8 GB, con licencia Apache 2.0. Corre en llama.cpp y apunta a agentes que usan herramientas.",
+      "body": [
+        "Underdog-Saluki-27B-1.0 es una versión comprimida de Qwen3.8-27B, el modelo de Alibaba. La publicó Underdog, un asistente local de IA respaldado por a16z. Salió entre el 7 y el 8 de octubre.",
+        "El archivo principal pesa 7,89 GB. El modelo completo ocupa unos 54 GB. La cuantización es de 2 bits, sobre trabajo previo de ISTA-DASLab, que había dejado el mismo modelo en 8,4 GB.",
+        "Se carga en llama.cpp sin modificaciones. Según Underdog, también anda en Ollama, LM Studio y vLLM. Puede correr en una notebook con 16 GB de RAM. Un complemento de entre 629 y 928 MB agrega entrada de imágenes.",
+        "La licencia es Apache 2.0. En Hugging Face tiene 346 likes y 242.329 descargas en el último mes. La mejora apunta a las llamadas a herramientas. Los datos de calibración se eligieron para conservar los nombres de funciones, los argumentos en JSON y las llamadas en paralelo. Para quien arma automatizaciones, ahí está el punto fuerte.",
+        "En Underdog Bench, con 120 tareas de uso de herramientas, Saluki acertó 88. El modelo original acertó 84 y la versión de ISTA, 76. En llamadas paralelas sacó 42 contra 35 del original.",
+        "En la prueba de resolver 50 problemas reales de GitHub, Saluki arregló 30 y el original 33. Retiene cerca del 96% del promedio del original en nueve evaluaciones.",
+        "Pierde en matemática. En AIME 2025 saca 79,2 contra 96,7, y en AIME 2026 saca 80,0 contra 94,6. También rinde menos en MBPP+, con 78,0 frente a 83,9. Hay fallas ocasionales de formato.",
+        "Los números son de Underdog. AlphaSignal advierte que sus corridas y las bases públicas pueden usar software o muestreo distintos."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Hugging Face / AlphaSignal / KuCoin",
+      "t": "Saluki 27B: un modelo que cabe en 8 GB y conserva las llamadas a herramientas",
+      "u": "https://huggingface.co/ConwayResearch/Underdog-Saluki-27B-1.0",
+      "v": "Open source"
+    },
+    {
+      "b": "Según la Bolsa de Comercio de Rosario, entre enero y septiembre se despacharon 88,9 millones de toneladas.",
+      "body": [
+        "Las exportaciones del agro argentino llegaron a unos 88,9 millones de toneladas entre enero y septiembre de 2026. El dato surge del último informe de la Bolsa de Comercio de Rosario. Incluye granos, subproductos y aceites.",
+        "La cifra supera en unas 6 millones de toneladas el récord anual de 2021, que fue de 83 millones. Es además cerca de 10% más que en el mismo período de 2025.",
+        "Detrás está la cosecha 2025/26, de 172,4 millones de toneladas. Infobae la describe como la mejor registrada. Llegó después del invierno más lluvioso en 60 años en la región central.",
+        "El maíz lidera el impulso. Se exportaron 30,2 millones de toneladas desde el inicio de la campaña, casi 18% sobre el promedio histórico. Solo entre agosto y septiembre salieron unas 7,63 millones. Las compras internas superaron las 45 millones de toneladas al 30 de septiembre. Los derechos de exportación del maíz bajaron de 12% a 8,5% por el decreto 423/2026.",
+        "El trigo sumó 12,8 millones de toneladas, 60% por encima del promedio para la fecha. El girasol superó los 6,5 millones, más del doble de lo habitual en las últimas campañas.",
+        "En divisas, septiembre dejó USD 3.228 millones, según CIARA-CEC. Es 17% más que en agosto y el tercer mes más alto en 25 años. El acumulado del año es de USD 22.275 millones.",
+        "El contexto externo ayuda al maíz argentino. Ucrania, cuarto exportador mundial, enfrenta limitaciones por la escalada en el Mar Negro. La Comisión Europea estima una producción de maíz de 48,3 millones de toneladas, la más baja desde al menos 2000. S&P Global proyecta que sus importaciones suban 32%. Brasil exportó 5,39 millones de toneladas en septiembre, 22% menos que un año antes, según ANEC.",
+        "Para la campaña 2026/27, la Bolsa de Comercio de Rosario proyecta USD 42.200 millones en divisas del agro, un récord. Estima que las exportaciones totales del país superarían por primera vez los USD 100.000 millones."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "El agro exportó casi 90 millones de toneladas en nueve meses y superó el récord anual de 2021",
+      "u": "https://www.infobae.com/economia/2026/10/12/en-nueve-meses-el-agro-argentino-ya-exporto-casi-90-millones-de-toneladas-mas-que-el-record-anual-historico-de-2021/",
+      "v": "Agro"
+    },
+    {
+      "b": "Los expertos ponen el foco en entender el problema antes de construir. En Tandil, una semana tech arranca mañana.",
+      "body": [
+        "Expertos de Paisanos y Fardo enumeran cinco factores que definen las chances de crecer de una startup argentina. Hay que detectar un problema real, conocer a los usuarios y validar antes de invertir. Suman criterio de producto y generar confianza y visibilidad.",
+        "Con IA, no-code y vibe coding, construir dejó de ser una ventaja. Según Paisanos, dos o tres personas pueden llegar a un MVP en semanas. Antes hacían falta equipos mucho más grandes. La pregunta pasó de cómo construirlo a si hay que construirlo.",
+        "Fardo advierte que la IA amplía lo que ya existe. Ayuda si el problema se entiende bien y acelera los errores si no. Paisanos señala que el error frecuente es enamorarse de una solución antes de entender el problema.",
+        "Aparece también un tema de distribución. Cada vez más personas consultan modelos de IA para elegir herramientas o marcas. La startup debe lograr que la encuentren, la entiendan y la recomienden.",
+        "Para competir en la región o en el mundo, los expertos piden estándares de calidad desde el comienzo. Mencionan procesos de producto, capacidad de medir e iterar, marca clara y seguridad desde el diseño. No hace falta radicarse en Buenos Aires.",
+        "Los obstáculos siguen siendo la volatilidad del contexto y el acceso al capital. Paisanos agrega que muchas empresas se estancan al pasar de un producto que funciona a uno que puede escalar.",
+        "Como ejemplo local, la nota cita Tandil. La UNICEN y más de 50 empresas nucleadas en la CEPIT conforman un polo informático. Emplea a unas 2.000 personas en el sector.",
+        "El 14 y 15 de octubre se hará allí la primera Tandil Tech Week. Participan Paisanos, Fardo, Picante, Relaw, HackTandil y Geonossis. Incluye una hackathon de ciberseguridad en el campus de la UNICEN, con el Hacking Day el 14. Habrá además una jornada sobre startups, producto, IA, marketing e inversión. Cuenta con apoyo de Grupo Rotonda y se enmarca en la iniciativa Tandil 2050."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Qué necesita una startup argentina para crecer, según Paisanos y Fardo",
+      "u": "https://www.iproup.com/startups/72275-que-factores-definen-chances-crecimiento-startup",
+      "v": "Crecer"
+    },
+    {
+      "b": "StartupBlink la premió en los Global Startup Ecosystem Awards 2026. La Ciudad ocupa el puesto 86 del índice mundial.",
+      "body": [
+        "La Ciudad de Buenos Aires recibió el premio Top Startup Ecosystem in Argentina 2026. Lo otorgó StartupBlink en los Global Startup Ecosystem Awards, realizados en Uzbekistán en el marco de la ICT Week. Autoridades del Parque de Innovación lo recibieron en nombre de la Ciudad.",
+        "En el Global Startup Ecosystem Index 2026, la Ciudad ocupa el puesto 86. El ranking evalúa 1.000 ciudades de 100 países. Buenos Aires concentra 71,4% de la actividad startup registrada en el país.",
+        "Otras ciudades argentinas figuran mucho más atrás. Córdoba está en el puesto 228, Rosario en el 629 y Mendoza en el 755.",
+        "A nivel país, la Argentina quedó 46ª en el mundo y cuarta en América Latina y el Caribe. Creció 12,2% interanual en la edición 2026. El índice considera startups, espacios de coworking, aceleradoras e inversores.",
+        "El Parque de Innovación busca ampliar su comunidad de empresas tecnológicas. Apunta a salud, biotecnología, inteligencia artificial, agrotecnología, educación tecnológica y transformación digital. Las startups seleccionadas acceden a instalaciones, capacitaciones y networking. También se vinculan con universidades, centros de investigación, organismos públicos e inversores.",
+        "El Parque organiza el Community MeetUp para compartir experiencias y generar colaboraciones. En agosto de 2026 creó un Board of Advisors con 13 especialistas nacionales e internacionales. Trabajan ad honorem, se reúnen periódicamente con la dirección y pueden representar al Parque en el exterior."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Buenos Aires fue reconocida como el mejor ecosistema startup de la Argentina",
+      "u": "https://www.iproup.com/startups/72185-buenos-aires-reconocida-como-mejor-ecosistema-de-startups-de-argentina",
+      "v": "Ranking"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "fon0",
+    "eco0",
+    "pol0",
+    "tec0",
+    "tec2",
+    "pol1",
+    "tec3",
+    "eco2",
+    "pol2",
+    "tec1",
+    "lat0",
+    "tec4",
+    "eco1",
+    "sta0",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "tec0",
+    "pol1",
+    "dep0",
+    "lat0"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.535",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.540",
+      ""
+    ],
+    [
+      "MEP",
+      "$1.540",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.617",
+      ""
+    ],
+    [
+      "Riesgo país",
+      "589",
+      ""
+    ]
+  ]
+}
