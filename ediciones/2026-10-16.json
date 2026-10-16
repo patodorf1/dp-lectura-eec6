@@ -1,0 +1,446 @@
+{
+  "fecha": "Viernes 16 de octubre de 2026",
+  "fuentes": "Infobae, La Política Online, Perfil, La Jornada, La Nación, El Argentino, TechCrunch, Anthropic, GitHub, Anoma.ly, Forbes Argentina, Valor Local, RacingNews365",
+  "lead": "pol0",
+  "notas": [
+    {
+      "b": "Se juega esta noche a las 21.30 en la Bombonera. Arruabarrena evalúa un cambio por línea y reserva a Villa y Paredes para el Maracaná.",
+      "body": [
+        "Boca juega esta noche contra Talleres, a las 21.30, en la Bombonera. Es por la fecha 13 del Torneo Clausura. Arbitra Luis Lobo Medina y lo transmite TNT Sports Premium.",
+        "Llega tras perder 1-0 con Vasco da Gama. Fue la ida de las semifinales de la Sudamericana. La revancha es el martes 20, desde las 21.30, en el Maracaná.",
+        "Rodolfo Arruabarrena no repetirá la rotación amplia de otros partidos. Evalúa al menos un cambio por línea respecto del equipo que enfrentó a Vasco.",
+        "El once probable: Montero; Gorosito, Figal, Herrera y Blanco. Siguen Ascacíbar, Battaglia y Delgado. Más arriba, Palacios, Merentiel y Flores. Gorosito jugaría por Leandro Lozano en la lateral derecha. Figal compite en la zaga con Pellegrino y Costa. Merentiel sería el centrodelantero, en lugar de Enner Valencia.",
+        "Battaglia volvería tras siete meses de recuperación. Fue operado a principios de febrero por una tendinopatía en el Aquiles. Tiene 35 años y no jugó en 2026. Palacios podría guardarse para el Maracaná. En ese caso, Joaquín Ruiz tendría su chance.",
+        "Sebastián Villa no fue convocado por un esguince en el tobillo derecho. Leandro Paredes tampoco, por un desgarro en el isquiotibial derecho. Ambos apuntan a la revancha en Brasil. Alan Velasco y Tomás Belmonte también están ausentes.",
+        "En la tabla anual, Boca es segundo con 51 puntos. Está a uno de Independiente Rivadavia, que juega mañana ante Tigre. En su zona del Clausura es tercero con 21. Lo superan Instituto, con 26, y Defensa y Justicia, con 24. Esos dos se enfrentan entre sí en esta fecha.",
+        "Talleres, de Omar De Felippe, está último de su zona con 9 puntos. Perdió el clásico con Belgrano y empató 0-0 con Independiente. Agustín Álvarez vuelve tras cumplir dos fechas de suspensión."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Infobae / La Nación",
+      "t": "Boca recibe a Talleres con la cabeza puesta en la revancha con Vasco",
+      "u": "https://www.infobae.com/deportes/2026/10/15/sorpresa-en-boca-los-once-que-eligio-arruabarrena-para-recibir-a-talleres-en-la-antesala-de-la-revancha-con-vasco-da-gama/",
+      "v": "Clausura"
+    },
+    {
+      "b": "El Inter informó una distensión en los flexores del muslo izquierdo. La prensa italiana habla de entre cuatro y seis semanas de baja.",
+      "body": [
+        "Lautaro Martínez se lesionó y encendió las alarmas en la Selección. El Inter informó una molestia muscular. Es en los flexores del muslo izquierdo.",
+        "Los estudios se los hizo ayer en el Instituto Humanitas, de Rozzano. Horas antes había hecho dos goles en la derrota 4-3 ante Brujas, por Champions.",
+        "El club no precisó el grado de la lesión ni dio plazos. La prensa europea estima que estará afuera entre cuatro y seis semanas.",
+        "Ya está descartado para el sábado ante Bologna, por la fecha 7 de la Serie A. Podría perderse hasta siete encuentros. En la liga siguen Fiorentina, Venezia, Como y el clásico con el Milan, el 31 de octubre. En la Champions quedan Shakhtar Donetsk y Feyenoord.",
+        "La fecha FIFA de noviembre va del 9 al 17. La AFA organiza amistosos que podrían ser con Uruguay y con Costa Rica. La Bombonera aparece como posible sede del duelo con los uruguayos.",
+        "Su presencia depende de cómo evolucione. Los cuerpos médicos del Inter y de la Selección seguirán el caso. Lionel Scaloni y su cuerpo técnico están preocupados.",
+        "Lautaro, de 29 años, llegaba en gran momento. En el semestre suma 6 goles y una asistencia en 7 partidos. Hizo un doblete a la Roma en una remontada desde el 0-2. También marcó un gol en el minuto 91 ante Napoli.",
+        "Con la Selección, convirtió ante Burkina Faso tras errar un penal, en el rebote. Además dio dos asistencias en la goleada 7-0 en el Monumental."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Lautaro Martínez sufrió una lesión y preocupa a la Selección para noviembre",
+      "u": "https://www.infobae.com/deportes/2026/10/15/la-lesion-de-lautaro-martinez-que-encendio-las-alarmas-de-la-seleccion-argentina-el-comunicado-del-inter/",
+      "v": "Selección"
+    },
+    {
+      "b": "El club brasileño difundió el detrás de escena del 1-0 en la Bombonera. Faltan 90 minutos para la revancha en el Maracaná.",
+      "body": [
+        "Vasco da Gama publicó un video del detrás de escena de su triunfo sobre Boca. El gol fue de Adson, el martes pasado en la Bombonera.",
+        "Santiago Sosa, mediocampista argentino de 27 años, tuvo su momento. Habló al plantel después de la entrada en calor. Les pidió disfrutar y jugar con personalidad. Remató: \"Semifinales de Copa, no se vive todos los días\".",
+        "Sosa surgió en Platense y pasó por River y Racing. Llegó al Vasco para asumir un rol de liderazgo.",
+        "El video muestra más escenas. Hay elongación y masajes. El técnico Pedro Emanuel da una charla breve. Alan Lescano ceba mate. En el centro hay una vela encendida junto a una imagen de la Virgen. Adson rezó antes de salir. Lescano ensayó un grito en portugués.",
+        "Unos 4.000 hinchas del Vasco viajaron desde Río de Janeiro y ocuparon la popular visitante.",
+        "Después del partido, Sosa bajó el tono y miró hacia adelante. Dijo: \"Vamos, gente. Faltan 90 minutos\". Sostuvo que Boca no les pasó por encima. Opinó que el primer tiempo fue mejor para Vasco. En el segundo, con un jugador más, Boca tuvo que salir a buscar el empate.",
+        "El mediocampista Thiago Mendes generó una polémica. Compartió en Instagram una imagen en la que rompía el escudo de Boca. Se disculpó y la borró. Explicó que la republicó sin notar que era ofensiva, en medio de la emoción.",
+        "La revancha es el martes 20, desde las 21.30, en el Maracaná. Vasco llega con ventaja y puede sellar la clasificación a la final."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "La arenga de Santiago Sosa en el vestuario de Vasco antes de ganarle a Boca",
+      "u": "https://www.infobae.com/deportes/2026/10/15/revelaron-la-encendida-arenga-de-santiago-sosa-a-sus-companeros-del-vasco-da-gama-antes-del-triunfo-en-la-bombonera-sobre-boca-juniors/",
+      "v": "Boca"
+    },
+    {
+      "b": "El ingeniero británico se presentó ante el personal de Enstone. El equipo tiene a Colapinto confirmado junto a Gasly para 2027.",
+      "body": [
+        "Alpine presentó a Mike Elliott ante el personal de Enstone el miércoles 14. Alpine había anunciado su contratación el 17 de septiembre. El británico, de 52 años, es el nuevo director técnico jefe. Supervisa las áreas técnicas y de ingeniería, por encima del director técnico ejecutivo David Sánchez.",
+        "Elliott es doctor en aerodinámica por el Imperial College London. Empezó en McLaren en 2000. Allí fue aerodinamicista de pista desde 2003 y líder de rendimiento aerodinámico en 2006.",
+        "En noviembre de 2008 pasó a Renault, en Enstone. Trabajó en los autos de Fernando Alonso, Robert Kubica y Kimi Räikkönen. Dejó el equipo en julio de 2012.",
+        "Ese año llegó a Mercedes y encabezó aerodinámica. Fue director de tecnología desde 2017. En julio de 2021 reemplazó a James Allison como director técnico. Supervisó los autos con efecto suelo de 2022. En abril de 2023 pasó a director técnico jefe, tras una reorganización. En octubre de 2023 anunció su salida, después de 11 años.",
+        "Flavio Briatore, asesor ejecutivo de Alpine, dijo que necesitaba un director técnico fuerte. Se mostró seguro de que con Elliott el equipo llegará a \"un nivel diferente\". En Malasia había definido a Elliott como la persona adecuada para volver a la F1. La meta es defender la posición frente a Williams y ganar.",
+        "En su primer mensaje al personal, Elliott habló de convertir recursos en rendimiento en pista. Dijo que los empleados son el recurso fundamental.",
+        "Jason Somerville se había sumado en mayo como subdirector técnico. Fue jefe de aerodinámica de la FIA.",
+        "Alpine pelea el quinto puesto del campeonato de Constructores. Suma 68 puntos y Racing Bulls tiene 100. Gasly aportó 41 y Franco Colapinto, 27. Los dos seguirán en 2027.",
+        "Colapinto recibió además un gesto de Lando Norris. El campeón lo llamó \"buen amigo\" en un streaming con Max Fewtrell. Antes había pedido una fecha de suspensión por el choque en Bakú. Luego se retractó."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Alpine presentó a Mike Elliott, su nuevo director técnico jefe",
+      "u": "https://www.infobae.com/deportes/2026/10/15/expectativa-en-alpine-por-la-presentacion-de-un-ingeniero-estrella-de-la-formula-1-llevaremos-al-equipo-a-un-nivel-diferente/",
+      "v": "Alpine"
+    },
+    {
+      "b": "El brasileño líder de la F2 reemplaza a Esteban Ocon. Según Infobae, restan tres asientos sin dueño para el año próximo.",
+      "body": [
+        "Haas confirmó a Rafael Camara como piloto para 2027, con un contrato plurianual. El brasileño, de 21 años, reemplaza a Esteban Ocon. Debutará como rookie.",
+        "Camara lidera la Fórmula 2 con siete puntos de ventaja sobre Nikola Tsolov. Fue campeón de FRECA en 2024 y de F3 en 2025. Viene de la academia de Ferrari. Si gana la F2, será el único en ganar las tres categorías en temporadas consecutivas.",
+        "Haas también evaluó a Leonardo Fornaroli, campeón vigente de F2. Y a Ryo Hirakawa, piloto de reserva. Los tres hicieron una prueba de tres días en Portimão, en agosto. Pesó el vínculo con Ferrari, que le da la unidad de potencia al equipo.",
+        "Ayao Komatsu destacó su rendimiento en las clasificaciones de F2 en Mónaco y Montreal. Elogió también su adaptación en Portugal. Camara dijo estar muy contento de sumarse a Haas.",
+        "Ocon se va al final de 2026. Su salida se comunicó el 30 de septiembre. Komatsu le avisó tras el receso de verano que sus chances eran bajas. Según fuentes citadas por Infobae, tenía una postura defensiva y reclamaba mucho en boxes. También criticó el auto, sobre todo los frenos.",
+        "En Bakú, Ocon clasificó 13º y terminó 8º. Antes de esa carrera había dicho que era agente libre para 2027.",
+        "Oliver Bearman, de 21 años, es el principal candidato para la otra butaca de Haas. Todavía no está confirmado.",
+        "Infobae cuenta tres asientos sin dueño: el de Haas y los dos de Racing Bulls. Allí corren Liam Lawson y el debutante Arvid Lindblad. Ninguna de las dos plazas está definida.",
+        "RacingNews365 había adelantado el acuerdo entre Haas y Ferrari. Según esa fuente, se cerró en el fin de semana de Singapur. Camara llega con patrocinio brasileño."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae / RacingNews365",
+      "t": "Haas confirmó a Rafael Camara para 2027 y quedan pocas butacas libres",
+      "u": "https://www.infobae.com/deportes/2026/10/15/haas-confirmo-a-un-rookie-sudamericano-como-reemplaante-de-esteban-ocon-y-solo-quedan-dos-butacas-sin-dueno-en-la-f1-para-2027/",
+      "v": "Mercado"
+    },
+    {
+      "b": "El modelo tiene 816.000 millones de parámetros y contexto de un millón de tokens. Meta dice que es el más capaz de su tipo en Estados Unidos.",
+      "body": [
+        "Meta lanzó este jueves Muse Spark Open, un modelo de pesos abiertos. La compañía lo presenta como el más capaz de Estados Unidos dentro de esa categoría.",
+        "Tiene 816.000 millones de parámetros, de los cuales 42.000 millones están activos. Maneja un contexto de un millón de tokens. Es multimodal de origen. Apunta a la programación y a tareas largas de agentes.",
+        "Está pensado para correr en computadoras de Apple. Meta dice que funciona con dos Mac Studio con chip M5 Ultra. Usa el framework MLX. Cada equipo llega a 512 GB de memoria unificada. Según Engadget, citado por TechCrunch, hace falta al menos 1 terabyte de RAM.",
+        "Meta lo acompañó con Muse Code, su terminal de programación con IA. En las pruebas, tocó Ice Cubes. Es un cliente de Mastodon abierto para iOS. Corrigió errores, sumó funciones y armó la compilación completa. También lo usó en DaVinci Resolve. Revisó material cuadro por cuadro y recortó clips en vertical.",
+        "Los pesos salen bajo la Muse Model License, con condiciones comerciales limitadas. Meta dice que esos términos permiten a muchos desarrolladores usarlo gratis. Se pueden bajar desde Hugging Face, Amazon SageMaker, Google Cloud Model Garden y Microsoft Foundry.",
+        "Por API está en Baseten, Fireworks AI, Groq, Modal, Nebius, OpenRouter y Together AI. Corre con SGLang, vLLM, llama.cpp, Apple MLX y otros motores de inferencia.",
+        "Meta sumó kernels de GPU a medida en SGLang. Aceleran entre 1,03 y 3,95 veces cada kernel, en chips de NVIDIA y AMD. Para ajustar el modelo, ofrece TorchTitan, de PyTorch.",
+        "Meta sostiene que supera a otros modelos abiertos populares y publicó los resultados el jueves. La página del anuncio no detalla cifras y remite a un informe de metodología. El modelo recibió entrenamiento extra de seguridad por ser abierto. El informe completo de evaluación llegará pronto, según la empresa."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "TechCrunch / Meta",
+      "t": "Meta lanzó Muse Spark Open, un modelo abierto pensado para correr en Macs",
+      "u": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs/",
+      "v": "Modelos"
+    },
+    {
+      "b": "Seis investigadores de METR trabajarán con laptops, oficina y herramientas internas de la empresa. Anthropic no podrá bloquear lo que publiquen.",
+      "body": [
+        "METR es una organización sin fines de lucro que evalúa modelos de frontera. Anthropic le dio acceso a nivel de empleado a seis de sus investigadores. Lo anunció este jueves en un posteo.",
+        "Los seis recibieron laptops de la empresa, oficina y herramientas internas. El acceso es parecido al de los equipos de evaluación de riesgos de Anthropic. Los empleados pueden compartir información con ellos. Quedan afuera los datos de clientes y el material reservado con abogados. Tampoco se comparte la arquitectura de los modelos.",
+        "METR publicará su propio análisis de los riesgos, incidentes y prácticas de Anthropic. La empresa no puede bloquear la publicación. Sí puede exigir tachaduras en categorías acotadas y definidas de antemano. METR puede decir en público si las considera justificadas, sin revelar el contenido. El resto del personal de METR queda separado del equipo que trabaja con Anthropic.",
+        "Anthropic arma un esquema de tres niveles. En el primero, las revisiones son acotadas. La empresa decide el acceso y aprueba la publicación. En el segundo, los evaluadores publican sin permiso y reciben más información. El tercero suma el acceso tipo empleado. Hoy solo METR está ahí.",
+        "SecureBio revisa un capítulo del informe de riesgos de agosto de 2026. Es el de armas químicas y biológicas. Accenture y Faculty exploran una alianza para evaluación, pruebas adversarias y revisión de salvaguardas. Hay charlas iniciales con otras organizaciones, entre ellas Hugging Face.",
+        "Anthropic exige a los evaluadores experiencia, acceso suficiente y libertad para publicar. Piden también no tener acciones de la empresa. Tampoco pueden depender de ella en lo financiero.",
+        "En septiembre, Dario Amodei publicó el ensayo \"We must pace the frontier\". Proponía poner evaluadores externos dentro de los laboratorios. Según TechCrunch, OpenAI prometió lo mismo. Anthropic, OpenAI, Google, Meta, Nvidia y xAI firmaron un acuerdo con la Casa Blanca. Prevé revisión independiente."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "TechCrunch / Anthropic",
+      "t": "Anthropic le da a METR acceso de empleado para evaluar sus modelos",
+      "u": "https://techcrunch.com/2026/10/15/anthropic-is-letting-metr-researchers-look-under-the-hood-with-employee-level-access/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "El CEO RJ Scaringe dijo que los autos correrán agentes de otras empresas, como Anthropic. No dio fechas.",
+      "body": [
+        "Rivian planea que sus autos corran agentes de IA de otras compañías. Lo dijo su fundador y CEO, RJ Scaringe, en TechCrunch Disrupt. El evento fue del 13 al 15 de octubre en San Francisco.",
+        "Scaringe nombró a Anthropic como ejemplo. \"Ahí es donde se vuelve mágico\", afirmó. No dio plazos. Rivian apuntó a su evento \"AI & Autonomy Day\", previsto para diciembre.",
+        "Hoy la marca ya tiene un asistente propio. Permite a conductores y pasajeros manejar funciones del auto por voz. Rivian desarrolló todo el software de a bordo en casa. No depende de Apple CarPlay ni de Android Auto. Tiene navegación propia, aunque integra Apple Music.",
+        "Un marco de agentes propio interpreta cada pedido hablado. Después lo manda al programa correcto. Los pedidos comunes son ajustar la temperatura, prender los asientos térmicos o resumir noticias. Desde mayo de 2026, el agente accede a apps externas como Google Calendar.",
+        "Scaringe describió un esquema de semáforo. Los pedidos simples los resuelve un modelo local, dentro del auto. Los complejos pueden ir a la nube, donde se usarían distintos modelos.",
+        "Sumar productos de los grandes laboratorios exige mucho trabajo de backend y coordinación con ellos. Scaringe aclaró que los agentes no controlarán funciones como frenos o dirección, por seguridad.",
+        "Un ejemplo que dio: el conductor prende los asientos ventilados. Pide ayuda para planear la comida del viernes con invitados. El agente usa el contexto de una charla previa en otro dispositivo.",
+        "TechCrunch recordó que Tesla sumó este año una función para hablar con Grok."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Rivian quiere agentes de IA de terceros dentro de sus autos",
+      "u": "https://techcrunch.com/2026/10/15/ai-agents-are-coming-to-rivians-cars/",
+      "v": "Agentes"
+    },
+    {
+      "b": "El agente de programación abierto de Anomaly rehizo su API y rompe compatibilidad con los plugins de la versión 1.",
+      "body": [
+        "Anomaly anunció el 12 de octubre OpenCode 2.0. Es una reescritura grande de su agente de programación abierto. El proyecto vive en GitHub bajo la organización anomalyco. Tiene licencia MIT y unas 211.700 estrellas. La página no muestra las estrellas de la última semana.",
+        "El repositorio trae un agente \"build\" con acceso total y otro \"plan\", de solo lectura, para analizar. Suma un subagente general para búsquedas complejas. También hay una app de escritorio en beta.",
+        "La novedad central es el servicio. El servidor ahora corre solo, como un único proceso en segundo plano. La terminal, la web y la app de escritorio se conectan al mismo. Antes, el modo cliente-servidor era opcional y lo usaban sobre todo usuarios avanzados. El comando /pair conecta el servicio con otros equipos y aplicaciones.",
+        "La API se rehízo de cero. OpenCode puede llamarse a sí mismo. Por ejemplo, crea un worktree de git, renombra una sesión o la interrumpe. Los paquetes @opencode/client y @opencode/sdk permiten usarlo como librería. Sirve incluso en servidores o en Durable Objects.",
+        "Code Mode es un intérprete mínimo de JavaScript, en @opencode/codemode. Convierte servidores MCP y endpoints OpenAPI en funciones. El agente las llama dentro de un script. Así hace varias llamadas en un solo viaje. Todos los servidores MCP vienen activados por defecto.",
+        "Los subagentes ahora pueden trabajar en segundo plano, incluso con otro modelo. Los comandos de shell también corren sin bloquear y avisan al terminar. Con ctrl+b, se pasa a segundo plano lo que esté corriendo.",
+        "Casi todas las funciones de la 2.0 son plugins internos, más de 80. Los plugins de la terminal pasaron de experimentales a estables. Todo admite recarga en caliente.",
+        "Hay cambios incompatibles. Los plugins de la 1.0 no funcionan. La API del servidor es otra. El archivo tui.json cambió. Para actualizar, hay que pasar a la última 1.x y correr opencode upgrade --major. Hay una guía de migración en opencode.ai."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Anomaly / GitHub",
+      "t": "OpenCode 2.0 pasa a un servicio en segundo plano y suma Code Mode",
+      "u": "https://github.com/anomalyco/opencode",
+      "v": "Open source"
+    },
+    {
+      "b": "La canasta de luz, gas, agua y transporte acumula 46,3% de enero a septiembre. El IPC suma 23,6%.",
+      "body": [
+        "Los servicios públicos treparon 46,3% entre enero y septiembre. La inflación general acumuló 23,6% en el mismo período. La brecha es de 22,7 puntos, según un informe del IIEP.",
+        "En la comparación interanual, la canasta subió 55%. El IPC avanzó 33,4%. El cálculo corresponde a un hogar del AMBA sin subsidios. Incluye electricidad, gas, agua y transporte.",
+        "El transporte pesa más que el resto. Acumula 52,3% en el año y 70% interanual. Explica 30 de los 55 puntos de suba de la canasta.",
+        "El gas natural acumula 114,9% en 2026. El agua sube 31,3% y la electricidad, 11,1%.",
+        "En septiembre, la canasta costó $268.405 por mes. Eso equivale al 14,6% de un salario registrado promedio estimado. Frente a agosto bajó 7,3%. Influyó el menor consumo de gas y luz tras el invierno.",
+        "El INDEC mostró algo parecido. El capítulo vivienda, agua, electricidad y gas subió 3,1% en septiembre. Acumula 35,6% en el año y 49,1% interanual. La inflación del mes fue 1,9%.",
+        "Los precios regulados del IPC suben 31,5% en lo que va del año. En doce meses suman 43,3%.",
+        "Los hogares pagan hoy el 54% del costo de la canasta. El Estado cubre el 46% restante. Por servicio: agua 100%, electricidad 58%, gas 57%, transporte 35%.",
+        "El Presupuesto 2027 apunta a una cobertura promedio superior al 88%. Las transferencias de energía y transporte bajarían de 0,64% a 0,53% del PBI.",
+        "El informe aclara que la canasta no aplica de forma automática a toda la población. Proyecta que las tarifas seguirán por encima de la inflación. Los subsidios continúan recortándose."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Los servicios públicos subieron casi el doble que la inflación en 2026",
+      "u": "https://www.infobae.com/economia/2026/10/15/los-servicios-publicos-subieron-casi-el-doble-que-la-inflacion-en-el-ano-los-gastos-fijos-ganan-peso-en-el-presupuesto-familiar/",
+      "v": "Tarifas"
+    },
+    {
+      "b": "El Merval rebotó 0,8% tras abrir con caídas de 2%. La tasa de los bonos del Tesoro de EEUU presiona sobre la deuda argentina.",
+      "body": [
+        "El riesgo país subió 6 puntos y cerró el jueves en 622 básicos. Es el quinto avance diario consecutivo. Por la mañana llegó a tocar 640, su máximo desde el 2 de octubre.",
+        "Las acciones tuvieron un día de menor a mayor. El S&P Merval abrió con una baja cercana al 2%. Terminó con alza de 0,8% en pesos, en 2.859.051 puntos. En 2026 acumula una caída de 6,3% en pesos y 11,5% en dólares.",
+        "Entre los ADRs, Globant subió 6,3% y Supervielle, 4,9%. YPF cedió 2,2% y quedó en US$ 51,13.",
+        "Los bonos en dólares cerraron mixtos. Habían abierto con una baja promedio de 0,7%.",
+        "El factor externo pesa fuerte. El bono del Tesoro de EEUU a diez años rindió 5,09%. Bajó unos 10 puntos. Los Treasuries están en su nivel más alto en dos décadas. Esa tasa le quita atractivo a los mercados emergentes.",
+        "En Wall Street, el Dow Jones subió 1,1% y el S&P 500, 0,3%. El Nasdaq recuperó una caída de más de 1% en la apertura. En Brasil, el Bovespa perdió 1,1%.",
+        "En Infobae, analistas señalan que el riesgo país se consolida arriba de los 600 puntos. El máximo intradiario de octubre fue de 655 puntos. En julio había tocado un piso de 402, el más bajo desde 2018.",
+        "Los analistas citan dudas por los vencimientos de deuda desde 2027. También pesan las elecciones presidenciales del año próximo. Las reservas crecieron poco en agosto y septiembre. En octubre el Banco Central compra más de US$ 80 millones diarios, en promedio.",
+        "El economista Gustavo Ber calificó la dinámica de \"inoportuna\". Complica financiarse en dólares dentro del país. Señaló que el AO29 rinde mucho. Caputo, en tanto, evalúa usar el swap con China para pagar importaciones.",
+        "El petróleo cerró con subas y bajas. El Brent perdió 0,3%, a US$ 105,80. El WTI subió 2,6%, a US$ 97,60."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "El riesgo país tocó los 640 puntos y cerró en 622, su quinta suba al hilo",
+      "u": "https://www.infobae.com/economia/2026/10/15/mercados-caen-las-acciones-argentinas-y-el-riesgo-pais-sube-a-640-puntos-basicos/",
+      "v": "Mercados"
+    },
+    {
+      "b": "Adjudicó $6,61 billones frente a $4,85 billones que vencían. Captó $1,75 billones netos.",
+      "body": [
+        "El Tesoro adjudicó $6,61 billones en la licitación del miércoles 14. Las ofertas sumaron $9,49 billones. Los vencimientos eran de unos $4,85 billones. La renovación fue de 136%.",
+        "El financiamiento neto llegó a $1,75 billones. Quedaron afuera ofertas por $2,9 billones.",
+        "El plazo promedio ponderado subió a 535 días, casi 17,8 meses. Es el nivel más alto desde junio. En licitaciones anteriores había caído a 3,7 meses. En junio había llegado a 31,3 meses.",
+        "Cerca del 60% del monto se colocó en instrumentos que vencen después de 2028.",
+        "La Lecap S29E7 vence el 29 de enero de 2027. Es a tasa fija y captó $2,71 billones. Rindió 2,04% mensual efectivo, o 27,47% anual.",
+        "El TMG28 está atado a la TAMAR y vence en agosto de 2028. Sumó $1,16 billones. Su TIR efectiva anual fue de 38,91%.",
+        "El TXMD9 es dual, CER o TAMAR, y vence en diciembre de 2029. Recibió $1,70 billones. En la opción CER rindió 6,99% real anual.",
+        "El TMVE8 es dual, TAMAR o dólar linked, y vence en enero de 2028. Captó $1,04 billones. En la alternativa dólar linked rindió 4,35% anual.",
+        "Equilibra midió la demanda: 42% en duales, 41% en tasa fija, 17% en tasa variable.",
+        "Adcap notó que los premios sobre el mercado secundario fueron mínimos, cerca de una décima. Max Capital marcó que el Tesoro aceptó tasas altas, con fuerte presencia de bancos. Los analistas estimaron que el Banco Central absorbió $1,8 billones en el mercado de pases.",
+        "El Tesoro no ofreció bonos tradicionales en dólares por cuarta licitación seguida. La próxima licitación será a fin de octubre. El dólar linked D30O6 concentra más de $8 billones de los vencimientos del mes."
+      ],
+      "id": "eco2",
+      "sec": "Economía",
+      "src": "La Política Online / Infobae",
+      "t": "El Tesoro renovó 136% de sus vencimientos y estiró el plazo, pero con tasas altas",
+      "u": "https://www.lapoliticaonline.com/economia/caputo-logro-estirar-los-vencimientos-pero-pago-tasas-altas-y-la-bicicleta-financiera-se-chupa-los-pesos-del-mercado/",
+      "v": "Licitación"
+    },
+    {
+      "b": "Hubo 121 presentes y se necesitaban 129. El Gobierno ahora convoca para el miércoles 21.",
+      "body": [
+        "La sesión especial del jueves 15 en Diputados se cayó por falta de quórum. Había 121 diputados en el recinto y hacían falta 129. Martín Menem dio por fracasado el intento a las 14.31. Esperó unos 30 minutos.",
+        "El temario incluía el rechazo del DNU 70/23. También la prórroga de la emergencia en discapacidad hasta fines de 2027. Y un alivio para familias endeudadas.",
+        "Asistieron casi todos los de Unión por la Patria. También los cuatro del Frente de Izquierda. De Provincias Unidas fueron unos diez. También estuvieron la Coalición Cívica y bloques chicos.",
+        "Faltaron ocho de Provincias Unidas. Entre ellos, Gisela Scaglia y José Núñez, de Santa Fe, y Alejandra Torres, de Córdoba. Se sumaron Jorge Rizzotti y María Inés Zigarán, de Jujuy. Y Sergio Capozzi, Lourdes Arrieta y Jorge Ávila. Ávila entró cuando Menem ya había cerrado.",
+        "Los tres diputados del bloque Independencia, ligado a Osvaldo Jaldo, no ingresaron. Tampoco fueron Daniel Vancsik, de Misiones, y Yolanda Vega, de Salta, esta última por salud. LLA, PRO y la UCR no dieron quórum.",
+        "Menem celebró en X que el país \"ya eligió un rumbo\". Milei replicó el mensaje. Germán Martínez, de Unión por la Patria, acusó a quienes no dieron quórum. Dijo que no representan al pueblo. Pablo Juliano, de la UCR, criticó a los ausentes. Mencionó discapacidad y endeudamiento.",
+        "El Senado ya había rechazado el decreto en marzo de 2024. Como Diputados no votó, el DNU sigue vigente.",
+        "El miércoles 14, el oficialismo consiguió dictamen del proyecto de propiedad privada. Suma dos artículos que restituyen la Ley de Tierras. Fija un tope de 15% de titularidad extranjera. Ese texto ya tiene media sanción del Senado.",
+        "La próxima sesión será el miércoles 21 a las 12, convocada por Gabriel Bornoroni. Tratará propiedad privada, discapacidad, endeudamiento y otros temas. Quedó afuera el rechazo del DNU."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "La Jornada",
+      "t": "Fracasó la sesión para derogar el DNU 70/23: la oposición quedó a ocho diputados del quórum",
+      "u": "https://lajornadaweb.com.ar/diputados-la-oposicion-quedo-a-ocho-legisladores-del-quorum-y-fracaso-la-sesion-para-rechazar-el-dnu-70-2023/",
+      "v": "Diputados"
+    },
+    {
+      "b": "Casa Rosada estudia cubrir los $11 billones que reclaman las universidades. No hay consenso interno.",
+      "body": [
+        "La Casa Rosada estudia modificar el Presupuesto 2027. La idea es que los $11 billones que reclaman las universidades salgan de otras partidas. Se habló en la mesa política hace unas dos semanas.",
+        "No hay consenso. Fuentes oficiales dijeron que la medida \"podría romper el equilibrio fiscal\". Milei lo considera innegociable. Dentro del Gobierno también hay reparos del ministro Luis Caputo.",
+        "Antes, el juez Martín Cormick multó con $100.000 diarios al jefe de Gabinete, Diego Santilli. El CIN, que conduce Franco Bartolacci, pidió aplicarla porque venció el plazo. El Gobierno apelará la multa y el fallo que ordena aplicar la ley.",
+        "El Gobierno dice que los aumentos desde diciembre de 2023 suman 226,80%. Incluyen 21,33% en junio. Lo considera compatible con las órdenes judiciales.",
+        "El jueves 15 se hizo la quinta Marcha Federal Universitaria frente al Congreso. Adhirieron la CGT, las dos CTA, ATE, La Cámpora, el FIT y Derecho al Futuro. Infobae no da una cifra de asistentes.",
+        "El documento leído reclama cumplir la ley de financiamiento. Pide derogar el DNU 70/23. Reclama 33,4% más que el Presupuesto 2027 oficial. Denuncia que las becas Progresar siguen congeladas en $35.000 desde 2024.",
+        "Laura Carboni, de AGD-UBA, dio un ejemplo. Un ayudante de primera con dedicación semiexclusiva cobró $561.659 brutos en octubre. Según la ley, le corresponderían $741.111.",
+        "El rector de la UBA, Ricardo Gelpi, afirmó que \"en democracia, la ley se cumple\". Axel Kicillof pidió a Milei que la cumpla.",
+        "Hubo incidentes sobre Rivadavia, junto al vallado. Gendarmería usó balas de goma, gas e hidrante. Detuvo a 31 personas. Ocho efectivos resultaron heridos y los daños se estiman en $90 millones.",
+        "La ministra de Seguridad, Alejandra Monteoliva, culpó a \"los mismos violentos de siempre\". El Gobierno anunció que denunciará penalmente a los detenidos."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "El Gobierno analiza reasignar partidas del Presupuesto 2027 para pagar el financiamiento universitario",
+      "u": "https://www.infobae.com/politica/2026/10/15/sin-margen-de-accion-el-gobierno-analiza-modificar-el-presupuesto-para-cumplir-con-el-financiamiento-universitario/",
+      "v": "Universidades"
+    },
+    {
+      "b": "Kicillof será el único orador en González Catán. Máximo Kirchner viaja a Chaco.",
+      "body": [
+        "El peronismo celebrará el Día de la Lealtad en actos separados este sábado 17. Se cumplen 81 años de la movilización de 1945.",
+        "El PJ bonaerense, que preside Axel Kicillof, hará su acto desde las 15. Será en el Polideportivo Juan Domingo Perón, en González Catán, La Matanza. Lo organiza el intendente Fernando Espinoza. Kicillof será el único orador.",
+        "Se espera a intendentes del Movimiento Derecho al Futuro. También a concejales, gremios y militantes del conurbano. También a la vicegobernadora Verónica Magario, aunque no está confirmada. No hay lista oficial de asistentes.",
+        "El sector ligado a La Cámpora irá a San José 1111, en Constitución. Allí cumple prisión domiciliaria Cristina Kirchner por la causa Vialidad. Un vocero anticipó que \"habrá un acto ese día en San José\".",
+        "Máximo Kirchner no estará en ninguno de los dos actos. Viaja a Chaco para acompañar a Jorge Capitanich.",
+        "Sergio Massa, del Frente Renovador, no dio detalles de su agenda. Juan Grabois evalúa si participa. Su alternativa es la presentación de un libro el 24. Guillermo Moreno se sumará a actos ajenos, sin organizar uno propio.",
+        "La interna se reavivó con un cruce. Carlos Bianco, del equipo de Kicillof, chocó con Martín Doñate, de La Cámpora. Bianco dijo que un eventual dictamen favorable de la ONU en Vialidad no sería vinculante. Se refería a la Justicia argentina. Doñate lo criticó con dureza.",
+        "La CGT conmemora la fecha el viernes 16. Lo hace con la plataforma cultural \"Fuerza\" y un festival gratuito."
+      ],
+      "id": "pol2",
+      "sec": "Política",
+      "src": "El Argentino / La Nación",
+      "t": "El peronismo llega dividido al 17 de octubre: Kicillof en La Matanza y el cristinismo en San José 1111",
+      "u": "https://elargentinodiario.com.ar/politica/14/10/2026/kicillof-unico-orador-del-17-de-octubre-la-lealtad-se-celebra-en-la-matanza/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "El asesor presidencial publicó un posteo en X. La ley Malvinas sigue sin dictamen en Diputados.",
+      "body": [
+        "El asesor presidencial Santiago Caputo publicó un extenso posteo en X sobre Malvinas. Dijo que el Reino Unido \"está siendo colonizado por el Islam\". Sostuvo que por eso hay que recuperar las islas. Javier Milei compartió el mensaje.",
+        "Caputo describió a Gran Bretaña como cuna de la civilización occidental moderna. Habló de \"un riesgo inminente\" para Occidente. Planteó que la Argentina debe proyectarse sobre el Atlántico Sur.",
+        "Cerró con una frase: \"Recuperar Malvinas no es una causa solamente nacional. Es una causa de Occidente\". También compartió un video de Javier Negre, dueño de La Derecha Diario. Habla de una supuesta islamización británica.",
+        "Perfil no registra reacciones de la oposición ni del gobierno británico.",
+        "El mensaje llegó un día después de otro movimiento oficial. La Cancillería pidió medidas provisionales al Tribunal Internacional del Derecho del Mar. Apuntan a acciones británicas en la Cuenca Norte. Apunta al proyecto petrolero Sea Lion.",
+        "En Diputados, el oficialismo no logró firmar dictamen de la ley Malvinas el miércoles 14. Era el cuarto plenario de comisiones. Buscaba incluirla en la sesión del 21. Menem la sacó del temario.",
+        "El proyecto, llamado Defensa de la Soberanía Nacional, tiene 133 artículos. Unión por la Patria acepta el Título I. Crea sanciones para quien explote recursos sin autorización argentina. Rechaza el resto. Esa fuerza, Argentina Federal y Provincias Unidas piden dividir el texto. El Gobierno se niega.",
+        "El artículo 111 prevé de 5 a 12 años de prisión. Alcanza a quienes financien campañas masivas de desinformación. Los radicales lo rechazan por la libertad de prensa. El Gobierno analiza crear una bicameral de seguimiento. Los aliados dicen que no alcanza.",
+        "El ministro de Defensa, Carlos Presti, y el canciller, Pablo Quirno, no fueron al plenario."
+      ],
+      "id": "pol3",
+      "sec": "Política",
+      "src": "Perfil",
+      "t": "Santiago Caputo dijo que hay que recuperar Malvinas por el \"islam\" en Gran Bretaña, y Milei lo compartió",
+      "u": "https://www.perfil.com/noticias/politica/santiago-caputo-declaro-que-deben-recuperarse-las-islas-malvinas-porque-gran-bretana-esta-siendo-colonizada-por-el-islam.phtml",
+      "v": "Malvinas"
+    },
+    {
+      "b": "El balotaje es el 25 de octubre. Milei llamó a Lula \"dictador comunista\". El PT reunió observadores internacionales.",
+      "body": [
+        "Faltan nueve días para el balotaje del 25 de octubre. Javier Milei se mostró con Eduardo Bolsonaro. Fue el miércoles 14 en Washington. La gala reunió a empresarios, inversores y dirigentes cercanos al Partido Republicano. Milei recibió una distinción por su \"liderazgo e impacto global\".",
+        "Milei ratificó su apoyo a Flávio Bolsonaro y pronosticó que ganará. Llamó a Lula \"dictador comunista\". Anticipó un \"golpe mortal contra el socialismo latinoamericano\".",
+        "También respaldó a Jair Bolsonaro, a quien definió como \"injusta y vengativamente encarcelado\". Defendió el RIGI y proyectó un crecimiento de 16% al cierre de su mandato.",
+        "Eduardo Bolsonaro se abrazó con Milei en el escenario. Vive en Estados Unidos desde 2025. La Justicia brasileña ordenó su arresto.",
+        "Del otro lado, el PT reunió por Zoom a observadores internacionales. Quiere alertar sobre un posible intento de injerencia de Estados Unidos en la elección. La reunión la lideraron Eden Valadares y Rafael Fonteles. Según el comunicado, habría un encuentro en Brasilia el 15.",
+        "La campaña de Lula acusa a Meta de fallas que lo perjudican. Menciona la suspensión de su cuenta publicitaria y un bloqueo de 24 horas en Instagram. Dice que Flávio logra casi el triple de interacciones con 17% menos de seguidores. Meta habló de problemas técnicos.",
+        "La campaña lanzó una herramienta para denunciar \"censura digital\". Recibió más de 2.700 denuncias en tres días, la mayoría por Instagram.",
+        "En el entorno de Lula dicen que Trump y Marco Rubio tienen un aliado. Sería el presidente del TSE, Kassio Nunes. Lo acusan de decisiones arbitrarias contra el PT.",
+        "El presidente del PT, Edinho Silva, asume que Trump intervendrá. Afirmó que el partido \"tiene herramientas\" para enfrentarlo."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Perfil / La Política Online",
+      "t": "Milei respaldó a Flávio Bolsonaro en Washington y Lula denunció intromisión de Trump",
+      "u": "https://www.perfil.com/noticias/politica/milei-se-mostro-junto-a-eduardo-bolsonaro-en-la-gala-del-trumpismo-y-respaldo-a-flavio-contra-lula.phtml",
+      "v": "Brasil"
+    },
+    {
+      "b": "La empresa creció sin capital externo. Apunta a facturar US$ 40 millones en tres años.",
+      "body": [
+        "Biofilm, empresa argentina de biotecnología agrícola, anunció una inversión de más de US$ 7 millones. Con ese dinero ampliará su planta y abrirá un centro de investigación. Forbes Argentina publicó la nota el 15 de octubre.",
+        "La planta actual mide 4.800 metros cuadrados. Pasará a 11.000. La idea es duplicar la capacidad productiva.",
+        "El centro de investigación en tecnologías biológicas tendrá equipamiento especializado y un invernadero. La compañía también planea expandirse en América Latina.",
+        "La meta es facturar US$ 40 millones en los próximos tres años.",
+        "Biofilm nació en 2016, de la mano de Rafael Jurado y Matías Lopresto. Daniel Bianchi se sumó dos años después para reforzar el área comercial.",
+        "Empezó vendiendo desarrollos de terceros. Hoy tiene tecnología propia e investigación aplicada. Su portafolio incluye coadyuvantes, bioestimulantes, insumos biológicos, productos de nutrición y tratamientos de semillas.",
+        "El equipo supera las 35 personas. La empresa quiere duplicar su plantel profesional. Opera con una red de representantes y distribuidores en distintas regiones productivas.",
+        "El crecimiento fue orgánico. No recibió fondos de inversión ni capital externo. Combinó créditos blandos con reinversión de recursos propios.",
+        "La planta actual costó más de US$ 10 millones y se financió con capitales argentinos."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "Forbes Argentina",
+      "t": "Biofilm invertirá más de US$ 7 millones para duplicar su planta de biotecnología agrícola",
+      "u": "https://www.forbesargentina.com/negocios/arrancaron-soluciones-biotecnologia-campo-ahora-invierten-mas-us-7-millones-duplicar-su-capacidad-n100331",
+      "v": "Agro"
+    },
+    {
+      "b": "La Agencia Córdoba Innovar y Emprender aporta hasta $35 o $40 millones por proyecto.",
+      "body": [
+        "La Agencia Córdoba Innovar y Emprender eligió startups para su Programa de Coinversión Semilla 2026. Valor Local lo informó el 13 de octubre.",
+        "Es una coinversión público-privada de uno a uno. Está dirigida a emprendimientos innovadores de base científico-tecnológica, en etapa semilla o temprana. Es la segunda etapa de la Ruta Emprendedora de la Agencia.",
+        "El aporte de la Agencia tiene topes de $35 o $40 millones. Depende del tipo de inversión.",
+        "Resistia desarrolla una plataforma para neutralizar biofilms bacterianos y que los antibióticos vuelvan a funcionar. Trabaja en infecciones respiratorias y heridas crónicas.",
+        "SoyGREEN ofrece bioinsumos. Buscan aumentar el rendimiento de los cultivos y reducir emisiones.",
+        "Rexia usa inteligencia artificial para automatizar procesos administrativos de salud. Abarca registro, facturación, auditoría y cobro.",
+        "Empujón construye infraestructura de IA para personalizar la educación, con foco en lectura y alfabetización. En sus primeros cuatro meses logró 15 contratos y 4.000 estudiantes.",
+        "Trama desarrolló un agente de IA para turismo. Atiende consultas comerciales, organiza información de viajes y hace seguimientos.",
+        "Emiliano Chiappero, responsable del área de Programas de la Agencia, es el referente del programa."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "Valor Local",
+      "t": "Córdoba seleccionó cinco startups de base científica para su programa de coinversión semilla",
+      "u": "https://www.valorlocal.com.ar/13/10/2026/startups-de-cordoba-recibiran-financiamiento-para-impulsar-su-crecimiento/",
+      "v": "Córdoba"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep2",
+    "dep1",
+    "fon0",
+    "fon1",
+    "pol0",
+    "eco0",
+    "eco1",
+    "tec0",
+    "tec4",
+    "eco2",
+    "pol1",
+    "tec1",
+    "pol2",
+    "lat0",
+    "pol3",
+    "tec2",
+    "sta0",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "eco0",
+    "tec0",
+    "dep1",
+    "lat0"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.535",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.545",
+      "▼0,3%"
+    ],
+    [
+      "MEP",
+      "$1.539",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.624",
+      "▲0,1%"
+    ],
+    [
+      "Riesgo país",
+      "623",
+      "▲1,1%"
+    ]
+  ]
+}
