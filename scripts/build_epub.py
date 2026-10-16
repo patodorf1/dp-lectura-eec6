@@ -92,7 +92,10 @@ table.nl{width:100%;border-collapse:collapse}
 table.nl td{vertical-align:top;padding:0}
 table.nl td.mi{width:34%;padding-left:.6em}
 table.nl td.mi img{width:100%;height:auto}
-.ni,table.nl,table.nl tr,.foto,.why,table.back{page-break-inside:avoid}
+.by{font-family:sans-serif;font-size:.8em;line-height:1.3;text-align:left;margin:0 0 .5em}
+.nby{font-family:sans-serif;font-size:.8em;font-weight:bold;text-align:left;margin:0 0 .2em}
+.aviso{font-family:sans-serif;font-size:.75em;line-height:1.3;text-align:left;border:1px solid #000;padding:.4em .5em;margin:0 0 .9em}
+.ni,table.nl,table.nl tr,.foto,.why,table.back,.aviso{page-break-inside:avoid}
 '''
 def page(t,b):return f'<?xml version="1.0" encoding="utf-8"?><!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:epub="http://www.idpf.org/2007/ops" lang="es" xml:lang="es"><head><meta charset="utf-8"/><title>{E(t)}</title><link rel="stylesheet" href="s.css" type="text/css"/></head><body>{b}</body></html>'
 secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
@@ -101,6 +104,22 @@ secs=[s_ for s_ in ED['secciones'] if any(n['sec']==s_ for n in N)]
 ORDEN=[by[i] for i in dict.fromkeys(ED.get('orden',[])) if i in by]
 ORDEN+=[n for s_ in secs for n in N if n['sec']==s_ and n not in ORDEN]
 ORDEN+=[n for n in N if n not in ORDEN]
+# Análisis (columnas y entrevistas de autores) va en su propio bloque: después de Deportes y F1, antes del resto de las noticias
+ANA=lambda n:n['sec']=='Análisis'
+NOT=[n for n in ORDEN if not ANA(n)];k=0
+while k<len(NOT) and NOT[k]['sec'] in ('Deportes','Fórmula 1'): k+=1
+ORDEN=NOT[:k]+[n for n in ORDEN if ANA(n)]+NOT[k:]
+# Firma y aviso de las piezas de Análisis: quién habla, dónde salió y qué parte es textual
+def firma(n):
+    a=n.get('autor','')
+    if n.get('v')=='Entrevista': l1=f"{a}, entrevistado por {n['pregunta']}" if n.get('pregunta') else f"Entrevista a {a}"
+    else: l1=f"Por {a}"
+    return f'<p class="by"><b>{E(l1)}</b>'+(f'<br/>{E(n["donde"])}' if n.get('donde') else '')+'</p>'
+def aviso(n):
+    a=n.get('autor','el autor')
+    if n.get('via'): t=f"Resumen hecho a partir de {n['via']}, no del original. Lo que va entre comillas es textual. El resto es lo que dijo {a} según esa fuente, contado con otras palabras."
+    else: t=f"Resumen. Lo que va entre comillas es textual. El resto es lo que dice {a}, contado con otras palabras."
+    return f'<p class="aviso">{E(t)}</p>'
 fn=lambda n:f"{n['id']}.xhtml"
 mast=f'<div class="mast"><p class="name">Diario de Pato</p><p class="date">{E(ED["fecha"])}</p></div>'
 # Del dólar solo el blue; el resto del ticker (riesgo país) se mantiene
@@ -111,9 +130,13 @@ tapa=mast+tick+f'<div class="lead"><p class="kicker">{E(L["sec"])} · {E(L["v"])
 tapa+='<p class="go"><a href="noticias.xhtml">Noticias de hoy →</a></p>'
 # Noticias de hoy: lista para leer de corrido (categoría, título, bajada). El id h<id> es el ancla de "← Noticias de hoy"
 # Con foto: dos columnas (texto a la izquierda, miniatura a la derecha). Sin foto: el texto ocupa todo el ancho
-txt=lambda n:f'<p class="kicker" id="h{n["id"]}">{E(n["sec"])}</p><p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p>'
+txt=lambda n:f'<p class="kicker" id="h{n["id"]}">{E(n["sec"])}'+(f' · {E(n["v"])}</p><p class="nby">{E(n.get("autor",""))}</p>' if ANA(n) else '</p>')+f'<p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p>'
 item=lambda n:f'<table class="nl"><tr><td>{txt(n)}</td><td class="mi"><a href="{fn(n)}"><img src="f/{n["id"]}m.jpg" alt=""/></a></td></tr></table>' if n['id'] in FOTOS else txt(n)
-nots=mast+''.join(f'<div class="ni">{item(n)}</div>' for n in ORDEN)
+def banda(i,n):
+    if ANA(n) and (i==0 or not ANA(ORDEN[i-1])): return '<p class="band">Análisis</p>'
+    if not ANA(n) and i>0 and ANA(ORDEN[i-1]): return '<p class="band">Más noticias</p>'
+    return ''
+nots=mast+''.join(f'{banda(i,n)}<div class="ni">{item(n)}</div>' for i,n in enumerate(ORDEN))
 nots+='<p class="nav"><a href="tapa.xhtml">← Tapa</a></p>'
 docs=[("tapa","Tapa",tapa),("noticias","Noticias de hoy",nots)]
 for n in ORDEN:
@@ -122,7 +145,7 @@ for n in ORDEN:
             if p.startswith('Por qué importa'):
                 body+=f'<p class="why"><b>Por qué importa</b>{E((lambda x:x[:1].upper()+x[1:])(p.split(":",1)[1].strip() if ":" in p else p))}</p>'
             else: body+=f'<p>{E(p)}</p>'
-        docs.append((n['id'],n['t'],f'<p class="band">{E(n["sec"])}</p><p class="kicker">{E(n["v"])}</p><h2 class="art">{E(n["t"])}</h2><p class="art-bajada">{E(n["b"])}</p>{fig(n)}{body}<p class="src">Fuente: {E(n["src"])}<br/><a href="{E(n["u"])}">{E(n["u"])}</a></p><table class="back"><tr><td><a href="noticias.xhtml#h{n["id"]}">← Noticias de hoy</a></td><td><a href="tapa.xhtml">Tapa</a></td></tr></table>'))
+        docs.append((n['id'],n['t'],f'<p class="band">{E(n["sec"])}</p><p class="kicker">{E(n["v"])}</p><h2 class="art">{E(n["t"])}</h2>{firma(n) if ANA(n) else ""}<p class="art-bajada">{E(n["b"])}</p>{fig(n)}{aviso(n) if ANA(n) else ""}{body}<p class="src">Fuente: {E(n["src"])}<br/><a href="{E(n["u"])}">{E(n["u"])}</a></p><table class="back"><tr><td><a href="noticias.xhtml#h{n["id"]}">← Noticias de hoy</a></td><td><a href="tapa.xhtml">Tapa</a></td></tr></table>'))
 TITLE=f"Diario de Pato · {ED['fecha']}"
 # Mismo identificador para la misma edición, aunque se rearme el libro
 UID=f"urn:uuid:{uuid.uuid5(uuid.NAMESPACE_URL,'diario-de-pato:'+ED['fecha'])}"
