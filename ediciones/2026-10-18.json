@@ -1,0 +1,372 @@
+{
+  "fecha": "Domingo 18 de octubre de 2026",
+  "fuentes": "Infobae, Perfil, La Política Online, La Nueva, iProUP, Grande Prêmio, GT Report, TechCrunch, Anthropic, Claude.dev, Hugging Face, OpenRouter, GitHub",
+  "lead": "pol0",
+  "notas": [
+    {
+      "b": "Arruabarrena no dio pistas sobre el equipo para el Maracaná. El club publicó un video de Paredes que ilusionó a los hinchas.",
+      "body": [
+        "Boca juega el martes la vuelta de la semifinal de Sudamericana con Vasco da Gama. Perdió 1-0 en la ida y necesita revertir la serie en Río.",
+        "Después de ganarle a Talleres, Arruabarrena desmintió los rumores sobre Paredes. Dijo que no sabe de dónde salen esas versiones.",
+        "Aclaró que el volante sigue en recuperación y que, como siempre, quiere jugar. Para prevenir, viajan los 33 jugadores del plantel.",
+        "El club mostró además imágenes de Paredes en movimiento, con mejor estado físico. Él subió a sus historias una pelota, una canción y corazones azul y oro.",
+        "Con Velasco el técnico fue más cauteloso. Está en plena recuperación de una distensión en el aductor. Con los parámetros previos a la lesión, dijo, la respuesta sería no. Pero el partido es importante y los tiempos varían.",
+        "Sobre la formación no dio pistas: todos tienen chances. Destacó a Ayrton Costa, que hizo dupla con Di Lollo y estuvo sólido. Elogió a Battaglia, que sumó sus primeros minutos oficiales de 2026 tras la rotura del tendón de Aquiles.",
+        "Tampoco dará información al rival. Dijo que Pedro Emanuel, el técnico de Vasco, no tendrá datos de Boca, y recordó que el equipo brasileño pelea por no descender. Pidió llegar al minuto 90 con chances o ganando."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Boca viaja con todo el plantel a Río y deja abierta la duda por Paredes",
+      "u": "https://www.infobae.com/deportes/2026/10/17/12-frases-de-arruabarrena-tras-la-victoria-de-boca-de-la-posible-titularidad-de-paredes-ante-vasco-a-un-pedido-de-perdon-a-un-periodista/",
+      "v": "Boca"
+    },
+    {
+      "b": "El delantero igualó a Román como máximo artillero xeneize desde 2001. Lo hizo en 184 partidos; Riquelme necesitó 245.",
+      "body": [
+        "Miguel Merentiel marcó el empate parcial ante Talleres. Fue un remate cruzado, tras una recuperación de Lautaro Blanco en campo rival.",
+        "Con ese gol llegó a 64 con la camiseta de Boca. Igualó a Juan Román Riquelme entre los máximos goleadores del club en el siglo XXI.",
+        "El dato lo difundió Silvio Maverino, de El Gráfico. La diferencia está en los partidos: Merentiel necesitó 184, Riquelme jugó 245.",
+        "En esa lista, Martín Palermo lidera con 145 goles en 280 partidos. Lo siguen Carlos Tevez con 94 y Rodrigo Palacio con 82.",
+        "Darío Benedetto está cuarto con 71. Merentiel y Riquelme comparten el quinto puesto.",
+        "En el historial total del club, Merentiel superó a Jorge Comas, que hizo 63 goles en 126 partidos. Subió al puesto 23 e igualó a Ricardo Gareca, con 64 en 133.",
+        "Merentiel llegó en febrero de 2023, cedido por Palmeiras. Boca ejecutó la opción de compra por cerca de 3 millones de dólares.",
+        "Desde entonces suma 184 partidos, 64 goles y 19 asistencias. Su contrato vence a fines de 2027.",
+        "Su representante, Marcelo Tejera, contó que el jugador quiere extenderlo cinco años más. Según él, ya negocian mejores condiciones.",
+        "Lo próximo es el martes en el Maracaná, por la vuelta con Vasco da Gama."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Merentiel llegó a 64 goles y alcanzó a Riquelme en el Boca del siglo XXI",
+      "u": "https://www.infobae.com/deportes/2026/10/17/el-gol-de-miguel-merentiel-ante-talleres-que-le-permitio-igualar-una-marca-historica-de-riquelme-en-boca-juniors/",
+      "v": "Boca"
+    },
+    {
+      "b": "Fabián Ayala, ayudante de Scaloni, le pidió responsabilidad fuera de la cancha. El delantero de Boca ya había pedido disculpas por un video viral.",
+      "body": [
+        "Roberto Fabián Ayala habló con DSports Radio sobre Leonel Flores. Es ayudante de campo de Lionel Scaloni.",
+        "Flores tiene 19 años y fue convocado hace poco a la Selección. El viernes metió el gol del 2-1 de Boca ante Talleres.",
+        "Esa semana se había viralizado un fragmento de videollamada. Flores y Ayrton Costa charlaban con una joven y apareció el nombre de la novia del delantero.",
+        "Ayala dijo que llegar a la Selección cambia la mirada de los demás. Pidió responsabilidad en los entrenamientos y también en la vida diaria, en lo que hace y dice.",
+        "Contó que Scaloni ya le había dicho algo parecido, igual que Arruabarrena. También elogió su capacidad para desbordar, valiosa contra equipos cerrados.",
+        "Tras la convocatoria, el técnico de Boca había dicho que un solo entrenamiento con la Selección ya convierte a un jugador en seleccionado. Por eso, agregó, debe comportarse como tal.",
+        "Flores habló con ESPN después del partido. Pidió perdón a los hinchas de Boca y dijo que lo que tenían que decirle puertas adentro ya se lo dijeron.",
+        "Pidió disculpas en público a su novia, Camila Espinosa. Aseguró que no volverá a pasar y que está más metido que nunca en el club.",
+        "Boca vuelve a jugar el martes en Río, ante Vasco da Gama, por la Sudamericana."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Desde la Selección le marcaron la cancha a Leo Flores: ahora lo miran distinto",
+      "u": "https://www.infobae.com/deportes/2026/10/17/el-llamado-de-atencion-que-el-cuerpo-tecnico-de-la-seleccion-le-hizo-a-la-promesa-de-boca-leo-flores-se-lo-dijo-scaloni/",
+      "v": "Selección"
+    },
+    {
+      "b": "Su Mercedes largó desde el puesto 15 y llegó a ir 24º. Ganó el GetSpeed #17.",
+      "body": [
+        "Max Verstappen cerró su debut en el GT World Challenge Europe con un noveno puesto. Fue el sábado 17, en las 3 Horas de Portimão.",
+        "El equipo largó 15º entre 61 autos. Los libres y la clasificación habían sido ásperos, con un Mercedes por debajo de la mayoría.",
+        "En la práctica del viernes, Verstappen había tocado al Audi de Ezequiel Pérez Companc. Los comisarios lo revisaron y no sancionaron.",
+        "En carrera, el castigo cayó sobre su auto. Chris Lulham chocó al Mercedes #48 de Luca Stolz en el relanzamiento tras el primer auto de seguridad.",
+        "El Mercedes #3 cumplió un drive-through. Lulham había llegado a ser sexto, tras recibir el auto de Ben Barnicoat en el 13º puesto.",
+        "Cuando Verstappen subió, el auto era 24º. Manejó el tramo final, de casi una hora, y pasó a Maxime Oosten para ser 18º.",
+        "Después ganó catorce posiciones y llegó a ser décimo. GPBlog contó el final como un espectáculo para el público.",
+        "Ganó el Mercedes #17 de GetSpeed, con Maximilian Götz, Ralf Aron y Fabian Schiller. Largaron segundos, pasaron al Porsche de Boutsen VDS y no soltaron la punta.",
+        "Segundo fue el Porsche #80 de Lionspeed, a 5s062. Tercero, el #2 de Boutsen VDS, a 5s411."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Grande Prêmio / GT Report",
+      "t": "Verstappen terminó 9º en Portimão tras una remontada y un drive-through",
+      "u": "https://grandepremio.com/es/endurance/el-mercedes-17-vence-sobre-el-final-en-el-gtwc-europa-en-portimao-verstappen-se-recupera-y-es-9o/",
+      "v": "Verstappen"
+    },
+    {
+      "b": "La versión 1017 salió el 17 de octubre. Mejora razonamiento, código y tareas de agentes, con menos tiempo de ejecución.",
+      "body": [
+        "DeepSeek publicó DeepSeek-V4.1-Flash-1017 el 17 de octubre. La empresa lo presenta como actualización menor de V4.1 Flash. Esa versión ya existía.",
+        "Los cambios apuntan a razonamiento, programación, tareas de agentes y benchmarks visuales. También baja el tiempo de ejecución y el largo de las respuestas. Eso recorta el costo. DeepSeek dice que mejora la relación entre rendimiento y precio en varios entornos de agentes.",
+        "Los números de la ficha en Hugging Face muestran saltos grandes sobre la versión anterior. En Terminal-Bench 4.0 pasa de 31,2 a 42,3. En ProgramBench sube de 20,3 a 29,1. En DeepSWE v1.1 llega a 77,0, contra 74,2 antes.",
+        "La comparación con Opus 5 es dispar. DeepSeek le gana en tres pruebas. En DeepSWE: 77,0 contra 74,0. En Automation-Bench: 60,5 contra 50,3. En Agents' Last Exam: 35,4 contra 28,6. En HLE sin herramientas, Opus 5 saca 56,3 y Flash 1017 queda en 42,6. En Terminal-Bench 4.0 también pierde: 42,3 contra 51,8.",
+        "En OpenRouter, la entrada cuesta 0,10 dólares por millón de tokens. La salida cuesta 0,50. La ventana de contexto es de un millón de tokens. OpenRouter lo ubica como snapshot de V4.1 Flash, servido bajo el nombre de API deepseek-flash.",
+        "La licencia es MIT, tanto para el repositorio como para los pesos. Se puede bajar de Hugging Face y servir con vLLM, SGLang o Transformers. Hay cuantizaciones de la comunidad para llama.cpp, Ollama y LM Studio. Hasta ahora ningún proveedor de inferencia lo despliega desde esa página.",
+        "DeepSeek recomienda temperatura 1,0, top_p 1,0 y al menos 256 mil tokens de salida máxima. El modelo no trae plantilla de chat en Jinja. En su lugar incluye una implementación de referencia en Python en la carpeta encoding. Para producción, remiten a una librería en Rust llamada deepseek-recipe.",
+        "Artificial Analysis lo midió en modo Max. Le dio 39,5 en su índice de inteligencia. En Terminal-Bench 4.0 midió 26,8 por ciento, bastante menos que DeepSeek. La diferencia puede venir del entorno de prueba. DeepSeek usó el arnés de Claude Code. Además, en Chartography con herramientas llega a 83,0, contra 84,0 de Opus 5."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "Hugging Face / OpenRouter",
+      "t": "DeepSeek actualiza Flash y lo acerca a los modelos más caros",
+      "u": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "v": "Modelos"
+    },
+    {
+      "b": "Claude escribe cerca del 90% del código de su propia herramienta. El equipo armó capas de control para que casi todo se apruebe con una sola persona.",
+      "body": [
+        "El equipo de Claude Code contó cómo revisa cambios. Claude escribe cerca del 90% del código. El texto salió el 15 de octubre. Lo firman Addy Osmani, Morgan Westlee Lunt y Qing Wang.",
+        "Entre junio y septiembre, los pull requests aceptados más que se duplicaron. La proporción revertida cayó más de 40%. En el monorepo de Anthropic, los cambios diarios pasaron de 2.500 en mayo a más de 30.000 en septiembre.",
+        "La meta: que la mayoría de los cambios se aprueben con una sola persona. Sin más reversiones ni incidentes. Miden aprobaciones humanas por cambio, comentarios y tiempo de espera. Reversiones e incidentes funcionan como freno.",
+        "El proceso tiene ocho capas. Claude corre tests, build y linter antes de abrir el pedido. Después viene la integración continua obligatoria. Luego varios agentes buscan errores en paralelo y otro grupo vota cada hallazgo. Solo se publican los que reúnen suficiente acuerdo.",
+        "Una revisión de seguridad aparte puede bloquear la fusión. Después se define cuánta gente aprueba según el riesgo. Documentación y cambios aditivos con flag no necesitan humanos. Los cambios comunes piden una persona. Lo más delicado pide dos. Un clasificador fija el nivel según el cambio, no según el autor.",
+        "La aprobación de un agente nunca reemplaza a la de una persona. Quien le dio la orden al agente cuenta como revisor obligatorio. Cada aprobación vale para un commit puntual. Al final hay cola de fusión, lanzamiento gradual y reversión sin redeploy.",
+        "El equipo usa dos archivos. CLAUDE.md describe el proyecto y se carga en cada revisión. REVIEW.md lo escriben los dueños de cada zona del código, con lo que importa ahí.",
+        "En la vista previa, los pedidos internos con comentarios de fondo pasaron de 16% a 54%. Un pedido del CLI tuvo más de 50 rondas de revisión en una noche. Cerca de 59% de lo marcado ya estaba en el código antes.",
+        "Pusieron un tope de tres rondas y revisión solo del diff. Los pedidos que pasan tras una ronda subieron de 65% a 78%. Los que necesitan cinco o más bajaron de 8,9% a 1,5%.",
+        "Todavía no tienen frenos automáticos que endurezcan la aprobación si suben las reversiones."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "Claude.dev",
+      "t": "Así revisa el código el equipo de Claude Code",
+      "u": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+      "v": "Claude Code"
+    },
+    {
+      "b": "El peronismo conmemoró el 17 de octubre en actos separados. Cada sector marcó su postura sobre 2027 y sobre la situación de Cristina Kirchner.",
+      "body": [
+        "Axel Kicillof encabezó el acto en González Catán, La Matanza. Lo organizó su Movimiento Derecho al Futuro. Lo acompañaron Verónica Magario y el intendente Fernando Espinoza.",
+        "El gobernador no lanzó su candidatura. Sí dijo que el peronismo \"va a volver a gobernar\" el año próximo. Planteó que no alcanza con oponerse y que hay que construir una alternativa nacional. Según Perfil, llamó a la fecha \"la largada\" hacia 2027.",
+        "También defendió a Cristina Kirchner. \"Hoy Cristina está injustamente presa por defender nuestras banderas\", dijo. Criticó además la política económica y exterior de Milei.",
+        "En San José 1111, La Cámpora y otros sectores se juntaron frente a la casa donde Cristina cumple su condena. Desde las 15 ya había gente. A las 16.05 salió al balcón, saludó y hacía la V de la victoria. No dio discurso. Hubo algunos forcejeos entre militantes.",
+        "El PJ nacional emitió un comunicado. Comparó la situación de Cristina con la proscripción de Perón. Habló de una condena \"sin pruebas\" y pidió luchar por su libertad.",
+        "Máximo Kirchner estuvo en Chaco con Jorge Capitanich. Dijo que Cristina está \"secuestrada\" por un poder económico concentrado. Criticó a dirigentes que prometen pelear en los discursos y después no sostienen esa pelea.",
+        "Los doce intendentes de la Liga hicieron su acto en Moreno. En Rosario hubo una vigilia con Mayans, Germán Martínez y Rossi. Felipe Solá visitó a Cristina y pidió esperar para definir quién conduce el PJ.",
+        "La CGT adelantó su festejo al viernes 16, en Azopardo. Sin oradores en vivo, un discurso leído criticó el ajuste de Milei y pidió defender el derecho del pueblo a defender a sus representantes. Fue leído como un gesto hacia Cristina. Hugo Moyano fue el más aplaudido en video.",
+        "Aparte, Juan Grabois anunció que trabajará por la candidatura presidencial de Kicillof, si Cristina no puede competir. Según su entorno, habló antes con ella."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Perfil / La Nueva",
+      "t": "Día de la Lealtad: Kicillof habló en La Matanza y Cristina saludó desde el balcón",
+      "u": "https://www.perfil.com/noticias/politica/dia-de-la-lealtad-kicillof-defendio-a-cristina-kirchner-y-se-proyecto-hacia-2027-estoy-dispuesto-a-poner-el-cuerpo.phtml",
+      "v": "Peronismo"
+    },
+    {
+      "b": "El secretario del Tesoro de EE.UU. dijo que volvería a asistir a la Argentina. Infobae duda del volumen real de esa ayuda en 2027.",
+      "body": [
+        "Scott Bessent respondió \"por supuesto\" cuando le preguntaron si el Tesoro podría repetir su ayuda a la Argentina. Lo dijo en una entrevista el 4 de octubre.",
+        "En 2025, el Tesoro compró pesos y respaldó un swap entre bancos centrales. Eso fue antes de las legislativas que ganó Milei. Bessent sostuvo que la estabilización argentina cambió el mapa regional.",
+        "El Gobierno cuenta una \"bazuca\" de US$75.000 millones. Suma US$20.000 millones de reservas, otros US$20.000 millones de swap con EE.UU., US$20.000 millones de swap con China y US$15.000 millones en futuros. Milei la comparó con una base monetaria de unos US$30.000 millones.",
+        "Miguel Ángel Broda discrepa. Dice que los pesos dolarizables superan a la base monetaria. Por eso la bazuca sería menor. Para el consultor, el apoyo de 2025 sirvió para un episodio de estrés pasajero, no para una dolarización persistente.",
+        "Desde 2026 el Banco Central compró más de US$17.000 millones. Aun así, las reservas netas están lejos de los US$29.000 millones de vencimientos de 2027. El riesgo país sigue por encima de 600 puntos.",
+        "Infobae también mira a Washington. Bessent intervino junto a Japón para frenar la caída del yen a fines de julio. El yen volvió a rozar los 160 por dólar el jueves 15. Además, Trump enfrenta las legislativas del 3 de noviembre con inflación de 3,7% y el gasoil más caro. Las encuestas dan a los demócratas casi 90% de chances de recuperar Diputados.",
+        "Caputo, en Tailandia, dijo que el Banco Central compra más de US$100 millones diarios. Según Infobae, es difícil que la bazuca incluya los US$20.000 millones del swap con EE.UU., más allá de la voluntad de Bessent."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Bessent dice que podría repetir la ayuda, pero la \"bazuca\" de Milei genera dudas",
+      "u": "https://www.infobae.com/economia/2026/10/17/scott-bessent-japon-y-la-argentina-cuanto-puede-aportar-estados-unidos-a-la-bazuca-de-dolares-del-gobierno-de-milei/",
+      "v": "Dólares"
+    },
+    {
+      "b": "La expensa promedio porteña llegó a $379.774, según ConsorcioAbierto. En el año, igual quedó por debajo del IPC.",
+      "body": [
+        "Un departamento promedio en la Ciudad pagó $379.774 de expensas en septiembre. En agosto fueron $362.159. La suba mensual fue de 4,9%, unos $17.615 más.",
+        "El IPC del INDEC marcó 1,9% ese mes. La diferencia es de tres puntos. El dato sale de un relevamiento de ConsorcioAbierto sobre unos 17.000 consorcios.",
+        "La comparación anual cambia la lectura. Las expensas subieron 28,6% frente a septiembre de 2025, cuando eran $295.368. La inflación interanual fue de 33,4%.",
+        "Los sueldos del personal pesan 31% del gasto. Siguen los gastos operativos y de mantenimiento, con 28%, y los servicios públicos, con 16%. Los costos administrativos, bancarios e impositivos suman 13% y las obras extraordinarias, 10%.",
+        "El tamaño del edificio importa. En consorcios de hasta 50 unidades pesan más los sueldos. En los de más de 200, pesan más el mantenimiento y menos lo administrativo.",
+        "La morosidad se mantuvo estable durante 2026. El 15% de las unidades porteñas tiene deuda. En la provincia de Buenos Aires, el 16%.",
+        "En el Gran Buenos Aires la expensa promedio fue de $184.214. Subió 0,9% en el mes y 28,3% en el año. En Córdoba se pagan $152.112 y en Santa Fe, $150.555. En Entre Ríos el promedio es de $85.000, el más bajo del informe."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Las expensas en CABA subieron 4,9% en septiembre, más del doble que la inflación",
+      "u": "https://www.infobae.com/economia/2026/10/17/las-expensas-en-caba-aumentaron-mas-que-el-doble-de-la-inflacion-en-septiembre-cuanto-paga-un-departamento-promedio/",
+      "v": "Consorcios"
+    },
+    {
+      "b": "El jefe de Gabinete pidió acuerdo para 2027 y agitó el fantasma del kirchnerismo. Kicillof y Llaryora criticaron a la Nación.",
+      "body": [
+        "Diego Santilli habló en Radio Mitre y participó de la cumbre de Logística Federal del Consejo Federal de Inversiones. Fue el viernes 16, en el Centro de Convenciones porteño.",
+        "Pidió a los gobernadores cerrar un acuerdo con La Libertad Avanza para 2027. Dijo que deberían preocuparse si vuelve el kirchnerismo. \"Imaginemos que el kirchnerismo vuelva y gane Kicillof\", planteó.",
+        "Habló de pérdida de coparticipación para la Ciudad, tomas de tierras en el sur y retrocesos en los regímenes de inversión. Dio ejemplos por provincia: la minería en San Juan, el narcotráfico en Rosario y la Ley 125 en Córdoba.",
+        "Dijo confiar en que los gobernadores le darán los votos para eliminar las PASO. Cuestionó que una elección para resolver internas cueste US$200 millones al Estado.",
+        "Kicillof compartió panel con Martín Llaryora, Rogelio Frigerio y Elías Suárez. No nombró a Santilli. Criticó la paralización de la obra pública y pidió planificación nacional. Defendió el Canal Magdalena, que conectaría la hidrovía con el mar sin depender de aguas uruguayas.",
+        "El gobernador bonaerense contó que su provincia tiene 27 puertos, 30 astilleros y 40.000 kilómetros de rutas. De los 15.000 kilómetros de vías, menos de la mitad funciona. También advirtió contra subordinar el interés nacional a intereses ajenos.",
+        "Llaryora reclamó un programa nacional de infraestructura. \"La Nación no construye ni un bicicletero\", dijo. Frigerio y Suárez no tuvieron declaraciones destacadas en las crónicas.",
+        "La Libertad Avanza frenó además en Diputados una sesión opositora contra el DNU 70/2023. La oposición quedó a ocho legisladores del quórum de 129."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Perfil / La Política Online",
+      "t": "Santilli presionó a los gobernadores en la cumbre del CFI y Kicillof le respondió con obra pública",
+      "u": "https://www.perfil.com/noticias/politica/santilli-advirtio-a-gobernadores-por-kicillof-y-el-disparo-contra-la-nacion.phtml",
+      "v": "Gobernadores"
+    },
+    {
+      "b": "Un informe interno muestra que cayó la proporción de perfiles junior en áreas técnicas. El tiempo en reuniones subió 20%.",
+      "body": [
+        "Anthropic publicó el viernes un informe sobre cómo cambió su plantilla en el último año. TechCrunch lo cubrió el 17 de octubre. La empresa lo plantea como pista de lo que podría pasar en la economía.",
+        "Aclara que moldeó sus procesos alrededor de la IA. Otras organizaciones quizá no vean lo mismo.",
+        "El dato más fuerte es de contratación. Desde principios de 2025, los juniors técnicos bajaron de 21% a 14% del personal. Entre las incorporaciones técnicas, cayeron de 27% a 9%.",
+        "Los equipos técnicos pasaron de 61% a 56% de la plantilla. Anthropic lo atribuye al crecimiento de funciones de negocio. También a que herramientas de código permiten a empleados no técnicos armar software.",
+        "En una encuesta de abril de 2026, 27% dijo ser más productivo gracias a Claude. Otro 20% contó que su trabajo pasó de hacer tareas a manejar instancias de Claude. Un ingeniero lo comparó con cuidar chicos, porque cada instancia reclama atención.",
+        "El informe dice que la atención y el criterio humanos se vuelven cuello de botella. Claude genera un diluvio de texto que alguien tiene que leer y ordenar.",
+        "Anthropic dice que subió la productividad. Cita más código por persona, más ventas por vendedor y más contratos procesados. Reconoce que más código no implica mejor código ni más impacto. No encontró evidencia de que baje la calidad.",
+        "Según los calendarios, el tiempo en reuniones por empleado creció 20% en un año. En perfiles técnicos subió 16%.",
+        "La empresa lo explica por la importancia de la confianza y la responsabilidad humanas. Los empleados repitieron que la coordinación cara a cara es indispensable."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Anthropic tiene menos juniors y más reuniones",
+      "u": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "Provee tecnología de inversión a bancos y fintechs. Tiene más de 150.000 cuentas y no busca una nueva ronda.",
+      "body": [
+        "Wealth2B desarrolla infraestructura de inversión para bancos, fintechs y agentes del mercado de capitales. Se conecta por API o en marca blanca. Ofrece acciones y ETFs de Estados Unidos, portafolios gestionados y herramientas de asesoramiento.",
+        "Su cofundador y CEO es Nicolás Galarza. La otra cofundadora es Cynthia Mulvihill.",
+        "La empresa tiene más de 150.000 cuentas de clientes finales en su plataforma. Integró cinco instituciones y otras dos están en camino. Esos lanzamientos están previstos antes de fin de 2026.",
+        "En el tercer trimestre operó un volumen de US$30,27 millones. Para 2027 proyecta superar los US$300 millones anuales. Es volumen operado, no facturación.",
+        "Su producto SmartInvest AI es un asesor con inteligencia artificial. Usa el perfil de riesgo, los objetivos y la cartera del usuario. Responde dudas, pero solo dentro de opciones previamente aprobadas.",
+        "Los fundadores dicen que no buscan una nueva ronda por ahora. Se concentran en sumar instituciones y ampliar la tecnología.",
+        "El plan incluye crecer en Argentina y México y sumar instrumentos locales. También prevén soluciones para personas jurídicas. Exploran integrar sus servicios con asistentes de IA mediante MCP."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Wealth2B, la startup argentina de inversiones, apunta a US$300 millones en 2027",
+      "u": "https://www.iproup.com/startups/72421-startup-argentina-wealth2b-usa-ia-para-ayudar-a-invertir-y-busca-facturar-us300-m",
+      "v": "Inversión"
+    },
+    {
+      "b": "El proyecto se llama dsh y tiene licencia MIT. Está en versión preliminar para desarrolladores y se levanta con un solo comando.",
+      "body": [
+        "DeepSeek AI publicó en GitHub DeepSeek Harness, abreviado dsh. Es un arnés de agentes de código abierto con licencia MIT. Su lema es \"todo es un plugin\".",
+        "Está construido sobre Cordis, un framework de plugins. El README avisa que está en versión preliminar para desarrolladores. Esperan cambios que rompan compatibilidad.",
+        "La página del repositorio muestra 252 mil estrellas y 30,3 mil forks. Tiene 1,1 mil personas siguiéndolo y más de 22 mil commits. La página no informa cuántas sumó en la semana. Trendshift lo lista en el puesto 11 del ranking diario, etiquetado como nuevo de 2026.",
+        "Para probarlo hace falta Node.js. El comando es npx @deepseek-ai/dsh web. Levanta una interfaz web en 127.0.0.1:3080 y abre el navegador. Con --no-open se evita ese paso.",
+        "También se puede instalar desde el código fuente. Se clona el repositorio. Después se corren pnpm install, pnpm run build y pnpm dsh web.",
+        "El README suma documentación, una guía de desarrollo y otra de arquitectura. La comunidad se organiza en GitHub Discussions y Discord. Los plugins de terceros se encuentran con el tema dsh-plugin.",
+        "Para quien trabaja con IA y automatizaciones, la gracia está en la estructura. Cada pieza del agente es un plugin que se cambia o se reemplaza. Se puede armar un flujo propio sin tocar el núcleo. Al ser MIT, se puede usar y modificar en proyectos comerciales."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "GitHub",
+      "t": "DeepSeek Harness: el arnés de agentes de DeepSeek, hecho de plugins",
+      "u": "https://github.com/deepseek-ai/deepseek-harness",
+      "v": "Open source"
+    },
+    {
+      "b": "Las semillas de las curvas del NIST llevaban décadas sin explicación. Claude encontró el generador y las fechas en menos de media hora.",
+      "body": [
+        "Anthropic informó que Claude resolvió un misterio criptográfico de décadas. La página salió el 16 de octubre y se actualizó el 17. Trata de las semillas de las curvas elípticas del NIST, estandarizadas en 2000.",
+        "Esas semillas definen el coeficiente b de cada curva. La NSA las entregó sin explicar cómo las generó. Jerry Solinas, exempleado de la agencia, sugirió que eran el hash de una frase humorística. Varios empleados de Anthropic probaron esa pista y falló. Solinas murió en 2023.",
+        "En octubre de 2026, un empleado le pidió a un modelo interno deducir el método. Sin la pista. En menos de media hora, Claude vio que las semillas de cinco curvas primas no eran hashes. Salían de lrand48, un generador de la biblioteca C, inicializado con la hora Unix.",
+        "Probó 34 combinaciones de generador y fragmentos de salida. Notó que en cuatro de diez semillas el bit superior de cada palabra era cero. Eso ocurre por azar una vez cada 5.810. Coincide con lrand48, que devuelve los 31 bits superiores de un estado de 48 bits. Los 17 bits ocultos se recuperaron probando todas las opciones.",
+        "Para las curvas primas usó el algoritmo LLL de reducción de bases reticulares. Encontró el patrón en cinco semillas del NIST y cinco de ANSI X9.62. Cada estado regeneró los 160 bits de su semilla. Las marcas de tiempo caen entre mayo de 1997 y abril de 1998.",
+        "También halló el origen de seis puntos base. Vienen del generador de FreeLIP, el paquete de Arjen Lenstra. Las primeras versiones de la biblioteca NTL de Victor Shoup traían el mismo código.",
+        "Anthropic aclara que no es una ruptura criptográfica ni una debilidad. Para el equipo, un generador común atado al reloj vuelve mucho menos plausible un backdoor.",
+        "Quedan preguntas abiertas. La semilla B-163 sigue sin explicación. Tampoco se sabe el origen de los puntos base de P-224, P-256, P-384 y P-521. Para P-256, el candidato 876 también era válido, pero la semilla publicada es el 1.842.",
+        "El premio de 36.864 dólares se donará a Internet Security Research Group. El código para reproducir todo está en dominio público CC0."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "Anthropic",
+      "t": "Claude descubrió de dónde salieron las semillas de las curvas ECDSA",
+      "u": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "v": "Investigación"
+    },
+    {
+      "b": "El banco usa agentes especializados coordinados por un asistente central. Las sucursales se reconvertirían, no se cerrarían en masa.",
+      "body": [
+        "Banco Galicia avanza con un nuevo modelo de atención basado en IA generativa. Lo contó Diego Baccini, su Head of Channels, a iProUP. No dio fecha de lanzamiento.",
+        "Un asistente orquestador coordina agentes por producto: comerciales, crediticios y operativos. El cliente resuelve varias consultas en una sola conversación, sin menús.",
+        "El despliegue es por etapas. Primero, información de productos. Después, datos propios como saldos, límites y vencimientos. La tercera etapa suma operaciones directas, con autenticación estricta.",
+        "Hay límites claros. Sospechas de fraude, transferencias de montos atípicos y moras complejas requieren criterio humano. Las reglas de riesgo cambian según el canal, banca móvil o WhatsApp, y según el destinatario.",
+        "Cuando interviene una persona, recibe todo el historial. El cliente no repite sus datos. Los ejecutivos también reciben resúmenes automáticos de cada caso.",
+        "Baccini dijo que no ven estas herramientas como una sustitución de personas. Sostuvo que \"el futuro no es digital o humano, es digital y humano\".",
+        "Las sucursales no se cerrarían de forma indiscriminada. Se reconvertirían en centros de asesoramiento. El banco analiza además sucursales sin cajas manuales y terminales totalmente automatizadas."
+      ],
+      "id": "sta2",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Galicia rediseña su atención con IA generativa y repensa las sucursales",
+      "u": "https://www.iproup.com/innovacion/72029-galicia-redefine-su-atencion-con-ia-que-cambiara-en-las-sucursales",
+      "v": "Banca"
+    },
+    {
+      "b": "Bitnebula AR se constituyó el 23 de septiembre. La firma ya opera en el país desde 2022.",
+      "body": [
+        "Pagsmile sumó una segunda empresa local, Bitnebula AR S.A. Según el Boletín Oficial, se constituyó el 23 de septiembre. Su objeto incluye billeteras digitales, cuentas de pago, tarjetas y servicios con criptoactivos.",
+        "Pagsmile AR controla el 95% de la nueva sociedad. Suscribió 28,5 millones de acciones sobre un capital de 30 millones, de $1 cada una. El 5% restante es de Philippe Maxime Mathieu, presidente de ambas empresas.",
+        "Bitnebula podrá cambiar activos virtuales por pesos o por otras criptomonedas. También podrá custodiar criptoactivos y hacer transferencias.",
+        "La primera filial, Pagsmile AR, nació el 31 de marzo de 2022. Procesa pagos y cobranzas para empresas, sin las actividades reguladas por la ley de entidades financieras. Se integra con Pago Fácil, DEBIN y Transferencias 3.0.",
+        "La compañía nació en China en 2012 y llegó a Brasil en 2015. Dice facturar unos US$800 millones por mes a nivel global. Procesa 50 millones de órdenes mensuales y su billetera tiene 2,5 millones de usuarios.",
+        "En Brasil, el Banco Central la autorizó como institución de pago en 2025. Este año compró Microcash, una financiera para pymes, y la rebautizó Select Credit. iProUP cree que ese camino podría repetirse acá.",
+        "El mercado local es amplio. El BCRA registra 233 proveedores de cuentas de pago y 92 billeteras interoperables. Pagsmile no informó fecha de lanzamiento, inversión ni licencias específicas para Bitnebula."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Pagsmile, la fintech china, creó una sociedad argentina para billeteras y cripto",
+      "u": "https://www.iproup.com/finanzas/72386-pagsmile-bitnebula-argentina-billeteras-tarjetas-criptomonedas-tiktok-paypal",
+      "v": "Fintech"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "eco0",
+    "tec1",
+    "pol0",
+    "tec0",
+    "eco1",
+    "pol1",
+    "tec2",
+    "sta1",
+    "tec4",
+    "tec3",
+    "sta2",
+    "sta0"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Startups"
+  ],
+  "side": [
+    "eco0",
+    "tec0",
+    "dep0",
+    "sta1"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.535",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.555",
+      "▲0,7%"
+    ],
+    [
+      "MEP",
+      "$1.539",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.626",
+      ""
+    ],
+    [
+      "Riesgo país",
+      "648",
+      "▲3,8%"
+    ]
+  ]
+}
