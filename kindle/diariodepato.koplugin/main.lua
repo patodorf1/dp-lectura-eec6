@@ -34,9 +34,11 @@ local socketutil = require("socketutil")
 local BASE = "https://patodorf1.github.io/dp-lectura-eec6/ediciones/"
 local GUARDAR = 7           -- ediciones que quedan en la Kindle
 local DESDE = 6 * 60 + 30   -- antes de las 6:30 (hora Argentina) no busca
-local REINTENTO = 15 * 60   -- después de un intento, no vuelve a buscar por 15 minutos
+local REINTENTO = 15 * 60   -- después de un intento fallido, vuelve a probar solo a los 15 minutos
 local ESPERA_WIFI = 90      -- segundos que espera a que la Kindle se conecte al Wi-Fi
 local PASO = 3              -- cada cuántos segundos se fija si ya se conectó
+local INTENTOS_RED = 6      -- si falla la red (no un 404), prueba de nuevo hasta 6 veces...
+local PAUSA_RED = 10        -- ...cada 10 segundos
 
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
     or DataStorage:getFullDataDir() .. "/Diario de Pato"
@@ -153,7 +155,8 @@ local function revisar()
     turno = turno + 1
     local mio = turno
 
-    local function seguir()
+    local function seguir(intento)
+        intento = intento or 1
         if mio ~= turno or existe(rutaDe(fecha)) then
             return
         end
@@ -167,9 +170,16 @@ local function revisar()
             local ReaderUI = require("apps/reader/readerui")
             ReaderUI:showReader(rutaDe(fecha))
             UIManager:scheduleIn(5, function() pcall(limpiar) end)
+        elseif motivo ~= 404 and intento < INTENTOS_RED then
+            -- Error de red: recién despierta, la Kindle puede figurar conectada
+            -- antes de que internet ande (pasó el 21-oct). Se prueba de nuevo en unos segundos.
+            logger.info("Diario de Pato: falló la red, intento", intento, fecha, motivo)
+            UIManager:scheduleIn(PAUSA_RED, function() seguir(intento + 1) end)
         else
-            -- 404 = todavía no salió: se vuelve a probar en 15 minutos.
+            -- 404 = todavía no salió, o la red siguió fallando: vuelve a probar solo
+            -- a los 15 minutos, aunque la Kindle siga prendida.
             logger.info("Diario de Pato: no se pudo bajar", fecha, motivo)
+            UIManager:scheduleIn(REINTENTO + 5, revisar)
         end
     end
 
