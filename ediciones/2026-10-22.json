@@ -1,0 +1,445 @@
+{
+  "fecha": "Jueves 22 de octubre de 2026",
+  "fuentes": "Minutouno, El Colombiano, El Observador, Infobae, Noticias Argentinas, Prensa Latina, Grande Premio, Fórmula 1, Motor16, TechCrunch, OpenAI, Wiz, SafeDep, Sonatype, SiliconANGLE, Digital Applied, Hugging Face, La Política Online, MDZ, Perfil, iProfesional, BAE Negocios, iProUP, Startup Journal, El Cronista",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "El Galo cayó en Montevideo ante City Torque, aunque le alcanzó el 3-0 de la semana pasada. Lo dirige un argentino, Eduardo Domínguez.",
+      "body": [
+        "Boca ya sabe contra quién jugará la final de la Sudamericana. Será Atlético Mineiro, de Brasil.",
+        "El Galo perdió 2-0 anoche con Montevideo City Torque en el Centenario. Pasó a la final por el global de 3-2.",
+        "El equipo uruguayo fue dominador bajo una lluvia intensa. Pero el arquero Gabriel Delfim lo frenó varias veces. Reinier también pegó un remate en el travesaño.",
+        "Los goles llegaron recién al final. Kevin Silva abrió el marcador de cabeza, cerca de los 90 minutos. Gary Kagelmacher puso el segundo en el descuento, también de cabeza.",
+        "Mineiro jugó el último cuarto de hora con diez, por la roja a Alan Franco. La roja no cambió el pase a la final.",
+        "La serie se había definido en la ida, en Belo Horizonte. Mineiro ganó 3-0 con goles de Reinier, Bernard y el uruguayo Thiago Borbas. Además le anularon dos goles por posición adelantada.",
+        "El técnico es Eduardo Domínguez, un argentino apodado \"El Barba\". Llegó en febrero y tuvo meses difíciles. Entre las figuras aparecen Reinier, Bernard, Tomás Cuello y el lateral Renan Lodi.",
+        "Es la tercera semifinal continental seguida del club. En 2024 perdió la final de la Libertadores con Botafogo. En 2025 cayó por penales ante Lanús en la final de esta misma Copa.",
+        "En el camino de este año eliminó a Santos, el equipo de Neymar, en cuartos. Perdía 2-0 en la ida y lo dio vuelta. Después definió por penales.",
+        "Para la final tiene algunas bajas por lesión. El arquero titular Everson y Gustavo Scarpa no estarán. Fred era duda hace una semana.",
+        "Boca llega después de ganarle 3-1 a Vasco en el Maracaná, con gol de Paredes. La final es el 21 de noviembre en Barranquilla. Mineiro busca su primer título en este torneo."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Minutouno / El Colombiano / El Observador",
+      "t": "Atlético Mineiro, el rival de Boca: perdió 2-0 pero avanzó por la ventaja de la ida",
+      "u": "https://www.minutouno.com/deportes/pese-caer-montevideo-city-torque-atletico-mineiro-sera-rival-boca-la-final-copa-sudamericana-n6336565",
+      "v": "Boca"
+    },
+    {
+      "b": "Un vuelo directo ida y vuelta supera los 7 millones de pesos por persona. Los paquetes arrancan en 2,4 millones, con escalas. Las entradas todavía no salieron a la venta.",
+      "body": [
+        "Viajar a Barranquilla para la final de la Sudamericana no es barato. Infobae relevó precios el 21 de octubre.",
+        "Con vuelo directo de Aerolíneas Argentinas, la salida del viernes 20 de noviembre cuesta $3.694.524. El regreso del domingo 22 sale $3.623.928.",
+        "En total son $7.318.452 por persona. No incluye impuestos ni equipaje adicional. Además, el precio puede cambiar según la disponibilidad.",
+        "La opción más barata son los paquetes de Despegar. Cuestan desde $2.452.297 por persona, para tres noches, del 19 al 23 de noviembre.",
+        "Ese valor incluye vuelos con dos escalas en cada tramo y un hotel de tres estrellas. Hay otros dos paquetes similares, de $2.509.222 y $2.524.276. El último suma desayuno, gimnasio, spa y estacionamiento gratuito.",
+        "La agencia dice que armar el viaje así puede ahorrar hasta un 30%. Se paga en pesos o en dólares, con hasta tres medios de pago por compra.",
+        "El interés ya se nota. Despegar informó que las búsquedas hacia Barranquilla subieron 800% en los nueve días posteriores a la clasificación.",
+        "Las entradas se venden solo por internet, en gol.conmebol.com. No habrá venta presencial, y la nota recomienda evitar la reventa. Todavía no se informó cuándo se habilitará la compra.",
+        "Hay un registro para recibir un aviso por mail cuando salgan. Anotarse no reserva ningún lugar.",
+        "Las ubicaciones son cuatro. La categoría 1 son asientos numerados detrás de los bancos de suplentes. La categoría 2 es la tribuna lateral opuesta, sin numerar. La categoría 3 son las populares detrás de los arcos, para los hinchas de cada finalista. Y la categoría hospitality suma catering y servicios.",
+        "Faltan datos clave. No se conocen los precios de las entradas ni de los hoteles por noche. Tampoco el horario del partido."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Cuánto cuesta viajar a Barranquilla para ver a Boca en la final",
+      "u": "https://www.infobae.com/economia/2026/10/21/cuanto-cuesta-ir-a-ver-a-boca-en-la-final-de-la-copa-sudamericana/",
+      "v": "Boca"
+    },
+    {
+      "b": "Habría acuerdo con la AFA por dos años, con renovación automática. Todavía no hay comunicado oficial.",
+      "body": [
+        "Lionel Scaloni seguirá como técnico de la Selección. Así lo informó ayer la Agencia Noticias Argentinas, que habló de un acuerdo cerrado con la AFA.",
+        "El pacto surgió de negociaciones con Claudio Tapia. El nuevo vínculo empezaría después de diciembre.",
+        "Según esa agencia, sería un contrato de dos años con renovación automática. Eso lo llevaría hasta el Mundial de 2030. Prensa Latina, citando a Perfil, dice que la renovación automática sería por otros dos años.",
+        "Por ahora no hay comunicado oficial de la AFA. Se especula con un anuncio durante la fecha FIFA de noviembre, entre el 9 y el 17.",
+        "Scaloni ya había dado una pista el 6 de octubre, tras el partido de despedida de Messi. Dijo: \"si todo va bien, seguiré siendo entrenador\".",
+        "En 2028 cumplirá diez años al frente del equipo. El ciclo se extendería más allá de la Copa América de ese año.",
+        "El Mundial de 2030 se jugará en tres continentes. Los partidos inaugurales serán en Argentina, Uruguay y Paraguay. Después seguirá en España, Portugal y Marruecos."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Noticias Argentinas / Prensa Latina",
+      "t": "Scaloni seguirá en la Selección hasta el Mundial 2030, según medios",
+      "u": "https://noticiasargentinas.com/deportes/scaloni-acordo-su-continuidad-como-entrenador-de-la-seleccion-argentina--los-detalles-de-su-contrato_a6ad91fbd9e7b4b8990c8d27c",
+      "v": "Selección"
+    },
+    {
+      "b": "Alpine ya renovó al argentino para 2027. En pista, el equipo atraviesa una racha de fallas y falta de puntos.",
+      "body": [
+        "Colapinto llega a Estados Unidos con su futuro ya definido. Alpine anunció su renovación el 27 de agosto.",
+        "El equipo confirmó que repetirá la dupla para 2027, con Pierre Gasly. El francés firmó en 2025 hasta fines de 2028.",
+        "Aquel día Flavio Briatore, asesor ejecutivo, destacó el crecimiento del argentino. Mencionó sus resultados en Miami y Montreal. Colapinto dijo que se siente instalado en el equipo.",
+        "Hoy el panorama es otro. Alpine no suma puntos hace tres fechas y es sexto entre los constructores, con 68.",
+        "Colapinto volvió a abandonar en Singapur, en la sprint y en la carrera, por fallas técnicas. Alpine tuvo problemas de confiabilidad también en Azerbaiyán y Malasia.",
+        "La diferencia interna es clara. Gasly acumula 41 puntos tras 17 Grandes Premios. Colapinto tiene 27, catorce menos.",
+        "Austin tiene antecedentes mezclados para él. En 2024 largó 15° y llegó 10°. En 2025 clasificó 15° y terminó 17°.",
+        "Hace un año hubo polémica. En las últimas vueltas pasó a Gasly pese a una orden del equipo de mantener posiciones. Alpine dijo que lo trataría puertas adentro.",
+        "En la previa, Colapinto habló de un fin de semana sólido. Reconoció que el equipo tiene mucho trabajo por hacer. Gasly admitió que las últimas semanas fueron difíciles.",
+        "El Gran Premio no tiene sprint. Es la primera de tres fechas seguidas, con México y Brasil después."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae / Grande Premio / Fórmula 1",
+      "t": "Colapinto llega a Austin con el contrato resuelto y presión de Gasly",
+      "u": "https://www.infobae.com/deportes/2026/10/20/franco-colapinto-saldra-a-pista-este-fin-de-semana-en-el-gran-premio-de-estados-unidos-de-la-f1-todo-lo-que-hay-que-saber/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "El ex jefe del equipo contó que el entorno de Max pidió cambiar el rumbo del desarrollo. Pérez, dijo, había aceptado un rol secundario.",
+      "body": [
+        "Christian Horner reveló cómo se manejó Red Bull con sus pilotos en 2022. Lo dijo en el podcast High Performance. También lo cuenta su libro Drive: A Memoir of Speed.",
+        "Según el ex jefe, el auto de ese año, el RB18, se pensó primero para el estilo de Sergio Pérez. Alex Albon trabajó en su desarrollo mientras el equipo se concentraba en el modelo de 2021.",
+        "Todo cambió después del triunfo de Pérez en Mónaco. En ese momento Max Verstappen negociaba la renovación de su contrato.",
+        "En Azerbaiyán, el representante de Verstappen le dijo a Horner que el auto se había armado alrededor de Pérez. Horner contó que, desde ahí, el desarrollo giró hacia el piloto neerlandés.",
+        "Horner sostuvo que Pérez sabía su lugar. Al firmar para 2021, dijo, aceptó que Verstappen sería el principal candidato al título.",
+        "También defendió la decisión. Verstappen era el mayor activo del equipo, así que los ingenieros se inclinaban hacia el piloto más rápido.",
+        "El resultado está a la vista. Verstappen fue campeón en 2022 con 15 victorias. Red Bull ganó el título de constructores y Charles Leclerc terminó segundo en el campeonato de pilotos.",
+        "Motor16 señaló que las jerarquías internas no son nuevas en la F1. Citó los casos de Barrichello en Ferrari, Webber en Red Bull y Bottas en Mercedes. Lo novedoso, remarcó, es que Horner lo reconozca en público."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae / Motor16",
+      "t": "Horner admitió que Red Bull dirigió el auto de 2022 hacia Verstappen",
+      "u": "https://www.infobae.com/deportes/2026/10/20/impactante-revelacion-del-ex-jefe-de-red-bull-sobre-las-presiones-para-beneficiar-a-max-verstappen-dentro-del-equipo-fue-muy-claro-el-mensaje/",
+      "v": "Red Bull"
+    },
+    {
+      "autor": "Andrés Malamud",
+      "b": "Según la nota de El Cronista, Malamud dice que Milei y Kicillof son los primeros economistas en la contienda. Para él, la gente vota con el bolsillo y la unidad peronista depende de la economía.",
+      "body": [
+        "Según la nota de El Cronista, Malamud habló en una entrevista con La Voz. La nota no da fecha ni dice quién lo entrevistó.",
+        "Malamud ve mucho pragmatismo en votantes y dirigentes. Para él, las etiquetas de izquierda o derecha importan menos que el bolsillo.",
+        "Sostiene que cambió el problema central. En la elección anterior era la inflación. Ahora, según él, son el desempleo y la pobreza.",
+        "Marca algo que considera inédito. Milei y Kicillof son economistas, y eso nunca había pasado en Argentina. Antes competían abogados. Macri, ingeniero, fue la excepción.",
+        "Para Malamud, la sociedad busca hoy respuestas económicas. Dice que la gente los ve como alternativas frente a ese problema. No los ve tanto como ultraderecha y ultraizquierda.",
+        "Sobre los mercados, dice que los inversores se retiraron, pero no para siempre. Según él, esperan saber si Milei es reelecto.",
+        "Describe un contraste. La inversión se desplomó y las exportaciones crecieron mucho. Resume al Gobierno como superexitoso en exportaciones y superfracasado en inversiones.",
+        "Explica por qué Milei conserva apoyo. Retoma una frase atribuida al sociólogo Moiguer: \"Argentina va bien, yo no\". Cita encuestas recientes: cerca de dos tercios no quiere volver atrás.",
+        "Para Malamud, es un gobierno de expectativas. El respaldo se apoya más en la esperanza futura que en lo que se vive hoy.",
+        "Sobre los dichos de Milei en la Patagonia hacia quienes no llegan a fin de mes, plantea tres explicaciones posibles. Una: lo piensa y lo dice sinceramente. Otra: busca movilizar a un electorado cercano al 30% al que le gusta la pelea. La tercera: falta de conexión emocional. Aclara que pueden convivir las tres.",
+        "Sobre el peronismo, dice que la unidad depende de la economía. Si mejora, seguiría dividido. Menciona que gobernadores del Norte ya habrían acordado con Milei. Si empeora, podría llamar a unificarse. En un escenario intermedio, según él, los dirigentes no saben qué les conviene.",
+        "Afirma que Argentina empuja los problemas con la panza. Dice que esos problemas maduran en las elecciones. Allí se votaría con relativa frustración y relativa esperanza a la vez.",
+        "Define al Gobierno como minoritario. Necesita alianzas, ya sea cediendo un ministerio, aprobando una ley o dando recursos a una provincia. Según Malamud, está a la defensiva y apenas logra bloquear proyectos opositores. Considera que sería bueno un acuerdo político de cara a las elecciones."
+      ],
+      "donde": "entrevista con La Voz, difundida por El Cronista el 21 de octubre (la fecha de la entrevista original no figura)",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "El Cronista",
+      "t": "Malamud: por primera vez compiten dos economistas, y se vota con el bolsillo",
+      "u": "https://www.cronista.com/economia-politica/malamud-analizo-el-mapa-politica-de-cara-a-2027-y-senalo-una-inedita-coincidencia-entre-milei-y-kicillof/",
+      "v": "Entrevista",
+      "via": "una nota de El Cronista"
+    },
+    {
+      "b": "Cerró a $1.526, el valor más alto en pesos corrientes. El Gobierno insiste en que no habrá devaluación, pero crece la presión de empresarios y acreedores.",
+      "body": [
+        "El dólar mayorista subió un peso el miércoles y cerró a $1.526. Es su cuarto avance seguido y el máximo en pesos corrientes. El martes había terminado en $1.525.",
+        "Para el bolsillo, el movimiento es chico. En el Banco Nación el dólar para el público quedó en $1.545. El blue cotizó a $1.570 y el MEP a $1.548. El dólar financiero (contado con liquidación) llegó a $1.635.",
+        "En lo que va de octubre, el mayorista sube 0,6%. En 2026 acumula 4,9%. Sigue lejos del límite superior que fijó el Banco Central, que hoy está en $1.941.",
+        "El Banco Central compra dólares casi todos los días, cerca de 100 millones diarios según un analista citado por Infobae. El miércoles intervino por 46 millones. Las reservas brutas quedaron en 50.225 millones de dólares.",
+        "En la Bolsa, las acciones argentinas subieron en Wall Street, hasta 5% en el caso de Telecom. El índice Merval ganó 1,6%. Aun así, el riesgo país volvió a subir y los bonos cerraron con una leve baja.",
+        "El Gobierno se resiste a devaluar. Según La Política Online, Javier Milei lo negó en Neuquén y cuestionó el reclamo con la pregunta \"¿qué clase de atraso cambiario es este?\". Sostiene que las exportaciones crecen más rápido que la economía y que el Banco Central compró 16.000 millones de dólares este año.",
+        "Del otro lado, los grandes grupos económicos piden reactivar la actividad. Los acreedores temen no cobrar. El economista Joaquín Cottani propone liberar el tipo de cambio y tolerar por unos meses una inflación de 3% a 4% mensual.",
+        "El problema de fondo está en 2027. La consultora CIFRA calcula vencimientos de deuda por 30.100 millones de dólares para el Gobierno y el Banco Central. Hay financiamiento identificado por solo 7.400 millones.",
+        "Caputo frenó las emisiones de Bonares porque las tasas en dólares pasaron el 10% anual. Dijo a inversores en Bangkok que analiza usar el swap con China para pagar deuda. Ese camino no es automático y implica concesiones políticas, advierte la nota.",
+        "Una devaluación aliviaría parte de la presión, pero encarecería precios y erosionaría salarios. En septiembre el comercio exterior dejó un superávit de 2.976 millones de dólares, el mayor para ese mes."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae / La Política Online",
+      "t": "El dólar mayorista sube por cuarto día y marca un récord nominal",
+      "u": "https://www.infobae.com/economia/2026/10/21/el-dolar-subio-por-cuarto-dia-consecutivo-y-marco-un-nuevo-record-nominal/",
+      "v": "Dólar"
+    },
+    {
+      "b": "Equipos de OpenAI y de Wiz, la empresa de seguridad de Google, hallaron dos fallas críticas que existen hace años. Hubo una coordinación global para publicar las correcciones.",
+      "body": [
+        "Se conocieron dos fallas críticas en PHP, el lenguaje con el que funciona cerca del 70% de los sitios web, según TechCrunch y Wiz. Los investigadores las bautizaron \"PHP2Shell\".",
+        "Las fallas existen desde hace años. Según Wiz, afectan a casi todas las versiones de la última década. TechCrunch las ubica incluso en versiones de 2004.",
+        "El riesgo es alto. Un atacante podría tomar control de un servidor sin necesitar usuario ni contraseña. También podría leer información en memoria, como claves y contraseñas. Wiz las calificó con 9,2 sobre 10.",
+        "No dependen de cómo esté armado cada sitio. Wiz mostró ataques de prueba contra WordPress, Drupal y Joomla. WordPress aclaró que el problema no es de su sistema, sino del servidor donde corre.",
+        "La Fundación PHP publicó los parches el 21 de octubre. Wiz había avisado en agosto y la divulgación pública esperó hasta tener las correcciones. Según OpenAI, no hay reportes de ataques en curso.",
+        "Quien tiene un sitio debe actualizar PHP a la versión corregida. Si lo aloja un proveedor de hosting, hay que coordinar con él. Las versiones viejas ya no reciben soporte, y para esas la recomendación es pasar a una vigente. La agencia de seguridad de EE.UU., la NSA, sugirió desconectar el sitio si no se puede parchear de inmediato.",
+        "Los agentes de IA tuvieron un papel central. Una empresa de pruebas de seguridad, Calif, halló una de las fallas con un modelo de OpenAI. Wiz usó su propio agente junto con modelos de OpenAI y de Google. OpenAI también liberó una herramienta para detectar versiones de PHP vulnerables.",
+        "Por qué importa: es uno de los primeros casos en que la IA descubre fallas graves y muy viejas en software de uso masivo. Los defensores las encontraron antes que los atacantes, según OpenAI, y eso dio tiempo a preparar los parches. Wiz advierte que la misma tecnología facilita armar ataques para distintas versiones. Afecta a cualquiera que administre un sitio y a las empresas que lo alojan."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "TechCrunch / OpenAI / Wiz",
+      "t": "Agentes de IA encontraron fallas graves y viejas en PHP, el lenguaje de buena parte de la web",
+      "u": "https://techcrunch.com/2026/10/21/php-armageddon-openai-googles-wiz-find-ancient-holes-panicking-the-internet/",
+      "v": "Seguridad"
+    },
+    {
+      "b": "La sesión empezó el miércoles al mediodía y terminó en la madrugada del jueves. Discapacidad y Propiedad Privada pasan ahora al Senado.",
+      "body": [
+        "Diputados trabajó más de doce horas entre el miércoles 21 y la madrugada del jueves 22. Votó tres temas centrales: Discapacidad, Propiedad Privada y deudas familiares. Los dos primeros pasan al Senado.",
+        "La nueva ley de Discapacidad obtuvo 237 votos a favor, 9 en contra y 4 abstenciones. Reemplaza la emergencia que había que renovar cada año por una norma permanente. Mantiene las pensiones no contributivas y las hace compatibles con un empleo registrado y con la AUH.",
+        "Para lograr ese apoyo, La Libertad Avanza aceptó todos los cambios que pidió Oscar Herrera Ahuad, de Argentina Federal. Entre ellos, fijar las partidas dentro de la ley y un cronograma de pagos a los prestadores con deudas. Varios puntos chocan con el Presupuesto 2027 que envió el Gobierno. Según iProfesional, el área económica de Luis Caputo resistía.",
+        "El oficialismo dice que la ley da previsibilidad a los beneficiarios y cierra una discusión que se repite cada año. Unión por la Patria votó a favor, porque el texto era casi igual a la prórroga que impulsaba. La izquierda se dividió entre rechazo y abstención. El PRO y la UCR presionaron para resolver la deuda con prestadores.",
+        "Hay dudas. La diputada Victoria Tolosa Paz advirtió que, si el Presupuesto se aprueba como llegó, la ley podría quedar vacía. Una decisión administrativa podría dejarla sin efecto en enero. El secretario de Hacienda, Carlos Guberman, dijo que lo de discapacidad está \"garantizado\".",
+        "La Oficina de Presupuesto del Congreso estimó el costo para 2027 en $598.912 millones. Las notas consultadas no informan si habrá veto. Milei sí vetó la emergencia anterior. El oficialismo apunta a dar media sanción al Presupuesto el 18 de noviembre.",
+        "La ley de Propiedad Privada se aprobó en general por 124 votos a 119, con 6 abstenciones. Endurece las condiciones de expropiación y acelera desalojos. Para conseguir apoyos, el oficialismo debió resignar la derogación de la Ley de Tierras Rurales, que limita la compra de campos por extranjeros. El capítulo de tierras recibió 239 votos a favor y 4 en contra. Como Diputados cambió el texto, vuelve al Senado.",
+        "El proyecto de endeudamiento familiar, impulsado por la oposición, volvió a comisión por 121 votos a 117. También se aprobaron un sistema de trazabilidad de medicamentos de alto riesgo (241 a 1) y penas más duras por vandalismo rural (162 a 77). Un pedido de la oposición para tratar la emergencia pediátrica del Garrahan quedó corto: 125 a 117."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / MDZ / Perfil / iProfesional",
+      "t": "Diputados aprobó la ley de Discapacidad y la de Propiedad Privada, y devolvió a comisión la de deudas familiares",
+      "u": "https://www.infobae.com/politica/2026/10/21/diputados-en-vivo-ultimas-noticias-del-debate-sobre-discapacidad-endeudamiento-familiar-y-propiedad-privada/",
+      "v": "Diputados"
+    },
+    {
+      "b": "Tras la caída de julio, el repunte quedó por debajo de lo esperado. Los salarios registrados, en cambio, volvieron a ganarle a la inflación.",
+      "body": [
+        "La actividad económica creció 0,1% en agosto frente a julio, según el Indec. Los analistas esperaban más. Contra agosto del año pasado, cayó 1,7%. En lo que va de 2026 acumula una suba de 1,2%.",
+        "Julio había sido un mes muy malo. La caída se corrigió ahora a 2,8%. El rebote de agosto fue mínimo.",
+        "Hubo ganadores y perdedores. Crecieron la minería (11,1%), la electricidad, el gas y el agua (4,3%) y los hoteles y restaurantes (3,1%). Cayeron la pesca (15,7%), el comercio (3,5%) y la industria (3,2%).",
+        "El dato acerca al país a una recesión técnica en el tercer trimestre. Para evitarla, septiembre tendría que crecer más de 8%. Consultoras privadas lo ven poco probable. Aldazabal y Cía. espera una suba mensual, pero sin aceleración.",
+        "El Gobierno mira otra medida: la serie que filtra los saltos de cada mes, llamada tendencia-ciclo. Milei sostiene que los números mensuales miden mal una economía en cambio. El viceministro José Luis Daza dijo que esos datos tienen mucho \"ruido\".",
+        "Esa serie preferida tampoco ayuda. Tras la revisión, muestra variación de 0,0% mensual entre abril y agosto. Son cinco meses sin crecimiento. Antes marcaba subas de 0,2% mensual.",
+        "Los economistas discrepan sobre cómo leerla. Gabriel Caamaño, de Outlier, explicó que la serie se recalcula con datos nuevos. Por eso sirve para ver cambios de rumbo a posteriori, no mes a mes. Martín Polo, de Polomics, afirmó que la economía ya está en recesión y que el crecimiento se concentra en pocos sectores. Analytica habló de \"un evidente problema de demanda\".",
+        "En el frente de los ingresos hubo una mejor noticia. Los salarios registrados subieron 2,6% en agosto. La inflación del mes fue de 1,7%, así que ganaron por 0,9 puntos. Es el tercer mes seguido en que le ganan a los precios.",
+        "En el sector privado el aumento fue de 2,8%. En el público, de 2,3%: 1,9% en Nación y 2,6% en las provincias. Caputo calculó que desde diciembre de 2023 los salarios privados registrados suben 10,4% en términos reales. Los públicos, 0,8%."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "La actividad creció apenas 0,1% en agosto y la economía sigue estancada",
+      "u": "https://www.infobae.com/economia/2026/10/21/la-actividad-economica-crecio-menos-de-lo-esperado-en-agosto-tras-la-fuerte-caida-de-julio/",
+      "v": "Actividad"
+    },
+    {
+      "b": "La firma SafeDep detectó que la versión 1.107.0 de esta herramienta, muy usada para conectar programas con distintos modelos de IA, estaba adulterada.",
+      "body": [
+        "LiteLLM sirve para que un programa se conecte con modelos de IA de distintas empresas usando una sola vía. Se descarga desde PyPI, el gran repositorio de programas del lenguaje Python. Según la firma de seguridad SafeDep, la versión 1.107.0 fue adulterada.",
+        "El código oficial, el que está publicado en GitHub, no tenía el material malicioso. Fue agregado en el paquete que se distribuye por PyPI. SafeDep sospecha que alteraron el proceso de publicación o que robaron credenciales de quien publica.",
+        "El código dañino se activa solo, apenas se inicia Python en esa computadora. No hace falta usar LiteLLM ni abrirlo.",
+        "Primero, un ladrón de datos busca todo lo que pueda servir para entrar a otros sistemas. Según SafeDep, junta claves de acceso a servidores, credenciales de servicios en la nube y contraseñas guardadas en navegadores. También se lleva claves de proveedores de IA, que pueden costar dinero si alguien las usa. Los datos se envían cifrados a un dominio que imita a LiteLLM.",
+        "Después queda una puerta trasera. Cada hora, el programa consulta un archivo público para saber a qué servidor conectarse. Desde ahí puede descargar y ejecutar más código, y repetir el robo.",
+        "Las versiones 1.106.2, 1.107.0rc1 y 1.107.0rc2 no están afectadas, según SafeDep. Quien haya instalado la 1.107.0 debe tratar esa computadora como comprometida. La firma recomienda cambiar todas las claves y credenciales que estuvieran al alcance y reinstalar desde una versión limpia.",
+        "No es la primera vez. En marzo, la firma Sonatype informó otro ataque similar contra LiteLLM, con otras versiones. Esas estuvieron disponibles al menos dos horas.",
+        "Por qué importa: LiteLLM es una pieza que muchas empresas y desarrolladores usan para trabajar con IA, y suele guardar claves valiosas. Este tipo de ataque, llamado de cadena de suministro, no apunta a la víctima final sino a una herramienta de la que depende. Cualquier equipo que la haya actualizado en ese lapso queda expuesto. SafeDep no informa fecha de publicación de la versión ni cantidad de afectados."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "SafeDep / Sonatype",
+      "t": "Una versión de LiteLLM publicada en PyPI escondía un ladrón de claves y una puerta trasera",
+      "u": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "v": "Seguridad"
+    },
+    {
+      "b": "Recursive lanzó un modelo gratuito para agentes de programación. Hay versiones reducidas que corren en una laptop, y la licencia permite usarlo libremente.",
+      "body": [
+        "Recursive lanzó Flint, un modelo pensado para agentes de programación. Según la ficha en Hugging Face, investiga código, corrige errores, escribe funciones nuevas y arma pruebas. Se descarga gratis con licencia Apache 2.0, que permite uso comercial.",
+        "Su tamaño es relativamente chico. Tiene unos 40.000 millones de parámetros, las piezas internas que guardan lo aprendido. Pero solo usa 2.500 millones en cada tarea. Eso lo hace más liviano. Según TechCrunch, es mucho más chico que Muse Spark Open, de Meta.",
+        "La empresa afirma que casi todo el modelo lo construyó su propio sistema de investigación automatizada, que llama \"Eureka Machine\". Dice que un equipo pequeño lo desarrolló en menos de cuatro meses. Es una afirmación de la compañía.",
+        "La versión completa está pensada para servidores con placas de video de gama alta. Las versiones reducidas son las que corren en una laptop. Recursive dice que en una MacBook Pro con chip M4 Pro responde al doble de velocidad que modelos parecidos.",
+        "Sobre su desempeño, la empresa informa que superó a otros modelos de menos de 50.000 millones de parámetros en una prueba de problemas reales de programación. En el promedio de seis pruebas propias, solo lo superó un modelo de Alibaba. Son resultados que mide la propia empresa.",
+        "Recursive admite limitaciones. Necesita más guía que los asistentes de pago, y recomienda dividir las tareas grandes en pasos más chicos. La ficha advierte que puede generar código incorrecto, así que hay que revisar sus cambios. Una reseña de Wired fue positiva.",
+        "La empresa, dirigida por Richard Socher, exjefe de ciencia de Salesforce, recaudó 650 millones de dólares con una valuación de 4.650 millones.",
+        "Por qué importa: Flint ofrece una alternativa gratuita a los asistentes de programación pagos, que además corre sin conexión y mantiene el código en la propia máquina. Puede servirle a quien automatiza tareas o arma agentes y quiere evitar costos por uso. Las dudas son dos: los números los reporta la empresa y lo de \"construido por IA\" también es dicho por ella."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Hugging Face / TechCrunch",
+      "t": "Flint, un modelo abierto para programar que la empresa dice haber construido casi todo con IA",
+      "u": "https://huggingface.co/RecursiveSI/flint",
+      "v": "Open source"
+    },
+    {
+      "b": "Lula pidió abrir sus cuentas y desafió a Flávio Bolsonaro a hacer lo mismo. Flávio aceptó, pero con una condición que Lula no cumple.",
+      "body": [
+        "Faltan tres días para el balotaje del domingo 25. La campaña se juega en las finanzas personales. En la primera vuelta, Flávio sacó 47% y Lula 45%. Lula presentó ante el Tribunal Superior Electoral una autorización. Levanta su secreto bancario y telefónico. Incluye a su familia, con sus cinco hijos. Lo anunció en un acto en Porto Alegre.",
+        "En ese acto pidió que Flávio haga lo mismo. Con sus cuentas, las de sus empresas y las de sus parientes. Lula cuestionó el origen de supuestos fondos ligados al Banco Master. También habló de la compra de una casa de alto valor.",
+        "Flávio respondió con un escrito ante el mismo tribunal. Aceptó abrir sus secretos bancario, fiscal y telefónico. Pero solo si Lula lo hace desde 2003. Sus abogados dicen que la oferta de Lula alcanza apenas desde 2018. Hablaron de un gesto \"para las cámaras\". En el debate del 18 de octubre, Flávio había dicho que no tenía nada que ocultar. Entonces no aclaró si autorizaría la apertura de sus datos.",
+        "Sobre Flávio pesan dos investigaciones en la Corte Suprema. Una trata de un supuesto lavado de dinero vinculado al abogado Willer Tomaz. La otra gira en torno a la película \"Dark Horse\". Se investiga un posible aporte del banquero preso Daniel Vorcaro. Flávio lo niega. Una tercera causa, la \"Rachadinha\", quedó archivada. Flávio acusó a Lula de compartir el poder con el juez Alexandre de Moraes. Moraes está bajo sospecha por mensajes y un contrato vinculados a Vorcaro. El juez lo niega.",
+        "Una nueva encuesta de Quaest muestra una carrera muy cerrada. Flávio tiene 45% y Lula 44%, con margen de error de dos puntos. La semana anterior era 46% a 44%. Los indecisos subieron de 1% a 2%. Los votos en blanco o nulos se mantienen en 9%. La medición es posterior al debate. También llegó después de medidas de Lula: menos jornada laboral y perdón de deudas a microempresarios. Atlas había dado ventaja de dos puntos a Flávio.",
+        "En medio de esto apareció Javier Milei. En X escribió que esperaba que la \"campaña sucia\" de Lula no incluyera \"robarse la elección\". También criticó una entrevista de Lula sobre la jornada laboral y lo llamó \"progre machirulo\". La Cancillería brasileña respondió el martes. Calificó los dichos de antidemocráticos e inaceptables. Habló de injerencia extranjera a cinco días de la votación. Defendió el voto electrónico. Dijo que nunca registró irregularidades. Observadores internacionales lo validaron en la primera vuelta. Brasil es el principal socio comercial de la Argentina.",
+        "El domingo 25 se define quién gobierna Brasil."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "La Política Online / Infobae",
+      "t": "Balotaje en Brasil: Lula y Flávio se cruzan por el secreto bancario a días de votar",
+      "u": "https://www.lapoliticaonline.com/internacionales/lula-desafia-a-flavio-y-anuncia-la-apertura-del-secreto-bancario-y-telefonico-7576/",
+      "v": "Brasil"
+    },
+    {
+      "b": "OpenAI anunció que sus modelos más nuevos se podrán contratar dentro de Google Cloud. Por ahora hay una prueba privada y el lanzamiento general sería en semanas.",
+      "body": [
+        "OpenAI llevará sus modelos más recientes a Google Cloud, según informó SiliconANGLE el 21 de octubre. Las empresas podrán contratarlos dentro del catálogo de modelos de Google, que ofrece más de 200 opciones.",
+        "Son tres modelos. GPT-6 Astra es el más potente. GPT-6.1 Sol y GPT-6 Luna son versiones más chicas y más baratas. Según SiliconANGLE, cuestan cinco y cien veces menos que Astra, respectivamente.",
+        "Por ahora funcionan en una prueba privada para algunos clientes. OpenAI dice que el acceso general llegará en las próximas semanas. Google no dio fecha, y todavía no publicó precios.",
+        "Habrá un beneficio práctico para las empresas. Podrán pagar estos modelos con el dinero ya comprometido con Google Cloud, en una sola factura. Según Digital Applied, eso no implica un descuento extra.",
+        "OpenAI también prevé incorporar sus modelos en dos herramientas de Google: una de programación con agentes y otra para automatizar tareas de empresas.",
+        "Google es el tercero de los grandes proveedores de nube en ofrecerlos. Microsoft Azure y Amazon ya los venden desde septiembre. OpenAI aclaró que Microsoft sigue siendo su socio principal en la nube.",
+        "El anuncio se suma a otras novedades. Ya publicamos que Replit pasó a usar OpenAI como modelo principal. Además, TechCrunch informó el 20 de octubre que Google se sumó a Amazon en la pelea por quitarle terreno a Nvidia entre los desarrolladores.",
+        "Por qué importa: hasta ahora, una empresa que usaba Google Cloud tenía que contratar a OpenAI por separado. Con el cambio, puede usar modelos de OpenAI y de Google en un mismo lugar y con una sola cuenta. Le sirve sobre todo a las compañías que ya trabajan con esa nube. Falta ver los precios y cuándo estará disponible para todos."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "SiliconANGLE / Digital Applied",
+      "t": "Los modelos de OpenAI llegan a Google Cloud, la nube de su rival",
+      "u": "https://siliconangle.com/2026/10/21/openai-to-make-its-most-advanced-ai-models-available-in-google-cloud/",
+      "v": "OpenAI"
+    },
+    {
+      "b": "El borrador, que Anthropic confirmó a Politico, prevé evaluadores independientes y una orden judicial para bloquear un lanzamiento.",
+      "body": [
+        "Anthropic impulsa un proyecto de ley de seguridad para la IA que podría llegar al Congreso de EE.UU. Politico reveló el borrador y la empresa confirmó que existe.",
+        "La norma permitiría bloquear el lanzamiento de un modelo ante un riesgo inminente. El umbral sería de al menos 50 muertes o más de 1.000 millones de dólares en daños materiales. Entre los riesgos figuran armas biológicas, ciberataques y un modelo que se escape del control de quien lo desarrolló.",
+        "Las cifras son parecidas a las de la ley SB 53 de California.",
+        "El mecanismo tiene varios pasos. Evaluadores independientes, registrados ante el Departamento de Comercio, buscarían esos riesgos. Los laboratorios podrían pagarles, siempre que el pago no dependa de los resultados.",
+        "Si detectan un peligro, los evaluadores tendrían 72 horas para avisar al Departamento de Comercio. Ese organismo no podría frenar nada solo. Debería pedirle a un juez federal de Washington que bloquee el lanzamiento.",
+        "Anthropic dijo que el texto refleja su propuesta \"Advanced AI Framework\", que presenta desde junio a legisladores nacionales y estatales.",
+        "Hay objeciones. TechCrunch señala que no está claro cómo evitar que el pago influya en las evaluaciones. Además, los riesgos que la ley contempla son más teóricos que los de hoy, como los ataques de hacking hechos por agentes o los casos de sistemas que desobedecieron a sus operadores.",
+        "Por qué importa: es una de las propuestas más exigentes que sale de una empresa de IA. Otras compañías piensan distinto: el CEO de Nvidia, Jensen Huang, sostuvo que no hacen falta nuevas leyes. La iniciativa afectaría a los grandes laboratorios que desarrollan los modelos más potentes. Por ahora es solo un borrador y no tiene fecha de debate."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Anthropic propone una ley que permitiría frenar un modelo de IA si pudiera causar 50 muertes",
+      "u": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "El sondeo muestra diferencias cortas y muchos indecisos. En el peronismo, Grabois se alineó con Kicillof si Cristina no puede competir.",
+      "body": [
+        "Una encuesta de la consultora Afiches, publicada el 20 de octubre por La Política Online, mide a Milei en un balotaje. Pierde en los tres escenarios con figuras del peronismo.",
+        "Contra Cristina Kirchner, el resultado es 39% a 36%. Contra Sergio Massa, 38% a 34%. Contra Axel Kicillof, 37% a 35%. En todos los casos Milei tiene un piso de 31% y un techo de 36%.",
+        "Milei sí gana en otros cuatro escenarios, frente a Myriam Bregman, Juan Schiaretti, Jorge Brito y Dante Gebel. Los tres cruces con el peronismo quedan dentro de pocos puntos. El informe destaca el alto porcentaje de votantes no polarizados: los que votarían en blanco, anularían o no irían a votar.",
+        "En paralelo, el peronismo discute quién lo encabezaría. Kirchnerismo y La Cámpora sostienen que Cristina debe ser la candidata, pese a su condena firme por la causa Vialidad. Hoy cumple prisión domiciliaria. Máximo Kirchner y Sergio Berni respaldaron esa postura.",
+        "Juan Grabois eligió otro camino. Según La Política Online, decidió trabajar por una candidatura presidencial de Kicillof, si Cristina no puede competir. Dicen en su entorno que se lo avisó a ella antes. También que no implica sumarse al espacio del gobernador. Grabois dijo: \"Si Cristina no es candidata, es obvio que el candidato es Axel\"."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "La Política Online / BAE Negocios",
+      "t": "Una encuesta ubica a Milei por debajo de Cristina, Massa y Kicillof en un balotaje",
+      "u": "https://www.lapoliticaonline.com/politica/milei-pierde-con-cristina-kicillof-y-massa-en-un-ballotage-473/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "La empresa ofrece cuentas en dólares a otras compañías. Dice que probará primero acá sus productos y después los llevará a Brasil, Colombia y México.",
+      "body": [
+        "Mural es una fintech con sede en Nueva York. La fundaron en 2022 dos ex ingenieros de Palantir. No es una startup argentina, pero eligió al país como mercado de pruebas. Tiene unas 30 personas.",
+        "Esta semana anunció una ronda Serie A de US$15 millones. La lideró Tether, emisora de la stablecoin USDT. Con esa ronda, el total levantado llega a US$28 millones. También puso plata North Island Ventures. Siguieron inversores previos, como Wences Casares y Sebastián Mejía, cofundador de Rappi.",
+        "La empresa vende infraestructura a otras compañías. Les permite ofrecer cuentas en dólares sin armar bancos, licencias ni controles propios. Integra pagos, verificación de identidad y controles contra el lavado. Conecta transferencias bancarias en Argentina, Pix en Brasil, Bre-B en Colombia y SPEI en México.",
+        "Entre sus clientes figuran Deel y Opera. Según la propia empresa, procesó US$2.100 millones para usuarios de 128 países desde 2025. Dice que su volumen de este año ya casi sextuplica el de todo 2025. Además, promete bajar el tiempo de lanzamiento de un producto de meses a semanas. Son cifras de la compañía, sin verificación independiente.",
+        "El plan para la Argentina apunta a fintechs que atienden a un perfil puntual. Son personas que cobran en dólares desde el exterior, gastan en pesos y ahorran en dólares. Mural ya trabajó con bancos locales y busca un gerente para el país. Su CEO, Sinclair Toffa, lo definió como eje de la estrategia regional.",
+        "La plataforma también admite pagos hechos por agentes de IA. Hay límites y aprobaciones para montos grandes. La compañía describe ese segmento como incipiente.",
+        "iProUP marca un matiz. Mural se presenta como una opción neutral entre varias vías de pago. Pero Tether tiene interés económico: gana más cuanto más se usen las stablecoins. Los datos locales que cita la nota vienen de a16z crypto y del BCRA. El 94% de la compraventa de cripto contra pesos se hace con stablecoins. Las transferencias inmediatas en dólares sumaron US$3.792 millones en agosto."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP / Startup Journal",
+      "t": "Mural, la fintech que recibió US$15 millones de Tether, usará la Argentina como laboratorio",
+      "u": "https://www.iproup.com/startups/72489-tether-argentina-fintech-captar-millones-pagos-globales-octubre-2026",
+      "v": "Fintech"
+    },
+    {
+      "b": "Nació en agosto y promete pagos protegidos y envíos integrados. Sus fundadoras y fundadores dicen que cobra comisión solo al comprador.",
+      "body": [
+        "Salame es una plataforma para comprar y vender cosas usadas entre particulares. La crearon Florencia Montesissa y Evan Bruguera, que vivían en Barcelona. La idea surgió en un viaje familiar a la Argentina. Intentaron vender objetos y no sabían quién compraba ni cómo cobrar.",
+        "Salió en versión beta en agosto. Hoy tiene casi 50.000 usuarios y más de 10.000 publicaciones. Los rubros más activos son ropa y electrónica, sobre todo celulares y cargadores portátiles.",
+        "Se inspiraron en Wallapop y Vinted y lo adaptaron al país. El vendedor se queda con todo el precio acordado. El comprador puede sumar \"Salame Protect\", que cuesta 5%. La plata queda retenida hasta que confirma que recibió el producto. Tiene 48 horas para revisarlo. Si hay conflicto, el soporte analiza la publicación, el chat y las pruebas.",
+        "Para operar, los usuarios suben una foto del DNI y una selfie. Un sistema biométrico de FaceTec verifica que coincidan. La plataforma está registrada ante la UIF y monitorea movimientos sospechosos.",
+        "Los envíos usan puntos de retiro de HOP y Pickit. Andreani entrega a domicilio y Cabify cubre entregas urbanas. Un algoritmo elige la mejor opción según tamaño, peso y ubicación. El comprador ve el costo antes de pagar.",
+        "Además de Protect, ganan con publicaciones destacadas, membresías para profesionales y envíos. A futuro, sumarán publicidad. Reconocen que algunos usuarios cierran la venta fuera de la app.",
+        "El primer capital fue una semilla de US$400.000, de amigos, familia y un inversor principal. Ahora buscan US$1,5 millones en los próximos 12 meses, una ronda todavía sin cerrar. Dicen que el obstáculo más duro fue conseguir el capital inicial.",
+        "La meta de 2026 es consolidar la app y lograr que los usuarios vuelvan. Para 2027 quieren masificarla en el país. Después, llegar a otros países de la región."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP / El Cronista",
+      "t": "Salame, la app argentina de usados, suma casi 50.000 usuarios y busca US$1,5 millones",
+      "u": "https://www.iproup.com/startups/72500-salame-quiere-levantar-usd-15-millones-para-masificar-su-plataforma-en-argentina",
+      "v": "Marketplace"
+    },
+    {
+      "b": "La aseguradora rosarina la creó dentro de su programa de innovación abierta. La presentó en una cumbre internacional de seguros en Las Vegas.",
+      "body": [
+        "La Segunda Seguros, con sede en Rosario, lanzó una startup propia. Se llama UiFlou. Nació dentro de InnLab, el programa de innovación abierta de la compañía.",
+        "UiFlou usa inteligencia artificial y análisis de datos para anticipar riesgos. También busca ordenar procesos y generar valor tanto para los clientes como para la aseguradora.",
+        "Se presentó en ITC Vegas 2026, una cumbre internacional del sector asegurador. Allí se mostró ante actores de todo el mundo.",
+        "Hugo Bellantig, gerente de innovación de La Segunda, habló de impacto en prevención y productividad. Dijo que tiene capacidad de escalar. Al frente de UiFlou está su CEO, Leónidas Ávila. Leonel Bianco, director comercial de La Segunda, también participó del anuncio.",
+        "La nota no detalla cuánto dinero puso la aseguradora, ni cuándo saldrán los productos. Tampoco informa clientes ni resultados.",
+        "El contexto del sector es de crecimiento. Según iProUP, el ecosistema argentino de insurtech (startups de seguros) tiene 110 empresas activas. Crece 16% por año y pesa 13% de las startups de la región.",
+        "En Latinoamérica, la inversión en insurtech llegó a US$90 millones en el primer semestre. La Argentina está entre los principales destinos. Un ejemplo es Gangkhar. Levantó US$4,25 millones en una ronda semilla liderada por Anthemis.",
+        "Un estudio de Flux IT agrega otro dato. Los consumidores argentinos ya usan IA para comparar coberturas antes de hablar con una aseguradora."
+      ],
+      "id": "sta2",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "La Segunda lanza UiFlou, una startup propia para prevenir riesgos con inteligencia artificial",
+      "u": "https://www.iproup.com/startups/72126-aseguradora-argentina-lanza-su-propia-startup-enfocada-en-ia-y-big-data",
+      "v": "Insurtech"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana0",
+    "eco0",
+    "tec0",
+    "pol0",
+    "eco1",
+    "tec1",
+    "tec4",
+    "lat0",
+    "tec3",
+    "tec2",
+    "pol1",
+    "sta0",
+    "sta1",
+    "sta2"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "tec0",
+    "eco0",
+    "pol0",
+    "lat0"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.545",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.565",
+      "▼0,3%"
+    ],
+    [
+      "MEP",
+      "$1.550",
+      "▲0,2%"
+    ],
+    [
+      "CCL",
+      "$1.639",
+      "▲0,4%"
+    ],
+    [
+      "Riesgo país",
+      "674",
+      "▲0,2%"
+    ]
+  ]
+}
