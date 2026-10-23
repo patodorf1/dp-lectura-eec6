@@ -1,0 +1,378 @@
+{
+  "fecha": "Viernes 23 de octubre de 2026",
+  "fuentes": "El Intransigente, Infobae, La Nación, El Litoral, Cenital, TechCrunch, Anthropic, Ecosistema Startup, GitHub, Perfil, iProfesional, La Política Online, iProUP",
+  "lead": "ana0",
+  "notas": [
+    {
+      "b": "El domingo 25 en Avellaneda, Boca juega el clásico por el Clausura. Es el primero de una serie de partidos decisivos hasta la final de la Sudamericana.",
+      "body": [
+        "Boca tiene un domingo exigente. Visita a Independiente en Avellaneda por la fecha 14 del Clausura, tres días después de meterse en la final de la Sudamericana.",
+        "El equipo de Rodolfo Arruabarrena llega con el envión del 3-1 a Vasco en el Maracaná. Leandro Paredes entró en el segundo tiempo y marcó un gol clave. Su estado físico se va a seguir de cerca.",
+        "Boca además lidera la tabla anual, y cada punto cuenta para sostenerse arriba. El técnico definió el partido con una palabra: \"Es un clásico\".",
+        "Los medios que siguen al club hablan de rotaciones y de cuidar a algunos jugadores. La alineación todavía no está confirmada y habrá que esperar a la lista oficial.",
+        "Después de Independiente, el calendario no afloja. El domingo 1 de noviembre llega el Superclásico con River en la Bombonera, también por el Clausura.",
+        "La semana siguiente, alrededor del 8, Boca recibe a Defensa y Justicia. La fecha exacta todavía no está confirmada.",
+        "El sábado 14 de noviembre juega la semifinal de la Copa Argentina contra Banfield, en Mendoza.",
+        "El 21 de noviembre es la final de la Sudamericana en Barranquilla, frente a Atlético Mineiro. Implica un viaje de más de 5.000 kilómetros.",
+        "Infobae cuenta once partidos en 56 días y una chance de pelear cinco títulos en 2026. Son la Sudamericana, el Clausura, la Copa Argentina, la tabla anual y el Trofeo de Campeones, el 19 de diciembre ante Belgrano."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "El Intransigente / Infobae",
+      "t": "Boca visita a Independiente con un calendario que no da respiro",
+      "u": "https://elintransigente.com/2026/10/22/boca-agenda-independiente-river-semifinal-copa-argentina-final-sudamericana/",
+      "v": "Boca"
+    },
+    {
+      "b": "El lateral ecuatoriano fue expulsado en Montevideo y no estará ante Boca el 21 de noviembre.",
+      "body": [
+        "Atlético Mineiro tendrá una baja para la final de la Sudamericana ante Boca. Es Alan Franco, lateral ecuatoriano de 28 años.",
+        "Franco vio la segunda amarilla a los 75 minutos en la derrota 2-0 ante Montevideo City Torque. Se la mostró el árbitro Cristián Garay tras un codazo a Diogo Agustín Guzmán. La serie ya estaba definida a favor de Mineiro, que pasó por 3-2 global.",
+        "Eduardo Domínguez deberá reemplazarlo en Barranquilla. Las opciones que baraja son sus compatriotas Alan Minda y Angelo Preciado.",
+        "La ausencia tiene un detalle curioso. Franco no podrá cruzarse con Enner Valencia, delantero de Boca y también ecuatoriano."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Mineiro llegará a la final con Alan Franco suspendido",
+      "u": "https://www.infobae.com/deportes/2026/10/22/la-figura-de-atletico-mineiro-que-se-perdera-la-final-de-la-sudamericana-ante-boca-por-una-insolita-expulsion/",
+      "v": "Boca"
+    },
+    {
+      "b": "En el día de prensa del GP de Estados Unidos, el piloto de Alpine pidió dejar atrás las tres carreras sin puntos. Dijo que el equipo está para ser competitivo.",
+      "body": [
+        "Franco Colapinto llegó a Austin con ganas de desconectar. Anduvo en scooter, montó a caballo y se acercó a una MotoGP del equipo Pramac.",
+        "Contó que sigue las motos desde chico y que le gustaría probar una algún día. Su papá corrió en speedway y, por las lesiones, lo orientó hacia los autos.",
+        "En lo deportivo, admitió que Alpine necesitaba un reinicio tras tres fechas sin sumar. Pero se mostró optimista: \"Tenemos un buen auto para revertir la situación\".",
+        "Según Colapinto, el equipo suele rendir mejor los sábados en la clasificación que en la carrera, aunque se defiende los domingos. El trazado de Austin, con curvas rápidas de mucho apoyo aerodinámico, le debería venir bien al Alpine.",
+        "Alpine es sexto en el campeonato de constructores, a 32 puntos de Racing Bulls. La Nación marca que recuperar el quinto puesto es muy difícil y que no se espera lluvia en el fin de semana.",
+        "Pierre Gasly, su compañero, entró a la Q3 en las últimas tres fechas y busca convertir ese ritmo en puntos.",
+        "El piloto argentino también opinó sobre el calendario. Se entusiasmó con la carrera de Ruanda prevista para 2030 y dijo confiar en lo que decidan la F1 y la FIA sobre Qatar y Abu Dabi.",
+        "Austin abre una tanda de tres Grandes Premios seguidos, con México y San Pablo a continuación."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "La Nación / El Litoral",
+      "t": "Colapinto, en Austin: \"Tenemos un buen auto\" para revertir la racha",
+      "u": "https://www.lanacion.com.ar/deportes/automovilismo/franco-colapinto-en-austin-el-optimismo-sobre-el-potencial-rendimiento-de-los-alpine-y-porque-no-nid22102026/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "Las nuevas reglas, desde 2027, apuntan a equipos como Alpine, que también compiten en el Mundial de Resistencia. Buscan evitar que se esquive el tope de gastos.",
+      "body": [
+        "El Consejo Mundial del Deporte Motor de la FIA aprobó nuevas normas para los equipos de Fórmula 1. Tendrán que separar personal e instalaciones de sus programas en el Mundial de Resistencia y la Fórmula E. Rigen desde 2027.",
+        "El objetivo es frenar el traspaso de recursos a la F1 por estructuras compartidas, sin que cuenten dentro del tope de gastos de 215 millones de dólares por temporada.",
+        "Las reglas alcanzan simuladores, túneles de viento, centros de datos y sistemas informáticos. También exigen separar físicamente las fábricas.",
+        "Hay límites para el personal que cambia de área. Quien vuelve a la F1 debe esperar un año, y quien llega desde otro programa cumple tres meses de pausa.",
+        "Infobae señala sospechas sobre Aston Martin, Ferrari, Cadillac y Alpine, por sus equipos en resistencia. También menciona a Toyota y Haas. No hay confirmación de que Alpine haya sacado ventaja.",
+        "Christian Horner dijo que los equipos más fuertes gastan entre 500 y 600 millones y pidió subir el tope. Recordó que Red Bull se pasó en 2021 y recibió una multa de 7 millones.",
+        "La nota advierte que, sin sanciones más duras, algunos podrían preferir excederse un poco. Un puesto entre los cinco primeros del campeonato de constructores vale unos 20 millones de dólares."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "La FIA limita los recursos compartidos entre la F1 y otras categorías",
+      "u": "https://www.infobae.com/deportes/2026/10/22/impacto-en-la-f1-la-drastica-medida-de-la-fia-que-podria-afectar-a-alpine-y-franco-colapinto/",
+      "v": "FIA"
+    },
+    {
+      "autor": "Emiliano Libman",
+      "b": "Libman explica la operación del Banco Central con oro y sostiene que, por la suba del precio, le costó unos USD 1.000 millones en reservas líquidas. Plantea hipótesis sobre el motivo y pide transparencia.",
+      "body": [
+        "Libman parte de una aclaración. Según él, es muy improbable que se hayan \"choreado\" las reservas. Lo que pudo pasar, plantea, es que el oro se haya usado como garantía, quizás de un préstamo de corto plazo.",
+        "Primero ordena los conceptos. Las reservas brutas incluyen dólares, oro y otros activos. Las netas son las brutas menos deudas que vencen en menos de un año. Las líquidas son, básicamente, los dólares.",
+        "Libman da cifras muy aproximadas, solo para tener órdenes de magnitud. Serían unos USD 50.000 millones brutas, USD 10.000 millones netas y USD 25.000 millones líquidas.",
+        "El oro, explica, no se acepta directo para pagar deudas ni importaciones. Los bancos centrales lo tienen igual. Según Libman, da cierta cobertura contra la inflación y suele subir en el largo plazo. También puede ser más seguro ante sanciones de Estados Unidos. Menciona que Rusia y China compraron más oro en los últimos años.",
+        "Después explica los instrumentos. Un put da derecho a vender a un precio fijado. Un call da derecho a comprar. Libman usa un ejemplo con oro a USD 1.000. Quien compra el put se asegura contra la caída. Si el precio no cae, pierde solo la prima, como un seguro.",
+        "Quien vende un call cobra una prima. A cambio, tiene que pagar la diferencia si el precio sube por encima de lo pactado. Un collar combina las dos cosas: comprar un put y vender un call. El valor queda encerrado entre un piso y un techo.",
+        "Sobre el caso argentino, Libman dice que según parece el Banco Central hizo un collar con parte de su oro. Compró el put como protección. Vendió el call para no pagar la prima. A cambio, resignó la suba por encima de cierto precio. Aclara que no es lo mismo que comprar un seguro, como se dijo en redes.",
+        "Para Libman, el problema fue el contexto. El oro subió 65% en 2025, dice, y el promedio histórico es 9%. Según sus números, las tenencias se valorizaron unos USD 3.500 millones. Por el call vendido, el Banco Central pagó unos USD 1.000 millones. Las reservas líquidas bajaron esa cifra. Reconoce que es un monto importante para este tipo de operaciones.",
+        "Después se pregunta por qué se hizo. Plantea dos hipótesis. Una: el collar fue requisito de un contrato financiero, como un préstamo de bancos internacionales con el oro en garantía. Otra: no se acumulaban reservas y las autoridades no quisieron arriesgar una pérdida en una situación delicada.",
+        "Libman marca una duda de los analistas. Si se temía una caída, bastaba el put, que tiene un costo acotado. El collar sale gratis al principio, pero obliga a renunciar a toda suba. Con el diario del lunes, dice, salió más caro porque el oro subió.",
+        "Pide transparencia. Considera muy útil un informe técnico sobre la operatoria y más claridad del Banco Central, al menos después de los hechos.",
+        "Por último, critica la política monetaria y cambiaria desde diciembre de 2023. Señala tres errores. Mantener la suba pautada y diaria del dólar, que según él lo atrasó y llevó a una corrida y a pedir más fondos al FMI. El desarme de las LEFI, letras del Banco Central para los bancos, que según él aceleró otra corrida y subió la tasa de interés. Y negarse a acumular reservas, algo que recién empezó este año, a regañadientes.",
+        "Su conclusión es matizada. Según Libman, el asunto del oro es un incidente relativamente menor. Pero es inseparable de una política en la que comprar reservas en el mercado de cambios era casi mala palabra."
+      ],
+      "donde": "Rollover, newsletter de Cenital, miércoles 21 de octubre de 2026",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "Cenital",
+      "t": "Libman: el collar con el oro costó USD 1.000 millones y es parte de una política errática",
+      "u": "https://cenital.com/las-cuentas-del-collar-todo-sobre-la-operatoria-con-el-oro/",
+      "v": "Newsletter"
+    },
+    {
+      "b": "Un decreto de Caputo corre el inicio del Fondo de Asistencia Laboral y estira el plazo en que no se podrá usar. El primer uso para indemnizaciones pasa a diciembre de 2027.",
+      "body": [
+        "El Ministerio de Economía modificó la reglamentación del Fondo de Asistencia Laboral. Es el sistema con el que las empresas pagarán indemnizaciones por despido. El cambio salió por decreto, firmado por Luis Caputo.",
+        "Según Infobae, los ajustes se acordaron con los bancos. Son los que administrarán buena parte de esos fondos.",
+        "La primera novedad es la fecha. El sistema arrancará el 1 de diciembre y no el 1 de noviembre, como estaba previsto.",
+        "La segunda es el período de espera. Pasó de seis meses a un año. En ese tiempo, los aportes se acumulan, pero las empresas no pueden usarlos para pagar indemnizaciones.",
+        "El efecto práctico es que el primer uso del fondo para despidos se corre. Antes era el 1 de mayo de 2027. Ahora será el 1 de diciembre de 2027, después de las elecciones presidenciales.",
+        "Los aportes salen de las cargas sociales. Las grandes empresas destinarán el 1% y las pymes el 2,5%. Antes, ese dinero iba a la Anses. Se estiman entre $250.000 y $300.000 millones por mes.",
+        "Cada fondo podrá invertir en bonos nacionales, sin límite. También podrá comprar bonos de provincias o de la Ciudad, obligaciones negociables de empresas y depósitos bancarios. Los títulos provinciales y privados deben tener la máxima calificación de dos calificadoras. Casi ninguno la cumple.",
+        "Las empresas que no elijan un fondo tendrán uno asignado por la Comisión Nacional de Valores. El mecanismo todavía no está definido en detalle. Los bancos no podrán rechazar a ningún empleador.",
+        "Ya hay más de 100 fondos nuevos registrados ante la Comisión Nacional de Valores. Los bancos compiten por captar empresas."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Cambian el fondo para pagar despidos: se usará recién después de las elecciones de 2027",
+      "u": "https://www.infobae.com/economia/2026/10/22/una-medida-de-economia-pone-limites-a-los-despidos-de-trabajadores-durante-la-campana-electoral-2027/",
+      "v": "Despidos"
+    },
+    {
+      "b": "La app está pensada para profesionales y pequeñas empresas. Por ahora se prueba con lista de espera.",
+      "body": [
+        "Anthropic presentó Claude Duet, una app de agentes para profesionales y pequeñas empresas. Compite con Meta Muse, OpenAI Dots y Grok Bot.",
+        "Duet trabaja en una computadora virtual propia, en segundo plano. Sigue funcionando aunque cierres la app.",
+        "Cada mañana revisa el mail y el calendario y arma un resumen. También prepara borradores de respuesta y avisa cuando algo necesita tu decisión.",
+        "Para tareas más grandes, arma tableros, proyecciones de ventas, prototipos y aplicaciones web. Se conecta con más de 6.000 herramientas del Claude Marketplace. Funciona con el modelo Claude Opus 5.5.",
+        "Puede comprar online mediante Link, de Stripe, o Shop Pay, de Shopify. Antes de enviar mensajes, pagar, firmar o borrar algo, pide permiso. Solo el usuario marca una tarea como terminada.",
+        "Anthropic dice que no mueve dinero entre cuentas ni opera con acciones. Un filtro revisa los mensajes para evitar fugas de datos sensibles. Por defecto, rechaza pedidos de números de tarjeta o de documentos.",
+        "La empresa admite límites. Duet puede malinterpretar una conversación o calcular mal la urgencia. Rinde menos en encargos personales, como reservar entradas.",
+        "Está en vista previa de investigación, con lista de espera, para suscriptores Pro y Max en Estados Unidos. No hay planes Team ni Enterprise por ahora. No tiene precio aparte: su trabajo consume el límite de uso del plan.",
+        "Por qué importa: Anthropic suma un producto de agentes pensado para el trabajo diario, no para los trámites personales. La diferencia con otros agentes es que opera solo, en segundo plano, y pide aprobación en los pasos delicados. Le sirve a quien maneja mails, cobros y reportes. Por ahora el acceso es limitado y las fuentes no muestran pruebas independientes de su rendimiento."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "TechCrunch / Ecosistema Startup",
+      "t": "Anthropic lanza Claude Duet, un agente que trabaja solo en segundo plano",
+      "u": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "El Tribunal Oral Federal 5 juzga a 19 acusados por presunto lavado de dinero. La primera audiencia es hoy en Comodoro Py.",
+      "body": [
+        "Cristina Fernández de Kirchner y su hijo Máximo, diputado nacional, empiezan hoy el juicio oral por las causas Hotesur y Los Sauces. Son 19 imputados en total.",
+        "El tribunal es el Tribunal Oral Federal 5. Las audiencias se harán en la sala AMIA de Comodoro Py. Ambas causas se juzgan juntas porque así lo resolvió la Cámara Federal de Casación Penal. Esa decisión revirtió la del tribunal, que había fijado fechas separadas.",
+        "A los dos Kirchner se les atribuyen lavado de activos, asociación ilícita y dádivas. Máximo también está acusado de organizar la asociación ilícita. Para él es el primer juicio oral como acusado. Cristina ya cumple prisión domiciliaria por la causa Vialidad.",
+        "Hotesur es la sociedad dueña del hotel Alto Calafate. Según la fiscalía, sus acciones se compraron en 2008 por 4,9 millones de dólares, a través de personas de confianza. Su administración quedó en manos de Valle Mitre, vinculada con Lázaro Báez. La acusación sostiene que las habitaciones se pagaban sin usarse, para mover dinero hacia sociedades de la familia.",
+        "Los Sauces es una inmobiliaria creada en 2006. La fiscalía dice que empresarios como Báez y Cristóbal López concentraron el 86% de su facturación. Los contratos de alquiler son el centro de la acusación. También se investigan compras de inmuebles en Puerto Madero y Río Gallegos, y la del hotel La Aldea del Chaltén.",
+        "Entre los acusados también aparecen Báez, López y Fabián De Sousa.",
+        "Los acusados rechazan las imputaciones. Carlos Beraldi defiende a Cristina y a Máximo.",
+        "Sobre cómo sigue, el tribunal autorizó que los imputados vean la primera audiencia por videoconferencia. Las indagatorias, en cambio, deberán ser presenciales. La decisión tuvo un voto en disidencia."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Perfil",
+      "t": "Arranca hoy el juicio Hotesur-Los Sauces contra Cristina y Máximo Kirchner",
+      "u": "https://www.perfil.com/noticias/judiciales/cristina-kirchner-enfrenta-este-viernes-el-juicio-por-hotesur-y-los-sauces-una-por-una-las-acusaciones-por-lavado.phtml",
+      "v": "Peronismo"
+    },
+    {
+      "b": "Dejó la Secretaría de Coordinación de Energía y Minería tras casi dos años y medio. No se anunció un reemplazante.",
+      "body": [
+        "Daniel González renunció a la Secretaría de Coordinación de Energía y Minería. El área depende del Ministerio de Economía que conduce Luis Caputo.",
+        "Había llegado en agosto de 2024, convocado por Caputo. Antes dirigió el IDEA, la entidad de empresarios, y pasó por YPF.",
+        "Hasta ahora no se informó quién lo reemplaza. Según Perfil, cada área seguirá bajo la conducción de su secretario. María Tettamanti sigue en Energía y Luis Lucero en Minería.",
+        "González explicó los motivos en una entrevista en el canal de streaming Carajo. Dijo que es un ciclo que se termina. Contó que no tiene vocación política ni busca exposición pública.",
+        "También dijo que venía hablando de su salida con Caputo desde hacía meses. La renuncia se había postergado por la agenda legislativa.",
+        "Sobre el equipo, afirmó: \"El equipo sigue completo, el único que se va soy yo\".",
+        "Caputo le agradeció en la red X. Habló de su \"trabajo extraordinario\" al frente de la coordinación.",
+        "Perfil recuerda un relevamiento del politólogo Pablo Salinas, de septiembre. Contó 292 funcionarios que dejaron sus cargos desde el inicio de la gestión. El área de Economía concentraba el 33% de las salidas."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Perfil / iProfesional",
+      "t": "Renunció Daniel González, el coordinador de Energía y Minería del equipo de Caputo",
+      "u": "https://www.perfil.com/noticias/politica/renuncio-daniel-gonzalez-encargado-de-coordinar-energia-y-mineria-en-el-equipo-de-caputo.phtml",
+      "v": "Gabinete"
+    },
+    {
+      "b": "La herramienta se llama 1Password for Agents. Cada ingreso necesita tu confirmación.",
+      "body": [
+        "1Password lanzó 1Password for Agents, una herramienta para que los agentes de IA entren a tus cuentas personales sin conocer tus claves.",
+        "El mecanismo reúne a tres partes: el agente, el usuario y 1Password. Cuando el agente intenta ingresar, 1Password verifica su identidad.",
+        "Vos recibís una alerta y confirmás el pedido. Después, 1Password completa las credenciales por el agente, que nunca las ve.",
+        "La empresa sostiene que darle una contraseña a un agente es un riesgo. La información sensible queda fuera del control del usuario, porque el agente guarda copias.",
+        "La herramienta funciona con agentes de Anthropic, OpenAI, xAI, Meta y la startup Town. 1Password dice que negocia con más compañías para ampliar la lista.",
+        "El lanzamiento coincide con un reporte de Axios. Según ese medio, bancos de Estados Unidos detectaron agentes actuando dentro de cuentas de clientes. En muchos casos no pudieron saber si el cliente lo había pedido.",
+        "Un vocero de Chase recomendó no compartir con nadie el usuario ni la contraseña.",
+        "Por qué importa: los agentes empiezan a hacer tareas que exigen entrar a cuentas, y hoy eso suele implicar entregarles la clave. Este sistema separa la acción de la credencial: el agente opera, pero no se queda con la contraseña. Le sirve a quien delega trámites en un agente. La nota no informa precios, fecha de disponibilidad por país ni pruebas independientes de seguridad."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "1Password lanza una forma de que los agentes de IA inicien sesión sin ver tu contraseña",
+      "u": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
+      "v": "Seguridad"
+    },
+    {
+      "b": "Sería antes de su salida a la bolsa. Los términos todavía se negocian y pueden cambiar.",
+      "body": [
+        "OpenAI trabaja en una nueva ronda privada de hasta US$30.000 millones. La valuación previa sería de 1,25 billones de dólares, según CNBC.",
+        "Coatue y fondos de los Emiratos Árabes Unidos lideran las conversaciones. El aporte emiratí podría incluir un acuerdo para que OpenAI consiga más capacidad de cómputo en ese país.",
+        "Hace un mes, Bloomberg hablaba de una valuación de 1,4 billones. Los números aún se discuten. OpenAI no hizo comentarios.",
+        "Si la cifra supera el billón, sería la empresa privada más valiosa de la historia.",
+        "La ronda de marzo había valuado a OpenAI en US$852.000 millones, ya con el dinero adentro. En junio, la compañía presentó de forma confidencial los papeles para salir a la bolsa.",
+        "Anthropic va por el mismo camino. En mayo levantó US$65.000 millones a una valuación de US$965.000 millones. También presentó en junio sus documentos de forma confidencial.",
+        "Según CNBC, Anthropic buscaría entre 1,5 y 2 billones de dólares de valuación cuando salga a cotizar."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "OpenAI prepara una ronda de US$30.000 millones a una valuación de 1,25 billones",
+      "u": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
+      "v": "OpenAI"
+    },
+    {
+      "b": "Las Fuerzas Armadas mantienen distancia de la campaña y no se ven en un gobierno de Flávio. Una encuesta de Quaest mide los miedos de los votantes.",
+      "body": [
+        "Brasil vota el domingo 25 entre Lula da Silva y Flávio Bolsonaro. Hoy, viernes, hay un último debate en la cadena Globo. El equipo de Lula espera que sea decisivo para convencer a los indecisos.",
+        "Según La Política Online, las Fuerzas Armadas siguen la campaña sin participar del armado político. Citó a una fuente anónima. La preocupación central es el indulto que Flávio quiere darle a su padre, Jair Bolsonaro.",
+        "Los militares temen que esa medida abra un choque con la Corte Suprema. Imaginan movilizaciones a favor y en contra.",
+        "También miran con recelo el alineamiento de Flávio con Estados Unidos.",
+        "La fuente afirma que descartan integrar un eventual gobierno suyo. Su equipo no incluye a nadie con experiencia militar. Dice que no lo sienten propio y que desconfían de sus capacidades.",
+        "Con Lula, en cambio, la relación es buena. Los altos mandos valoraron el aumento del presupuesto durante su gestión.",
+        "Otro tema que siguen de cerca son las causas contra jueces del Supremo por el escándalo del Banco Master. Esperan que se los investigue con el mismo rigor que a los militares condenados por el intento de golpe.",
+        "La otra novedad es la encuesta de Quaest para Globo sobre los temores. El 44% teme el regreso de la familia Bolsonaro y el 42% teme la reelección de Lula. La intención de voto sigue ajustada: Flávio 45% y Lula 44%.",
+        "Por regiones, el Nordeste teme más a Bolsonaro, 56% contra 33%. En el Sur pasa lo contrario: 52% teme más a Lula y 33% a Bolsonaro.",
+        "Entre los beneficiarios de Bolsa Familia, el 63% teme una victoria de Bolsonaro. El texto atribuye el aumento a dichos de Daniella Marques sobre una transición de dos años para eliminar el programa."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "La Política Online",
+      "t": "Brasil, a dos días del balotaje: los militares temen una crisis si gana Flávio Bolsonaro",
+      "u": "https://www.lapoliticaonline.com/internacionales/las-fuerzas-armadas-de-brasil-temen-una-crisis-institucional-y-descartan-participar-del-gobierno-de-bolsonaro/",
+      "v": "Brasil"
+    },
+    {
+      "b": "El formato que enseña tareas especializadas a los agentes pasa a una fundación de la Linux Foundation. Cualquiera puede usarlo o aportar sin pagar.",
+      "body": [
+        "Anthropic cedió Agent Skills a la Agentic AI Foundation, un organismo que depende de la Linux Foundation. El anuncio es del 22 de octubre de 2026.",
+        "Una skill es una carpeta con instrucciones en un archivo y, a veces, programas y material de apoyo. Le enseña a un agente cómo hacer una tarea concreta de una empresa.",
+        "El formato nació del trabajo con Claude Code. Anthropic notó que a los agentes les faltaba el conocimiento de procedimientos para tareas reales de negocios.",
+        "Se publicó en diciembre de 2025. Desde entonces, más de 70 plataformas de agentes lo adoptaron, entre ellas ChatGPT, Cursor, GitHub Copilot y VS Code.",
+        "Según Anthropic, ya se publicaron un millón de skills y se instalaron cerca de 280 millones de veces.",
+        "Con la donación, Anthropic entrega el nombre, el logo, la cuenta de GitHub y el dominio agentskills.io. No hace falta ser miembro de la fundación para usarlo o contribuir.",
+        "El mantenimiento queda en manos de ingenieros de Anthropic, Google, OpenAI y otras empresas, que participan a título individual. David Soria Parra y Mahesh Murag serán los responsables principales.",
+        "La hoja de ruta incluye versiones formales, un proceso para presentar propuestas y guías de seguridad para quienes escriben o instalan skills. Los comentarios se reciben por el Discord del proyecto.",
+        "Por qué importa: el formato deja de ser de una sola empresa y pasa a una gestión compartida entre rivales. Eso reduce el riesgo de que cada plataforma use un estándar distinto. Les sirve a quienes crean skills, porque pueden usarlas en varios agentes. Las guías de seguridad todavía no están publicadas: figuran entre los próximos pasos."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "Anthropic",
+      "t": "Anthropic dona Agent Skills a la Agentic AI Foundation",
+      "u": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "v": "Agentes"
+    },
+    {
+      "b": "En su visita a España, el Presidente chocó con la prensa y con el Gobierno de Sánchez. Zarzuela rechazó el pedido de una reunión con Felipe VI.",
+      "body": [
+        "La visita de Javier Milei a Madrid se llenó de cruces con periodistas españoles y con el Gobierno de Pedro Sánchez. Los hechos ocurrieron el miércoles 21.",
+        "Julia Molina, de la Cadena SER, le preguntó si su presencia incomodaba al PP y a Vox. Milei respondió con un insulto. Habló de \"gente muy corta intelectualmente y miserables políticos\", y agregó que valía para ella.",
+        "Molina contó que la custodia presidencial actuó de forma \"bastante dura\". Denunció que empujaron a un trabajador de El País. iProfesional presentó esa denuncia sin confirmarla. Ese día, Milei también trató de corruptos a periodistas del Grupo Clarín.",
+        "En el foro Nueva Economía, llamó a Sánchez \"dictador\", \"corrupto\" y \"ladrón\". Lo acusó de fomentar la crisis migratoria en Ceuta. Elogió a Isabel Díaz Ayuso y a Santiago Abascal, y no nombró a Alberto Núñez Feijóo.",
+        "Sánchez respondió en redes con una canción de Lali Espósito. La ministra de Igualdad, Ana Redondo, comparó a Milei con una motosierra. La cancillería española emitió un comunicado de condena. El País publicó un editorial titulado \"Inaceptable Milei\".",
+        "Según la agencia EFE, la Casa Real rechazó el pedido argentino de un encuentro con el rey Felipe VI. El motivo fue de protocolo. En España, una reunión con el Rey va acompañada de otra con el jefe de Gobierno.",
+        "Milei dijo que no lo vio por \"distintas circunstancias\" y que tiene una excelente relación con el Rey. Recordó que coincidieron en las asunciones de Perú y Colombia. Su última reunión institucional fue en diciembre de 2023, en Buenos Aires.",
+        "Según La Política Online, el PP y Vox evitaron fotografiarse con él. Abascal armó un viaje de campaña para no coincidir. El encuentro con Ayuso fue a puertas cerradas, sin prensa.",
+        "Las elecciones generales españolas son el 29 de noviembre. Ninguna de las dos fuentes recoge una respuesta del Gobierno argentino a las denuncias."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "La Política Online / iProfesional",
+      "t": "Milei en Madrid: insultó a una periodista y el Rey no lo recibió",
+      "u": "https://www.lapoliticaonline.com/politica/escandalo-con-milei-en-madrid-insulto-a-una-periodista-y-el-rey-evita-recibirlo/",
+      "v": "Milei"
+    },
+    {
+      "b": "El proyecto es de código abierto y supera las 10.000 estrellas en GitHub. Limita qué puede tocar cada agente.",
+      "body": [
+        "Nvidia publicó la versión 0.1 de OpenShell, un entorno para ejecutar agentes de IA sin darles acceso libre a la máquina. Es de código abierto y lo mantiene la propia Nvidia.",
+        "Cada agente corre en un espacio aislado. Una política escrita por el usuario define qué archivos puede leer, qué programas puede lanzar y a qué conexiones de red puede llegar.",
+        "El supervisor funciona fuera de ese espacio. Así, el agente no puede reescribir las reglas que lo limitan.",
+        "Las credenciales se suman solo a los pedidos dirigidos a destinos aprobados. Si un cambio de política implica riesgo, queda a la espera de revisión humana.",
+        "El repositorio acumula unas 10.000 estrellas y unos 1.400 forks (copias para modificar). No figura cuántas estrellas sumó en la última semana. La licencia es Apache 2.0, que permite uso comercial.",
+        "La versión 0.1 marca un ciclo de publicación estable. Según la guía oficial, las instalaciones anteriores no se actualizan en el lugar: hay que reinstalar y recrear los entornos. Ecosistema Startup agrega que BBVA y Santander exploran esta arquitectura. Las cifras de rendimiento son de Nvidia, no de mediciones independientes.",
+        "Por qué importa: los agentes ya leen archivos, instalan programas y usan credenciales, y eso abre riesgos. OpenShell propone un control con reglas explícitas y abierto a revisión, no una promesa del proveedor. Le sirve a quien arma automatizaciones con agentes y necesita limitar qué pueden hacer. Es un proyecto joven: la versión 0.1 rompe compatibilidad con las anteriores."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "GitHub / Ecosistema Startup",
+      "t": "Nvidia lanza OpenShell 0.1, un entorno cerrado y seguro para que los agentes trabajen",
+      "u": "https://github.com/NVIDIA/OpenShell",
+      "v": "Open source"
+    },
+    {
+      "b": "Nubank, Inter y BTG Pactual miran al banco digital argentino. Los atraen su licencia bancaria y sus cerca de 5 millones de usuarios.",
+      "body": [
+        "Brubank, el banco digital argentino, está a la venta. Según iProUP, tres entidades brasileñas compiten por comprarlo: Nubank, Inter y BTG Pactual.",
+        "Los atraen dos activos: la licencia bancaria y los cerca de 5 millones de usuarios.",
+        "Nubank encabeza la lista de interesados. Tiene una base enorme de clientes y ya está presente en Argentina. Intentó entrar al mercado local varias veces.",
+        "BTG Pactual es un banco de inversión que opera como agente de bolsa en el país. Con Brubank podría crecer en el negocio minorista.",
+        "Inter aparece como el favorito, según las fuentes de la nota. Esas mismas fuentes indican que el CEO de Brubank, Juan Bruchou, podría ser el más reacio a firmar la venta.",
+        "De fondo, varias fintech buscan licencias bancarias por los límites que impone el Banco Central a su actividad. Los expertos citados también mencionan la suba de la mora, que podría bajar el precio de los activos.",
+        "La nota no informa montos ni plazos de la operación."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Brubank está a la venta y tres bancos brasileños se disputan la compra",
+      "u": "https://www.iproup.com/finanzas/72533-brubank-en-venta-nubank-inter-y-btg-pactual-compiten-por-la-entidad",
+      "v": "Fintech"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "fon0",
+    "fon1",
+    "ana0",
+    "eco0",
+    "tec0",
+    "pol0",
+    "eco1",
+    "tec2",
+    "tec3",
+    "lat0",
+    "tec1",
+    "pol1",
+    "tec4",
+    "sta0"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "tec0",
+    "eco0",
+    "pol0",
+    "lat0"
+  ],
+  "ticker": [
+    [
+      "Oficial",
+      "$1.545",
+      ""
+    ],
+    [
+      "Blue",
+      "$1.565",
+      "▼0,3%"
+    ],
+    [
+      "MEP",
+      "$1.546",
+      ""
+    ],
+    [
+      "CCL",
+      "$1.633",
+      ""
+    ],
+    [
+      "Riesgo país",
+      "674",
+      "▲0,2%"
+    ]
+  ]
+}
