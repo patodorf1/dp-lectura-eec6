@@ -32,6 +32,20 @@ def foto(u):
     except Exception as e:
         print('sin foto',u,type(e).__name__,file=sys.stderr); return None
 with ThreadPoolExecutor(8) as ex: FOTOS={i:f for i,f in zip(by,ex.map(lambda n:foto(n['u']),N)) if f}
+# Con --originales (solo en el server, para el libro con clave): las piezas de Análisis llevan el texto
+# original, copiado tal cual de la página. Videos, podcasts y sitios que no dejan leer quedan con el resumen.
+ORIG='--originales' in sys.argv[3:]
+def original(n):
+    if not ORIG or n['sec']!='Análisis' or n.get('v') in ('Video','Podcast'): return None
+    try:
+        import trafilatura
+        h=urllib.request.urlopen(urllib.request.Request(n['u'],headers={'User-Agent':'DiarioDePato/1.0 (lectura personal)'}),timeout=30).read().decode('utf-8','ignore')
+        t=trafilatura.extract(h,favor_precision=True,include_comments=False,include_tables=False) or ''
+        if len(t.split())<150: raise ValueError(f'texto muy corto ({len(t.split())} palabras)')
+        return [x.strip() for x in t.split('\n') if x.strip()]
+    except Exception as e:
+        print('sin original',n['u'],type(e).__name__,e,file=sys.stderr); return None
+with ThreadPoolExecutor(4) as ex: ORIGINALES={n['id']:o for n,o in zip(N,ex.map(original,N)) if o}
 fig=lambda n:f'<div class="foto"><img src="f/{n["id"]}.jpg" alt=""/><p class="cred">Foto: {E(n["src"])}</p></div>' if n['id'] in FOTOS else ''
 # Foto de la tapa: recorte apaisado, más bajo cuanto más largos son el título y la bajada,
 # para que la foto entera entre en la primera pantalla de la Kindle
@@ -112,7 +126,8 @@ def firma(n):
     return f'<p class="by"><b>{E(l1)}</b>'+(f'<br/>{E(n["donde"])}' if n.get('donde') else '')+'</p>'
 def aviso(n):
     a=n.get('autor','el autor')
-    if n.get('via'): t=f"Resumen hecho a partir de {n['via']}, no del original. Lo que va entre comillas es textual. El resto es lo que dijo {a} según esa fuente, contado con otras palabras."
+    if n['id'] in ORIGINALES: t=(f"Nota completa de {n['src']}, copiada tal cual se publicó." if n.get('via') else f"Texto original de {a}, copiado tal cual se publicó.")+" Es una copia solo para vos."
+    elif n.get('via'): t=f"Resumen hecho a partir de {n['via']}, no del original. Lo que va entre comillas es textual. El resto es lo que dijo {a} según esa fuente, contado con otras palabras."
     else: t=f"Resumen. Lo que va entre comillas es textual. El resto es lo que dice {a}, contado con otras palabras."
     return f'<p class="aviso">{E(t)}</p>'
 fn=lambda n:f"{n['id']}.xhtml"
@@ -133,7 +148,7 @@ nots+='<p class="nav"><a href="tapa.xhtml">← Tapa</a></p>'
 docs=[("tapa","Tapa",tapa),("noticias","Noticias de hoy",nots)]
 for n in ORDEN:
         body=''
-        for p in n['body']:
+        for p in ORIGINALES.get(n['id'],n['body']):
             if p.startswith('Por qué importa'):
                 body+=f'<p class="why"><b>Por qué importa</b>{E((lambda x:x[:1].upper()+x[1:])(p.split(":",1)[1].strip() if ":" in p else p))}</p>'
             else: body+=f'<p>{E(p)}</p>'
@@ -160,4 +175,4 @@ with zipfile.ZipFile(out,"w",zipfile.ZIP_DEFLATED) as z:
     if TAPA: man+=f'<item id="t_{L["id"]}" href="f/{L["id"]}t.jpg" media-type="image/jpeg"/>'
     sp=''.join(f'<itemref idref="{i}"/>' for i,_,_ in docs)
     z.writestr("O/c.opf",f'<?xml version="1.0" encoding="utf-8"?><package xmlns="http://www.idpf.org/2007/opf" version="3.0" unique-identifier="id" xml:lang="es"><metadata xmlns:dc="http://purl.org/dc/elements/1.1/"><dc:identifier id="id">{UID}</dc:identifier><dc:title>{E(TITLE)}</dc:title><dc:language>es</dc:language><dc:creator>Diario de Pato</dc:creator><meta property="dcterms:modified">{NOW}</meta><meta name="cover" content="portada"/></metadata><manifest><item id="nav" href="nav.xhtml" media-type="application/xhtml+xml" properties="nav"/><item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/><item id="css" href="s.css" media-type="text/css"/><item id="portada" href="portada.png" media-type="image/png" properties="cover-image"/>{man}</manifest><spine toc="ncx">{sp}</spine><guide><reference type="text" title="Tapa" href="tapa.xhtml"/></guide></package>')
-print(ED['fecha'],len(N),'notas',[d[0] for d in docs][:4])
+print(ED['fecha'],len(N),'notas',[d[0] for d in docs][:4],f'originales: {len(ORIGINALES)}' if ORIG else '')

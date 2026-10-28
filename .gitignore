@@ -7,3 +7,6 @@ tarea_programada/
 docs/
 plantilla/
 .handoff/
+
+# Clave del libro privado: vive solo en la Kindle y en el server
+kindle/diariodepato.koplugin/clave.txt
