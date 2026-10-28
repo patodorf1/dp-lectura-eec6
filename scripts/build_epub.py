@@ -34,13 +34,14 @@ def foto(u):
 with ThreadPoolExecutor(8) as ex: FOTOS={i:f for i,f in zip(by,ex.map(lambda n:foto(n['u']),N)) if f}
 fig=lambda n:f'<div class="foto"><img src="f/{n["id"]}.jpg" alt=""/><p class="cred">Foto: {E(n["src"])}</p></div>' if n['id'] in FOTOS else ''
 # Foto de la tapa: recorte apaisado, más bajo cuanto más largos son el título y la bajada,
-# para que el botón "Noticias de hoy" entre en la primera pantalla de la Kindle
+# para que la foto entera entre en la primera pantalla de la Kindle
 L=by[ED['lead']];TAPA=None
 if L['id'] in FOTOS:
     from PIL import Image,ImageOps
     im=Image.open(io.BytesIO(FOTOS[L['id']][0]))
     # Lugar que queda para la foto (medido en una pantalla de 540 de ancho): cada renglón de más del título o la bajada se lo come
-    alto=min(200,170-38*(-(-len(L['t'])//27)-3)-28*(-(-len(L['b'])//48)-3))
+    # Sin ticker ni botón quedan unos 140 de más; con título y bajada cortos la foto va entera (16:9)
+    alto=min(256,310-38*(-(-len(L['t'])//27)-3)-28*(-(-len(L['b'])//48)-3))
     if alto>=100:  # si no entra ni apaisada, la tapa va sin foto
         if im.height/im.width>alto/455: im=ImageOps.fit(im,(im.width,round(im.width*alto/455)),centering=(.5,.25))
         b=io.BytesIO(); im.save(b,'JPEG',quality=72,optimize=True); TAPA=b.getvalue()
@@ -50,10 +51,6 @@ body{font-family:serif;line-height:1.4;margin:0 .4em}
 .mast{text-align:center;border-top:4px solid #000;border-bottom:1px solid #000;padding:.3em 0;margin:0 0 .2em}
 .mast .name{font-size:2em;font-weight:bold;letter-spacing:.02em;margin:0;line-height:1.1}
 .mast .date{font-size:.8em;text-transform:uppercase;letter-spacing:.12em;margin:.2em 0 0}
-table.tick{width:100%;border-collapse:collapse;font-family:sans-serif;font-size:.7em;margin:.3em 0 .6em}
-table.tick td{border:1px solid #000;text-align:center;padding:.25em .1em}
-table.tick .k{display:block;font-size:.85em;text-transform:uppercase;letter-spacing:.05em}
-table.tick .val{display:block;font-weight:bold;font-size:1.15em}
 .kicker{font-family:sans-serif;font-size:.68em;font-weight:bold;text-transform:uppercase;letter-spacing:.1em;margin:0}
 .lead{border-bottom:2px solid #000;padding-bottom:.5em;margin-bottom:.4em}
 .lead h1{font-size:1.65em;line-height:1.12;margin:.15em 0 .3em}
@@ -77,8 +74,6 @@ p{margin:0 0 .7em;text-align:justify}
 .nt{font-size:1.15em;line-height:1.2;text-align:left;margin:.15em 0 .25em}
 .nt a{color:#000;text-decoration:none}
 .nb{font-size:.9em;line-height:1.3;text-align:left;margin:0}
-.go{font-family:sans-serif;font-weight:bold;font-size:1.1em;text-align:center;border:2px solid #000;padding:.45em;margin:.6em 0 0}
-.go a{color:#000;text-decoration:none}
 table.back{width:100%;border-collapse:collapse;font-family:sans-serif;font-weight:bold;font-size:.9em;margin-top:1.2em}
 table.back td{width:50%;border:2px solid #000;text-align:center;padding:.6em .3em}
 table.back a{color:#000;text-decoration:none}
@@ -122,12 +117,9 @@ def aviso(n):
     return f'<p class="aviso">{E(t)}</p>'
 fn=lambda n:f"{n['id']}.xhtml"
 mast=f'<div class="mast"><p class="name">Diario de Pato</p><p class="date">{E(ED["fecha"])}</p></div>'
-# Del dólar solo el blue; el resto del ticker (riesgo país) se mantiene
-TK=[t for t in ED['ticker'] if 'blue' in t[0].lower() or 'riesgo' in t[0].lower()]
-tick='<table class="tick"><tr>'+''.join(f'<td><span class="k">{E(k)}</span><span class="val">{E(v)}</span>{E(x)}</td>' for k,v,x in TK)+'</tr></table>'
 ftapa=f'<div class="foto"><a href="{fn(L)}"><img src="f/{L["id"]}t.jpg" alt=""/></a></div>' if TAPA else ''
-tapa=mast+tick+f'<div class="lead"><p class="kicker">{E(L["sec"])} · {E(L["v"])}</p><h1><a href="{fn(L)}">{E(L["t"])}</a></h1><p class="bajada">{E(L["b"])}</p>{ftapa}</div>'
-tapa+='<p class="go"><a href="noticias.xhtml">Noticias de hoy →</a></p>'
+# Tapa limpia: solo la nota principal con su foto. Sin dólar ni riesgo país, y sin botón: a la lista se pasa dando vuelta la página
+tapa=mast+f'<div class="lead"><p class="kicker">{E(L["sec"])} · {E(L["v"])}</p><h1><a href="{fn(L)}">{E(L["t"])}</a></h1><p class="bajada">{E(L["b"])}</p>{ftapa}</div>'
 # Noticias de hoy: lista para leer de corrido (categoría, título, bajada). El id h<id> es el ancla de "← Noticias de hoy"
 # Con foto: dos columnas (texto a la izquierda, miniatura a la derecha). Sin foto: el texto ocupa todo el ancho
 txt=lambda n:f'<p class="kicker" id="h{n["id"]}">{E(n["sec"])}'+(f' · {E(n["v"])}</p><p class="nby">{E(n.get("autor",""))}</p>' if ANA(n) else '</p>')+f'<p class="nt"><a href="{fn(n)}">{E(n["t"])}</a></p><p class="nb">{E(n["b"])}</p>'
