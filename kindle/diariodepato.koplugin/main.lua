@@ -2,8 +2,13 @@
 Diario de Pato para KOReader.
 
 Al arrancar KOReader o al despertar la Kindle: si todavía no está la edición
-de hoy (hora Argentina), la baja de GitHub Pages y la abre en la tapa. Si ya
-está, no hace nada. Guarda las últimas 7 ediciones y borra las más viejas.
+de hoy (hora Argentina), la baja y la abre en la tapa. Si ya está, no hace
+nada. Guarda las últimas 7 ediciones y borra las más viejas.
+
+Primero prueba el libro con clave de p.thepulso.com, que trae el texto original
+de los autores. La clave va en clave.txt, al lado de este archivo (no está en el
+repo). Si a las 7:30 ese libro no está, o el server falla, baja el de GitHub
+Pages, que es público y trae los resúmenes.
 
 El Wi-Fi queda siempre prendido. Al despertar, la Kindle se reconecta sola en
 unos segundos: el agregado espera hasta un minuto y medio a que lo haga. Si el
@@ -28,10 +33,13 @@ local http = require("socket.http")
 local lfs = require("libs/libkoreader-lfs")
 local logger = require("logger")
 local ltn12 = require("ltn12")
+local mime = require("mime")
 local socket = require("socket")
 local socketutil = require("socketutil")
 
 local BASE = "https://patodorf1.github.io/dp-lectura-eec6/ediciones/"
+local PRIVADO = "https://p.thepulso.com/diario/"  -- libro con clave, con el texto original de los autores
+local SIN_PRIVADO = 7 * 60 + 30  -- si a las 7:30 el libro con clave no está, baja el público
 local GUARDAR = 7           -- ediciones que quedan en la Kindle
 local DESDE = 6 * 60 + 30   -- antes de las 6:30 (hora Argentina) no busca
 local REINTENTO = 15 * 60   -- después de un intento fallido, vuelve a probar solo a los 15 minutos
@@ -42,6 +50,20 @@ local PAUSA_RED = 10        -- ...cada 10 segundos
 
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
     or DataStorage:getFullDataDir() .. "/Diario de Pato"
+
+-- La clave del libro con clave: primera línea de clave.txt, en la carpeta de este agregado.
+-- Sin ese archivo, baja directo el libro público.
+local function leerClave()
+    local aca = debug.getinfo(1, "S").source:gsub("^@", ""):gsub("[^/]*$", "")
+    local f = io.open(aca .. "clave.txt", "r")
+    if not f then
+        return nil
+    end
+    local clave = (f:read("*l") or ""):match("^%s*(.-)%s*$")
+    f:close()
+    return clave ~= "" and clave or nil
+end
+local CLAVE = leerClave()
 
 -- El módulo se carga una sola vez, así que esto se comparte entre la
 -- biblioteca y el lector.
@@ -92,17 +114,21 @@ local function existe(ruta)
     return lfs.attributes(ruta, "mode") == "file"
 end
 
-local function bajar(fecha)
+local function pedir(url, fecha, clave)
     local destino = rutaDe(fecha)
     local parcial = destino .. ".part"
     local archivo = io.open(parcial, "wb")
     if not archivo then
         return false, "no se pudo escribir en " .. carpeta
     end
+    local headers = { ["Accept-Encoding"] = "identity" }
+    if clave then
+        headers["Authorization"] = "Basic " .. mime.b64("diario:" .. clave)
+    end
     socketutil:set_timeout(socketutil.FILE_BLOCK_TIMEOUT, socketutil.FILE_TOTAL_TIMEOUT)
     local code = socket.skip(1, http.request{
-        url = BASE .. fecha .. ".epub",
-        headers = { ["Accept-Encoding"] = "identity" },
+        url = url,
+        headers = headers,
         sink = ltn12.sink.file(archivo),
     })
     socketutil:reset_timeout()
@@ -112,6 +138,23 @@ local function bajar(fecha)
     end
     os.remove(parcial)
     return false, code
+end
+
+-- Primero el libro con clave. Si todavía no salió (404) se espera hasta las 7:30;
+-- después de esa hora, o si el server falla o rechaza la clave, va el público.
+local function bajar(fecha)
+    if CLAVE then
+        local ok, code = pedir(PRIVADO .. fecha .. ".epub", fecha, CLAVE)
+        if ok then
+            return true
+        end
+        local _, minutos = ahoraArgentina()
+        if code == 404 and minutos < SIN_PRIVADO then
+            return false, 404
+        end
+        logger.info("Diario de Pato: no se pudo bajar el libro con clave, va el público", fecha, code)
+    end
+    return pedir(BASE .. fecha .. ".epub", fecha)
 end
 
 local function documentoAbierto()
