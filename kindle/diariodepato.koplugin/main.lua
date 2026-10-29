@@ -19,12 +19,19 @@ Además, en la Kindle, KOReader apagaba el Wi-Fi cada vez que un intento de
 conexión fallaba, y fallaba seguido porque busca redes en el mismo segundo en
 que lo prende, antes de que la Kindle esté lista. Este agregado evita ese
 apagado: un intento fallido deja el Wi-Fi prendido y la Kindle se conecta sola.
+
+"Mi día" (menú de herramientas): muestra las tareas de hoy del Daily de Airtable
+para ordenarlas o pasarlas al siguiente día hábil. Habla con el buzón de n8n
+"Kindle - Mi día", con la clave de clave_dia.txt (tampoco está en el repo).
 ]]
 
+local ButtonDialog = require("ui/widget/buttondialog")
 local DataStorage = require("datastorage")
 local Device = require("device")
 local DocSettings = require("docsettings")
 local InfoMessage = require("ui/widget/infomessage")
+local JSON = require("json")
+local Menu = require("ui/widget/menu")
 local NetworkMgr = require("ui/network/manager")
 local ReadHistory = require("readhistory")
 local UIManager = require("ui/uimanager")
@@ -40,6 +47,7 @@ local socketutil = require("socketutil")
 local BASE = "https://patodorf1.github.io/dp-lectura-eec6/ediciones/"
 local PRIVADO = "https://p.thepulso.com/diario/"  -- libro con clave, con el texto original de los autores
 local SIN_PRIVADO = 7 * 60 + 30  -- si a las 7:30 el libro con clave no está, baja el público
+local BUZON = "https://n8n2.connectingpeople.io/webhook/kindle-mi-dia"  -- Mi día: lee y guarda el Daily
 local GUARDAR = 7           -- ediciones que quedan en la Kindle
 local DESDE = 6 * 60 + 30   -- antes de las 6:30 (hora Argentina) no busca
 local REINTENTO = 15 * 60   -- después de un intento fallido, vuelve a probar solo a los 15 minutos
@@ -51,11 +59,11 @@ local PAUSA_RED = 10        -- ...cada 10 segundos
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
     or DataStorage:getFullDataDir() .. "/Diario de Pato"
 
--- La clave del libro con clave: primera línea de clave.txt, en la carpeta de este agregado.
--- Sin ese archivo, baja directo el libro público.
-local function leerClave()
+-- Las claves van en archivos de una línea, en la carpeta de este agregado.
+-- Sin clave.txt baja directo el libro público; sin clave_dia.txt no anda Mi día.
+local function leerClave(nombre)
     local aca = debug.getinfo(1, "S").source:gsub("^@", ""):gsub("[^/]*$", "")
-    local f = io.open(aca .. "clave.txt", "r")
+    local f = io.open(aca .. nombre, "r")
     if not f then
         return nil
     end
@@ -63,7 +71,8 @@ local function leerClave()
     f:close()
     return clave ~= "" and clave or nil
 end
-local CLAVE = leerClave()
+local CLAVE = leerClave("clave.txt")
+local CLAVE_DIA = leerClave("clave_dia.txt")
 
 -- El módulo se carga una sola vez, así que esto se comparte entre la
 -- biblioteca y el lector.
@@ -251,6 +260,181 @@ local function revisar()
     end
 end
 
+-- Mi día ---------------------------------------------------------------------
+-- Airtable manda: después de cada cambio se muestra la lista que devuelve el
+-- buzón, no la que quedó armada en la Kindle.
+
+local function aviso(texto, segundos)
+    UIManager:show(InfoMessage:new{ text = texto, timeout = segundos })
+end
+
+-- Corre fn con internet. En la Kindle no usa el "conectar" de KOReader (ver
+-- arriba): prende el Wi-Fi si hace falta y espera a que la Kindle se conecte sola.
+local function conWifi(fn)
+    if NetworkMgr:isConnected() then
+        return fn()
+    end
+    if not (NetworkMgr:isWifiOn() or prenderWifi()) then
+        return NetworkMgr:runWhenOnline(fn)
+    end
+    aviso("Esperando el Wi-Fi…", 3)
+    local limite = os.time() + ESPERA_WIFI
+    local function esperar()
+        if NetworkMgr:isConnected() then
+            fn()
+        elseif os.time() < limite then
+            UIManager:scheduleIn(PASO, esperar)
+        else
+            aviso("No hay Wi-Fi. Probá de nuevo en un rato.")
+        end
+    end
+    UIManager:scheduleIn(PASO, esperar)
+end
+
+-- Manda un pedido al buzón con un cartel de espera. Devuelve la lista nueva, o nil.
+local function consultar(pedido, espera)
+    local cartel = InfoMessage:new{ text = espera }
+    UIManager:show(cartel)
+    UIManager:forceRePaint()
+    local cuerpo = JSON.encode(pedido)
+    local respuesta = {}
+    socketutil:set_timeout(socketutil.LARGE_BLOCK_TIMEOUT, socketutil.LARGE_TOTAL_TIMEOUT)
+    local code = socket.skip(1, http.request{
+        url = BUZON,
+        method = "POST",
+        headers = {
+            ["Content-Type"] = "application/json",
+            ["Content-Length"] = tostring(#cuerpo),
+            ["X-Clave"] = CLAVE_DIA,
+        },
+        source = ltn12.source.string(cuerpo),
+        sink = ltn12.sink.table(respuesta),
+    })
+    socketutil:reset_timeout()
+    UIManager:close(cartel)
+    if code ~= 200 then
+        logger.warn("Diario de Pato: el buzón de Mi día respondió", pedido.accion, code)
+        return nil
+    end
+    local ok, datos = pcall(JSON.decode, table.concat(respuesta))
+    if ok and type(datos) == "table" and type(datos.tareas) == "table" then
+        return datos
+    end
+    logger.warn("Diario de Pato: respuesta rara del buzón de Mi día", pedido.accion)
+end
+
+local pantalla  -- la lista abierta, si hay una
+local mostrar
+
+-- Lleva la tarea i al lugar destino y guarda el orden completo.
+local function mover(datos, i, destino)
+    local ids = {}
+    for _, t in ipairs(datos.tareas) do
+        table.insert(ids, t.id)
+    end
+    table.insert(ids, destino, table.remove(ids, i))
+    local nuevos = consultar({ accion = "orden", orden = ids }, "Guardando en Airtable…")
+    if nuevos then
+        mostrar(nuevos)
+    else
+        aviso("No se pudo guardar. Probá de nuevo.")
+    end
+end
+
+-- La pasa al siguiente día hábil: el buzón saltea fines de semana, feriados y vacaciones.
+local function aManana(datos, i)
+    local nuevos = consultar({ accion = "manana", id = datos.tareas[i].id }, "Moviéndola a mañana…")
+    if nuevos then
+        mostrar(nuevos)
+        if type(nuevos.para) == "string" then
+            aviso("Queda para el " .. nuevos.para, 3)
+        end
+    else
+        aviso("No se pudo mover. Probá de nuevo.")
+    end
+end
+
+local function opciones(datos, i)
+    local n = #datos.tareas
+    local dialogo
+    local function boton(texto, accion)
+        return { {
+            text = texto,
+            callback = function()
+                UIManager:close(dialogo)
+                if accion then
+                    conWifi(accion)
+                end
+            end,
+        } }
+    end
+    local botones = {}
+    if i > 1 then
+        table.insert(botones, boton("Ponerla primera", function() mover(datos, i, 1) end))
+        table.insert(botones, boton("Subir", function() mover(datos, i, i - 1) end))
+    end
+    if i < n then
+        table.insert(botones, boton("Bajar", function() mover(datos, i, i + 1) end))
+        table.insert(botones, boton("Mandarla al final", function() mover(datos, i, n) end))
+    end
+    table.insert(botones, boton("Moverla a mañana", function() aManana(datos, i) end))
+    table.insert(botones, boton("Cancelar"))
+    dialogo = ButtonDialog:new{
+        title = datos.tareas[i].t,
+        title_align = "center",
+        buttons = botones,
+    }
+    UIManager:show(dialogo)
+end
+
+mostrar = function(datos)
+    local filas = {}
+    for i, t in ipairs(datos.tareas) do
+        table.insert(filas, {
+            text = i .. ". " .. (t.c == true and "★ " or "") .. tostring(t.t),
+            callback = function() opciones(datos, i) end,
+        })
+    end
+    if #filas == 0 then
+        table.insert(filas, { text = "No quedan tareas para hoy", select_enabled = false })
+    end
+    local titulo = "Mi día · " .. tostring(datos.titulo or "")
+    if pantalla then
+        pantalla:switchItemTable(titulo, filas)
+        return
+    end
+    pantalla = Menu:new{
+        title = titulo,
+        item_table = filas,
+        is_borderless = true,
+        is_popout = false,
+        covers_fullscreen = true,
+        items_max_lines = 2,
+    }
+    -- (close_callback no sirve: Menu lo llama también después de cada toque)
+    function pantalla:onCloseWidget()
+        if pantalla == self then
+            pantalla = nil
+        end
+        return Menu.onCloseWidget(self)
+    end
+    UIManager:show(pantalla)
+end
+
+local function abrirMiDia()
+    if not CLAVE_DIA then
+        return aviso("Falta la clave de Mi día (clave_dia.txt).")
+    end
+    conWifi(function()
+        local datos = consultar({ accion = "lista" }, "Trayendo tus tareas…")
+        if datos then
+            mostrar(datos)
+        else
+            aviso("No se pudieron traer las tareas. Probá de nuevo.")
+        end
+    end)
+end
+
 local DiarioDePato = WidgetContainer:extend{
     name = "diariodepato",
 }
@@ -260,6 +444,17 @@ function DiarioDePato:init()
         arranco = true
         UIManager:scheduleIn(3, revisar)
     end
+    if self.ui and self.ui.menu then
+        self.ui.menu:registerToMainMenu(self)
+    end
+end
+
+function DiarioDePato:addToMainMenu(menu_items)
+    menu_items.diariodepato_midia = {
+        text = "Mi día",
+        sorting_hint = "tools",
+        callback = abrirMiDia,
+    }
 end
 
 function DiarioDePato:onResume()

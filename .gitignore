@@ -10,3 +10,5 @@ plantilla/
 
 # Clave del libro privado: vive solo en la Kindle y en el server
 kindle/diariodepato.koplugin/clave.txt
+# Clave del buzón "Mi día" en n8n: vive solo en la Kindle y en n8n
+kindle/diariodepato.koplugin/clave_dia.txt
