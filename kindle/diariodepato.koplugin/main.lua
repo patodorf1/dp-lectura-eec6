@@ -20,8 +20,9 @@ conexión fallaba, y fallaba seguido porque busca redes en el mismo segundo en
 que lo prende, antes de que la Kindle esté lista. Este agregado evita ese
 apagado: un intento fallido deja el Wi-Fi prendido y la Kindle se conecta sola.
 
-"Mi día" (menú de herramientas): muestra las tareas de hoy del Daily de Airtable
-para ordenarlas o pasarlas al siguiente día hábil. Habla con el buzón de n8n
+"Mi día" (primera en el menú de herramientas): muestra las tareas de hoy del
+Daily de Airtable para ordenarlas, marcarlas como resueltas o pasarlas al
+siguiente día hábil. Habla con el buzón de n8n
 "Kindle - Mi día", con la clave de clave_dia.txt (tampoco está en el repo).
 ]]
 
@@ -354,6 +355,15 @@ local function aManana(datos, i)
     end
 end
 
+local function resolver(datos, i)
+    local nuevos = consultar({ accion = "resuelta", id = datos.tareas[i].id }, "Marcándola como resuelta…")
+    if nuevos then
+        mostrar(nuevos)
+    else
+        aviso("No se pudo marcar. Probá de nuevo.")
+    end
+end
+
 local function opciones(datos, i)
     local n = #datos.tareas
     local dialogo
@@ -368,7 +378,7 @@ local function opciones(datos, i)
             end,
         } }
     end
-    local botones = {}
+    local botones = { boton("Marcarla como resuelta", function() resolver(datos, i) end) }
     if i > 1 then
         table.insert(botones, boton("Ponerla primera", function() mover(datos, i, 1) end))
         table.insert(botones, boton("Subir", function() mover(datos, i, i - 1) end))
@@ -435,6 +445,26 @@ local function abrirMiDia()
     end)
 end
 
+-- Pone "Mi día" primera en la pestaña de herramientas, en el lector y en la
+-- lista de libros. KOReader arma el menú recién al abrirlo, así que alcanza
+-- con anotarla en su orden al arrancar.
+local function ponerArriba()
+    for _, nombre in ipairs({ "ui/elements/reader_menu_order", "ui/elements/filemanager_menu_order" }) do
+        local ok, orden = pcall(require, nombre)
+        if ok and type(orden) == "table" and type(orden.tools) == "table" then
+            local esta = false
+            for _, id in ipairs(orden.tools) do
+                if id == "diariodepato_midia" then
+                    esta = true
+                end
+            end
+            if not esta then
+                table.insert(orden.tools, 1, "diariodepato_midia")
+            end
+        end
+    end
+end
+
 local DiarioDePato = WidgetContainer:extend{
     name = "diariodepato",
 }
@@ -445,6 +475,7 @@ function DiarioDePato:init()
         UIManager:scheduleIn(3, revisar)
     end
     if self.ui and self.ui.menu then
+        ponerArriba()
         self.ui.menu:registerToMainMenu(self)
     end
 end
