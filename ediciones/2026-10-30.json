@@ -1,0 +1,413 @@
+{
+  "fecha": "Viernes 30 de octubre de 2026",
+  "fuentes": "Infobae, Análisis Digital, El Destape, La Política Online, Perfil, iProUP, Artificial Analysis, Reuters, Hugging Face, Mistral AI, TechCrunch, Tech Funding News, RuntimeWire",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "El técnico mezcló a los jugadores en Ezeiza y no dio pistas para el domingo. Ponzio, en River, tiene dos incógnitas antes de su primer Superclásico.",
+      "body": [
+        "Arruabarrena sorprendió en el entrenamiento del jueves en Ezeiza. Mezcló a todos los jugadores y no armó un equipo titular. Así evitó dar pistas sobre la formación del domingo.",
+        "La gran duda está arriba. Merentiel es casi seguro. Falta saber quién lo acompaña. Enner Valencia quedó atrás. Solo completó los 90 minutos dos veces con la camiseta de Boca.",
+        "Hay tres candidatos para las dos plazas. Villa dio asistencias contra Vasco da Gama e Independiente, pero su rendimiento es irregular. Flores y Velasco jugaron el último partido, en Avellaneda. Velasco no atraviesa su mejor momento.",
+        "En el lateral izquierdo, Lautaro Blanco volvería a ser titular en lugar de Malcom Braida. Paredes seguiría en el mediocampo junto a Delgado y Ascacíbar. Ya se sabía que Scaloni liberó a Delgado y a Flores.",
+        "Boca tiene cuatro lesionados. Marchesin se rompió el ligamento cruzado de la rodilla derecha. Podría volver a principios de 2027. Belmonte, operado de los meniscos, ya entrena con el grupo. Aranda, operado de un peroné, podría estar antes de fin de año. Bareiro fue operado de la columna lumbar.",
+        "River, en cambio, tiene dos incógnitas que debe resolver Ponzio. Será su primer Superclásico como técnico. La primera está en el mediocampo. Aníbal Moreno salió a los 17 minutos ante Racing por una molestia lumbar. Los estudios descartaron una lesión, pero su presencia sigue en duda.",
+        "Si Moreno no llega, jugaría el juvenil Lucas Silva, que lo suplió ante Racing. Fausto Vera está descartado por un desgarro. Mauro Arambarri también es opción. La segunda incógnita es la delantera. Lucas Beltrán, titular ante Racing, sería el nueve. Driussi se perdió un entrenamiento previo a Racing por dolor lumbar. Después se entrenó normal y pelea un lugar. Acuña se recuperó y compite con Ortega por el lateral izquierdo. Martínez Quarta cumplió su suspensión y está disponible.",
+        "El árbitro será Nicolás Ramírez. Boca suma 57 puntos en la tabla anual y River, 52. Después del clásico, Boca cierra el Clausura contra Defensa y Justicia. El 14 de noviembre juega la semifinal de la Copa Argentina ante Banfield."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Arruabarrena esconde el once de Boca y River llega con dudas en el medio",
+      "u": "https://www.infobae.com/deportes/2026/10/30/la-sorpresiva-decision-de-arruabarrena-con-el-equipo-de-boca-juniors-a-menos-de-72-horas-para-el-superclasico-ante-river-plate/",
+      "v": "Superclásico"
+    },
+    {
+      "b": "El club avisó con menos de 24 horas que no participaba. La Liga Profesional lo criticó y se suma a la tensión con la AFA.",
+      "body": [
+        "La Liga Profesional suspendió la conferencia previa al Superclásico. River decidió no ir y se lo comunicó con menos de 24 horas de anticipación.",
+        "El evento necesitaba un futbolista de cada club. Al faltar uno, la Liga lo canceló. Según su comunicado, mantuvo contacto con ambas instituciones durante los últimos 15 días.",
+        "Primero se evaluó que fueran los entrenadores. River no definió nada. Entonces se pensó en los capitanes. Después River comunicó que no participaría, y la Liga dice que no dio más respuestas.",
+        "La Liga calificó la actitud de lamentable. Dijo que River no adhiere al lema de estas charlas: \"Rivales, no enemigos\". También recordó que las conferencias están reglamentadas y que todos los clubes las aprobaron. Buscan bajarle el tono a la rivalidad.",
+        "Según la Liga, son semanales y generan contenido internacional. Tienen compromisos comerciales que benefician a los clubes. No se conoce una explicación oficial de River por esta ausencia. Llega en medio de su pelea con la AFA de Claudio Tapia.",
+        "Esa pelea tiene otro capítulo reciente: el formato del torneo 2027. Su presidente, Stefano Di Carlo, dijo que el cambio aprobado es cosmético. Según él, no resuelve el problema de fondo. River fue el único club que votó en contra. Estudiantes, que no tenía voto, adoptó la misma postura.",
+        "Di Carlo negó que River haya propuesto diez descensos directos. Aclaró que solo planteó un torneo de 20 equipos. También negó que su delegación se retirara antes del cierre de una reunión. Anunció un documento conjunto con Estudiantes.",
+        "Sobre el arbitraje de Nicolás Ramírez en el Superclásico, evitó criticarlo. Apuntó a la conducción de la AFA y su transparencia. El partido se juega el domingo a las 15 en la Bombonera. Boca lidera la tabla anual con 57 puntos. River tiene 52."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae / Análisis Digital",
+      "t": "River no irá a la conferencia previa y la Liga la suspendió",
+      "u": "https://www.infobae.com/deportes/2026/10/29/la-afa-anuncio-que-se-suspendio-la-conferencia-previa-al-superclasico-entre-los-capitanes-de-boca-juniors-y-river-plate/",
+      "v": "Superclásico"
+    },
+    {
+      "b": "Vitão y Reinier se lesionaron en la derrota ante Cruzeiro. Faltan tres semanas para la final de Barranquilla.",
+      "body": [
+        "Atlético Mineiro perdió 1 a 0 como local ante Cruzeiro por el Brasileirão. Pero lo más preocupante fueron dos lesiones. Ambos jugadores podrían ser baja para la final contra Boca.",
+        "El primero fue Vitão, defensor de 18 años. Chocó de cabeza con su propio arquero, Gabriel Delfim, al intentar despejar un centro. Quedó tendido en el campo.",
+        "Lo atendieron los dos cuerpos médicos. Lo sacaron en camilla hasta una ambulancia. Según Globo Esporte, la preocupación inicial era la zona cervical. Salió a los 13 minutos del segundo tiempo y entró Léo Duarte.",
+        "El club no activó el protocolo de conmoción cerebral. Eso habría permitido un sexto cambio. El segundo es Reinier, volante ofensivo. Sintió una molestia muscular y pidió el cambio. Le costaba apoyar el pie. Lo reemplazó Caua Soares.",
+        "Según la nota, habría sufrido un desgarro, aunque no está confirmado. La recuperación habitual de esa lesión ronda las tres semanas. Eso lo dejaría justo para la final.",
+        "El gol de Cruzeiro lo hizo Kaio Jorge, tras un centro desde la derecha. Con ese resultado, Cruzeiro quedó tercero con 57 puntos. El Mineiro, que dirige Eduardo Domínguez, sigue en zona de clasificación a la Sudamericana 2027.",
+        "Todavía no hay plazos médicos oficiales para ninguno de los dos. La final se juega el sábado 21 de noviembre en el estadio Metropolitano de Barranquilla. El estadio tiene capacidad para más de 46.000 personas. Será la primera final a partido único de la Sudamericana en Colombia. Si hay empate a los 90 minutos, habrá prórroga y, de persistir, penales.",
+        "El campeón gana un lugar directo en la fase de grupos de la Libertadores 2027. También juega la Recopa Sudamericana de ese año."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Atlético Mineiro, rival de Boca en la final, perdió a dos jugadores por lesión",
+      "u": "https://www.infobae.com/deportes/2026/10/30/atento-boca-juniors-las-dos-bajas-por-lesion-que-sufrio-el-atletico-mineiro-rival-en-la-final-de-la-copa-sudamericana/",
+      "v": "Sudamericana"
+    },
+    {
+      "b": "Alpine dejó de mejorar el auto de este año. El argentino también reveló que Checo Pérez es su único amigo en la Fórmula 1.",
+      "body": [
+        "En la previa del Gran Premio de México, Colapinto probó otro deporte. Jugó al béisbol junto a su compañero Pierre Gasly. Los acompañaron representantes de los Diablos Rojos, un equipo local. Alpine difundió las imágenes en sus redes.",
+        "El piloto también habló del futuro del equipo. Alpine ya no desarrolla el auto de 2026. Quiere concentrar todos los recursos en 2027, cuando cambia el reglamento técnico.",
+        "\"Este año ya no lo vamos a seguir mejorando\", dijo Colapinto. Contó que el equipo trabaja en un par de ideas para dar un salto.",
+        "El contexto explica la decisión. Alpine acumula cuatro carreras seguidas sin puntos. Abandonó en cuatro de las últimas cinco.",
+        "Colapinto tiene 23 años y es de Pilar. Está 12º en el campeonato de pilotos con 27 puntos. Su mejor resultado del año fue un sexto puesto en Canadá.",
+        "En diálogo con ESPN, habló de sus relaciones en el paddock. \"Con el único que soy amigo es con Checo\", afirmó, en referencia a Sergio Pérez. Con el resto, la relación es cordial. En la pista, dice, es otra cosa.",
+        "De chico seguía al mexicano como si fuera su representante. No había argentinos en la parrilla. Pérez era el más cercano para los fanáticos de acá.",
+        "Además, mantiene charlas frecuentes con Fernando Alonso, Max Verstappen, Lewis Hamilton y Kimi Antonelli. Dice que también son accesibles con los pilotos novatos."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Colapinto jugó al béisbol en México y contó cómo ve a Alpine en 2027",
+      "u": "https://www.infobae.com/deportes/2026/10/30/franco-colapinto-se-animo-a-otro-deporte-revelo-el-plan-de-alpine-para-2027-y-quien-es-su-unico-amigo-en-la-formula-1/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "La reforma de 150 millones de dólares supera el 60% de avance. Un posible encuentro en Interlagos podría acelerar las negociaciones.",
+      "body": [
+        "Empezó el asfaltado del Autódromo Oscar y Juan Gálvez. Es parte de la mayor reforma de su historia. La obra supera el 60% de avance y tiene 150 operarios diarios.",
+        "La inversión estatal es de 150 millones de dólares. Los trabajos arrancaron en enero de 2026. El asfaltado debería terminar entre fines de diciembre y principios de enero. La obra completa, a fines de enero o principios de febrero de 2027.",
+        "Se usarán 43.000 toneladas de asfalto en tres capas. La empresa AUSA aplica escaneo 3D para replicar el diseño de Hermann Tilke. También habrá dos accesos nuevos: por la avenida 27 de Febrero y por Roca 5900.",
+        "Quedan en pie 14 tribunas. Once son de la recta principal, de 1951, y tres del Talud. La prueba más cercana es la de MotoGP. Vuelve del 9 al 11 de abril de 2027, tras 28 años. El trazado mide 4,3 kilómetros. Antes, el 10 y 11 de marzo, habrá un simulacro con el Argentino de Velocidad.",
+        "Para la Fórmula 1, el circuito proyectado mide 4.900 metros. Tendría 15 curvas y lugar para 120.000 espectadores. El éxito de MotoGP será la prueba de fuego para las homologaciones internacionales.",
+        "La fecha clave es el viernes próximo, en Interlagos, durante el Gran Premio de San Pablo. Según Infobae, podría haber una reunión con Stefano Domenicali, CEO de la Fórmula 1. Jorge Macri, jefe de Gobierno porteño, podría viajar a Brasil. También estaría Orly Terranova, promotora local del grupo OSD. Ya se reunió con Domenicali en Austin, con buena impresión.",
+        "El canon anual rondaría los 40 millones de dólares, con contrato por cinco años. Se espera que empresas privadas acompañen la inversión de la Ciudad.",
+        "Un regreso en condiciones normales sería recién en 2029. Los contratos con México, Singapur y Portugal vencen en 2028. Una plaza extra podría aparecer si sigue el conflicto en Medio Oriente. Según Infobae, el impulso viene del show de Colapinto en Palermo. Reunió a unas 600.000 personas."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Arrancó el asfaltado del Autódromo de Buenos Aires y la F1 define su fecha clave",
+      "u": "https://www.infobae.com/deportes/2026/10/29/la-importante-obra-en-el-autodromo-de-buenos-aires-para-avanzar-con-el-sueno-de-la-f1-la-fecha-clave-para-concretar-las-negociaciones/",
+      "v": "Autódromo"
+    },
+    {
+      "autor": "Alfredo Zaiat",
+      "b": "Zaiat sostiene que el problema no es la falta de condiciones sino el diseño del programa, que según él lleva a la contracción.",
+      "body": [
+        "Zaiat sostiene que Milei tiene condiciones muy favorables y aun así la economía está al borde de otra recesión.",
+        "Para Zaiat, el gobierno tiene un superávit comercial extraordinario y más dólares que otros gobiernos. También tiene apoyo del poder económico, de los grandes medios y del FMI y Estados Unidos. Suma una Corte que no se pronunció sobre el DNU 70. Y el riesgo país, dice, supera los 700 puntos.",
+        "Zaiat atribuye el problema al diseño del programa, no a detalles. Según él, debilita el mercado interno y recorta el gasto público con dureza. También desalienta la inversión, baja salarios y jubilaciones reales y premia la renta financiera. Además, usa deuda para sostener el tipo de cambio.",
+        "Para Zaiat, eso solo lleva a la contracción. Agrega que la apertura importadora profundiza la caída de la producción local. Parte de los dólares exportados, dice, termina en fuga de capitales. Por eso califica el ajuste fiscal de \"trampa recesiva\".",
+        "Zaiat cita datos de actividad. El EMAE de agosto cayó 1,7% interanual y subió apenas 0,1% desestacionalizado. En julio había caído cerca de 2,8% mensual. El rebote que esperaban muchos analistas no llegó.",
+        "C-P Consultora proyecta, según Zaiat, una suba de 1,5% en septiembre. Aun así, el tercer trimestre cerraría 2,3% abajo del segundo. Sería la segunda caída seguida. CIFRA, que cita, estima una baja de 4,1% entre diciembre de 2025 y julio de 2026.",
+        "Según el INDEC que cita Zaiat, el superávit comercial de enero a septiembre fue de US$21.198 millones. Las exportaciones subieron 21,6% y las importaciones bajaron 2,5%. Zaiat dice que sorprende caer en recesión con tantos dólares. Según CIFRA, la formación de activos externos superó los US$18.700 millones hasta agosto.",
+        "Sobre el poder político, Zaiat advierte que no toda crisis se explica por falta de apoyo. Pero ignorar las relaciones de poder sería ingenuo. Recuerda que Milei, sin mayoría propia, logró votos opositores, como en la reforma laboral de febrero de 2026.",
+        "Sobre el FMI, Zaiat afirma que aprobó en abril de 2025 un acuerdo por US$20.000 millones y siguió apoyando pese a las dificultades. Menciona también la asistencia de Estados Unidos, con un swap de US$20.000 millones.",
+        "Zaiat dice que Milei sostuvo el ajuste pese a marchas y paros. Según CIFRA, el empleo asalariado cayó en 370.343 puestos entre noviembre de 2023 y julio de 2026. El salario registrado real bajó 12,6%. La inversión cayó 12,4% entre el primer trimestre de 2025 y el segundo de 2026. Agrega que cayeron los ingresos y subió la morosidad.",
+        "Zaiat critica a los economistas ortodoxos que apoyan el plan y solo piden retoques. Sobre Arriazu, dice que criticó la política monetaria restrictiva, pero dentro del mismo marco. Para Zaiat, el problema no es solo el Banco Central, sino un programa de ajuste fiscal con caída del ingreso disponible.",
+        "Sobre Ades, Zaiat cuenta que lo invitaron a exponer ante el gabinete. Ades sostuvo que la prosperidad pasada era insostenible por subsidios y transferencias. Zaiat responde que esa etapa chocaba con la falta de dólares, hoy abundantes.",
+        "Zaiat marca una contradicción. Cuando suben los ingresos, se dice que se vive por encima de las posibilidades. Cuando bajan, se habla de corrección necesaria. Así, el ajuste se vuelve permanente.",
+        "Su cierre es irónico. Durante décadas, dice, se explicaron las crisis por la falta de dólares, disciplina fiscal, reforma laboral y apoyo político. Hoy, afirma, están todas esas condiciones y la economía igual se hunde. Ese es, para Zaiat, el verdadero milagro de Milei."
+      ],
+      "donde": "El Destape, 25 de octubre",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "El Destape",
+      "t": "Zaiat: Milei tiene todo a favor y aun así la economía va hacia la recesión",
+      "u": "https://www.eldestapeweb.com/economia/verdadero-milagro-economico-milei-tener-todo-favor-hundir-economia-202610250555",
+      "v": "Columna"
+    },
+    {
+      "b": "Edenor y Edesur suben hasta 3,18% y las gasíferas hasta 3,65%. Rigen desde el 1° de noviembre.",
+      "body": [
+        "Quedaron oficializadas las subas de luz y gas desde el 1° de noviembre. Ayer faltaban los cuadros tarifarios. Hoy salieron las resoluciones en el Boletín Oficial.",
+        "En electricidad, Edenor sube 3,18% y Edesur 2,94% respecto de octubre. Las resoluciones 886 y 887 fijan los valores para el área metropolitana. El porcentaje afecta la parte que cobra la distribuidora por operar la red.",
+        "El ajuste sigue los índices de septiembre. Los precios mayoristas subieron 3,16% y los de consumo 1,93%. Es la actualización mensual prevista en las revisiones tarifarias de cada empresa.",
+        "En gas, Metrogas aumenta 2,95% en la Ciudad y 3,65% en el Conurbano bonaerense. Naturgy BAN sube 2,96%. Lo establece la resolución 304 de la Secretaría de Energía.",
+        "Los nuevos valores alcanzan a hogares, comercios e industrias. También a clubes de barrio y entidades de bien público, que conservan sus bonificaciones.",
+        "Los hogares con subsidio pagan con descuento los primeros 200 kWh de noviembre. Lo que excede ese tope se cobra sin ayuda. Suman una bonificación extraordinaria de 25%.",
+        "En gas, los usuarios con subsidios focalizados tienen 74,25% de descuento en el precio del gas. Ese descuento no cubre transporte, distribución ni impuestos de la factura.",
+        "Por el fin de la Zona Fría, varias ciudades pierden el 50% de descuento. Los que reciben subsidios focalizados pueden acceder a un 20%.",
+        "Las fuentes no informan cuánto sube la factura final en pesos. Tampoco dan montos promedio por hogar.",
+        "Aparte, el Gobierno volvió otra vez a postergar la suba de impuestos a los combustibles. El decreto 1305/2026 la pasa al 1° de diciembre. No congela los precios en surtidor, que dependen también de petroleras, crudo y dólar."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Luz y gas: oficializaron los aumentos de noviembre",
+      "u": "https://www.infobae.com/economia/2026/10/30/aumentos-de-luz-y-gas-oficializaron-las-subas-de-las-tarifas-para-el-mes-de-noviembre/",
+      "v": "Tarifas"
+    },
+    {
+      "b": "Es uno de los mayores robos de criptomonedas de la historia. Binance pausó los retiros y promete cubrir las pérdidas.",
+      "body": [
+        "Binance sufrió un hackeo que la propia empresa estima en unos USD 6.300 millones. Si se confirma, supera a todos los robos cripto anteriores. La plataforma pausó los retiros mientras investiga.",
+        "Los depósitos funcionan con normalidad. Binance espera reanudar los retiros en unas 48 horas desde su comunicado. No dio una fecha exacta. Mientras tanto renueva el sistema de seguridad que los administra.",
+        "Según la empresa, el ataque entró por la computadora de un ingeniero de sistemas. Desde ahí, el atacante accedió a un servicio interno y ejecutó retiros sin autorización. Por ahora no hay señales de que se hayan filtrado las claves de las billeteras.",
+        "Binance localizó y congeló cerca de USD 3.000 millones con ayuda de socios del sector. Según el cofundador Changpeng Zhao, Tether bloqueó USD 971 millones y Circle USD 823 millones. Ambas emiten monedas digitales atadas al dólar. No hay novedades sobre el resto.",
+        "La empresa asegura que los fondos de los usuarios están seguros. Cubrirá las pérdidas con un fondo de reserva propio y recursos de la compañía. No aclaró qué parte de lo robado era de clientes. La cofundadora Yi He también prometió cubrir todo.",
+        "El bitcoin cayó 3,92% y llegó a unos USD 77.600. Fue su precio más bajo desde septiembre. El Nasdaq 100 cerró cerca de 1,4% abajo.",
+        "Para comparar: a Bybit le robaron unos USD 1.500 millones en febrero de 2025. En 2019, a Binance le sacaron 7.000 bitcoin. Un analista de Bloomberg Intelligence, James Seyffart, dijo que el episodio da muy mala imagen.",
+        "Binance trabaja con fuerzas de seguridad y firmas de rastreo de blockchain. Prometió un informe más detallado sobre la ruta del ataque."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Hackeo a Binance: unos USD 6.300 millones y retiros frenados",
+      "u": "https://www.infobae.com/economia/2026/10/30/que-se-sabe-sobre-el-hackeo-a-binance-y-cuando-se-habilitaria-el-retiro-de-fondos/",
+      "v": "Cripto"
+    },
+    {
+      "b": "El nuevo modelo de Google sacó 59 puntos y superó a sus rivales en la tabla de Artificial Analysis. Por ahora solo lo usa un grupo reducido.",
+      "body": [
+        "Google lanzó Gemini 4 Carbon y quedó primero en un ranking independiente de inteligencia. Lo elabora Artificial Analysis, una firma que compara modelos de IA. Carbon sumó 59 puntos y encabezó la tabla.",
+        "Lidera 4 de las 9 pruebas que forman ese ranking. En agentes de programación quedó segundo. Sacó 59 puntos y Claude Opus 5.5, de Anthropic, 62.",
+        "Todavía no es para todo el mundo. Google lo habilitó solo para un grupo chico de especialistas en ciberseguridad. Es el programa Fairwind. La empresa sigue probando las salvaguardas del modelo. No dio fecha para abrirlo al público.",
+        "El precio es otro punto a favor. Resolver una tarea del ranking cuesta 7,76 dólares, un 23% menos que con Opus 5.5. Eso sale de la tarifa estándar. Google aplica además un descuento de lanzamiento del 50%, sin fecha de fin.",
+        "Carbon llegó dos semanas después de Gemini 4 Argon, otro modelo de la misma familia. Según Google, genera código seguro con más del doble de éxito que Argon. Es una prueba interna. También pesa más en ciberseguridad: encuentra y corrige fallas de programas.",
+        "Con el mismo precio de lista que Argon, suma 9 puntos más en el ranking. Gasta además 29% menos texto de salida que Opus 5.5 para resolver cada tarea. Acepta texto, imágenes, video y voz. Responde solo con texto. Puede leer documentos muy largos de una vez.",
+        "En una prueba de conocimiento general sacó 54 puntos, contra 48 de Opus 5.5. Acierta el 58% de las preguntas, 10 puntos más que Argon. En tareas de oficina, como armar presentaciones, quedó detrás de Grok 4.7. También de Kimi K3.1 Pro.",
+        "El ranking también marca un punto flojo. El modelo inventa respuestas en el 11% de los casos, contra 4% de Argon.",
+        "Por qué importa: Es el primer lugar de un ranking independiente, no un dato de la propia Google. Pone a la empresa por delante de Anthropic y OpenAI en inteligencia general. Pero el modelo no está abierto al público. Nadie puede comprobarlo por su cuenta todavía. En programación, Anthropic sigue adelante. Para las empresas, el costo por tarea más bajo puede pesar tanto como el puntaje."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "Artificial Analysis / Khaleej Times (Reuters)",
+      "t": "Gemini 4 Carbon, de Google, queda primero en un ranking independiente de inteligencia",
+      "u": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+      "v": "Modelos"
+    },
+    {
+      "b": "La cumbre del RIGI reunió al Gobierno con mandatarios provinciales. En paralelo, el oficialismo postergó el dictamen del Presupuesto 2027.",
+      "body": [
+        "Karina Milei estuvo en Rosario en una ronda de negocios del RIGI. Participaron 12 gobernadores, 1.800 empresas proveedoras y representantes de 43 proyectos.",
+        "Pullaro fue el anfitrión. Estuvieron también Frigerio, Orrego, Jalil, Sadir, Cornejo, Vidal, Llaryora, Valdés, Figueroa, Weretilneck y Jaldo. Por el Gobierno fueron Martín Menem, Diego Santilli y Luis Caputo.",
+        "La prioridad oficial es una reforma política que suspenda las PASO nacionales de 2027. Santilli lidera las conversaciones. Casi diez gobernadores lo acompañan. Esperan un gesto político de La Libertad Avanza.",
+        "Una fuente oficial dijo que no hubo una reunión política formal sobre el tema. El encuentro reservado de Karina Milei con varios gobernadores todavía no se había dado.",
+        "Pullaro apoya suspender las PASO nacionales. Santa Fe las mantendría en sus elecciones provinciales. El socialismo, dentro de Unidos, rechaza cambiar las reglas nacionales. Voceros de seis gobernadores dijeron que Rosario no era el lugar para avanzar. Pidieron gestos más contundentes.",
+        "En el oficialismo hay matices. Santiago y Luis Caputo y Patricia Bullrich quieren acuerdos rápidos. Los Menem piden antes condiciones que fortalezcan al sello oficialista en cada provincia. Karina Milei y Santilli median.",
+        "La definición debería llegar antes del 31 de diciembre. Si las PASO siguen, el Gobierno tendría que competir en todas las provincias. Los gobernadores podrían adelantar sus elecciones locales.",
+        "En paralelo, el oficialismo postergó el dictamen del Presupuesto 2027 en Diputados. La reunión de comisión del miércoles se suspendió. La firma pasó al 11 o al 17 de noviembre. Perfil dice que el Gobierno piensa en extraordinarias desde el 1° de diciembre.",
+        "La causa es la resistencia de los aliados. Menem se reunió con la UCR, el MID y fuerzas provinciales. Casa Rosada no respondió. El PRO pide bajar el IVA a la producción avícola. También reclama saldar la deuda de coparticipación con la Ciudad.",
+        "Muchos aliados reclaman fondos para rutas nacionales. Hay desacuerdo por universidades. El proyecto prevé $7,3 billones. El Consejo Interuniversitario pide $11 billones.",
+        "La Libertad Avanza tiene 95 diputados y necesita 129 para quórum. Con aliados rondaría los 138. Unión por la Patria duda de los tiempos. La oposición pide cambios en el artículo 17, que toca la movilidad de la AUH."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "Karina Milei y 12 gobernadores en Rosario, con las PASO en negociación",
+      "u": "https://www.infobae.com/politica/2026/10/29/cumbre-clave-en-rosario-karina-milei-estrecha-lazos-con-12-gobernadores-y-avanza-con-la-negociacion-por-las-paso/",
+      "v": "Gobernadores"
+    },
+    {
+      "b": "La empresa francesa publicó el modelo completo de 1 billón de parámetros. Se puede usar, modificar y vender con una condición.",
+      "body": [
+        "Mistral AI, la empresa francesa de inteligencia artificial, abrió Mistral Large 4. Es su modelo más grande y capaz. Cualquiera puede bajarlo desde Hugging Face, el sitio donde se comparten modelos.",
+        "Tiene 1 billón de parámetros, aunque solo activa unos 52.000 millones para armar cada respuesta. Eso lo hace más liviano de lo que sugiere el número. Mistral dice que lo entrenó desde cero en centros de datos de Europa.",
+        "La licencia es una versión modificada de la MIT. Permite usarlo, ajustarlo y venderlo sin pagar. Hay una excepción: quien quiera ofrecerlo como servicio a terceros necesita un acuerdo comercial con Mistral.",
+        "La página del proyecto suma unos 1.010 likes. Tuvo 278 descargas en el último mes. Son cifras modestas, y se entiende. Correrlo en casa exige un servidor con 8 placas gráficas de alta gama. Por ahora, ningún proveedor de Hugging Face lo ofrece listo para usar.",
+        "También se puede usar sin descargar nada. Está en la plataforma de Mistral y en OpenRouter. También en Microsoft Foundry, la primera nube en sumarlo.",
+        "El modelo entiende texto e imágenes, y maneja más de 160 idiomas. Tiene tres niveles de razonamiento, de rápido y barato a profundo. Responde en formato ordenado para conectarse con otros programas.",
+        "Desde una versión de prueba publicada este mes, Mistral siguió entrenándolo. Mejoró en programación y en ciberseguridad defensiva. Dice que rechaza el 96,6% de los pedidos maliciosos de ese tipo. Una variante para pruebas de intrusión queda solo para socios verificados. Fortinet, empresa de ciberseguridad, valoró que los modelos abiertos se pueden inspeccionar y adaptar.",
+        "Mistral lo presenta como el mejor modelo abierto para programar. Pero en el ranking de Artificial Analysis varios modelos abiertos chinos puntúan más alto. Mistral prometió un informe técnico completo para más adelante.",
+        "Por qué importa: Es un modelo de primer nivel que se puede correr en servidores propios. Para quien arma automatizaciones, eso permite trabajar sin mandar datos a un tercero. Sirve para agentes que programan, leen documentos o analizan imágenes. Frente a otros abiertos, es de origen europeo y tiene licencia comercial amplia. La contra es el hardware que pide y el límite para ofrecerlo como servicio."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "Hugging Face / Mistral AI",
+      "t": "Mistral libera Mistral Large 4, su modelo más grande, para que cualquiera lo descargue",
+      "u": "https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B",
+      "v": "Open source"
+    },
+    {
+      "b": "La empresa lanzó una plataforma para que cualquier compañía conecte su app con las respuestas de IA. Por ahora es solo para desarrolladores de Estados Unidos.",
+      "body": [
+        "Google lanzó la Connected Apps Platform. Es un sistema para conectar apps con Gemini y con el Buscador. Pueden usarlo empresas y desarrolladores. Quien quiera llegar a los usuarios por ahí ahora puede presentar su app.",
+        "Las conexiones ya existían desde principios de año. Permiten que el usuario le pida a la IA acciones concretas. Por ejemplo, diseñar un volante en Canva. O armar una lista de reproducción en YouTube Music.",
+        "Para conectarse, los desarrolladores usan un servidor en la nube o una conexión para Android. El trámite se hace en la Google Connected Console, un panel de la empresa.",
+        "Cada desarrollador registra su app, la prueba y la envía a Google. Elige si aparece en el Buscador, en la app de Gemini o en ambos. Después puede seguir el tráfico, los errores y la velocidad de respuesta.",
+        "También conserva el control de su marca. Google verifica los logos y las cuentas.",
+        "La apuesta de Google es que el catálogo sea amplio. Si faltan apps, la IA no puede resolver los pedidos del usuario.",
+        "Gemini ya tiene más de 50 apps conectadas. Hay socios como Adobe, Experian, Localiza y Peloton. También están los servicios propios de Google, como Workspace, Fotos y Google Home.",
+        "En el Buscador hay menos por ahora. Figuran Instacart, Canva, YouTube Music y Yahoo Fantasy Football. Las apps de Gemini llegarán al Buscador en las próximas semanas. La app de meditación Calm se suma pronto a ambos.",
+        "La plataforma está en vista previa pública. Solo pueden usarla desarrolladores de Estados Unidos, con inscripción en lista de espera. Google no dijo cuándo se abrirá a más gente.",
+        "ChatGPT y Muse, de Meta, tienen propuestas parecidas. TechCrunch compara esta plataforma con el posicionamiento en buscadores: podría ser una de las primeras formas de aparecer en la web de los agentes.",
+        "Por qué importa: La idea es que el usuario no abra una app por vez. Le pide todo a la IA. Para las empresas, quedar dentro de ese catálogo puede decidir si las encuentran. Google ordena así el acceso, con controles de marca y métricas. Todavía es una vista previa limitada a Estados Unidos."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Google abre Gemini y el Buscador a más apps mientras los agentes de IA cambian la web",
+      "u": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+      "v": "Google"
+    },
+    {
+      "b": "Las herramientas muestran qué produjo cada equipo, cuánto costó y dónde se trabó. También permiten fijar presupuestos compartidos.",
+      "body": [
+        "Anthropic presentó una serie de reportes para sus clientes empresariales. Buscan mostrar qué reciben a cambio de lo que gastan en Claude. El anuncio fue el miércoles 28 de octubre.",
+        "Un gerente elige un período y revisa el trabajo de un equipo. Ve qué produjo, cuánto costó y en qué puntos se trabaron los procesos. Los reportes suman recomendaciones para mejorar.",
+        "Combinan datos internos de uso con encuestas a los empleados. Anthropic aclara que, por defecto, no usa esa información para entrenar sus modelos.",
+        "La empresa también creó presupuestos compartidos. Cada grupo de trabajo puede controlar cuánto consume de IA.",
+        "TechCrunch lo ubica en un problema de fondo: los grandes clientes necesitan demostrar que la inversión rinde. El artículo no informa precios, planes ni fecha de llegada.",
+        "La consultora Jellyfish aporta números sobre 276.000 clientes. Las herramientas de Anthropic, como Claude Code, explican casi un tercio de los cambios. Son los propuestos para revisión. El gasto en ellas creció diez veces desde enero. Aun así, equivale a cerca del 2% del costo total de ingeniería.",
+        "Según el artículo, los reportes son una versión liviana de un servicio. Otras empresas de IA mandan ingenieros a trabajar con sus clientes. Las imágenes del anuncio muestran un resumen de cada proceso. También los problemas más repetidos y los resultados de las tareas.",
+        "Un directivo de Jellyfish advirtió que muchos directores financieros no habían previsto ese salto. También dijo que cambiar de proveedor será cada vez más costoso. Las empresas ya invirtieron esfuerzo en sus procesos.",
+        "El lanzamiento llega con la salida a bolsa de Anthropic en el horizonte. La empresa ya presentó los papeles esta semana. Según la nota, informó a inversores un beneficio operativo en el segundo trimestre. El gasto de sus mismos clientes se multiplicó por nueve en un año.",
+        "Por qué importa: El gasto en IA ya es una partida grande. Los gerentes piden pruebas de que rinde. Estos reportes apuntan a responder eso con datos del propio uso. Además ayudan a retener clientes, algo clave antes de salir a bolsa. Falta saber cuánto cuestan y desde cuándo estarán disponibles."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Anthropic lanza reportes para que las empresas vean qué compran con su gasto en IA",
+      "u": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+      "v": "Empresas"
+    },
+    {
+      "b": "La cúpula sindical reclama sumarse a la discusión rumbo a 2027. Su relación con el Gobierno aparece como un obstáculo.",
+      "body": [
+        "La CGT pidió ser incluida en la mesa del acuerdo peronista. Esa mesa busca un entendimiento electoral para 2027. Según La Política Online, a la cúpula le molestó no haber sido invitada.",
+        "La mesa se reunió dos veces. La primera fue en agosto, en el Hotel Emperador. La segunda, la semana pasada, en la casa de La Pampa.",
+        "Participan Axel Kicillof, Máximo Kirchner, Sergio Massa y gobernadores. También los jefes de bloque José Mayans y Germán Martínez. En la última estuvo Juan Manuel Olmos, del peronismo federal.",
+        "El reclamo salió de una reunión de la cúpula cegetista el martes. Estuvieron los tres triunviros. También Gerardo Martínez (UOCRA), Andrés Rodríguez (UPCN), Héctor Daer y José Luis Lingeri.",
+        "Las bases y los movimientos sociales también piden participar. Quieren que Mayans y Martínez lleven a los trabajadores a la discusión del candidato presidencial.",
+        "Según la nota, en la mesa creen que la CGT busca excusas para no sumarse. Recuerdan que la central había apoyado a Kicillof.",
+        "La nota cuestiona los vínculos de la cúpula con el Gobierno. Dice que la UOCRA perdió la mitad de sus empleos con Milei. Agrega que Gerardo Martínez se reúne una vez por semana con Karina Milei. El texto no recoge la respuesta de la CGT ni la de Mayans.",
+        "Por otro lado, el PJ Federal empezó a respaldar candidaturas provinciales, según Infobae. Lo lideran Victoria Tolosa Paz, Juan Manuel Olmos, Federico Achával y Guillermo Michel. Se presentó el 1 de mayo.",
+        "Impulsa a tres intendentes y dirigentes patagónicos. Pablo Grasso, intendente de Río Gallegos, aspira a gobernar Santa Cruz. Hoy gobierna Claudio Vidal.",
+        "Juan Pablo Luque, diputado nacional, quiere unificar al peronismo en Chubut. Busca frenar la reelección de Ignacio Torres. Martín Pérez, intendente de Río Grande, juega en Tierra del Fuego. Ushuaia, con Walter Vuoto, lo invitó a una interna abierta.",
+        "El armado busca evitar que las divisiones locales debiliten al peronismo antes de la presidencial.",
+        "No hay fecha para una nueva reunión de la mesa. Tampoco para sumar a la CGT."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "La Política Online / Infobae",
+      "t": "La CGT pide un lugar en la mesa del acuerdo peronista",
+      "u": "https://www.lapoliticaonline.com/politica/la-cgt-le-pide-a-mayans-que-los-sumen-a-la-mesa-del-acuerdo-peronista/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "El asistente automático tiene 92% de certeza en trámites cotidianos. Fraudes y montos altos pasan a analistas.",
+      "body": [
+        "Ualá contó hasta dónde llega Uali, su asistente de inteligencia artificial. Para trámites y consultas cotidianas, las respuestas automáticas tienen 92% de certeza. iProUP aclara que no se explica cómo se mide ese número.",
+        "Según el CTO Fernando Scasserra, el 90% de las consultas sale en menos de 10 segundos.",
+        "La IA resuelve consultas de saldos, estado de transferencias, comprobantes y guías operativas.",
+        "Otros casos pasan a una persona. Las compras con tarjeta que el cliente no reconoce van a analistas de prevención. Lo mismo ocurre con sospechas de fraude, suplantación de identidad y bloqueos preventivos de cuentas.",
+        "También intervienen personas en transacciones de montos significativos. Requieren verificaciones adicionales antes de liquidarse.",
+        "Ante un caso sensible o urgente, la conversación se deriva enseguida a un especialista. Scasserra dijo que el límite depende de la complejidad, la seguridad y la regulación.",
+        "Ualá opera con licencia bancaria y atiende de forma 100% remota.",
+        "Lo próximo son comandos por chat o voz para transferencias, préstamos o inversiones. Pedirían autenticación biométrica y consentimiento expreso del cliente."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Ualá cuenta qué resuelve su IA y qué deriva a una persona",
+      "u": "https://www.iproup.com/innovacion/72623-como-funciona-la-ia-de-uala-y-que-reclamos-resuelven-empleados",
+      "v": "Ualá"
+    },
+    {
+      "b": "Un colaborador de Lula ve ventaja inmediata y un problema de fondo. Flávio se reunió con su hermano Eduardo en Estados Unidos.",
+      "body": [
+        "En el gabinete de Lula debaten si la salida de Flávio Bolsonaro lo favorece. Flávio se fue de Brasil tras perder el balotaje. Desde Estados Unidos dice que liderará la oposición.",
+        "Un colaborador anónimo dijo a La Política Online que en el corto plazo sí. Lula enfrentó la cárcel y los Bolsonaro no, comparó. Eso debilita el relato de persecución política del bolsonarismo.",
+        "El mismo colaborador ve un problema a largo plazo. Con Flávio afuera, Brasil sigue condicionado por los Bolsonaro y por la polarización. Para Lula, lo mejor sería la pacificación.",
+        "Eduardo Bolsonaro, exdiputado, confirmó que se reunió con Flávio en Estados Unidos. Publicó una foto de ambos con una bandera brasileña. Escribió que, aun desde afuera, no abandonarán Brasil.",
+        "Donald Trump evitó respaldar que Flávio se presente como líder de Brasil. Dijo que no se va a involucrar. Sí defendió haberlo admitido: dijo que lo trataron muy injustamente. La Casa Blanca no reconoce un gobierno paralelo.",
+        "Flávio enfrenta en Brasil una investigación por presunto lavado de activos. Su círculo dice que no fue informado de su viaje. Esperaba que se quedara en Brasilia para liderar la oposición.",
+        "En la derecha hay malestar. Según LPO, sectores no quieren un jefe en el exilio. Tarcísio de Freitas, gobernador de São Paulo, publicó un video. Dice que la elección terminó y hay que pacificar.",
+        "Lo acompañan Valdemar Costa Neto, presidente del Partido Liberal, y Michelle Bolsonaro, enfrentada con Flávio.",
+        "Fuentes del PT dijeron que Lula evalúa convocar a gobernadores que apoyaron a Bolsonaro. Querría dialogar con el bolsonarismo sin la familia. Sectores del gabinete le sugieren indultar a Jair Bolsonaro.",
+        "Davi Alcolumbre, presidente del Senado, impulsa una amnistía para bolsonaristas. Busca su reelección en febrero. No avanzará sin el aval de Lula. Los radicales dicen que no alcanza, pero todavía no tienen los votos."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "La Política Online / Perfil",
+      "t": "En el entorno de Lula creen que la salida de Flávio lo favorece, pero complica la pacificación",
+      "u": "https://www.lapoliticaonline.com/internacionales/en-el-entorno-de-lula-creen-que-la-fuga-de-bolsonaro-lo-beneficia-pero-complica-la-reconciliacion-de-brasil-1127/",
+      "v": "Brasil"
+    },
+    {
+      "b": "Levantó 55 millones de dólares, liderados por el fondo IVP. Nació como plataforma de mini apps y hoy es un mensajero con agente de IA.",
+      "body": [
+        "Wabi levantó 55 millones de dólares en una ronda Serie A. Quedó valuada en 1.250 millones. La fundadora, Eugenia Kuyda, lo anunció el 29 de octubre. Kuyda es también la creadora de Replika, una app de compañía con IA.",
+        "El fondo IVP lideró la ronda. Sumaron dinero Andreessen Horowitz, Forerunner y el fondo de Amazon para Alexa. También pusieron inversores particulares como Tobi Lütke, de Shopify, y Marc Benioff, de Salesforce. Con esta ronda, Wabi acumula unos 75 millones de dólares.",
+        "Wabi nació en 2025 como plataforma para crear mini apps. Bastaba con pedirlas por escrito. Kuyda la llamaba el YouTube de las apps. En septiembre pasó a ser un mensajero con un agente personal.",
+        "Esa versión se lanzó al público el 19 de octubre. Salió para iPhone, Android y Mac. La de Windows llegará más adelante. La ronda se cerró poco más de un mes después del cambio.",
+        "El agente arma hilos separados por objetivo, y se pueden compartir en chats grupales. Una pareja puede armar una lista de restaurantes. Una familia, un menú semanal que se convierta en lista de compras.",
+        "Kuyda dejó la dirección de Replika en 2025 para fundar Wabi. Esa app llegó a decenas de millones de usuarios. De Wabi no hay cifras de usuarios.",
+        "La empresa no informó cuántos usuarios tiene. Dijo que usará el dinero para desarrollar el producto y crecer.",
+        "Hay dudas. La app es gratuita y no muestra un modelo de negocio claro. Además, compartir correo, calendario o datos bancarios en chats grupales plantea preguntas de confianza.",
+        "La competencia es fuerte. Instinct, otra startup de asistentes, levantó 1.000 millones de dólares. Su valuación es de 10.000 millones. Tolan levantó 30 millones el 19 de octubre y tiene más de 250.000 usuarios activos. Muse, de Meta, se lanzó el 8 de septiembre. Sumó 2,8 millones de descargas en Estados Unidos y Canadá en 12 días."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Tech Funding News / RuntimeWire",
+      "t": "Wabi, la startup de la creadora de Replika, vale USD 1.250 millones tras su última ronda",
+      "u": "https://techfundingnews.com/wabi-55m-funding-1-25b-valuation-ai-messenger/",
+      "v": "Startups"
+    },
+    {
+      "b": "Paula Arregui y Jorge Macri coincidieron en el foro. El sector pidió menos carga impositiva y reglas claras.",
+      "body": [
+        "En el Argentina Fintech Forum, el sector dijo que falta acceso al crédito. No es la mora. Lo dijo Paula Arregui. Preside la Cámara Argentina Fintech y es vicepresidenta senior de Mercado Pago.",
+        "Arregui reconoció que los atrasos hay que atenderlos. Pidió trabajar con la industria para bajar los índices. Pero pidió no confundir el eje del debate.",
+        "Como dato, la mora de las familias fue de 12,8% en agosto, según el BCRA.",
+        "Según Arregui, el sector llega a 11 millones de argentinos. Reúne más de 1.100 empresas.",
+        "Señaló dos frenos. Uno es una carga impositiva excesiva, que desalienta a comercios y emprendedores. El otro es una normativa que no acompaña a la de otros países.",
+        "El Mapa Fintech 2026, de la Cámara y Taquion, apunta en esa línea. La presión tributaria es el principal desafío para 59% de las empresas. La modernización regulatoria sigue con 52%.",
+        "Arregui pidió además más competencia, infraestructura y reglas claras para todos los actores.",
+        "Jorge Macri, jefe de Gobierno porteño, coincidió con el diagnóstico. Dijo que el problema es el acceso al financiamiento. Sostuvo que Argentina usa poco el crédito y que apalancarse es sano en cualquier economía.",
+        "Macri pidió instrumentos más claros y no generar temor al financiamiento. Dijo que negar la evolución tecnológica es lo peor. Quiere que la Ciudad sea un centro de innovación y negocios financieros de América Latina."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Fintech Forum: el problema es el acceso al crédito, no la mora",
+      "u": "https://www.iproup.com/argentina-fintech-forum/72733-fintech-mora-acceso-al-credito-arregui-macri-fintech-forum-octubre-2026",
+      "v": "Fintech"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana0",
+    "eco0",
+    "eco1",
+    "tec0",
+    "pol0",
+    "tec1",
+    "tec3",
+    "tec2",
+    "pol1",
+    "sta0",
+    "lat0",
+    "tec4",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "fon0",
+    "eco0",
+    "tec0",
+    "pol0"
+  ]
+}
