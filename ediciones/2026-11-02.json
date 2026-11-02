@@ -1,0 +1,481 @@
+{
+  "fecha": "Lunes 2 de noviembre de 2026",
+  "fuentes": "La Voz de Rosario, Noticias Argentinas, Infobae, La Gaceta, Automundo, TV Azteca, El Diario de la República, El Destape, El Dipló, bilinkis.com, The Decoder, dev.to, GitHub, La Política Online, Perfil, iProUP",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "Di Lollo marcó de cabeza en la Bombonera. River terminó con nueve por las expulsiones de Martínez Quarta y Montiel.",
+      "body": [
+        "Boca ganó el Superclásico 1-0 el domingo 1 de noviembre. Fue en la Bombonera, por la fecha 15 del Clausura. Dirigió Nicolás Ramírez.",
+        "El partido se torció temprano. Alrededor del minuto 10, Lucas Martínez Quarta sujetó a Miguel Merentiel cuando este quedaba solo frente al arco. Ramírez no lo sancionó de entrada. Tras revisar la jugada en el VAR, cambió la decisión y expulsó al defensor de River.",
+        "A los 27 minutos llegó el único gol. Sebastián Villa ejecutó un córner y Lautaro Di Lollo cabeceó al arco. Con superioridad numérica, Boca manejó los tiempos y generó otras situaciones para ampliar.",
+        "En el segundo tiempo, Leonardo Ponzio reformó el equipo y River tuvo un arranque prometedor. Perdió fuerza rápido ante la defensa local.",
+        "River reclamó dos jugadas. Una fue la segunda amarilla que no vio Leandro Paredes. La otra, un posible penal sobre Nicolás Otamendi que no se revisó.",
+        "A los 79 minutos, Gonzalo Montiel vio la roja directa por una fuerte entrada sobre Lautaro Blanco. Se fue haciendo gestos hacia la tribuna local. River terminó con nueve contra once.",
+        "Con el resultado, Boca quedó a un paso de ganar la tabla anual. Depende de sí mismo: se consagra si vence a Defensa y Justicia en la última fecha. Antes del clásico estaba clasificado a octavos del Clausura, con 27 puntos en el Grupo A.",
+        "River quedó cuarto en la Zona B del Clausura, con 23 puntos. Todavía no tiene asegurado su lugar en la eliminación directa. En la tabla anual es octavo, con 52 puntos, dentro de la zona de copas internacionales. Cierra el torneo de visitante ante Aldosivi."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "La Voz de Rosario / Noticias Argentinas",
+      "t": "Boca le ganó 1-0 a River con un hombre más desde el minuto 10 y quedó a un paso de la tabla anual",
+      "u": "https://lavozderosario.com/boca-le-gano-a-river-en-el-superclasico-y-quedo-a-un-paso-de-coronarse-campeon-de-la-tabla-anual/",
+      "v": "Superclásico"
+    },
+    {
+      "b": "El DT cruzó a Ramírez en pleno partido y pidió criterios parejos entre árbitro y VAR. Di Carlo habló de errores que siempre favorecen a los mismos.",
+      "body": [
+        "River se fue del Superclásico con la bronca puesta en el árbitro Nicolás Ramírez. Las críticas arrancaron en la cancha y siguieron en la conferencia de prensa.",
+        "Leonardo Ponzio se encaró con Ramírez durante el partido. Según Infobae, le reclamó con ironía: \"¿Ya está? ¿Cumpliste?\". La Nación y otros medios recogieron el mismo cruce.",
+        "Después, en la sala de prensa, dijo que la expulsión de Martínez Quarta, desde el minuto 9 o 10, condicionó todo. Con diez, afirmó, River no pudo desarrollar su plan.",
+        "Ponzio también cuestionó el uso del VAR. Sostuvo que interviene en muchos casos, \"siempre en contra nuestro\", y en otros no. Pidió que el árbitro y el VAR se pongan de acuerdo.",
+        "Sobre la roja a Montiel, reclamó que no pasara por el VAR. Comparó esa entrada con una falta de Blanco sobre Tobías Andrada, que solo tuvo amarilla. Dijo que no quiere que le den, pero tampoco que le quiten.",
+        "Nicolás Otamendi, capitán de River, habló de criterios distintos en las tarjetas. Cuestionó que Leandro Paredes no viera la segunda amarilla. Dijo que su contacto con un defensor de Boca en el área era penal y que no se analizó.",
+        "Según La Gaceta, también dijo con ironía que el próximo torneo debería tener a alguien que defina quién es campeón, porque River no compite.",
+        "Stefano Di Carlo, titular de River, afirmó que cuando los errores favorecen siempre a los mismos, dejan de ser errores. Acusó al arbitraje de destruir el fútbol argentino. Rodolfo D'Onofrio, expresidente del club, también criticó la actuación en sus redes.",
+        "Arruabarrena, el DT de Boca, llegó a tres triunfos, tres empates y dos derrotas en ocho Superclásicos oficiales, según Doble Amarilla.",
+        "Boca todavía tiene la última fecha de la tabla anual ante Defensa y Justicia. River cierra el Clausura de visitante contra Aldosivi."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae / La Gaceta",
+      "t": "Ponzio y Otamendi apuntaron contra el arbitraje tras la derrota de River ante Boca",
+      "u": "https://www.infobae.com/deportes/2026/11/01/cumpliste-el-fuerte-cara-a-cara-de-ponzio-con-el-arbitro-ramirez-en-la-derrota-de-river-ante-boca-y-su-encendida-critica-al-var/",
+      "v": "Polémica"
+    },
+    {
+      "b": "Se medirá con Atlético Mineiro en cancha neutral. Las entradas generales ya están a la venta desde 180 dólares.",
+      "body": [
+        "Boca y Atlético Mineiro jugarán la final de la Copa Sudamericana el sábado 21 de noviembre. Conmebol confirmó el horario: 19.30 en la Argentina, 17.30 en Colombia.",
+        "La sede es el estadio Metropolitano Roberto Meléndez, de Barranquilla. Es una final única, en cancha neutral.",
+        "Boca, dirigido por Rodolfo Arruabarrena, llegó tras eliminar a Vasco da Gama. Había perdido 1-0 la ida y ganó 3-1 en el Maracaná la revancha.",
+        "Mineiro, con Eduardo Domínguez como DT, dejó afuera a Montevideo City Torque con un global de 3-2. Había ganado 3-0 en Belo Horizonte.",
+        "Boca busca su tercer título en el torneo, tras los de 2004 y 2005. Sería el primer tricampeón de la Sudamericana. Mineiro va por su primera copa. El campeón se asegura además un lugar en la Recopa Sudamericana 2027.",
+        "Se enfrentaron ocho veces en torneos de Conmebol: tres victorias de Boca, una de Mineiro y cuatro empates. La última serie fue en la Libertadores 2021. Mineiro avanzó por penales, tras dos empates sin goles.",
+        "Las entradas generales de las categorías 1 y 2 salen 250 y 180 dólares en la plataforma oficial de Conmebol. La categoría 3, para las hinchadas finalistas, cuesta 90 dólares. Todavía no hay fecha de venta.",
+        "Antes de viajar, a Boca le queda definir la tabla anual. Se consagra si le gana a Defensa y Justicia. También está en playoffs del Clausura y en semifinales de la Copa Argentina."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Boca ya tiene horario para la final de la Sudamericana: sábado 21 a las 19.30 en Barranquilla",
+      "u": "https://www.infobae.com/deportes/2026/10/31/se-confirmo-el-horario-de-la-final-de-la-copa-sudamericana-entre-boca-juniors-y-atletico-mineiro/",
+      "v": "Sudamericana"
+    },
+    {
+      "b": "Los comisarios le dieron la penalización por no levantar lo suficiente bajo bandera amarilla. Alpine se fue sin puntos.",
+      "body": [
+        "Franco Colapinto hizo una de sus mejores carreras del año en México, pero no se llevó puntos. Una sanción posterior lo mandó del 7° al 15° lugar.",
+        "Largó 11° y arrancó muy bien. En los primeros metros pasó a Gasly, Norris y Hülkenberg, y quedó 7°. Después los McLaren tuvieron más ritmo y perdió posiciones. Llegó a ser noveno.",
+        "Hubo bandera roja por el accidente de Bottas. En el relanzamiento, el choque entre Lindblad y Piastri le dio una posición. Cruzó la meta 8°.",
+        "Piastri recibió 10 segundos por ese toque. Eso subió a Colapinto al séptimo puesto, con seis puntos. Varios medios lo festejaron esa noche.",
+        "Horas después llegó el golpe. Los comisarios de la FIA le aplicaron 10 segundos. Según su informe, no redujo lo suficiente la velocidad en un sector con bandera amarilla simple. Con el tiempo sumado cayó al 15° puesto.",
+        "Colapinto y Alpine mostraron telemetría y fotos para defenderse. Los comisarios no quedaron convencidos. Además, recibió un punto en la superlicencia, y suma cinco en los últimos doce meses.",
+        "Pierre Gasly también fue sancionado. Recibió un stop and go, convertido en tiempo, por no frenar bajo doble bandera amarilla. Había terminado décimo. Cayó fuera de los puntos.",
+        "Así, Alpine pasó de tener dos autos en zona de puntos a no sumar nada. Podía cortar una racha de cuatro fechas sin puntuar.",
+        "Según Infobae, Flavio Briatore dijo que la carrera de Colapinto fue muy buena y consistente. Lamentó irse de México sin puntos.",
+        "Alpine anunció que no desarrollará más su auto hasta fin de temporada. La próxima carrera es el Gran Premio de San Pablo, en Interlagos, el 8 de noviembre."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae / Automundo",
+      "t": "Colapinto cruzó 8° en México, subió a 7° y una sanción de 10 segundos lo dejó 15° y sin puntos",
+      "u": "https://www.infobae.com/deportes/2026/11/02/por-que-colapinto-fue-penalizado-con-10-segundos-y-quedo-sin-puntos-en-el-gran-premio-de-mexico/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "El italiano de Mercedes terminó tercero y quedó como el campeón más joven de la historia. Ocon, mientras tanto, rompió su silencio tras salir de Haas.",
+      "body": [
+        "Kimi Antonelli es campeón del mundo de Fórmula 1. Lo logró en México con 20 años, y es el más joven de la historia.",
+        "Terminó tercero con Mercedes. Le alcanzaba con cruzar entre los nueve primeros. Largaba cuarto y mantuvo la regularidad en una carrera muy accidentada. Quedan cuatro fechas.",
+        "Superó la marca de Sebastian Vettel, campeón en 2010 con 23 años. También cortó una sequía de más de siete décadas: el último campeón italiano fue Alberto Ascari, en 1953.",
+        "Según El Diario de la República, Antonelli llegó a 380 puntos. Le saca 119 a Verstappen, que ahora es su escolta.",
+        "Max Verstappen ganó la carrera. Largó quinto y aprovechó una salida caótica. Resistió a Lewis Hamilton hasta el final y ganó por 799 milésimas, según TV Azteca.",
+        "Hamilton, que había hecho la pole, fue segundo. Después llegaron Leclerc, Norris, Russell y Piastri. Leclerc cumplió una sanción de cinco segundos por salirse de la pista.",
+        "La largada fue movida. Leclerc y Hamilton se tocaron en los primeros metros. Después hubo bandera roja por el accidente de Bottas, que frenó la carrera más de media hora.",
+        "Sergio Pérez corrió su GP número 300 ante su gente, con Cadillac. Terminó 17°, último entre los clasificados.",
+        "Fuera de la pista, Esteban Ocon habló por primera vez tras su salida de Haas. El equipo lo apartó el sábado 31 de octubre, antes de la clasificación. Lo reemplazó el japonés Ryo Hirakawa, que debutó en F1 y largó 19°.",
+        "Ocon reconoció una discusión con su jefe, Ayao Komatsu, la noche anterior. Negó que hubiera violencia física, como publicó L'Équipe. Su contrato vence en diciembre y no será renovado. En 2027 llegará el brasileño Rafael Camara.",
+        "La próxima carrera es el Gran Premio de San Pablo, en Interlagos."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "TV Azteca / El Diario de la República",
+      "t": "Antonelli se coronó campeón a los 20 años en México y Verstappen ganó la carrera",
+      "u": "https://www.tvazteca.com/aztecadeportes/resultados-gp-mexico-2026-verstappen-gana-antonelli-campeon-y-checo-perez-17/",
+      "v": "Campeonato"
+    },
+    {
+      "autor": "Alfredo Zaiat",
+      "b": "Alfredo Zaiat repasa el documento \"Programa económico para un futuro mejor\", que busca una alternativa al rumbo de Milei sin repetir errores pasados.",
+      "body": [
+        "Zaiat parte de un diagnóstico: la economía está en recesión y el riesgo país, dice, va rumbo a superar los 800 puntos. En ese marco presenta el documento de un grupo de 19 economistas, \"Futuros Mejores\", que El Destape dice haber obtenido en exclusiva. Según el columnista, el grupo consultó a más de cuarenta organizaciones políticas, sindicales, sociales y académicas. Zaiat agrega que los autores arrancan con una autocrítica: el progresismo y el peronismo todavía no armaron una alternativa económica integral.",
+        "El eje, según Zaiat, es un orden de prioridades. Primero se define la estructura productiva, después la política macroeconómica que la sostiene y al final los instrumentos de distribución. Los autores invierten la idea de que la estabilidad va primero. Para ellos es necesaria, pero no un fin en sí misma.",
+        "Sobre Vaca Muerta y la minería, Zaiat sostiene que traen dólares pero poco empleo, porque usan mucho capital. El plan no los rechaza. Propone atarlos a proveedores locales, infraestructura y tecnología, y reformar el RIGI para exigir integración nacional y transferencia tecnológica. También critica la protección arancelaria y los regímenes especiales, como el de Tierra del Fuego, que duraron sin exigir productividad ni exportaciones. Defiende un Estado activo, pero con metas verificables.",
+        "En energía, el columnista cuenta cinco medidas: un fondo de desarrollo con parte de la renta del sector, un programa de proveedores nacionales, integración energética sudamericana con Brasil como mercado clave del gas, más infraestructura y eficiencia, y una reforma regulatoria. La idea, resume, es usar los dólares de Vaca Muerta para industrializar y no solo para pagar deuda o importar.",
+        "Zaiat dice que el plan considera esencial estabilizar. Propone medir tres cosas: acumulación sostenida de reservas, baja persistente de la inflación y vencimientos de deuda pública financiados sobre todo en pesos. Plantea bandas de flotación con intervención activa del Banco Central, para evitar tanto devaluaciones bruscas como atraso persistente. Critica el cepo, pero sin defender la libre entrada y salida de capitales: propone controles selectivos al capital especulativo.",
+        "En lo fiscal, según Zaiat, los autores rechazan el déficit permanente como principio. Buscan un equilibrio a lo largo del ciclo, que permita invertir y gastar más en recesiones. Sostienen que el ajuste no debería recaer en infraestructura, educación, salud, ciencia, salarios públicos ni jubilaciones. El texto cita un cálculo de gastos tributarios cercano al 5% del PBI y propone revisarlos según su efecto en empleo e inversión. También plantea más progresividad, impuestos a rentas extraordinarias y financieras, y más control de la evasión.",
+        "Sobre la deuda y el FMI, Zaiat explica que el documento ve el endeudamiento como resultado no solo del déficit, sino de la necesidad de dólares para sostener esquemas cambiarios. Propone exportar más, juntar reservas y financiarse en pesos. Plantea renegociar plazos y condiciones con el Fondo, y evalúa reestructurar de forma anticipada. No propone romper con los acreedores ni descarta volver a los mercados.",
+        "En empleo y jubilaciones, el plan busca formalizar trabajadores y reforzar ingresos. Defiende el sistema de reparto y propone reemplazar las moratorias por mecanismos permanentes de inclusión, con una fórmula de movilidad que incluya salario real. Según Zaiat, la mínima podría subir 20% de inmediato, financiada con un tercio de ciertos gastos tributarios.",
+        "Al final, Zaiat señala que los autores admiten que un Estado más activo exige transformar el propio Estado, y que tocar impuestos, RIGI y renta energética choca con intereses concentrados. Concluye, siguiendo el texto, que las ideas solas no cambian las relaciones de poder: hace falta una coalición política que las lleve adelante."
+      ],
+      "donde": "El Destape, 1 de noviembre",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "El Destape",
+      "t": "Zaiat: el plan de 19 economistas propone ordenar primero la producción y después la macro",
+      "u": "https://www.eldestapeweb.com/economia/plan-economico-alternativo-milei-20261110536",
+      "v": "Columna"
+    },
+    {
+      "autor": "Andrés Malamud",
+      "b": "Andrés Malamud sostiene que el voto contra el sistema viene del fracaso de los representantes y que lo explican tres actos: la casta, el wokismo y las redes.",
+      "body": [
+        "Malamud arranca con la definición de populismo de Norris e Inglehart: la idea de que el poder legítimo está en la gente común. Señala que se parece a la definición misma de democracia. Según él, la crítica académica y periodística ve lo antiliberal del populismo, pero no lo antioligárquico.",
+        "El primer acto, plantea, es la entrada de la casta. Norris ya había detectado en los noventa a los ciudadanos críticos y los demócratas insatisfechos. Las élites respondieron con reformas institucionales y no con inclusión. Para Malamud, el problema nunca fueron las instituciones sino quienes representaban. Agrega que la gente puede juzgar por separado los resultados del procedimiento democrático.",
+        "Malamud vincula esto con la economía. El bajo crecimiento achicó las expectativas de los jóvenes, que por primera vez creen que vivirán peor que sus padres. Recuerda que el Brexit lo votaron los mayores y lo rechazaron los jóvenes. El voto contra el statu quo nació en los márgenes, movilizado por los llamados ingenieros del caos. Con Trump y Bolsonaro llegó al centro, y las elecciones se volvieron plebiscitos contra el sistema.",
+        "El segundo acto es la entrada del wokismo. Según el autor, el pensamiento políticamente correcto se impuso en las élites intelectuales y mediáticas. La izquierda pasó de representar a las mayorías trabajadoras a representar identidades minoritarias. Los varones jóvenes, sobre todo heterosexuales, sintieron que pasaban de la cima social a ser estigmatizados. Malamud reconoce que, para mujeres y minorías históricamente reprimidas, esas sanciones eran anecdóticas e incluso justas. Citando a Haidt, sostiene que las élites occidentales desvalorizaban autoridad, familia, religión y nación, y que eso descansaba en un alto bienestar material, hoy erosionado. Así convergieron el antiestablishment y el antiwoke.",
+        "El tercer acto son las redes sociales. Malamud dice que eliminaron la intermediación tradicional y dieron lugar a influencers, comunidades cerradas y algoritmos que refuerzan lo que uno ya piensa. La intermediación vuelve, pero invisible, y tiende a favorecer las opiniones de los dueños de las plataformas, como antes los medios. Cita datos de Burn-Murdoch: los varones menores de 30 son más conservadores que sus padres en Corea del Sur, Europa y Estados Unidos. Atribuye la brecha generacional a la polarización afectiva y la de género a la segmentación digital.",
+        "Con eso arma un doble mapa. En el global, el wokismo domina entre las élites occidentales. En el social, el antiwokismo domina entre los varones jóvenes. Para Malamud, la política actual surge del cruce: frustración masculina contra élite fracasada.",
+        "Después discute si hay despolitización o repolitización. Con Hirschman, dice que cuando la protesta no funciona aparece la salida: volatilidad partidaria, abstención, crimen desorganizado y emigración. Da un dato: de 16 elecciones presidenciales latinoamericanas entre 2021 y 2024, 13 las ganaron partidos de menos de diez años. Sostiene que la revuelta es contra la indignidad más que contra la desigualdad: \"la demanda hoy es respeto antes que redistribución\".",
+        "Malamud observa que los nuevos movimientos eran negativos y miraban al pasado, y que ahora aparece una agenda positiva: apoyo a grandes tecnológicas, compra de territorios y rediseño de alianzas. Eso requiere un Estado que funcione, que Estados Unidos tiene y América Latina tiene menos. Siguiendo a O'Donnell, habla de áreas marrones, zonas fuera del Estado de derecho. En Estados rotos, dice, la anarquía parece más probable que la tiranía. Concluye que los políticos tradicionales siguen con agendas del siglo XX y que los politólogos miraron la oferta política y la cultura de élite, olvidando las emociones de la gente, que los populistas sí registraron."
+      ],
+      "donde": "El Dipló, edición de noviembre de 2026",
+      "id": "ana1",
+      "sec": "Análisis",
+      "src": "El Dipló",
+      "t": "Malamud: la democracia no falla, fallan las élites que la representan",
+      "u": "https://www.eldiplo.org/seccion-desalineados/son-los-representantes-estupido-no-falla-la-democracia-sino-sus-elites/",
+      "v": "Columna"
+    },
+    {
+      "autor": "Santiago Bilinkis",
+      "b": "En un episodio de \"Futuro en Construcción\", Santiago Bilinkis conversa con Juan Pablo Varsky sobre IA, deporte, redes y política.",
+      "body": [
+        "El episodio dura 30 minutos y, según la página, Bilinkis conversa con Juan Pablo Varsky. La charla empezó en la inteligencia artificial y derivó en fútbol, tenis, redes sociales y política. La página no dice quién conduce.",
+        "La descripción cuenta que Bilinkis sostiene que la IA es \"la mejor y la peor invención\" de la humanidad. Según el texto, alcanza con que un solo resultado salga muy mal para que pese más que todo lo bueno.",
+        "Entre los temas que enumera la descripción: por qué la mentalidad pesa tanto en el deporte, y por qué algunos entrenadores logran resultados con planteles modestos mientras otros no armaron un equipo con figuras. También una anécdota del Dibu Martínez en el Mundial 2018 y la idea del talento como responsabilidad hacia quienes no lo tienen.",
+        "Otro punto es el tenis: los mejores de la historia ganan apenas algo más de la mitad de los puntos que juegan, y esa diferencia se acumula. Sobre las redes, el texto dice que el \"like\" convirtió en un número público algo que siempre existió, quién es popular, y menciona inquietudes por la salud mental de los creadores de contenido.",
+        "Por último, la descripción menciona una metáfora de la polarización: un equipo que juega con la mano sin que el árbitro lo sancione. Y el tema de por qué Bilinkis nunca vota al candidato menos malo. Este resumen sale solo de esa descripción escrita; no se pudo ver el video."
+      ],
+      "donde": "Futuro en Construcción, 30 de octubre de 2026",
+      "id": "ana2",
+      "sec": "Análisis",
+      "src": "Santiago Bilinkis (bilinkis.com)",
+      "t": "Bilinkis: la IA puede ser la mejor y la peor invención de la humanidad",
+      "u": "https://www.bilinkis.com/futuro-en-construccion/nos-vamos-a-arrepentir-de-haber-creado-la-ia",
+      "v": "Video",
+      "via": "la descripción del episodio en su web"
+    },
+    {
+      "b": "Los depósitos del Tesoro en el Banco Central apenas cubren el vencimiento. Hasta el cierre de la nota de Infobae, Economía no explicó de dónde saldrá la plata.",
+      "body": [
+        "Hoy, lunes 2 de noviembre, el Gobierno debe pagarle USD 800 millones al FMI. Según Infobae, en el mercado nadie duda de que va a cumplir. Lo que no se sabe es cómo juntará los dólares.",
+        "El último dato disponible es del miércoles 28 de octubre. Ese día, el Tesoro tenía USD 851 millones depositados en el Banco Central. Si no cambió, alcanza con apenas USD 51 millones de sobra.",
+        "Los depósitos están bajos en parte por un bono en dólares. Su venta sumaba divisas. Se frenó cuando empezó a subir el riesgo país.",
+        "Antes de pagar, el Gobierno necesita conseguir DEG, la moneda del Fondo. En operaciones recientes los compró al Tesoro de Estados Unidos. Infobae no descarta que repita ese camino. Voceros de Economía no respondieron sus consultas sobre el origen de los fondos.",
+        "El Tesoro también tiene $ 8,9 billones en pesos. Podría usarlos para comprarle dólares al Banco Central. Según Infobae, eso pegaría más en las reservas netas.",
+        "La Política Online ofreció otra versión el viernes 30 de octubre. Habló de unos USD 877 millones por intereses y recargos. El vencimiento sería el 5 de noviembre. Ese medio contó un Tesoro con USD 830 millones al 26 de octubre.",
+        "LPO también dice que el Tesoro vendió dólares para contener el tipo de cambio. Según su nota del viernes, fueron USD 94 millones el lunes 26 de octubre. En otra nota de ese día habló de al menos USD 100 millones. Ese medio lo considera contrario al acuerdo con el FMI.",
+        "El personal técnico del Fondo ya aprobó la tercera revisión del programa. Falta que la apruebe el Directorio, a principios de diciembre. Liberaría cerca de USD 900 millones. El Fondo calificó los resultados de “impresionantes”.",
+        "En enero, el Tesoro debe pagarles unos USD 4.500 millones a los bonistas. Los especialistas que cita Infobae mencionan dos caminos. Uno es comprarle reservas al Banco Central. El otro son préstamos garantizados por organismos internacionales."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae / La Política Online",
+      "t": "El Gobierno paga hoy USD 800 millones al FMI con los dólares justos",
+      "u": "https://www.infobae.com/economia/2026/11/02/el-gobierno-debera-cubrir-hoy-un-vencimiento-de-usd-800-millones-con-el-fmi/",
+      "v": "FMI"
+    },
+    {
+      "b": "Las estimaciones privadas van de 1,8% a 2,1%, con sesgo al alza. Los alimentos, sobre todo las verduras, empujan los precios.",
+      "body": [
+        "En septiembre la inflación fue de 1,9%. Para octubre, las consultoras privadas esperan algo parecido. Según Infobae, el rango de estimaciones se achicó a entre 1,8% y 2,1%. La tendencia apunta al número más alto.",
+        "Libertad y Progreso y Equibra son las más optimistas, con 1,8%. EconViews prevé 1,9%. Analytica, Invecq y C&T apuntan a 2% o muy cerca. Eco Go es la única que llega a 2,1%.",
+        "Infobae marca que un 2% sería un dato desfavorable para el Gobierno.",
+        "Los alimentos son el principal motor, según Analytica. En la cuarta semana de octubre, alimentos y bebidas subieron 0,4%. El promedio de las últimas cuatro semanas llegó a 2,5%. Las verduras treparon 8,8% y las frutas, 2,9%.",
+        "Invecq coincide en que alimentos fue lo que más aportó a la suba. Mencionó verduras, lácteos, aceites y frutas. En su medición, lo que más aumentó fue restaurantes y hoteles.",
+        "El Banco Central advirtió en su informe del tercer trimestre. La inflación podría acelerarse hasta fin de año. Lo vincula con la carne vacuna, que sube por temporada, y con precios regulados. Pone el foco en gas, combustibles y petróleo. Sobre las naftas, dice que el aumento de fines de septiembre “impactará plenamente” en octubre.",
+        "La semana pasada, en Santa Fe, Luis Caputo habló de la meta oficial. El Gobierno apunta a una inflación como la del resto del mundo.",
+        "Noviembre arranca con más aumentos. Los colectivos porteños suben 3,9% y los bonaerenses, 4%. Las 104 líneas nacionales mantienen el boleto. Las prepagas aumentan entre 1,7% y 2,95%, con un promedio de 2,2% a 2,3%. Movistar sube 2,6% sus planes. El agua de AySA sube entre 1,5% y 2%.",
+        "Los alquileres atados a la inflación también se actualizan. Los contratos trimestrales suben 5,81%, los cuatrimestrales 7,82% y los semestrales 12,95%."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Las consultoras esperan una inflación de octubre cerca del 2%",
+      "u": "https://www.infobae.com/economia/2026/11/02/que-esperan-las-consultoras-privadas-para-el-dato-de-inflacion-de-octubre/",
+      "v": "Inflación"
+    },
+    {
+      "b": "Desde diciembre, los planes pagos compartirán un solo cupo de uso. OpenAI también limitó cuántas suscripciones se pueden abrir por tarjeta y por dispositivo.",
+      "body": [
+        "ChatGPT va a fundir sus modos Chat y Work en una sola interfaz. Según una página de soporte de OpenAI, desde diciembre los planes Plus, Pro y Business compartirán un único cupo de uso para ChatGPT y Codex.",
+        "Ese cupo se gasta más rápido con los modelos más complejos y con las tareas más exigentes. Cuando se agota, hay tres salidas: esperar el reinicio, subir de plan o comprar créditos extra. El saldo y los horarios de reinicio se consultan en Ajustes.",
+        "Las charlas con los modelos Instant no descuentan cupo. Por eso, en teoría, ChatGPT sigue siendo de tarifa plana. The Decoder opina que, en la práctica, quien use mucho un plan barato terminará con respuestas de menor calidad.",
+        "El medio recuerda que OpenAI duplicó hace poco los límites de los planes más caros. Supone que fue para preparar esta fusión. Hoy el usuario elige entre dos modos y 11 configuraciones de modelo, algo que confunde incluso a los avanzados. La unificación sería una respuesta a esa crítica.",
+        "En paralelo, OpenAI puso límites por tarjeta y por dispositivo. Quien vincula demasiadas suscripciones a una misma tarjeta o equipo no puede iniciar nuevas. La cuenta afectada ve el aviso \"Device limit reached\" y deja de funcionar en ese dispositivo.",
+        "La medida alcanza a los planes Go, Plus, Pro 100, Pro 200 y Pro 500. Quedan afuera las cuentas gratuitas y los planes Business, Enterprise y Edu. Cerrar sesión no libera el lugar. La página de OpenAI no aclara cuántas cuentas se permiten.",
+        "Según The Decoder, el golpe es para quienes alternaban varias cuentas baratas en un mismo equipo. OpenAI ofrece créditos extra o reinicios de uso, que suelen salir más caros que otra suscripción. El medio lee en esto una prioridad por los ingresos antes que por el crecimiento.",
+        "Anthropic ya había combinado Chat y Cowork en Claude.",
+        "Por qué importa: OpenAI cambia la forma en que cobra el uso intensivo de ChatGPT. Hasta ahora, un plan barato permitía trabajar casi sin pensar en límites. Con un cupo compartido, las tareas pesadas con Codex y los modelos avanzados gastan el mismo saldo. Les pega sobre todo a quienes usan la herramienta para trabajar todo el día. Los que solo charlan con modelos Instant, en principio, no notarían nada."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "ChatGPT unirá chat y trabajo, y el uso ilimitado empieza a quedar atrás",
+      "u": "https://the-decoder.com/openais-upcoming-chat-and-work-merger-in-chatgpt-signals-the-end-of-all-you-can-prompt-pricing/",
+      "v": "OpenAI"
+    },
+    {
+      "b": "El modo rápido de Opus 4.8 se elimina el 30 de noviembre y dará error. Claude Code suma un bloqueo de escrituras fuera de las carpetas de trabajo, y Gemini CLI solo trajo arreglos.",
+      "body": [
+        "Es un resumen semanal publicado el 31 de octubre en dev.to por aicoding-guide. Es un blog independiente, no una fuente oficial. Se apoya en los registros de cambios de cada herramienta.",
+        "Lo más urgente es para quienes usan Claude Code con Opus 4.8. Su modo rápido quedó en desuso el 30 de octubre y se elimina el 30 de noviembre. Después, los pedidos en ese modo darán error. No volverán al Opus 4.8 común.",
+        "El blog recomienda pasar a Opus 5.5 durante noviembre. También aconseja revisar los scripts y las configuraciones que dependan de ese modo, porque dejarían de andar de golpe.",
+        "La segunda novedad es de seguridad. Claude Code ahora permite bloquear que escriba o edite archivos fuera de las carpetas de trabajo. Vale en cualquier modo de permisos. Ya existía una opción equivalente para las lecturas, así que el alcance sobre los archivos deja de depender del modo elegido.",
+        "Además, corrigieron un fallo. Las sesiones en modo restringido podían subir archivos de afuera de esas carpetas cuando una regla de lectura los cubría.",
+        "Otra mejora: Claude Code resume las conversaciones largas que quedan inactivas. Esa función llegó a VS Code y a la app de escritorio, dos semanas después de la terminal.",
+        "En Codex hubo dos versiones. Ahora funciona con la nube de Google y trae la memoria activada de fábrica. También permite retomar conversaciones y muestra mensajes más claros cuando seguridad bloquea una acción.",
+        "Gemini CLI, en cambio, solo trajo arreglos y tareas de mantenimiento: 26 entradas, sin funciones nuevas. Agregó un aviso de que la herramienta no está optimizada para Gemini 4.",
+        "Por qué importa: la semana tiene una fecha límite concreta para quienes usan Claude Code con el modo rápido de Opus 4.8. Si no migran antes del 30 de noviembre, sus flujos van a empezar a fallar. El bloqueo de escrituras da más control a equipos que quieren acotar lo que toca un agente. La comparación también muestra ritmos distintos: Claude Code y Codex sumaron funciones, mientras Gemini CLI quedó en mantenimiento. Todo viene de un blog y no se verificó funcionando."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "dev.to (aicoding-guide)",
+      "t": "Claude Code, Codex y Gemini CLI: qué cambió esta semana y qué hay que revisar",
+      "u": "https://dev.to/aicoding-guide/this-week-in-claude-code-codex-and-gemini-cli-week-of-november-1-2026-15pn",
+      "v": "Harness"
+    },
+    {
+      "b": "Según Infobae, la presidenta del bloque seguirá en su cargo. El conflicto pasa ahora por los pliegos de jueces y el Consejo de la Magistratura.",
+      "body": [
+        "Según Infobae, los hermanos Milei no le pedirán a Patricia Bullrich que se vaya. Tampoco que deje la jefatura del bloque libertario en el Senado. Días atrás se había conocido que Karina Milei quería quitársela.",
+        "En la Mesa Política hay malestar por los desmarques de Bullrich. También por sus coqueteos con una candidatura presidencial. La relación podría tensarse, advierte el medio.",
+        "Bullrich se opone a decenas de pliegos de jueces y fiscales. Esperan en la Comisión de Acuerdos. Su objeción apunta a nombres vinculados con el menemismo. No cuestiona al ministro Juan Bautista Mahiques.",
+        "El jueves pasado, en la reunión de bloque, discutió con la senadora Nadia Márquez. Márquez es cercana a Karina y pidió cambios en cómo funciona el bloque. Bullrich frenó la idea de ponerla al frente de la Comisión de Acuerdos. El cargo quedó vacante por la muerte del senador Juan Carlos Pagotto. Ella dijo que no se puede poner a alguien que la oposición no quiere.",
+        "El peronismo ya tiene 22 senadores y es la primera minoría. Reclama dos lugares en el Consejo de la Magistratura. Dejaría a La Libertad Avanza con uno. El oficialismo presentaría dos nombres. Una fuente anticipó: “Se va a judicializar”.",
+        "Para esos lugares se menciona a Enzo Fullone y a Márquez. El otro nombre no está definido. Suenan Gonzalo Guzmán Coraita y Luis Juez, que ya integra el organismo.",
+        "En el entorno de Bullrich dicen que el rumor de removerla es falso, por ahora. Un allegado advirtió algo. Si lo intentan, el oficialismo no pasará ni una ley hasta diciembre de 2027.",
+        "El lunes pasado, en la reunión de Gabinete, Milei le habló a Diego Santilli. Le pidió acelerar la negociación por la reforma electoral. Pidió también avanzar con el Tratado de Cooperación en materia de Patentes. Y con el proyecto de Defensa de la Soberanía Nacional. Lo contaron dos participantes.",
+        "Este martes no habrá Mesa Política. Será la segunda semana seguida sin reunión. Varios integrantes viajan a Washington, entre ellos Ignacio Devitt y Eduardo “Lule” Menem."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Los Milei no le pedirán a Bullrich que se vaya, pero crece la pelea en el Senado",
+      "u": "https://www.infobae.com/politica/2026/11/01/el-pedido-urgente-de-milei-a-su-gabinete-y-la-discusion-interna-que-impacta-en-el-senado/",
+      "v": "Oficialismo"
+    },
+    {
+      "b": "El Gobierno no cierra los números en el Senado y las sesiones extraordinarias se acercan. En Buenos Aires, el gobernador evalúa votar el mismo día que la Nación.",
+      "body": [
+        "Para suspender las PASO de 2027, el Gobierno necesita 37 votos en el Senado. La Libertad Avanza tiene 20 bancas propias. Según Infobae, busca sumar 10 de la UCR, 3 del PRO y fuerzas provinciales. El número no está cerrado.",
+        "Diego Santilli negocia con los gobernadores. El 30 de octubre, Perfil citó a senadores: “Santilli es el que las empuja, Bullrich la que va para atrás”. Los gobernadores aliados acompañarían, según Perfil. La resistencia está en el radicalismo, como la de Alfredo Cornejo.",
+        "La Cámara Nacional Electoral y el juez Alejo Ramos Padilla coinciden en algo. Estos cambios deben decidirse en años no electorales. En el oficialismo, un sector quiere aprobarlo antes de fin de año. Otro acepta esperar a las extraordinarias o a febrero.",
+        "El Presupuesto 2027 también se atrasó. La Libertad Avanza suspendió la reunión de comisión en Diputados. No tenía las firmas del dictamen. Según Infobae, las buscaría el 12 de noviembre. Llevaría el proyecto al recinto el 25. Perfil habló de firmar el 11 o el 17, y de una sesión el 18.",
+        "Los aliados piden más claridad sobre el reparto de fondos a las provincias. También sobre las cajas previsionales. Perfil suma pedidos del PRO. Quiere bajar el impuesto a los combustibles y regularizar la coparticipación porteña. El oficialismo tiene 95 diputados y necesita 129 presentes.",
+        "El período ordinario termina el 30 de noviembre. Según Infobae, el Ejecutivo ya casi no tiene margen para evitar las extraordinarias. Los viajes por las elecciones de Estados Unidos demoran el calendario. La visita del Papa también.",
+        "En ese cuadro, Axel Kicillof analiza mantener las PASO. Votaría en la provincia el mismo día que en la Nación. Lo habló en La Plata con unos 40 intendentes de su espacio. En 2025 desdobló, aunque Cristina Kirchner le había pedido no hacerlo. Hoy, dirigentes cercanos a ella ironizan que ahora le hace caso.",
+        "Su entorno responde que los casos no se comparan. En 2025 las PASO nacionales estaban suspendidas. En 2027, con primarias vigentes, desdoblar implicaría cuatro jornadas electorales.",
+        "Las posturas están enfrentadas. Para el Gobierno, suspender las PASO le quita al peronismo una herramienta. Le servía para ordenar sus diferencias. En Fuerza Patria, la mayoría cree que las primarias ordenan una oferta amplia. Además, 81 intendentes no podrían reelegirse sin cambios en la ley, 52 de ellos peronistas."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "Sin votos para suspender las PASO y con el Presupuesto atrasado, Kicillof mira una elección unificada",
+      "u": "https://www.infobae.com/politica/2026/11/01/el-complejo-panorama-del-gobierno-para-suspender-las-paso-alienta-a-kicillof-a-realizar-una-eleccion-unificada-en-pba/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "El proyecto abierto permite, por ejemplo, usar Claude Code con un modelo de otra empresa. Reparte el trabajo entre cuentas y muestra cuánto se gasta.",
+      "body": [
+        "Magpie deja elegir qué modelo usa cada agente de programación desde un solo lugar. Sirve para Claude Code, Codex o Gemini CLI, entre otros. Se maneja desde la barra de menús de la Mac.",
+        "Lo publica la cuenta yetone en GitHub, con licencia MIT. Al consultar la página tenía unas 23.000 estrellas. Se creó en septiembre. No pudimos confirmar cuántas sumó esta semana: la lista semanal de GitHub no se leyó bien.",
+        "Funciona como un traductor instalado en la propia computadora. Los agentes le mandan sus pedidos y Magpie los convierte al formato de cada proveedor. Así, un agente pensado para un modelo puede trabajar con el de otra empresa.",
+        "También reparte pedidos entre varias cuentas o modelos. Si una cuenta se queda sin cupo, puede pasar a la siguiente. Además lleva la cuenta del uso y del gasto.",
+        "Otra función tapa claves, contraseñas y correos antes de mandar el pedido al proveedor. Después los restituye en la respuesta. Viene apagada de fábrica. El propio proyecto admite que a veces se equivoca.",
+        "La página aclara sus límites. Quien usa un solo agente con el plan de su proveedor no lo necesita. El programa manda una señal anónima de uso por día, que se puede desactivar. Para detectar suscripciones, lee archivos de inicio de sesión de otros agentes. Eso también se puede apagar. Los proyectos externos no pueden proponer cambios al código.",
+        "Por qué importa: los agentes de código suelen venir atados a los modelos de su fabricante. Magpie apunta a separar las dos cosas, para elegir la herramienta y el modelo por separado. Le sirve a quien trabaja con varios agentes, proveedores o cuentas y quiere controlar costos. A cambio, le da a un programa de terceros un lugar en el medio de todos sus pedidos. Eso obliga a confiar en él."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "GitHub",
+      "t": "Magpie: un solo lugar para elegir qué modelo usa cada agente de código",
+      "u": "https://github.com/yetone/magpie",
+      "v": "Open source"
+    },
+    {
+      "b": "Según Infobae, Milei pidió subir al avión del Papa y la respuesta fue el silencio. El Presidente convocó a la clase política a la recepción del 8 de noviembre.",
+      "body": [
+        "León XIV llega a la Argentina el domingo 8 de noviembre. Viene de Montevideo, en un avión de Aerolíneas Argentinas, y aterriza en Aeroparque. El miércoles 11 sigue viaje a Lima.",
+        "Según Infobae, el protocolo vaticano suponía que Milei esperaría en la pista. La Cancillería habría pedido que el Presidente subiera al avión. Bajaría junto al Papa y lo recibiría en la Casa Rosada. El medio dice que el Vaticano respondió con silencio. El canciller Pablo Quirno desmintió ese pedido en X. Infobae sostiene que existió.",
+        "Al comienzo de las charlas, Victoria Villarruel y la mayoría de los legisladores no figuraban como invitados. Después, Milei decidió invitarlos. Convocó a la vicepresidenta, a Jorge Macri y a los 23 gobernadores. También a todos los legisladores. La recepción será el 8 de noviembre, a las 18:30, en el Palacio Libertad. Según Infobae, eso generó “profunda satisfacción” en el Vaticano.",
+        "Villarruel pidió una audiencia con el Papa en la Nunciatura Apostólica. El Vaticano no la descartó. Infobae cuenta que León XIV abrió su agenda para recibir a funcionarios que quedaran afuera. Según el medio, eso descolocó a la Casa Rosada. No habrá visita del Papa al Congreso.",
+        "La agenda incluye una visita al Cottolengo Don Orione. Habrá misas en Palermo, Luján y la ciudad de Córdoba. También se reunirá con sindicalistas, empresarios y líderes sociales. Habrá una vigilia con jóvenes en el Monumento a los Españoles. Visitará además la Casa Rosada. Infobae no detalla qué día es cada actividad.",
+        "El medio contrasta el mensaje del Papa con el del Gobierno. Los temas son el Estado, la educación, la pobreza y el ajuste. Cita la exhortación Dilexi te, que habla de riqueza con inequidad. Se espera un discurso de Milei en el Palacio Libertad. El Congreso ajusta su calendario. Diputados demora el Presupuesto por la visita, del 8 al 11 de noviembre."
+      ],
+      "id": "pol2",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Visita de León XIV: un pedido de Milei que el Vaticano no respondió y una invitación a Villarruel",
+      "u": "https://www.infobae.com/politica/2026/11/01/el-extrano-pedido-de-milei-que-incomodo-al-vaticano-y-la-decision-politica-de-leon-xiv-que-descoloco-a-la-casa-rosada/",
+      "v": "Papa"
+    },
+    {
+      "b": "El secretario de Estado afirmó que Washington no participó de los preparativos. En Argentina, un vuelo privado y un crédito del Banco Nación entran en la discusión.",
+      "body": [
+        "El sábado 31 de octubre, Donald Trump habló en Mar-a-Lago. Dijo que Flávio Bolsonaro puede quedarse en Estados Unidos “el tiempo que quiera”. Según Infobae, agregó que no piensa reunirse con él. Días antes había dicho que su Gobierno le dio permiso para entrar. También opinó que Bolsonaro y su entorno fueron tratados “de manera muy injusta”.",
+        "Ese mismo sábado habló Marco Rubio, en la reunión de cancilleres del G20 en Atlanta. Dijo que Flávio ya tenía visa y que Trump decidió dejarlo entrar. Afirmó que Washington no participó directamente en los preparativos de la salida.",
+        "La Política Online lo leyó como un golpe para Milei. Según ese medio, Rubio dejó al Gobierno argentino como único Estado que propició la salida. LPO cita a Simón Levy, del American Council. Él asegura que se coordinó entre Buenos Aires y el Departamento de Estado. Esa versión no está documentada en su nota.",
+        "La Casa Rosada sostiene que Flávio entró sin alertas internacionales ni restricciones. Santilli dijo que esa condición permitió su ingreso. Según Infobae, Migraciones informó que tenía documentación válida y ningún impedimento legal.",
+        "El recorrido, según Infobae, fue así. Entró por Misiones el 27 de octubre con su esposa y sus dos hijas. Esa noche tomaron un vuelo privado de Puerto Iguazú a Guayaquil y siguieron a Miami. En Brasil, el juez Alexandre de Moraes le había ordenado entregar los pasaportes. La causa es por presunto lavado de dinero.",
+        "Perfil publicó el 31 de octubre quién hizo el vuelo. Fue Baires Fly, una empresa de taxis aéreos, en un Gulfstream G400. Un broker estadounidense lo habría contratado. Fuentes de la industria dijeron que la empresa cobraría cerca de USD 145.000.",
+        "Según Perfil, en noviembre de 2024 Baires Fly recibió un crédito del Banco Nación por $ 1.682 millones. La empresa le dijo al medio que fue por $ 950 millones. Perfil afirma que lo usó para un hangar junto al Aeroparque. Dice que sigue pagando las cuotas.",
+        "Brasil ya había pedido explicaciones a la Argentina por el caso. Desde agosto, ambos países mantienen relaciones a nivel de encargados de negocios."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae / La Política Online / Perfil",
+      "t": "Trump dice que Flávio Bolsonaro puede quedarse en EE.UU. y Rubio se despega de la salida",
+      "u": "https://www.infobae.com/estados-unidos/2026/11/01/donald-trump-aseguro-que-flavio-bolsonaro-podra-quedarse-el-tiempo-que-quiera-en-estados-unidos/",
+      "v": "Brasil"
+    },
+    {
+      "b": "Anthropic suma la marca a cuatro modelos más. En Opus 4.6 y Sonnet 4.6, cambiar un ajuste técnico alcanza para evitarla.",
+      "body": [
+        "Anthropic va a aplicar su marca de agua de texto a cuatro modelos más: Claude Mythos 5, Opus 4.7, Opus 4.6 y Sonnet 4.6. Según un correo a clientes que conectan sus programas a Claude, Opus 5.5 ya la tenía. En Amazon Bedrock puede demorar unos días más.",
+        "La empresa la describe como un patrón imperceptible en la elección de las palabras. Dice que no cambia el significado ni la calidad, que no suma caracteres ni cuesta más y que casi no ralentiza. Afirma además que no guarda datos del usuario ni de sus conversaciones.",
+        "La hendija está en Opus 4.6 y Sonnet 4.6. En esos dos, la marca solo se activa si tres parámetros de muestreo, que regulan cuán variada sale la respuesta, quedan en sus valores de fábrica. Basta con tocar uno para esquivarla. Anthropic advierte que quien dependa de la marca por cumplimiento debe dejarlos como vienen.",
+        "El correo no menciona esa condición para Mythos 5 ni para Opus 4.7. The Decoder deduce que ahí la marca se aplica sin importar la configuración. El medio agrega que Opus 4.6 sigue siendo el mejor modelo de escritura de Anthropic, por encima de Opus 5.5.",
+        "Anthropic atribuye la medida al plazo de diciembre de la ley de IA de la Unión Europea. Los modelos lanzados después del 2 de agosto de 2026 la traen desde el primer día. Los anteriores la reciben por etapas. Va incorporada al modelo, así que funciona en Amazon, Google Cloud y Microsoft Foundry, y los clientes no pueden apagarla.",
+        "Usa una variante de SynthID, el método de Google DeepMind. Ajusta la aleatoriedad con que se eligen las palabras para dejar un rastro estadístico. Anthropic tiene una herramienta para detectarla, todavía en prueba privada.",
+        "OpenAI lanzó en octubre su sistema textGrain. Por defecto solo se activa para usuarios de ChatGPT y Codex en la Unión Europea. Las empresas que lo conectan a sus programas pueden prenderlo, y viene apagado. Google publicó SynthID para texto como código abierto y lo usa en Gemini.",
+        "Hay críticas. El blogger John Gruber sostiene que no existen sinónimos exactos, así que elegir palabras por una clave baja la precisión. La publicación Artificial Lawyer advierte que los clientes de estudios jurídicos que prohibieron la IA podrían detectar la marca. También alerta por varias marcas superpuestas en un mismo documento.",
+        "Por qué importa: la marca de agua pasa a ser una exigencia regulatoria, no una opción, y llega a los modelos de Anthropic en todas las plataformas. La hendija muestra que en dos modelos no es infalible: quien cambie ciertos ajustes la desactiva. Afecta a empresas que dependen de ella para cumplir y a quienes usan estos modelos para escribir. Las críticas sobre la precisión y el uso legal siguen abiertas."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "La marca de agua de Anthropic tiene una hendija en dos modelos viejos de Claude",
+      "u": "https://the-decoder.com/anthropics-watermark-rollout-leaves-a-loophole-on-two-older-claude-models/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "EditAgent, de Adobe Research y UC San Diego, elige la herramienta justa para cada retoque y mide el resultado con datos. Mejoró a varios editores de imágenes, pero gasta unas diez veces más cómputo.",
+      "body": [
+        "Investigadores de Adobe Research y la Universidad de California en San Diego presentaron EditAgent, un agente de edición de imágenes. La idea es que trabaje como un profesional de Photoshop.",
+        "Los agentes actuales dividen el pedido en pasos y, si uno falla, suelen reintentarlo con la misma herramienta. Después, otro modelo juzga el resultado a simple vista. EditAgent elige en cada paso entre un editor general y herramientas especializadas.",
+        "El punto de partida fueron las fallas. En una prueba con 600 ediciones, calificadas a ciegas por cinco profesionales, el editor general que probaron no dio un resultado usable en el 42,7 % de los casos. Las herramientas especializadas resolvieron cerca de dos tercios de esos fallos, sobre todo en nitidez, rotación y zoom. Reintentar con el mismo editor casi no ayudó.",
+        "Otro hallazgo: editar paso a paso acumula errores, porque cada ronda parte de una imagen ya alterada. Los profesionales prefirieron las variantes generadas en paralelo desde la original en el 78,5 % de las comparaciones donde eligieron una.",
+        "Cada variante llega con un registro de verificación: un primer plano de la zona editada, un mapa de cambios y mediciones de brillo y color. En un ejemplo, había que aclarar una foto con suavidad. Las mediciones mostraron que el editor general la sobreexpuso y viró los colores a tonos cálidos. La herramienta especializada se mantuvo dentro de lo pedido.",
+        "Con ese registro, siete modelos de lenguaje comunes superaron a todos los modelos entrenados con evaluaciones humanas. El mejor acertó en el 81,3 % de los casos, frente al 74,8 % del mejor entrenado. Los autores sostienen que lo que ve el juez puede importar más que cómo se lo entrenó.",
+        "El agente también revisa que las ediciones nuevas no deshagan las anteriores. Por ejemplo, una orden de dejar entrar más luz devolvía la transparencia a una ventana que estaba esmerilada. El sistema detecta el conflicto y lo corrige.",
+        "Mejoró a dos editores abiertos en tres pruebas y superó a otros siete agentes. En una de ellas también les ganó a dos modelos comerciales.",
+        "La contra es el costo: necesita unas diez veces más cómputo que un editor solo, y depende de las herramientas que se le conecten. En junio, Adobe sumó agentes de IA, en beta pública, a Photoshop, Premiere y otras apps de Creative Cloud.",
+        "Por qué importa: el estudio apunta a un problema concreto de los agentes de edición: reintentar la misma herramienta no corrige un mal resultado. Propone elegir la herramienta adecuada y comprobar el resultado con mediciones, no solo a ojo. Le sirve a quien desarrolla o evalúa editores con IA. Es una investigación, no un producto de Adobe. El alto consumo de cómputo es la principal limitación que reconoce."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "Adobe prueba un agente que edita fotos eligiendo herramientas como un profesional",
+      "u": "https://the-decoder.com/adobe-is-testing-how-well-ai-agents-can-use-editing-tools-like-a-photoshop-professional-would/",
+      "v": "Agentes"
+    },
+    {
+      "b": "El programa alcanza a unos 60.000 empleados. Quedan afuera las áreas más ligadas a la estrategia de inteligencia artificial.",
+      "body": [
+        "Microsoft ofrece paquetes de retiro voluntario a unos 60.000 empleados, aproximadamente un cuarto de su plantilla. Es el segundo programa de este tipo en 2026. La directora de personas, Amy Coleman, lo anunció en un memo del 26 de octubre.",
+        "Según Coleman, los paquetes son otra forma de adaptar la plantilla a necesidades cambiantes. Un portavoz dijo a Bloomberg que la empresa quiere gente comprometida con resolver sus problemas más difíciles.",
+        "El programa incluye a empleados de Estados Unidos, Canadá, India y Reino Unido, con cargo de vicepresidente o inferior. Alcanza por completo a las áreas de Xbox, Windows, Copilot y Finanzas.",
+        "Quedan afuera centros de datos, ventas, ciberseguridad y computación cuántica. Según The Decoder, son en su mayoría áreas relevantes para la estrategia de IA de la empresa.",
+        "Antes hubo otros recortes este año. En mayo, Microsoft ofreció retiros pagados a 8.750 empleados de Estados Unidos. En julio eliminó 4.800 puestos.",
+        "La plantilla ronda los 223.000 empleados, casi igual que en 2022, pese al fuerte crecimiento de los ingresos. La directora financiera, Amy Hood, dijo que con ese personal estable la empresa prevé gastar unos 170.000 millones de dólares en infraestructura de IA en 2026. Es algo menos que los 175.000 millones del plan original.",
+        "El artículo no detalla las condiciones económicas de los paquetes ni los plazos para aceptarlos."
+      ],
+      "id": "tec5",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "Microsoft ofrece retiro voluntario a un cuarto de su plantilla y cuida a los equipos de IA",
+      "u": "https://the-decoder.com/microsoft-offers-a-quarter-of-its-workforce-voluntary-severance-while-shielding-ai-critical-teams/",
+      "v": "Empresas"
+    },
+    {
+      "b": "El Gobierno firmó convenios con nueve entidades y acuerdos de información con cuatro empresas. Consultores y un fiscal marcan los límites del sistema.",
+      "body": [
+        "Según iProUP, el Gobierno acordó con las principales plataformas bajar las publicaciones de productos de contrabando. Hay convenios marco con nueve entidades. Meta, Mercado Libre, Frávega y Cetrogar firmaron además acuerdos para intercambiar información.",
+        "Un informe de Insight LAC calcula que la venta ilegal equivale al 5% del PBI. Ana Vainman, de la asociación de terminales electrónicas AFARTE, hace un cálculo. Dice que uno de cada tres celulares que se venden no entró legalmente ni se fabricó acá.",
+        "El sistema tiene tres pasos. Primero, fabricantes y plataformas mandan listados de productos sospechosos. Segundo, se cruzan con los registros de la Aduana y de Comercio Exterior. Tercero, se bajan las publicaciones. Meta ya lo hacía en Facebook e Instagram. Ahora se suma Mercado Libre. Empresas y organismos intercambiarán reportes cada tres meses.",
+        "Mercado Libre empieza con notebooks, celulares, cosméticos, juguetes y neumáticos. Después podrían sumarse calzado, textiles, ropa, cigarrillos y agroquímicos.",
+        "El convenio con la UIA prevé coordinar con ARCA, el INPI, el SENASA y la ANMAT. Habrá una mesa permanente, con plan semestral y seguimiento trimestral. Incluye locales físicos y ventas online. Según la UIA, los rubros más golpeados son neumáticos, tabaco y ópticas. También aparecen cerveza, harina, huevos y acero de mala calidad.",
+        "Martín Rappallini, presidente de la UIA, sostiene que el comercio ilegal destruye empleo formal. Dice que además evade impuestos. Según Vainman, el foco está en el revendedor y no en el viajero. Traer un celular para uso propio está permitido. Traer 20 equipos en una mochila para revender es contrabando.",
+        "Rodrigo Anselmi, consultor en comercio exterior, ve un límite. El convenio actúa sobre la vidriera, pero el producto ya pasó por la frontera. Al bajar un aviso, dice, el revendedor se muda. Pasa a grupos de WhatsApp o a cuentas nuevas de Instagram.",
+        "El fiscal de Cibercrimen Franco Pilnik marca otro hueco. El acuerdo no cubre los avisos fraudulentos de inversión, que usan la misma publicidad. Para él, el control trimestral es lento. Vainman reconoce que, pese a los esfuerzos, el contrabando no baja."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Mercado Libre y otras plataformas darán de baja avisos de contrabando",
+      "u": "https://www.iproup.com/economia-digital/72687-el-gobierno-pone-la-lupa-en-mercado-libre-para-evitar-el-contrabando",
+      "v": "E-commerce"
+    },
+    {
+      "b": "Según La Política Online, el acto en Brasilia tendría un mensaje para el peronismo. La nota se apoya en fuentes anónimas y no incluye respuesta de los invitados.",
+      "body": [
+        "Lula da Silva quiere que su asunción envíe un mensaje a la región. El acto de su cuarto mandato será el 5 de enero en Brasilia. Lo cuenta La Política Online en una nota del 1 de noviembre.",
+        "Un asesor de Lula que participa en la organización habló con LPO. Dijo que el presidente quiere a Sergio Massa y a Axel Kicillof. La invitación podría extenderse a Máximo Kirchner, como gesto de unidad del peronismo. Una fuente de LPO sostiene que la presencia peronista no es casual.",
+        "Según LPO, los asesores de Lula creen que su remontada puede repetirse en 2027 en la Argentina. Citan a estrategas de campaña. Dicen que el peronismo necesita un plebiscito contra Milei desde el primer día.",
+        "El medio afirma que Cristina Kirchner, Massa y Kicillof tienen buen contacto con los equipos de Lula. Massa mandó a Sebastián Galmarini y a Cecilia Moreau al final de la campaña del PT.",
+        "LPO describe la relación entre los gobiernos como la peor en años. Desde agosto no tienen embajadores. Según el medio, el Gobierno argentino no reconoció el triunfo de Lula. Sería el único de la región.",
+        "Sobre la salida de Flávio Bolsonaro, Itamaraty le confirmó a LPO una reunión. Fue con la encargada de negocios argentina, María Emilia Cortés. El canciller Pablo Quirno dijo en X que no hubo ningún pedido de información. Milei compartió esa publicación.",
+        "La nota no incluye respuestas de Lula ni de los posibles invitados."
+      ],
+      "id": "lat1",
+      "sec": "Latinoamérica",
+      "src": "La Política Online",
+      "t": "Lula quiere a Massa y a Kicillof en su asunción del 5 de enero",
+      "u": "https://www.lapoliticaonline.com/internacionales/lula-quiere-a-massa-y-axel-en-la-ceremonia-de-asuncion/",
+      "v": "Lula"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana0",
+    "ana1",
+    "ana2",
+    "eco0",
+    "eco1",
+    "tec0",
+    "tec1",
+    "pol0",
+    "pol1",
+    "tec4",
+    "pol2",
+    "lat0",
+    "tec3",
+    "tec2",
+    "tec5",
+    "sta0",
+    "lat1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "fon0",
+    "eco0",
+    "tec0",
+    "pol1"
+  ]
+}
