@@ -409,7 +409,9 @@ mostrar = function(datos)
         table.insert(filas, { text = "No quedan tareas para hoy", select_enabled = false })
     end
     local titulo = "Mi día · " .. tostring(datos.titulo or "")
-    if pantalla then
+    -- Se pregunta a KOReader si la lista sigue en pantalla: el aviso de cierre
+    -- de Menu no siempre llega, y una lista cerrada se actualizaba sin verse.
+    if pantalla and UIManager:isWidgetShown(pantalla) then
         pantalla:switchItemTable(titulo, filas)
         return
     end
@@ -421,13 +423,6 @@ mostrar = function(datos)
         covers_fullscreen = true,
         items_max_lines = 2,
     }
-    -- (close_callback no sirve: Menu lo llama también después de cada toque)
-    function pantalla:onCloseWidget()
-        if pantalla == self then
-            pantalla = nil
-        end
-        return Menu.onCloseWidget(self)
-    end
     UIManager:show(pantalla)
 end
 
