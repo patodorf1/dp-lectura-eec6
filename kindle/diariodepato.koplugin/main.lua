@@ -397,6 +397,13 @@ local function opciones(datos, i)
     UIManager:show(dialogo)
 end
 
+-- Letra de la lista: un 25% más grande que la de las listas de KOReader.
+local function letraLista()
+    local base = G_reader_settings:readSetting("items_font_size")
+        or Menu.getItemFontSize(G_reader_settings:readSetting("items_per_page") or Menu.items_per_page_default)
+    return math.floor(base * 1.25 + 0.5)
+end
+
 mostrar = function(datos)
     local filas = {}
     for i, t in ipairs(datos.tareas) do
@@ -421,7 +428,8 @@ mostrar = function(datos)
         is_borderless = true,
         is_popout = false,
         covers_fullscreen = true,
-        items_max_lines = 2,
+        items_max_lines = 3,  -- con la letra grande, las tareas largas ocupan más
+        items_font_size = letraLista(),
     }
     UIManager:show(pantalla)
 end
