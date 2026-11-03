@@ -24,6 +24,7 @@ apagado: un intento fallido deja el Wi-Fi prendido y la Kindle se conecta sola.
 Daily de Airtable para ordenarlas, marcarlas como resueltas o pasarlas al
 siguiente día hábil. Habla con el buzón de n8n
 "Kindle - Mi día", con la clave de clave_dia.txt (tampoco está en el repo).
+Ordenar es instantáneo: el orden se guarda en Airtable por detrás.
 ]]
 
 local ButtonDialog = require("ui/widget/buttondialog")
@@ -37,6 +38,7 @@ local NetworkMgr = require("ui/network/manager")
 local ReadHistory = require("readhistory")
 local UIManager = require("ui/uimanager")
 local WidgetContainer = require("ui/widget/container/widgetcontainer")
+local ffiutil = require("ffi/util")
 local http = require("socket.http")
 local lfs = require("libs/libkoreader-lfs")
 local logger = require("logger")
@@ -56,6 +58,9 @@ local ESPERA_WIFI = 90      -- segundos que espera a que la Kindle se conecte al
 local PASO = 3              -- cada cuántos segundos se fija si ya se conectó
 local INTENTOS_RED = 6      -- si falla la red (no un 404), prueba de nuevo hasta 6 veces...
 local PAUSA_RED = 10        -- ...cada 10 segundos
+local CALMA_ORDEN = 3       -- Mi día: segundos sin mover tareas antes de guardar el orden
+local INTENTOS_ORDEN = 3    -- si falla el guardado del orden, prueba hasta 3 veces...
+local PAUSA_ORDEN = 15      -- ...cada 15 segundos
 
 local carpeta = Device:isKindle() and "/mnt/us/documents/Diario de Pato"
     or DataStorage:getFullDataDir() .. "/Diario de Pato"
@@ -262,8 +267,10 @@ local function revisar()
 end
 
 -- Mi día ---------------------------------------------------------------------
--- Airtable manda: después de cada cambio se muestra la lista que devuelve el
--- buzón, no la que quedó armada en la Kindle.
+-- Mover una tarea es instantáneo: la lista cambia en la Kindle y el orden se
+-- guarda en Airtable por detrás, unos segundos después del último movimiento.
+-- Lo demás (traer la lista, resolver, pasar a mañana) espera al buzón y muestra
+-- la lista que devuelve Airtable.
 
 local function aviso(texto, segundos)
     UIManager:show(InfoMessage:new{ text = texto, timeout = segundos })
@@ -292,11 +299,9 @@ local function conWifi(fn)
     UIManager:scheduleIn(PASO, esperar)
 end
 
--- Manda un pedido al buzón con un cartel de espera. Devuelve la lista nueva, o nil.
-local function consultar(pedido, espera)
-    local cartel = InfoMessage:new{ text = espera }
-    UIManager:show(cartel)
-    UIManager:forceRePaint()
+-- Manda un pedido al buzón. Devuelve el código de respuesta y el texto.
+-- No toca la pantalla, así también puede correr por detrás.
+local function pedirAlBuzon(pedido)
     local cuerpo = JSON.encode(pedido)
     local respuesta = {}
     socketutil:set_timeout(socketutil.LARGE_BLOCK_TIMEOUT, socketutil.LARGE_TOTAL_TIMEOUT)
@@ -312,12 +317,21 @@ local function consultar(pedido, espera)
         sink = ltn12.sink.table(respuesta),
     })
     socketutil:reset_timeout()
+    return code, table.concat(respuesta)
+end
+
+-- Manda un pedido al buzón con un cartel de espera. Devuelve la lista nueva, o nil.
+local function consultar(pedido, espera)
+    local cartel = InfoMessage:new{ text = espera }
+    UIManager:show(cartel)
+    UIManager:forceRePaint()
+    local code, texto = pedirAlBuzon(pedido)
     UIManager:close(cartel)
     if code ~= 200 then
         logger.warn("Diario de Pato: el buzón de Mi día respondió", pedido.accion, code)
         return nil
     end
-    local ok, datos = pcall(JSON.decode, table.concat(respuesta))
+    local ok, datos = pcall(JSON.decode, texto)
     if ok and type(datos) == "table" and type(datos.tareas) == "table" then
         return datos
     end
@@ -327,26 +341,120 @@ end
 local pantalla  -- la lista abierta, si hay una
 local mostrar
 
--- Lleva la tarea i al lugar destino y guarda el orden completo.
+-- El orden que quedó en la pantalla y todavía no llegó a Airtable, y el
+-- guardado que está corriendo por detrás. Corre en otro proceso para que la
+-- pantalla no se trabe mientras espera al buzón.
+local sinGuardar
+local guardando
+local fallasOrden = 0
+local revisarGuardado
+
+local function guardarOrden()
+    if guardando or not sinGuardar then
+        return  -- si hay uno corriendo, al terminar se fija si quedó algo
+    end
+    local ids = sinGuardar
+    sinGuardar = nil
+    local ok, pid, fd = pcall(ffiutil.runInSubProcess, function(_, salida)
+        local code = pedirAlBuzon({ accion = "orden", orden = ids })
+        ffiutil.writeToFD(salida, code == 200 and "ok" or tostring(code), true)
+    end, true)
+    if not (ok and pid) then
+        -- Queda pendiente: se guarda antes del próximo pedido al buzón.
+        logger.warn("Diario de Pato: no se pudo guardar el orden por detrás", pid, fd)
+        sinGuardar = ids
+        return
+    end
+    guardando = { pid = pid, fd = fd, ids = ids }
+    UIManager:scheduleIn(1, revisarGuardado)
+end
+
+-- Cierra el guardado que corría por detrás. Devuelve nil si todavía no
+-- terminó, true si llegó a Airtable y false si falló. Si falló, ese orden
+-- vuelve a quedar pendiente, salvo que ya haya uno más nuevo.
+local function cerrarGuardado(esperar)
+    if not ffiutil.isSubProcessDone(guardando.pid, esperar) then
+        return nil
+    end
+    local llego = ffiutil.readAllFromFD(guardando.fd) == "ok"
+    if not llego then
+        sinGuardar = sinGuardar or guardando.ids
+    end
+    guardando = nil
+    return llego
+end
+
+revisarGuardado = function()
+    if not guardando then
+        return
+    end
+    local llego = cerrarGuardado(false)
+    if llego == nil then
+        UIManager:scheduleIn(1, revisarGuardado)
+    elseif llego then
+        fallasOrden = 0
+        guardarOrden()  -- por si moviste algo mientras guardaba
+    else
+        fallasOrden = fallasOrden + 1
+        logger.warn("Diario de Pato: falló el guardado del orden, intento", fallasOrden)
+        if fallasOrden == 1 then
+            aviso("No se pudo guardar el orden. Lo intento de nuevo.", 3)
+        end
+        if fallasOrden < INTENTOS_ORDEN then
+            UIManager:scheduleIn(PAUSA_ORDEN, guardarOrden)
+        else
+            fallasOrden = 0
+            aviso("No se pudo guardar el orden en Airtable. Se guarda la próxima vez que abras Mi día.")
+        end
+    end
+end
+
+-- Pide algo al buzón, pero antes hace llegar el orden que haya quedado en la
+-- Kindle: si no, Airtable devolvería la lista en el orden viejo. Si ese orden
+-- no se puede guardar, se descarta para que no trabe lo demás (por ejemplo,
+-- si una de las tareas se borró en Airtable).
+local function consultarAlDia(pedido, espera)
+    UIManager:unschedule(guardarOrden)
+    if guardando then
+        local cartel = InfoMessage:new{ text = "Guardando el orden…" }
+        UIManager:show(cartel)
+        UIManager:forceRePaint()
+        cerrarGuardado(true)
+        UIManager:close(cartel)
+    end
+    if sinGuardar then
+        local ids = sinGuardar
+        sinGuardar = nil
+        fallasOrden = 0
+        local datos = consultar({ accion = "orden", orden = ids }, "Guardando el orden…")
+        if not datos then
+            aviso("No se pudo guardar el último orden.", 3)
+        elseif pedido.accion == "lista" then
+            return datos  -- la respuesta del orden ya trae la lista
+        end
+    end
+    return consultar(pedido, espera)
+end
+
+-- Lleva la tarea i al lugar destino. Cambia en la pantalla al instante y el
+-- orden se guarda por detrás cuando dejás de mover tareas un rato.
 local function mover(datos, i, destino)
+    table.insert(datos.tareas, destino, table.remove(datos.tareas, i))
+    mostrar(datos, destino)
     local ids = {}
     for _, t in ipairs(datos.tareas) do
         table.insert(ids, t.id)
     end
-    table.insert(ids, destino, table.remove(ids, i))
-    local nuevos = consultar({ accion = "orden", orden = ids }, "Guardando en Airtable…")
-    if nuevos then
-        mostrar(nuevos)
-    else
-        aviso("No se pudo guardar. Probá de nuevo.")
-    end
+    sinGuardar = ids
+    UIManager:unschedule(guardarOrden)
+    UIManager:scheduleIn(CALMA_ORDEN, guardarOrden)
 end
 
 -- La pasa al siguiente día hábil: el buzón saltea fines de semana, feriados y vacaciones.
 local function aManana(datos, i)
-    local nuevos = consultar({ accion = "manana", id = datos.tareas[i].id }, "Moviéndola a mañana…")
+    local nuevos = consultarAlDia({ accion = "manana", id = datos.tareas[i].id }, "Moviéndola a mañana…")
     if nuevos then
-        mostrar(nuevos)
+        mostrar(nuevos, i)
         if type(nuevos.para) == "string" then
             aviso("Queda para el " .. nuevos.para, 3)
         end
@@ -356,9 +464,9 @@ local function aManana(datos, i)
 end
 
 local function resolver(datos, i)
-    local nuevos = consultar({ accion = "resuelta", id = datos.tareas[i].id }, "Marcándola como resuelta…")
+    local nuevos = consultarAlDia({ accion = "resuelta", id = datos.tareas[i].id }, "Marcándola como resuelta…")
     if nuevos then
-        mostrar(nuevos)
+        mostrar(nuevos, i)
     else
         aviso("No se pudo marcar. Probá de nuevo.")
     end
@@ -367,12 +475,15 @@ end
 local function opciones(datos, i)
     local n = #datos.tareas
     local dialogo
-    local function boton(texto, accion)
+    -- Mover no necesita internet; lo demás espera al Wi-Fi si hace falta.
+    local function boton(texto, accion, sinRed)
         return { {
             text = texto,
             callback = function()
                 UIManager:close(dialogo)
-                if accion then
+                if accion and sinRed then
+                    accion()
+                elseif accion then
                     conWifi(accion)
                 end
             end,
@@ -380,12 +491,12 @@ local function opciones(datos, i)
     end
     local botones = { boton("Marcarla como resuelta", function() resolver(datos, i) end) }
     if i > 1 then
-        table.insert(botones, boton("Ponerla primera", function() mover(datos, i, 1) end))
-        table.insert(botones, boton("Subir", function() mover(datos, i, i - 1) end))
+        table.insert(botones, boton("Ponerla primera", function() mover(datos, i, 1) end, true))
+        table.insert(botones, boton("Subir", function() mover(datos, i, i - 1) end, true))
     end
     if i < n then
-        table.insert(botones, boton("Bajar", function() mover(datos, i, i + 1) end))
-        table.insert(botones, boton("Mandarla al final", function() mover(datos, i, n) end))
+        table.insert(botones, boton("Bajar", function() mover(datos, i, i + 1) end, true))
+        table.insert(botones, boton("Mandarla al final", function() mover(datos, i, n) end, true))
     end
     table.insert(botones, boton("Moverla a mañana", function() aManana(datos, i) end))
     table.insert(botones, boton("Cancelar"))
@@ -404,7 +515,8 @@ local function letraLista()
     return math.floor(base * 1.25 + 0.5)
 end
 
-mostrar = function(datos)
+-- foco: la tarea cuya página queda a la vista (sin foco, la primera página).
+mostrar = function(datos, foco)
     local filas = {}
     for i, t in ipairs(datos.tareas) do
         table.insert(filas, {
@@ -422,7 +534,7 @@ mostrar = function(datos)
     -- No alcanza con el aviso de cierre de Menu, que no siempre llega (2-nov).
     if pantalla and UIManager:isWidgetShown(pantalla) then
         if UIManager:getTopmostVisibleWidget() == pantalla then
-            pantalla:switchItemTable(titulo, filas)
+            pantalla:switchItemTable(titulo, filas, foco)
             return
         end
         UIManager:close(pantalla)
@@ -444,7 +556,7 @@ local function abrirMiDia()
         return aviso("Falta la clave de Mi día (clave_dia.txt).")
     end
     conWifi(function()
-        local datos = consultar({ accion = "lista" }, "Trayendo tus tareas…")
+        local datos = consultarAlDia({ accion = "lista" }, "Trayendo tus tareas…")
         if datos then
             mostrar(datos)
         else
