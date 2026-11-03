@@ -1,0 +1,379 @@
+{
+  "fecha": "Martes 3 de noviembre de 2026",
+  "fuentes": "Infobae, Perfil, La Política Online, iProUP, The Decoder, Hugging Face, Urbana Play, Momentic, MIT CSAIL",
+  "lead": "dep1",
+  "notas": [
+    {
+      "b": "Se confirmó el cronograma de la fecha 16 del Clausura. Boca recibe a Defensa y Justicia en la Bombonera.",
+      "body": [
+        "La última fecha del Clausura ya tiene horarios. Se juega entre el jueves 5 y el domingo 8 de noviembre. El calendario se reacomodó por la visita del papa León XIV a la Argentina.",
+        "Boca recibe a Defensa y Justicia en la Bombonera el sábado 7, a las 17.30. Es el partido más importante para el título de la tabla anual. A la misma hora juegan sus rivales directos. Argentinos Juniors enfrenta a Huracán y Rosario Central a Estudiantes de Río Cuarto.",
+        "Según Infobae, Boca depende de sí mismo para quedar primero en la anual. Está igualado arriba con Argentinos, pero tiene mejor diferencia de gol. Los tres primeros de la anual van a la Libertadores. Del cuarto al noveno, a la Sudamericana. Belgrano, campeón del Apertura, ya tiene lugar en la Libertadores.",
+        "Boca ya está clasificado a los octavos, con 30 puntos en la Zona A, que lidera Instituto con 33. River, con 23, también está adentro. Quedan cinco lugares abiertos en los octavos. Se definen cuando cierre la fecha, el domingo 8.",
+        "El cruce provisorio de Boca es contra Independiente Rivadavia. Un Boca-River solo podría darse en semifinales. River juega antes, el jueves 5 a las 15, ante Aldosivi. La final del Clausura será el sábado 12 de diciembre, en el estadio Diego Maradona de La Plata."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Boca, Central y Argentinos definen la anual el sábado a la misma hora",
+      "u": "https://www.infobae.com/deportes/2026/11/03/se-confirmo-el-cronograma-de-la-ultima-fecha-del-clausura-boca-rosario-central-y-argentinos-definiran-el-titulo-en-simultaneo/",
+      "v": "Clausura"
+    },
+    {
+      "b": "El presidente de Boca habló después de ganarle a River 1-0 en la Bombonera. Defendió al plantel y al cuerpo técnico.",
+      "body": [
+        "Juan Román Riquelme habló tras el 1-0 y fue medido con el festejo. Dijo que Boca fue justo ganador. Reconoció que es difícil decir que se ganó un clásico jugando bien. Habló de pocas situaciones claras, todas de Boca.",
+        "Sobre las expulsiones fue directo: “La expulsión es expulsión”. Agregó que con River disminuido Boca tuvo más control de la pelota. Elogió a Sebastián Villa. Para él es el mejor jugador del fútbol argentino. También defendió a los delanteros Villa, Flores y Merentiel.",
+        "Sobre el cuerpo técnico, preguntó por qué quieren echar a los técnicos si tienen contrato. Pidió pensar en el próximo partido. Contó que Leandro Paredes se recupera físicamente y juega a un 30 por ciento de su capacidad. Recordó la agenda cargada del año.",
+        "Marcó un dato histórico: hacía más de treinta años que Boca no ganaba tres Superclásicos seguidos. El tono fue de fiesta. Dijo que los jugadores tenían que comer asado. Si querían salir a bailar, que fueran.",
+        "Lo que no se vio también habló del clima. Hubo minuto de silencio por la madre de Lionel Scaloni antes del pitazo inicial. En las tribunas hubo miles de paraguas de colores y homenajes a Maradona. Riquelme siguió el partido desde el palco con sus ayudantes.",
+        "En el vestuario, Paredes besó el escudo. Merentiel bailó con una máscara de Chucky, en modo Halloween. Di Lollo grabó un video selfie. Después del gol, Di Lollo le dedicó un saludito a la gente de Boca: “Para que vacile, vamo' Boca”."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Riquelme, tras el Superclásico: “Hoy tienen que comer asado”",
+      "u": "https://www.infobae.com/deportes/2026/11/02/ellos-no-atacaron-nunca-nuestro-arquero-tuvo-el-partido-mas-tranquilo-y-otras-7-frases-de-riquelme-tras-el-triunfo-de-boca-ante-river/",
+      "v": "Riquelme"
+    },
+    {
+      "b": "La venta arranca hoy por la plataforma de Conmebol. Los hinchas de Boca pueden comprar desde las 14, hora argentina.",
+      "body": [
+        "La venta de entradas para la final de la Sudamericana empezó este martes 3 de noviembre. Los hinchas de Atlético Mineiro abren primero, a las 12 de la Argentina. Los de Boca compran dos horas después, desde las 14.",
+        "La venta es solo por la plataforma oficial de Conmebol. La final es el sábado 21 de noviembre, a las 19.30 de la Argentina, en el estadio Metropolitano de Barranquilla.",
+        "Boca tendrá la tribuna del sector Norte. Mineiro ocupará el sector Sur. Cada club recibe 12.000 entradas populares. Los precios son de 250 dólares para la categoría 1 y 180 para la 2. La 3, reservada para los finalistas, cuesta 90. En pesos, equivalen a unos 400.000, 280.000 y 140.000.",
+        "La primera fase es para el público local. Los colombianos pueden comprar hasta cuatro entradas de categoría 2. Se pueden transferir una sola vez, a alguien con documento colombiano. La tercera fase queda asignada a los clubes finalistas."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Salen a la venta las entradas para la final de Boca y Mineiro",
+      "u": "https://www.infobae.com/deportes/2026/11/03/salen-a-la-venta-las-entradas-para-la-final-de-la-copa-sudamericana-entre-boca-y-atletico-mineiro-valores-y-horarios-de-expendio/",
+      "v": "Sudamericana"
+    },
+    {
+      "b": "El piloto de Alpine habló tras perder los puntos en México. Briatore lo elogió y dijo que se van “sin puntos, lo cual es una pena”.",
+      "body": [
+        "Franco Colapinto habló después de que la sanción lo sacara de los puntos en México. Dijo que fue un final muy amargo, después de la buena sensación de volver a sumar. Agregó que “es difícil de entender realmente”. Igual asumió la responsabilidad: “es mi error en el coche”. Contó que el equipo recibió una penalización de tiempo y perdió los puntos que merecía.",
+        "La sanción fue de 10 segundos. Además sumó un punto en su superlicencia y llegó a 5 en los últimos doce meses.",
+        "Pierre Gasly, que tuvo una sanción distinta, también pidió disculpas. Dijo que fue un error suyo bajo bandera amarilla. A Gasly lo penalizaron con un stop and go por no levantar en una zona de doble amarilla. Gasly contó que tuvo una buena largada, pero perdió potencia en la recta. Los problemas siguieron en las relargadas.",
+        "Flavio Briatore, asesor principal de Alpine, fue más medido. Dijo que estaba contento con el ritmo de carrera frente a la clasificación. Admitió que el resultado final le gustó menos. Alpine dejó México sin puntos, pese a que los dos autos habían terminado en la zona de puntos.",
+        "Elogió a Colapinto: pilotó “una carrera muy buena y consistente”. Según él, el equipo la necesitaba después de una racha de mala suerte. De Gasly dijo que manejó bien y se recuperó. También reconoció que es frustrante no sacar nada. El comunicado de Alpine salió más tarde de lo habitual. El equipo esperó la decisión de los comisarios."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Colapinto sobre la sanción: “Es difícil de entender”",
+      "u": "https://www.infobae.com/deportes/2026/11/02/franco-colapinto-hablo-tras-no-sumar-puntos-en-el-gran-premio-de-mexico-de-f1-por-una-penalizacion-es-dificil-de-entender/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "Con las sanciones, Alpine no sumó en México y Racing Bulls se escapó. La próxima parada es Brasil, el domingo 8.",
+      "body": [
+        "Las sanciones dejaron a Colapinto 15° y a Alpine sin puntos en México. Según la tabla de Infobae, Racing Bulls es quinto en constructores con 104 puntos. Alpine es sexto con 67, a 37 de distancia. Liam Lawson terminó noveno y se llevó 2 puntos para Racing Bulls.",
+        "Detrás de Alpine están Haas con 30 puntos, Audi con 23 y Williams con 12. Aston Martin tiene 7 y Cadillac todavía no sumó. Arriba mandan Mercedes con 630, Ferrari con 504, Red Bull con 380 y McLaren con 371. Entre los pilotos, Gasly tiene 43 puntos.",
+        "The Race lo ubicó en el nivel D de su ranking del GP, elaborado por Edd Straw. Verstappen quedó en el S. Straw lo vio “un paso por detrás” de Gasly el viernes y el sábado. Destacó su primera vuelta, que lo puso rumbo al octavo puesto. Sobre la sanción dijo que fue un error menor, menos grave que el de Gasly, pero muy costoso. Colapinto no reaccionó a una bandera amarilla simple en la curva 3.",
+        "El próximo Gran Premio es el de Brasil, en Interlagos. Se corre el domingo 8 de noviembre, a las 14 de la Argentina."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Alpine sigue sexto: así quedaron las tablas y qué viene en Interlagos",
+      "u": "https://www.infobae.com/deportes/2026/11/02/tras-el-octavo-puesto-de-colapinto-en-el-gp-de-mexico-asi-quedaron-las-tablas-de-la-formula-1-cuanto-le-recorto-alpine-a-racing-bulls/",
+      "v": "Alpine"
+    },
+    {
+      "autor": "Santiago Bilinkis",
+      "b": "En su columna en Todo Pasa, Santiago Bilinkis habló de Hark, una aplicación de inteligencia artificial que ya se puede usar en Argentina y que funciona como agente personal.",
+      "body": [
+        "Bilinkis presentó Hark, una aplicación de inteligencia artificial pensada para hacer de agente personal. Según la descripción de la columna en la web de Urbana Play, ya está disponible en Argentina.",
+        "Lo que plantea la columna, según esa descripción, es que la aplicación intenta anticiparse: detecta posibles necesidades, tareas o intereses del usuario a partir de los datos a los que tiene acceso.",
+        "La página trae solo esa bajada y el audio, sin transcripción. Este resumen no incluye lo que Bilinkis haya dicho al aire."
+      ],
+      "donde": "Urbana Play, programa Todo Pasa, 29 de octubre",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "Urbana Play",
+      "t": "Bilinkis: Hark, una IA que se adelanta a lo que necesitás",
+      "u": "https://urbanaplayfm.com/la-nueva-ia-que-hace-de-agente-personal-y-se-adelanta-a-tus-necesidades-santi-bilinkis/",
+      "v": "Columna",
+      "via": "la descripción de la columna en la web de Urbana Play"
+    },
+    {
+      "b": "Las acciones cayeron por sexta rueda seguida y los bonos retrocedieron. El Banco Central no compró dólares y el oficial marcó máximos nominales.",
+      "body": [
+        "Los activos argentinos tuvieron otro lunes difícil. El riesgo país superó los 800 puntos por primera vez en más de un año. Según Infobae, cerró en torno a 805.",
+        "Hace pocos días estaba en 790, con cinco caídas seguidas. Ahora las acciones suman seis ruedas en baja. El índice de la Bolsa porteña cedió 3,2% en pesos.",
+        "El dólar también subió. El mayorista cerró en $1.545,50, un récord nominal. En el Banco Nación, el dólar al público llegó a $1.565. Es el máximo histórico de esa cotización.",
+        "Aun así, el movimiento de fondo es chico. En lo que va de 2026, el dólar oficial subió apenas 0,2%. En un año, 4,3%. Sigue lejos de $1.954, el máximo que hoy admite el esquema del Banco Central.",
+        "El Banco Central no compró dólares en la jornada. Las reservas igual subieron USD 1.879 millones, hasta USD 50.441 millones. Según la nota, fue por movimientos técnicos de principio de mes.",
+        "Infobae marca tres factores detrás de la caída. Uno son las elecciones de Estados Unidos, que se votan hoy. Otro es el llamado efecto Lula, por el triunfo en Brasil. El tercero es la debilidad de Wall Street.",
+        "Hay también razones locales. Los analistas citados mencionan dudas sobre cómo el Gobierno juntará dólares para los pagos de deuda de 2027. Suman la recesión técnica y la incertidumbre política hacia las presidenciales.",
+        "Según estimaciones que recoge Infobae, casi el 60% del riesgo país responde al tema electoral. Si el mercado diera por segura la reelección de Milei, bajaría a unos 320 puntos.",
+        "Hubo una buena noticia en dólares del campo. Las liquidaciones de octubre sumaron USD 2.880 millones, un récord para ese mes. Pero la comparación está inflada: en 2025 hubo retenciones suspendidas por un tiempo. En el año, la liquidación acumula una baja de 15%.",
+        "Adcap Grupo Financiero espera otra rueda volátil y recomienda cautela con los bonos en pesos. Muchos inversores esperarán el resultado de las elecciones estadounidenses antes de volver a comprar."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "El riesgo país pasó los 800 puntos y el dólar tocó otro récord",
+      "u": "https://www.infobae.com/economia/2026/11/02/las-acciones-argentinas-cayeron-por-sexta-rueda-seguida-el-riesgo-pais-supero-los-800-puntos-y-el-bcra-no-compro-reservas/",
+      "v": "Mercados"
+    },
+    {
+      "b": "En una entrevista con The Washington Post, la expresidenta respondió \"¿por qué no?\". Mientras tanto, volvió el juicio Hotesur-Los Sauces.",
+      "body": [
+        "Cristina Kirchner abrió la puerta a una candidatura en 2027. Lo dijo en una entrevista con The Washington Post, publicada este lunes. Es su primera charla con un medio extranjero desde la condena.",
+        "Su frase fue: \"Cuando recupere mis derechos políticos, ¿por qué no?\". Según Perfil y La Política Online, la condición es levantar la inhabilitación perpetua que pesa sobre ella.",
+        "Esa inhabilitación viene de la condena en la causa Vialidad, por obra pública en Santa Cruz. Cumple la pena con arresto domiciliario en Buenos Aires. Ella niega los delitos y habla de persecución judicial.",
+        "Para recuperar sus derechos, apuesta a un reclamo ante el Comité de Derechos Humanos de la ONU. Su abogado es Rafael Valim, que también asesoró a Lula. El organismo puede señalar violaciones, pero no anula sentencias argentinas.",
+        "La Política Online reportó que el dictamen puede tardar años. Su defensa espera una medida cautelar en noviembre. Según el mismo medio, la Justicia argentina ya dijo que esa medida no sería obligatoria ni suspendería la condena.",
+        "En la entrevista, la expresidenta dijo que si hubiera robado no estaría presa. Según ella, habría podido \"comprar\" a una Justicia corrupta. Vive con visitas de cuatro horas por semana y cree que vigilan sus comunicaciones.",
+        "Sobre el escenario político, vaticinó una derrota de Trump en las elecciones de hoy en Estados Unidos. Lo leyó como señal de que el ciclo de la derecha regional puede revertirse. También dijo que el enojo contra el sistema que llevó a Milei al poder puede volverse en su contra. Perfil recuerda que bajó la inflación, pero que subieron la pobreza y el desempleo.",
+        "Reconoció además que el peronismo ayudó a su propia derrota en 2023. Perfil agrega que, según encuestas, su imagen y la de Milei rondan el 30%. Tiene 73 años y preside el PJ.",
+        "El mismo lunes se retomó el juicio por Hotesur y Los Sauces en el Tribunal Oral Federal 5, con una tercera audiencia desde las 10. Cristina es acusada de ser jefa de una asociación ilícita y de lavado de activos. Su hijo Máximo, de organizador.",
+        "La hipótesis de la Fiscalía, a cargo de Diego Velasco, es que la hotelera y la inmobiliaria familiares sirvieron para reciclar fondos. Según la acusación, el dinero venía de obra pública vial en Santa Cruz y de favores a empresarios como Lázaro Báez y Cristóbal López. Perfil no incluye la postura de las defensas."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Perfil / La Política Online",
+      "t": "Cristina Kirchner dice que será candidata en 2027 si recupera sus derechos políticos",
+      "u": "https://www.perfil.com/politica/cristina-kirchner-hablo-sobre-su-candidatura-cuando-recupere-mis-derechos-politicos-por-que-no-akWdl2B4HARm",
+      "v": "Cristina"
+    },
+    {
+      "b": "En un trimestre facturó casi USD 17.000 millones. Aun así, los costos le ganaron a los ingresos.",
+      "body": [
+        "Anthropic facturó casi USD 17.000 millones en un trimestre. Según Bloomberg, es doce veces lo que facturaba un año antes. Pero cerró con una pérdida neta de USD 23.300 millones.",
+        "Un año atrás, la pérdida había sido de USD 12.100 millones. Casi se duplicó mientras los ingresos se disparaban.",
+        "Los costos operativos fueron de USD 17.500 millones, según The Information. Superaron a los ingresos. Eso borró la ganancia operativa que la empresa había mostrado el trimestre anterior.",
+        "Anthropic explicó parte del salto. Gastó USD 5.000 millones en capacidad de cómputo de corto plazo. Y otros USD 2.000 millones en igualar donaciones de sus empleados.",
+        "El cómputo es el cuello de botella desde fines del año pasado. La empresa cerró decenas de acuerdos con Amazon, Google, SpaceX, fabricantes de chips y ex mineros de criptomonedas, según el New York Times.",
+        "Este año espera acceder a más de 3,5 gigavatios de energía. Planea duplicar esa cifra el año próximo.",
+        "El prospecto actualizado muestra compromisos por USD 895.000 millones en cómputo y alquiler de centros de datos. Es una cifra enorme frente a lo que factura hoy.",
+        "Los números salen del trámite para salir a bolsa, que ya se conoció. En ese contexto se habló de que la calificarían como inversión basura.",
+        "La oferta podría juntar unos USD 100.000 millones, según el New York Times. Hasta USD 3.500 millones vendrían de inversores japoneses, según Nikkei."
+      ],
+      "id": "tec5",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "Anthropic multiplicó por doce sus ingresos, pero perdió USD 23.000 millones",
+      "u": "https://the-decoder.com/anthropic-grows-revenue-twelvefold-but-posts-23-billion-loss/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "Investigadores del MIT hicieron que GPT-6 Astra lea y modifique a mano los números internos de modelos más chicos. En uno, el acierto en matemática pasó de 8% a 48%.",
+      "body": [
+        "Un equipo del MIT publicó el 2 de noviembre un experimento con GPT-6 Astra, el modelo principal de OpenAI. Le pidieron algo inusual: leer y reescribir los números internos de otra red neuronal.",
+        "Esos números guardan todo lo que el modelo aprendió. Normalmente se ajustan reentrenándolo durante días. Acá no hubo reentrenamiento: el modelo editó los números directamente, como quien corrige una pieza de un motor.",
+        "El caso más fuerte fue Qwen3.5-0.8B, un modelo chico. Se trababa en bucles: 93% de sus respuestas chocaban con el tope de largo. Astra rastreó el problema hasta dos capas internas y borró una dirección de cálculo.",
+        "Tocó apenas 0,016% del modelo. En matemática de nivel escolar, el acierto subió de 13,8% a 67,1%. En una prueba más difícil de matemática, de 7,9% a 48,1%.",
+        "Para lograrlo pudo probar el modelo 50 veces y ver qué pasaba. Con solo 10 pruebas, la mejora fue mucho menor: de 13,8% a 25,7%.",
+        "Hubo otros experimentos. Astra adivinó a qué juego fue entrenada cada red, mirando solo sus números. Escribió desde cero redes que juegan, sin entrenamiento. En Breakout hizo 517 puntos, contra 25 de un entrenamiento clásico largo.",
+        "También arregló un auto virtual que nunca llegaba a la meta: tras la edición, tuvo éxito en los 1.024 intentos.",
+        "Los autores aclaran que son resultados \"muy tempranos\". En un modelo sin bucles, Gemma de 270 millones, no logró mejoras: solo sirve para quitar obstáculos, no para sumar habilidades. Planean armar una prueba estándar.",
+        "Por qué importa: hasta ahora corregir un modelo exigía reentrenarlo. Acá otro modelo lo hace editando una fracción mínima, y de forma explicable. Los autores sugieren usarlo para detectar conductas ocultas sin correr el modelo. Todavía son pruebas con modelos chicos y dependen de poder probar el modelo repetidas veces."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "Rikiya Takehi y colegas (MIT CSAIL)",
+      "t": "Una IA le arregla el cerebro a otra: editó 0,016% de Qwen y mejoró su matemática",
+      "u": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "v": "Investigación"
+    },
+    {
+      "b": "En la Casa Rosada prevén cimbronazos en los mercados esta semana, pero niegan efecto electoral. Milei viaja a Madrid esta noche y el Papa llega el domingo.",
+      "body": [
+        "Hoy se votan las elecciones legislativas de Estados Unidos. En la Casa Rosada las siguen de cerca. Según Infobae, esperan que los republicanos pierdan y que Trump se debilite en el Congreso.",
+        "Un funcionario le dijo a Infobae que perderán \"como perdieron todos los oficialismos\". Se renuevan toda la Cámara de Representantes y un tercio del Senado. Las encuestas dan ventaja demócrata en Diputados y no alcanzan para cambiar el Senado.",
+        "El Gobierno envió observadores: Eduardo \"Lule\" Menem, Ignacio Devitt e Ignacio María De la Riva. Son funcionarios de Presidencia y de la Jefatura de Gabinete.",
+        "Fuentes libertarias prevén movimientos en los mercados si pierde Trump. Dicen que serían pasajeros y que durarían esta semana. Admiten que el riesgo país podría subir y los bonos bajar.",
+        "Sobre la política local, el Gobierno descarta efectos. Una fuente dijo que faltan más de un año para las presidenciales y que las legislativas de Estados Unidos no anticipan lo que viene. Otra dijo que los progresistas tendrán \"su semana\" y poco más.",
+        "Hay voces que advierten otra cosa. Un Congreso republicano más débil podría afectar la política exterior y la ayuda a aliados como la Argentina, según Infobae. Del otro lado, la opositora Cristina Kirchner vaticinó una derrota de Trump. La leyó como señal de que la derecha regional puede perder terreno.",
+        "En el Gobierno aseguran que el vínculo entre Trump y Milei no cambiará. Dicen que el interés de Estados Unidos en la Argentina es estratégico y de largo plazo. Tras la derrota de Flávio Bolsonaro en Brasil, Milei quiere seguir como principal aliado regional de Trump.",
+        "Mientras tanto, Milei sale hoy a las 23 rumbo a Madrid, con Karina Milei y el canciller Pablo Quirno. Va a la Cumbre Iberoamericana. La actividad será el miércoles 4 y el jueves 5, y la agenda oficial se anunciará más adelante.",
+        "Antes del viaje, a las 11, habla el vocero Adrián Ravier, según la agenda que publicó Perfil.",
+        "El domingo 8 llega el papa León XIV, en su primera visita oficial a la Argentina. Habrá actividades en Buenos Aires, Córdoba y Luján."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "El Gobierno espera una derrota de Trump y dice que no afectará a 2027",
+      "u": "https://www.infobae.com/politica/2026/11/02/el-gobierno-preve-movimientos-en-los-mercados-si-pierde-trump-pero-descarta-efectos-electorales-locales/",
+      "v": "Casa Rosada"
+    },
+    {
+      "b": "Solo los ingenieros del banco conservarán el acceso. Los demás empleados quedaron afuera.",
+      "body": [
+        "Goldman Sachs restringió el uso de herramientas de programación con IA a la mayoría de sus empleados. Entre ellas están Claude Code, de Anthropic, y GitHub Copilot. Solo los ingenieros pueden seguir usándolas.",
+        "Lo reveló Bloomberg, que cita lineamientos internos de octubre. La medida, según el medio, genera malestar entre el personal.",
+        "Traders y banqueros las usaban desde hacía meses. Las aplicaban para seguir el flujo de operaciones y para armar contenido.",
+        "El giro contrasta con lo que decía el banco en julio. Su director de tecnología, Marco Argenti, elogió entonces en una entrevista que personal sin formación técnica programara con IA, el llamado \"vibe coding\".",
+        "El esquema previsto era que un trader o alguien de gestión de activos probara una idea con IA. Después un ingeniero la llevaría a producción. Ese plan ya no rige.",
+        "El vocero Nick Carcaterra habló de \"productividad y gestión de riesgos\", según Bloomberg. Fue la única razón que dio el banco.",
+        "Dijo además que terminó la etapa de experimentación. Las herramientas quedan para quienes mejor puedan aprovecharlas a largo plazo.",
+        "No se informó cuántos empleados quedaron afuera ni qué riesgos concretos preocupan al banco."
+      ],
+      "id": "tec6",
+      "sec": "Tecnología",
+      "src": "The Decoder",
+      "t": "Goldman Sachs les quita las herramientas de código con IA a traders y banqueros",
+      "u": "https://the-decoder.com/goldman-sachs-pulls-ai-coding-tools-from-traders-and-bankers/",
+      "v": "Goldman Sachs"
+    },
+    {
+      "b": "La actividad fabril acumula nueve meses de caída y produce 11% menos que en 2022 y 2023. El gobierno y las provincias buscan un acuerdo para bajar impuestos.",
+      "body": [
+        "La Unión Industrial Argentina hace hoy su Conferencia Industrial número 32. Es el encuentro más importante del año para el sector. Se hace en el Golden Center, en Buenos Aires.",
+        "Estarán el ministro Luis Caputo y el jefe de Gabinete, Diego Santilli. También cinco gobernadores: Llaryora, Pullaro, Orrego, Jalil y Figueroa. Jorge Macri abre el acto. Cierran el presidente de la UIA, Martín Rappallini, y Santilli.",
+        "El clima es de poca actividad. La industria acumula nueve meses seguidos de baja, según la UIA. Produce cerca de 11% menos que en 2022 y 2023.",
+        "En septiembre la producción cayó 0,2% frente a agosto y 3,4% frente a un año antes. De enero a septiembre, la baja es de 2,8%. Son estimaciones preliminares del centro de estudios de la UIA.",
+        "El sector automotor está 17% abajo en lo que va del año. Los despachos de cemento subieron 14,3% en el mes, por más obra pública. Aun así, siguen entre 25% y 30% debajo de 2022.",
+        "La relación del Gobierno con los industriales está tensa desde 2024. Milei los llamó \"prebendarios\". En el Día de la Industria, en septiembre, no fue. Rappallini habló entonces de 90.000 empleos formales perdidos desde agosto de 2023.",
+        "Hoy hay un tema central en agenda: un pacto fiscal industrial entre Nación, provincias y municipios. La idea es bajar de a poco los impuestos a la producción. La UIA apunta a Ingresos Brutos, el impuesto de sellos, las tasas municipales y el impuesto al cheque.",
+        "Otro reclamo es el contrabando. Según la UIA, seis de cada diez fabricantes lo sufren. Calcula pérdidas fiscales de USD 2.300 millones al año. En celulares, el mercado ilegal pasó de 7% en 2023 a 35% en 2025.",
+        "La semana pasada, en Rosario, hubo una ronda de negocios por el RIGI, el régimen de grandes inversiones. Participaron 43 proyectos de minería, energía e infraestructura y unas 1.800 pymes. La UIA pide que esas inversiones compren a proveedores locales."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "La UIA junta a Caputo y a cinco gobernadores con la industria en baja",
+      "u": "https://www.infobae.com/economia/2026/11/03/la-uia-reune-a-caputo-y-los-gobernadores-en-el-mayor-evento-industrial-mientras-la-actividad-acumula-nueve-meses-de-baja/",
+      "v": "Industria"
+    },
+    {
+      "b": "Es una actualización menor del modelo de DeepSeek, con licencia libre. La empresa china declara mejoras en programación, tareas de agente y lectura de imágenes.",
+      "body": [
+        "DeepSeek, la empresa china de IA, subió a Hugging Face una versión nueva de su modelo Flash. Esta semana figura segunda en la lista de tendencias de modelos abiertos del sitio.",
+        "La propia empresa la presenta como una actualización menor. Dice que mejora el razonamiento, la programación, las tareas de agente y la lectura de imágenes. Afirma que además tarda menos y escribe respuestas más cortas.",
+        "Tiene 763 mil millones de parámetros y puede leer textos larguísimos, de hasta un millón de unidades. Recibe texto e imágenes. La licencia es MIT, una de las más permisivas: se puede usar y modificar, incluso con fines comerciales.",
+        "La página marca 177.009 descargas en el último mes y 4.680 \"me gusta\".",
+        "Las cifras de rendimiento son las que declara el fabricante. Contra la versión anterior, la prueba de tareas en terminal subió de 31,2 a 42,3. Una prueba de exámenes difíciles pasó de 36,8 a 42,6.",
+        "DeepSeek también se compara con otros modelos. Dice superar a GPT-5.6 Sol y a Opus 5 en pruebas de automatización y en un examen para agentes. Opus 5 le gana en la mayoría del resto, como terminal y examen difícil.",
+        "Quien quiera usarlo puede hacerlo desde servicios en la nube o en máquinas propias. La página no indica la fecha de lanzamiento ni trae un listado de cambios.",
+        "Por qué importa: es un modelo grande que cualquiera puede bajar y usar sin pagar licencia. Para quien arma automatizaciones con IA, permite probar agentes sin depender de un proveedor. Las mejoras son números de la propia empresa y no hay evaluación independiente en la página. Contra los modelos cerrados más fuertes, todavía queda detrás en varias pruebas."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Hugging Face / DeepSeek",
+      "t": "DeepSeek-V4.1-Flash-1017, el segundo modelo abierto más en tendencia en Hugging Face",
+      "u": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "v": "Open source"
+    },
+    {
+      "b": "La billetera del grupo Telecom espera la aprobación del Banco Central para operar como banco digital. Quiere ofrecer lo que Mercado Pago, hoy, no puede.",
+      "body": [
+        "Telecom y el Banco Macro avanzan con Personal Bank. Es un banco digital ligado a la billetera Personal Pay. Según iProUP, falta la autorización del Banco Central.",
+        "El camino se armó este año. Macro compró el 50% de Personal Pay. Los socios compraron además el Banco Sáenz. En octubre registraron el dominio personalbank.com.ar.",
+        "La billetera tiene unos 5 millones de usuarios. Según el Banco Central, en agosto tenía 4% de los saldos en cuenta y 4% del dinero invertido en fondos entre las billeteras. Solo Mercado Pago está por encima.",
+        "El modelo sería de tres marcas. Personal Pay, para el usuario masivo y joven, a veces poco bancarizado. Personal Bank, para el cliente de abono. Macro, para empresas, pymes y clientes de mayor monto.",
+        "Diego Kupferberg, experto en negocios digitales, lo describe como un embudo. El usuario entra por la app y crece hacia productos bancarios: depósitos, crédito, cobro de sueldos. Sáenz serviría de puente hacia Macro.",
+        "La ventaja estaría en los datos de la telefonía. Pago de facturas, recargas, antigüedad de la línea y tipo de celular podrían servir para medir riesgo. Eso permitiría dar crédito a gente que los bancos tradicionales rechazan.",
+        "Francisco Chaves del Valle, consultor y profesor del ITBA, imagina ofertas ligadas al celular. Un historial de pagos podría abrir una tarjeta o un préstamo dentro de la app. También financiación de equipos con seguro y cuentas para comercios clientes de Telecom.",
+        "Según él, la diferencia con Mercado Pago no estaría en los pagos con QR. Estaría en combinar servicios de telecomunicaciones con productos financieros.",
+        "El grupo mira además la región. Personal Pay ya opera en Paraguay y ofrece pagos Pix en Brasil. Macro tiene filiales en Uruguay. En Paraguay competiría con Tigo Money y Claro Pay.",
+        "Ya hubo aprobaciones para Cocos y Revolut. Para Personal Bank, el próximo paso es la luz verde del regulador."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Personal Pay prepara un banco con Macro y Telecom",
+      "u": "https://www.iproup.com/finanzas/72655-personal-pay-quiere-ser-banco-y-puede-cambiar-el-mapa-fintech",
+      "v": "Fintech"
+    },
+    {
+      "b": "La empresa dice que su agente \"Mo\" actúa como un ingeniero de calidad. Prueba aplicaciones web y de celular y avisa qué se rompió.",
+      "body": [
+        "Momentic, una empresa que pasó por la aceleradora Y Combinator, se presentó esta semana en Hacker News con Mo, un agente de IA que prueba aplicaciones de punta a punta. Funciona con sitios web y con apps de iPhone y Android.",
+        "Mo recorre la app como lo haría un usuario. Cuando encuentra un error, lo informa y deja los pasos para repetirlo.",
+        "Cada recorrido se convierte en una prueba que se vuelve a correr con cada cambio que hacen los programadores. Así el error no reaparece sin que nadie se entere.",
+        "Las pruebas se escriben con frases en lenguaje normal. Si la pantalla cambia de diseño, el sistema las repara solo y propone los arreglos para que una persona los revise.",
+        "La empresa cita como clientes a Notion, Webflow, Quora, Runway y Retool. Según sus propios números, se crearon unas 77.800 pruebas y se corrieron 70,6 millones de veces. Dicen que detectaron 117.010 errores.",
+        "También afirma que Mo halló unos 269 errores marcados de antemano en 60 minutos, contra unos 86 del agente que le sigue. Es una medición propia, sin verificación externa.",
+        "Hay plan gratuito sin tarjeta y planes para empresas con consulta comercial.",
+        "Por qué importa: probar una app suele exigir que alguien escriba y mantenga pruebas a mano. Acá el agente la recorre, arma las pruebas y las repara cuando cambia el diseño. Les sirve sobre todo a equipos que sacan cambios seguido, incluso con código escrito por otros agentes. Las cifras de rendimiento son de la propia empresa y no tienen verificación externa."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "Momentic",
+      "t": "Momentic, el agente que prueba tu app buscando errores",
+      "u": "https://momentic.ai/",
+      "v": "Agentes"
+    },
+    {
+      "b": "El diputado brasileño y dos estrategas de campaña se reunieron con Massa. Hablaron de la experiencia de Lula y de la unidad del peronismo hacia 2027.",
+      "body": [
+        "Sergio Massa recibió este lunes a André Janones, diputado brasileño conocido como \"el general de Lula\". Con él fueron los estrategas Chico Kertész y Rafael Marroquim. Según Infobae, charlaron en la sede del Frente Renovador.",
+        "Los temas fueron tres. La campaña que le dio a Lula su cuarto mandato. El armado de un frente contra Javier Milei de cara a 2027. Y la unidad del peronismo.",
+        "Janones tiene 42 años y es diputado por Minas Gerais. Armó el \"Ejército de Lula\", una red de WhatsApp. Empezó con unas 50.000 personas y superó los 10 millones en el balotaje. En 2022 había renunciado a su precandidatura para apoyar a Lula.",
+        "Kertész y Marroquim vienen de Nordx, la agencia que trabajó en la campaña junto al ministro de Comunicación, Sidônio Palmeira. Definen su método como \"figital\": video, análisis electoral, acciones en la calle y redes. Marroquim dijo que una estrategia digital necesita una organización política detrás.",
+        "Los números de Lula, que recoge Infobae: pasó de 45,16% en la primera vuelta a 51,79% en el balotaje. Flávio Bolsonaro tuvo 47,03% y 48,21%. Lula revirtió el resultado en 213 municipios y puso el foco en salarios, endeudamiento familiar y políticas sociales.",
+        "Massa no tiene candidatura anunciada ni cargo. Según su entorno, quiere ser un \"arquitecto\" de la estrategia para derrotar a Milei. Habla con dirigentes del PJ, gobernadores, intendentes y otras fuerzas. Perdió el balotaje de 2023 contra Milei.",
+        "Infobae marca una diferencia con el caso brasileño. Lula llegó con liderazgo consolidado, un partido ordenado y los recursos de la Presidencia. La oposición argentina todavía tiene que definir liderazgos, resolver disputas internas y escribir un programa común.",
+        "La nota menciona tensiones entre Cristina Kirchner y Axel Kicillof como parte de esas diferencias. Ningún dirigente confirmó una candidatura."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae",
+      "t": "Janones, el \"general de Lula\", visitó a Massa para hablar del frente anti Milei",
+      "u": "https://www.infobae.com/politica/2026/11/02/massa-se-reunio-con-janones-el-general-de-lula-la-experiencia-de-brasil-la-unidad-y-el-frente-anti-milei-en-la-agenda/",
+      "v": "Brasil"
+    },
+    {
+      "b": "Los centros de servicios compartidos explican cerca de dos tercios de esas ventas. J.P. Morgan y otras firmas amplían su presencia en el país.",
+      "body": [
+        "La economía del conocimiento superó los USD 10.000 millones de exportaciones en los últimos doce meses. Emplea a unas 350.000 personas, según iProUP. Casi dos tercios de esas ventas vienen de los centros de servicios compartidos.",
+        "Esos centros hacen tareas para empresas globales desde la Argentina. Por ejemplo, contabilidad, finanzas y soporte. En lo que va de 2026 se superaron los 100 centros en operación.",
+        "J.P. Morgan firmó el mayor alquiler corporativo en dos décadas. Ocupará 20 pisos de un campus en Núñez para 2027. Prevé duplicar su capacidad local, crear 1.500 empleos en cinco años y pasar de 5.000 colaboradores.",
+        "La consultora británica Beyond anunció en mayo una inversión de USD 55 millones. Montará un centro de servicios de inteligencia artificial para exportar a América y Europa. EY, PwC, Mercado Libre, Mphasis y Accenture también planean invertir.",
+        "Michael Page relevó a una cuarta parte de los centros entre julio y agosto. El 86% mantuvo su productividad en un contexto de inversiones más cautelosas. El 42% no prevé cambios. El 26% sumará funciones nuevas y el 21% sumará funciones y mercados. El 11% proyecta entrar a nuevos países.",
+        "Los centros buscan cada vez más gente en contabilidad y finanzas transaccionales (37%) y en automatización y mejora continua (32%). Los perfiles tecnológicos más pedidos son ciberseguridad, datos y nube.",
+        "Sobre sueldos, el 69% prevé aumentos de entre 21% y 30% en 2026. Seis de cada diez centros piden presencialidad dos o tres días por semana.",
+        "Alejandro Servide, de Randstad, explica el auge con costos competitivos, buen inglés y portugués, y un huso horario compatible con Estados Unidos y Europa. Compiten con India, Malasia, Polonia, España y Filipinas.",
+        "Ezequiel Arcioni, de Michael Page, dice que el siguiente paso es asumir funciones más complejas. La única cifra concreta de nuevos empleos que da la nota es la de J.P. Morgan."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "La economía del conocimiento exporta USD 10.000 millones",
+      "u": "https://www.iproup.com/innovacion/72700-argentina-negocio-40-exporta-usd-10000-m-y-creara-miles-de-empleos",
+      "v": "Conocimiento"
+    }
+  ],
+  "orden": [
+    "dep1",
+    "dep0",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana0",
+    "eco0",
+    "pol0",
+    "tec5",
+    "tec2",
+    "pol1",
+    "tec6",
+    "eco1",
+    "tec4",
+    "sta0",
+    "tec0",
+    "lat0",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "fon0",
+    "eco0",
+    "pol0",
+    "tec2"
+  ]
+}
