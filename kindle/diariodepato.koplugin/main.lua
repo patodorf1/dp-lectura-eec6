@@ -416,11 +416,16 @@ mostrar = function(datos)
         table.insert(filas, { text = "No quedan tareas para hoy", select_enabled = false })
     end
     local titulo = "Mi día · " .. tostring(datos.titulo or "")
-    -- Se pregunta a KOReader si la lista sigue en pantalla: el aviso de cierre
-    -- de Menu no siempre llega, y una lista cerrada se actualizaba sin verse.
+    -- La lista se actualiza solo si es lo que está arriba de todo. Si quedó
+    -- abierta de otro día, el diario que se abre al despertar la tapa y se
+    -- actualizaba sin verse (pasó el 3-nov): se cierra y se arma una nueva.
+    -- No alcanza con el aviso de cierre de Menu, que no siempre llega (2-nov).
     if pantalla and UIManager:isWidgetShown(pantalla) then
-        pantalla:switchItemTable(titulo, filas)
-        return
+        if UIManager:getTopmostVisibleWidget() == pantalla then
+            pantalla:switchItemTable(titulo, filas)
+            return
+        end
+        UIManager:close(pantalla)
     end
     pantalla = Menu:new{
         title = titulo,
