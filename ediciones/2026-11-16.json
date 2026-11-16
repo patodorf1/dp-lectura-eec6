@@ -1,0 +1,319 @@
+{
+  "fecha": "Lunes 16 de noviembre de 2026",
+  "fuentes": "Infobae, El Destape, Noticias Argentinas, Perfil, El Cronista, iProfesional, Mercado, TechCrunch, Cybersecurity News, Cursor, Hugging Face, AI Weekly",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "Scaloni mueve al menos la mitad del equipo para el último partido del año. El plantel viaja hoy a Córdoba.",
+      "body": [
+        "Después de la derrota con Uruguay, la Selección ya mira el amistoso con Costa Rica. Es el último partido de Argentina en 2026.",
+        "Se juega mañana, martes 17 de noviembre, a las 20, en el estadio Mario Alberto Kempes de Córdoba. Lo transmiten TyC Sports y Telefe.",
+        "Scaloni cambiaría al menos a la mitad del equipo. La idea es darles minutos a los que casi no jugaron. Suenan Agustín Giay, Román Vega, Equi Fernández, Mariano Troilo y Máximo Perrone.",
+        "También aparecen Valentín Barco, Franco Mastantuono, Gianluca Prestianni, Matías Soulé y Flaco López, como titulares o suplentes.",
+        "El sábado 14, en Ezeiza, los que más jugaron ante Uruguay hicieron trabajo regenerativo. El resto practicó fútbol, once contra once, en tres bloques de 15 minutos. Algunos chicos de la Sub 20 se sumaron como sparring.",
+        "El domingo 15 hubo otra práctica, a puertas cerradas, desde las 18.30. Después, el tradicional asado del plantel en el predio.",
+        "Hoy, lunes 16, la delegación viaja a Córdoba a las 10.30. La conferencia de Scaloni, la última del año, sería por la tarde, cuando el grupo ya esté alojado. El horario no estaba confirmado.",
+        "Hay otro dato para el partido. Se espera que el Kempes no esté lleno, como pasó con Uruguay en La Bombonera."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "El Destape / Noticias Argentinas",
+      "t": "La Selección piensa en Costa Rica: cambios, asado y viaje a Córdoba",
+      "u": "https://www.eldestapeweb.com/deportes/seleccion-argentina-piensa-costa-rica-muchos-cambios-asado-viaje-cordoba-conferencia-scaloni-20261115111023",
+      "v": "Selección"
+    },
+    {
+      "b": "El capitán de Boca dijo que su salida ante Banfield estaba prevista. Y le contestó con humor a Arruabarrena.",
+      "body": [
+        "Tras el 3-0 a Banfield en Mendoza, Leandro Paredes habló de su estado físico. Dijo que su salida estaba planificada.",
+        "El capitán asistió a Santiago Ascacibar en el primer gol. Lo reemplazó Tomás Belmonte cuando faltaban unos 15 minutos.",
+        "Según Paredes, estaba previsto que jugara esa cantidad de minutos. No habló de ninguna molestia.",
+        "También destacó el apoyo de la gente. Contó que siempre soñó con que la Bombonera lo ovacionara.",
+        "Hubo un momento de humor. Arruabarrena había bromeado con que Paredes pierde bastante al truco. El capitán respondió que «últimamente están mejor».",
+        "El técnico, en tanto, elogió a Paredes como capitán y líder. Y explicó la rotación del equipo: Lauti Blanco tenía una molestia y Ascacibar había recibido un golpe.",
+        "Lo que viene para Boca es un calendario cargado. La final de la Copa Sudamericana es el sábado 21 de noviembre, a las 19.30, en Barranquilla. El viaje supera los 5.000 kilómetros.",
+        "Antes de la final de la Copa Argentina, el miércoles 2 de diciembre ante Platense, hay otros partidos. El miércoles 25 de noviembre, a las 21, en La Bombonera, juega un partido postergado: el octavo de final del Clausura contra Independiente Rivadavia.",
+        "Si avanza, los cuartos serían el fin de semana del 29 de noviembre, contra Gimnasia o Newell's. Las semifinales, el fin de semana del 6 de diciembre.",
+        "La final del Clausura sería el sábado 12 de diciembre, en el Estadio Único de La Plata. Y el sábado 19, en el Kempes, Boca enfrentaría a Belgrano por el Trofeo de Campeones.",
+        "Boca ya ganó la Tabla Anual 2026. Su último título continental fue la Recopa Sudamericana 2008."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Paredes habló del cambio, de la ovación y de la chicana del Vasco",
+      "u": "https://www.infobae.com/deportes/2026/11/15/leandro-paredes-hablo-tras-el-pase-de-boca-a-la-final-de-la-copa-argentina-de-su-estado-fisico-a-la-respuesta-por-la-chicana-del-vasco-arruabarrena/",
+      "v": "Boca"
+    },
+    {
+      "b": "Bottas tiene contrato, pero su continuidad no está asegurada. Colton Herta y Frederik Vesti aparecen como candidatos.",
+      "body": [
+        "La grilla de 2027 casi está cerrada. Queda una duda importante: el segundo asiento de Cadillac.",
+        "Valtteri Bottas tiene contrato, pero podría ser reemplazado por su rendimiento. En Brasil se quedó sin correr por una falla en la tuerca de una rueda.",
+        "El finlandés dice que habla seguido con Dan Towriss, el CEO del equipo. Según él, la última respuesta fue que no piensan cambiar nada. Igual, la decisión final debe confirmarla la junta directiva.",
+        "Del otro lado está Colton Herta, estadounidense. Lo impulsa TWG, el accionista mayoritario, que quiere un piloto de su país. Herta consiguió la Superlicencia en Brasil, aunque sus resultados en Fórmula 2 no son buenos.",
+        "El otro candidato es el danés Frederik Vesti, de 24 años. Es piloto de reserva de Mercedes desde 2023 y fue subcampeón de Fórmula 2 ese año. Además corre en IMSA con un Cadillac y tiene vínculos con los programas de General Motors.",
+        "General Motors, según la nota, estaría más enfocada en la continuidad del proyecto técnico. Eso favorecería a Bottas, que lleva más de diez años en la F1.",
+        "Según el medio alemán Motorsport Total, las partes no tienen una postura unificada. También circulan versiones sobre la venta de parte de las acciones de Mark Walter en la escudería.",
+        "Bottas prefiere no meterse en los rumores. «Trato de que no me afecte», dijo.",
+        "En el resto de la grilla, Racing Bulls ya confirmó a Liam Lawson y Arvid Lindblad. Sigue pendiente un asiento de Haas, aunque el lugar de Oliver Bearman no estaría en riesgo. Franco Colapinto ya tiene asiento confirmado en Alpine para 2027."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Cadillac define el último asiento libre de la F1 2027",
+      "u": "https://www.infobae.com/deportes/2026/11/14/nuevo-capitulo-por-la-ultima-butaca-sin-dueno-en-la-formula-1-una-prueba-de-fuego-el-nuevo-candidato-y-el-mensaje-del-titular/",
+      "v": "Cadillac"
+    },
+    {
+      "b": "Un atacante usó una clave filtrada de un proveedor para robar registros de chats y entrar a servicios internos de Cursor. El 29 de octubre colocó versiones maliciosas de la extensión de Claude Code.",
+      "body": [
+        "Cursor, el programa para programar con IA donde trabajan agentes, confirmó una brecha de seguridad. La empresa la atribuye a una clave de acceso que quedó expuesta en Fireworks AI, uno de sus proveedores.",
+        "Era una clave de solo lectura sobre un espacio de almacenamiento compartido. Con ella, el atacante se llevó registros de chats de agentes de programación, sobre todo de 2025.",
+        "Eran sesiones fuera del Modo Privacidad, que Cursor podía usar para entrenar modelos. Algunos registros incluían credenciales que no se habían borrado.",
+        "Con esos datos, el atacante entró a servicios internos. Cursor menciona repositorios archivados, registros de soporte y métricas de uso.",
+        "El 29 de octubre pasó lo más delicado. El atacante dejó versiones adulteradas de la extensión de Claude Code, el agente de Anthropic, en el marketplace de extensiones de Cursor. Eran la 2.1.312 y la 2.1.313, para Windows y macOS.",
+        "Cursor aclara que Anthropic no publicó esas versiones y que su producto no era vulnerable. Estuvieron disponibles unas 11 horas. Hasta 5.000 usuarios pudieron recibirlas, pero esa cifra marca un alcance posible, no infecciones confirmadas.",
+        "El código malicioso juntaba datos de la computadora e intentaba abrir una puerta de acceso remoto para el atacante. Según Cursor, errores de programación y la falta de permisos de administrador frenaron ese acceso en la mayoría de los equipos.",
+        "Quien instaló esas versiones en esa ventana debe revisar su equipo. Desinstalar la extensión no alcanza, porque pueden quedar accesos escondidos que siguen funcionando. Cursor recomienda aislar la máquina, eliminar esos accesos, rotar contraseñas y claves, y evaluar si conviene reconstruir el equipo.",
+        "Cursor dice que movió el tráfico fuera de Fireworks, revocó el acceso del proveedor y cambió sus credenciales internas. También reconstruyó el marketplace y amplió el escaneo de secretos. Afirma que el incidente está contenido y que la última actividad, del 1 de noviembre, fue bloqueada.",
+        "Según la empresa, el Modo Privacidad, los repositorios de los clientes y las actualizaciones oficiales no fueron afectados. Informa además que menos del 0,05 % de los usuarios tuvo registros expuestos.",
+        "Por qué importa: los agentes de programación tienen acceso a código, contraseñas y servidores de quienes los usan. Por eso un ataque a su cadena de distribución pega directo en los equipos de desarrollo. La noticia muestra que el riesgo también está en lo que se guarda de los chats y en las extensiones que se instalan. Cursor no explicó por qué conservaba registros viejos con credenciales."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "Cyber Security News / Cursor",
+      "t": "Cursor confirmó una brecha: una clave expuesta terminó en una extensión de Claude Code adulterada",
+      "u": "https://cybersecuritynews.com/cursor-data-breach",
+      "v": "Seguridad"
+    },
+    {
+      "b": "Un relevamiento de la consultora Zentrix, que Milei había criticado, mide cuánto aguanta el sueldo. Solo tres de cada diez llegan a fin de mes.",
+      "body": [
+        "El 67,7% de los argentinos se queda sin ingresos como tarde el día 20. Es el dato central del Monitor de Opinión Pública de octubre, de la consultora Zentrix.",
+        "Para muchos, el problema empieza antes. Un 35,3% no pasa del día 15. Solo el 31,1% llega a fin de mes, y apenas el 7,5% logra ahorrar.",
+        "La brecha por clase social es grande. En la clase baja, el 82,4% se queda sin plata antes del día 20. Nadie declara poder ahorrar. En la clase media, ese grupo llega al 60,6%. En septiembre era el 51,4%.",
+        "En la clase alta pasa lo contrario. El 75,6% llega a fin de mes y el 40% ahorra. Entre los de 18 a 39 años, el 75% se queda sin plata antes del día 20.",
+        "La deuda aparece como parche. El 59,4% pidió un crédito o se endeudó en los últimos seis meses. De ellos, el 57,7% dice que fue por gastos básicos, como comida y salud. El informe lo describe como un círculo. El crédito cubre las últimas semanas del mes. Al pagarlo, resta ingreso del mes siguiente.",
+        "También hay desconfianza con los números oficiales. El 80,6% cree que su sueldo no le gana a la inflación. Lo piensa incluso el 59% de quienes votaron al oficialismo. Además, el 69,6% dice que el dato del Indec no refleja los precios que ve.",
+        "La mirada sobre la economía empeoró. El 63,9% la califica mal, contra el 61,5% de septiembre. Sobre su situación personal, el 40% la ve negativa.",
+        "Es una encuesta de opinión: mide lo que la gente declara, no sus ingresos reales. Milei cuestionó estos informes en octubre, en la Argentina Oil & Gas Expo, en Neuquén. El director de Zentrix, Claudio Montiel, defendió el trabajo. Dijo que la consultora asesora a empresas y dirigentes. Y que sus mediciones no tienen fin partidario."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Dos de cada tres argentinos se quedan sin plata antes del día 20",
+      "u": "https://www.infobae.com/economia/2026/11/15/nuevos-resultados-de-un-relevamiento-que-cuestiono-milei-dos-de-cada-tres-argentinos-agotan-sus-ingresos-el-20-de-cada-mes/",
+      "v": "Bolsillo"
+    },
+    {
+      "b": "Mientras el Gobierno negocia con las provincias, la senadora libertaria desafía a los Milei. Esta semana se define buena parte de la agenda legislativa.",
+      "body": [
+        "Ya se informó que la Casa Rosada ofrece colectoras a gobernadores si suspenden las PASO. Lo nuevo: esa estrategia choca con la de su propio partido.",
+        "Según Infobae, los dirigentes provinciales libertarios dicen que competirán contra los gobernadores en 2027. En paralelo, la Casa Rosada evalúa no enfrentarlos. A cambio, pide que sus legisladores apoyen suspender las PASO.",
+        "El caso más cercano es Neuquén. Vota el 14 de febrero, la primera fecha electoral de 2027. Los libertarios locales planean enfrentar al gobernador Rolando Figueroa. Aun así, sigue abierta la chance de un acuerdo con él.",
+        "Diego Santilli recibió al entrerriano Rogelio Frigerio, que ya apoyaba eliminar las PASO. Según Infobae, la reunión no fue decisiva. El diario ve dos lecturas de la ambigüedad oficial: falta de estrategia o jugada deliberada.",
+        "Patricia Bullrich, jefa del bloque libertario en el Senado, suma tensión. La Casa Rosada confirmó que la mesa política se reúne mañana, martes 17. Desde Balcarce 50 aseguran que Bullrich fue invitada. Ella no confirmó que vaya.",
+        "Perfil cuenta que Bullrich respondió a un mensaje de Javier Milei amenazando con frenar leyes. El entorno de Karina Milei evalúa reemplazarla por Nadia Márquez. Por otro lado, el Presidente dio «me gusta» a un posteo con una fórmula Milei–Bullrich. Ella dice que definirá entre marzo y abril si compite en 2027.",
+        "El tiempo corre. Quedan unas dos semanas de sesiones ordinarias. El Gobierno necesita aprobar el Presupuesto 2027 y suspender las PASO. También quiere reformar la Carta Orgánica del Banco Central.",
+        "Hoy no hay acuerdo en el Senado. PRO y UCR condicionan su apoyo a la Ficha Limpia. El peronismo rechaza suspender las PASO. El miércoles 18 el oficialismo intentará sancionar la reforma del Banco Central. Busca votar también la ley de Defensa de la Soberanía Nacional.",
+        "El Presupuesto llegaría al recinto el 25 de noviembre. Ese día Santilli presenta su primer informe de gestión en el Senado. Lo que no se apruebe antes del 30 pasará a sesiones extraordinarias."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "Bullrich duda de ir a la mesa política y las PASO siguen sin acuerdo",
+      "u": "https://www.infobae.com/politica/2026/11/15/el-gobierno-profundiza-las-contradicciones-con-las-provincias-por-las-paso-y-bullrich-pone-en-duda-su-presencia-en-la-mesa-politica/",
+      "v": "Oficialismo"
+    },
+    {
+      "b": "Entre diciembre de 2025 y agosto de 2026 se perdieron 9.821 empresas con empleados. El comercio, la industria y el transporte fueron los más golpeados.",
+      "body": [
+        "Entre diciembre de 2025 y agosto de 2026, el país perdió 9.821 empresas con empleados. Los datos son de la Superintendencia de Riesgos del Trabajo (SRT).",
+        "Pasaron de 489.749 a 479.928. Es una caída del 2% en ocho meses.",
+        "Hubo 10.906 bajas y solo 1.085 altas. Las empresas nuevas compensan apenas un 10% de las que cerraron.",
+        "El comercio explica más del 42% de la caída. Tiene 4.156 empresas menos, un 2,9%. Le sigue la industria, con 1.841 menos, un 3,9%.",
+        "El transporte y el almacenamiento tuvieron el golpe más fuerte entre los sectores grandes. Perdieron 1.663 empresas, un 4,9%. También bajaron los servicios inmobiliarios, con 961 menos, y el campo, con 753 menos.",
+        "Los hoteles y restaurantes perdieron 552 empresas. La construcción, 329.",
+        "De los 20 rubros relevados, 14 terminaron con menos empresas y seis con más. Crecieron los servicios personales y de asociaciones, con 683 más. También sumaron las actividades administrativas, con 199, y la salud, con 156.",
+        "El patrón es claro. Se achican las actividades que producen y mueven bienes. Crecen los servicios personales, administrativos, de salud y del sector público.",
+        "La estadística no incluye a las empresas unipersonales. Mide el saldo neto de empleadoras: altas menos bajas."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "Cerraron casi 10.000 empresas en lo que va del año, sobre todo comercios",
+      "u": "https://www.infobae.com/economia/2026/11/14/cerraron-casi-10000-empresas-en-lo-que-va-de-2026-cuales-fueron-los-sectores-mas-afectados/",
+      "v": "Empresas"
+    },
+    {
+      "b": "La empresa porteña que crea fotos y videos de moda con modelos virtuales fue elegida por el Departamento de Comercio en SelectUSA 2026.",
+      "body": [
+        "DELFI, startup argentina de moda con IA, ganó su categoría en SelectUSA 2026. El premio lo da el Departamento de Comercio de Estados Unidos.",
+        "Lo anunciaron en la conferencia SelectUSA México, en Ciudad de México. Estuvo el embajador Ronald Johnson. Ahora los fundadores viajan a Washington a presentar su tecnología.",
+        "La lideran Ezequiel D'Amico, como CEO, Federico Vidueiro y Rafael Bronenberg. Antes tuvieron una empresa de entretenimiento digital. Licenciaba marcas de clubes y jugadores, como Lionel Messi, para juegos de celular. Por conflictos de propiedad intelectual y licencias vencidas, los socios se fueron entre 2018 y 2019.",
+        "DELFI se lanzó oficialmente en 2024. Su primer modelo virtual, «Martín», aparece en campañas de Macowens, Devré, Tommy Hilfiger y Cencosud. También licencia la imagen digital de personas reales, como el modelo argentino Hernán Drago.",
+        "Cada foto tarda cerca de una hora en procesarse. El precio se fija por campaña. Algunas licencias de modelos llegan a US$ 50.000.",
+        "Tiene unos 100 clientes en Argentina, Chile, México, Colombia y Brasil. Entre ellos figuran Liverpool, Tiendas Paris y Topper. La primera fue la tienda chilena Fashion's Park.",
+        "Las ventas crecieron más del 400% en los últimos doce meses. Para 2027 proyecta ingresos por US$ 3 millones.",
+        "Entre sus inversores está NXTP Ventures, con US$ 200.000 iniciales. También un fondo mexicano, con unos US$ 300.000, y Parallel18, con US$ 100.000. Participaron además Avalancha Ventures y DRC Global. La empresa evalúa una nueva ronda, sin monto ni condiciones definidos.",
+        "D'Amico dijo que van a Washington a mostrar algo. La próxima infraestructura de la moda, según él, se construye desde Buenos Aires."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "El Cronista",
+      "t": "DELFI, la startup argentina de moda con IA, gana un premio de EE.UU. y viaja a Washington",
+      "u": "https://www.cronista.com/negocios/la-startup-argentina-que-triunfa-en-el-mundo-fashion-y-le-llevara-su-modelo-estrella-a-donald-trump/",
+      "v": "IA"
+    },
+    {
+      "b": "Elon Musk y otros referentes tecnológicos apoyan una petición para reincorporar al fundador. Renunció el jueves 12 de noviembre.",
+      "body": [
+        "Una petición pública reunió más de 115.000 firmas para que Nvidia reincorpore a Jensen Huang. La cifra corresponde al sábado 14 de noviembre por la tarde.",
+        "Entre los firmantes figuran Elon Musk, Amjad Masad (Replit), Tim Sweeney (Epic Games) y Garry Tan (Y Combinator). El sitio de la petición detalla que firmaron 5.965 empleados actuales y 1.108 exempleados de Nvidia. También sumó 63.063 accionistas.",
+        "Los firmantes sostienen que Huang fue apartado sin un proceso justo. Piden al directorio que lo vuelva a poner en el cargo mientras una investigación independiente aclara los hechos. También reclaman que se informe al público.",
+        "El contexto ya se conocía. Huang renunció el jueves 12 de noviembre. Había admitido una relación con un ejecutivo del sector de chips que la inteligencia estadounidense sospecha que es espía chino. La directora financiera, Colette Kress, quedó como CEO interina.",
+        "Lo nuevo es el reclamo desde adentro y desde afuera de la empresa. Y también la pregunta de qué significa su salida para toda la industria.",
+        "TechCrunch apunta que Nvidia controla cerca del 80 % de los chips para IA. Según el medio, la empresa tiene inversiones por 99.000 millones de dólares y compromisos por otros 25.000 millones. Entre las firmas donde participa están CoreWeave, Nebius, OpenAI y Anthropic.",
+        "Por eso hay preocupación por el financiamiento de startups de IA. Si Nvidia reduce su actividad, esos fondos podrían achicarse. El medio habla de una «economía circular»: Nvidia invierte en clientes que luego le compran chips.",
+        "Otro punto es la falta de sucesión. Según TechCrunch, no había un plan, y Kress es vista como una solución de transición mientras se busca un reemplazo permanente.",
+        "Las acciones de Nvidia cayeron con fuerza durante la semana. Huang aceptó testificar ante el Congreso de Estados Unidos. Según los informes, el gobierno había recibido advertencias sobre esa relación hace casi un año."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Más de 115.000 firmas piden que Nvidia vuelva a contratar a Jensen Huang",
+      "u": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "v": "Nvidia"
+    },
+    {
+      "b": "Los jefes sindicales y la ministra se cruzaron en la UCA, pero no retomaron el diálogo. La central evalúa paros parciales desde diciembre y una marcha por las obras sociales.",
+      "body": [
+        "Antes del discurso del papa León XIV en la UCA, Sandra Pettovello habló con los jefes de la CGT. Estaban Jorge Sola, Cristian Jerónimo y Gerardo Martínez. Fue una charla breve e informal sobre retomar el diálogo.",
+        "Quedó trabada por la desconfianza. Según la CGT, la propuesta partió de la ministra. Y el diálogo «debe ser institucional y no esporádico». En el entorno de Pettovello dicen que la central no recogió el guante.",
+        "La central prepara una modalidad de paros inédita. Según Infobae, su Consejo Directivo aprobaría paros parciales y progresivos desde diciembre. Empezarían con cortes de 2 o 4 horas y asambleas en los lugares de trabajo.",
+        "Hay presión interna para algo más duro. Pablo Moyano, de Camioneros, pide un paro general de 24 horas. Luis Barrionuevo, de los gastronómicos, propone una huelga de 36 horas con movilización.",
+        "Barrionuevo tuvo un cruce a los gritos con Pettovello en la UCA, según Perfil. Reclamó que el Gobierno reconozca su triunfo en las elecciones gremiales del 29 de diciembre de 2025. Ella le respondió: «A mí no me extorsiones».",
+        "El Gobierno responde con un decreto de 2025. Según ese decreto, Trabajo ya no arbitra en las internas gremiales. Dice que dará el certificado si la Corte Suprema avala el fallo favorable a Barrionuevo. Su gremio marcha hoy, lunes 16, a las 16.",
+        "La CGT también marchará a la Superintendencia de Servicios de Salud, en Bartolomé Mitre al 400. Reclama una solución urgente a la crisis financiera de las obras sociales.",
+        "Además, unos 50 gremios preparan una denuncia judicial contra el ministro de Economía, Luis Caputo. Lo acusan de retener unos $688 mil millones de las obras sociales. Hasta ahora, no se había presentado.",
+        "La CGT tuvo tres reuniones reservadas con el ministro de Salud, Mario Lugones, sin resultados. Para 2027, sus dirigentes anticipan más conflicto y un quinto paro general."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "La CGT prepara paros escalonados tras un encuentro fallido con Pettovello",
+      "u": "https://www.infobae.com/politica/2026/11/15/la-cgt-entre-un-fallido-encuentro-con-pettovello-la-inedita-modalidad-de-los-paros-y-una-marcha-por-las-obras-sociales/",
+      "v": "CGT"
+    },
+    {
+      "b": "La gigante china de delivery publicó el modelo con licencia MIT. Está pensado para tareas largas, programación y comprensión de imágenes.",
+      "body": [
+        "Meituan, la gigante china de delivery, publicó LongCat-2.5. Es un modelo abierto que entiende texto e imágenes. Está pensado para agentes que trabajan durante mucho tiempo, para programar y para crear diseños y escenas en 3D.",
+        "Es la continuación de LongCat-2.0. Los archivos se subieron a Hugging Face desde el 4 de noviembre. La ficha se actualizó el 10, y AI Weekly ubica la publicación completa el 9.",
+        "La licencia es MIT, una de las más permisivas. Permite uso comercial y modificaciones, aunque no da derechos sobre las marcas ni las patentes de Meituan.",
+        "Según la empresa, el modelo tiene 1,6 billones de parámetros en total. Pero usa solo unos 48 mil millones para armar cada respuesta, lo que lo hace más liviano de lo que sugiere su tamaño. La ficha técnica muestra 1,8 billones en sus metadatos. No hay una explicación oficial de esa diferencia, así que usamos la cifra del texto.",
+        "La ficha no indica qué hardware hace falta. Solo trae una guía para correrlo en chips de fabricación china. AI Weekly cita un archivo de 1,8 terabytes. Por su tamaño, es material para centros de datos y no para una computadora común.",
+        "El rendimiento sale de pruebas de la propia empresa. En una prueba de tareas en la terminal, sacó 88,4 puntos. Su versión anterior había logrado 70,8. Según VentureBeat, quedó a un punto de GPT-5.6 Sol y de Claude Opus 5.",
+        "En una variante más exigente de esa prueba, Claude Opus 5 le saca ventaja: 53,9 contra 38,5. Son datos de Meituan y no hay verificación independiente.",
+        "En Hugging Face tiene 269 me gusta y 1.573 descargas en el último mes. No encontramos un repositorio propio de este modelo en GitHub. El de LongCat-2.0 tiene 570 estrellas.",
+        "Por qué importa: es un modelo abierto de gran tamaño que apunta a competir con los cerrados en programación y tareas de agentes. A quien trabaja con IA y automatizaciones le sirve como alternativa sin pagar licencia, si cuenta con infraestructura grande. También hay una versión alojada con precios promocionales: 0,30 dólares por millón de unidades de texto de entrada. Hay dudas. VentureBeat advierte sobre el escrutinio de Washington a los modelos chinos y pide revisar los contratos antes de usarlo en trabajos de gobierno."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "Hugging Face / AI Weekly",
+      "t": "Meituan liberó LongCat-2.5, un modelo gigante para agentes y programación",
+      "u": "https://huggingface.co/meituan-longcat/LongCat-2.5",
+      "v": "Open source"
+    },
+    {
+      "b": "Tres argentinos que programaban para Meta y Epic Games cerraron su empresa, empezaron de cero en 2023 y hoy tienen clientes en tres continentes.",
+      "body": [
+        "Renaiss es una tecnológica argentina con unos 70 empleados y unos 20 clientes. Cerca del 30% está en Argentina. El resto, en Estados Unidos y Europa.",
+        "La fundaron Rodrigo «Roda» Azziani, Joaquín Colombo y Mauro Abbatemarco. Se conocieron en la Universidad Nacional de Rosario. Azziani publicó tres libros de poesía. Alguna vez quiso ser ministro de Cultura de Santa Fe.",
+        "Empezaron con una cooperativa de programadores entre amigos. Después armaron otra empresa para proveer equipos argentinos a Six Nines, una firma de EE.UU. Ese trabajo incluyó proyectos para Facebook, hoy Meta, y para Epic Games.",
+        "En 2023 Accenture compró Nextira, la empresa que había absorbido a Six Nines. Los fundadores no aceptaron sumarse en las condiciones ofrecidas. Cerraron la empresa argentina y despidieron a más de 30 personas en dos días.",
+        "Ese mismo año arrancaron de nuevo. Eran unas ocho personas, sin clientes y con ahorros propios. Se dieron 18 meses para que funcionara.",
+        "Los primeros nueve meses dieron pérdidas, de hasta unos US$ 25.000 por mes. En el mes nueve ganaron plata. En el décimo volvieron a perder.",
+        "Hoy Renaiss también maneja más de 150 profesionales freelance. La plantilla creció cerca de un 30% este año. Entre sus clientes está el Mercado Argentino de Valores.",
+        "Para 2027 planea llegar a dos países de Latinoamérica, desde el primer trimestre. México es una de las opciones. También se evalúan Paraguay, Chile y Uruguay. Los fundadores prefieren no tomar inversores externos."
+      ],
+      "id": "sta2",
+      "sec": "Startups",
+      "src": "iProfesional",
+      "t": "Renaiss: de un poeta y dos amigos de Rosario a una tecnológica con 70 empleados",
+      "u": "https://www.iprofesional.com/negocios/468788-argentinos-renunciaron-a-meta-y-hoy-tienen-una-tecnologica-global",
+      "v": "Software"
+    },
+    {
+      "b": "Se llama Apple Health AI Study y se hizo junto con OpenEvidence. Busca hasta 200.000 participantes durante más de un año.",
+      "body": [
+        "Apple lanzó el domingo 15 de noviembre una app de investigación sobre IA y salud. Se llama Apple Health AI Study y ya se puede descargar en Estados Unidos.",
+        "La desarrolló junto con OpenEvidence, una empresa de IA para medicina. El estudio busca hasta 200.000 participantes y va a durar más de 12 meses.",
+        "Pueden sumarse personas de Estados Unidos mayores de 21 años. Necesitan un iPhone 15 o más nuevo, con iOS 26 y Apple Intelligence activado.",
+        "La app responde preguntas cotidianas de salud. Sus respuestas se basan en datos clínicos de publicaciones como The New England Journal of Medicine, JAMA y Nature.",
+        "Los participantes califican cada respuesta, dejan comentarios y completan encuestas una vez por mes. Eso le da a Apple datos sobre qué consultan y qué tan útiles les resultan las respuestas.",
+        "Quien quiera puede compartir datos de la app Salud del iPhone, como pulso en reposo, actividad, sueño o análisis de laboratorio. Con eso la app ofrece sugerencias más personalizadas. También ayuda a preparar una consulta médica y orienta hacia profesionales según el problema.",
+        "Sobre la privacidad, Apple dice que anonimiza los datos antes de enviarlos a un proveedor de nube externo. Afirma que no los usa para entrenar modelos. OpenEvidence borra las consultas y las respuestas a las 24 horas.",
+        "Sumbul Desai, vicepresidenta de Salud y Fitness de Apple, dijo que la empresa apuesta a una innovación con rigor científico y respaldo clínico.",
+        "Apple todavía no aclaró si va a sumar respuestas de IA en la app Salud o en Siri. Antes, OpenAI y Anthropic ya habían lanzado chatbots con funciones de salud. OpenAI informó que recibe más de 300 millones de consultas de salud por semana.",
+        "Por qué importa: millones de personas ya le preguntan a la IA por su salud, y hay pocos datos sobre cómo lo hacen. Este estudio pone a una de las mayores empresas de tecnología a medirlo con una muestra grande y durante un año. Los resultados podrían influir en cómo Apple incorpora la IA en sus productos de salud. Por ahora es solo para Estados Unidos y no hay fecha de resultados."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Apple lanzó una app para estudiar cómo usa la gente la IA en temas de salud",
+      "u": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "v": "Salud"
+    },
+    {
+      "b": "Santiago Sosa, Alejandro Vázquez y Martín Palombo recibieron la distinción en la Gala Endeavor 2026, con Milei entre los asistentes.",
+      "body": [
+        "Los tres cofundadores de Tiendanube recibieron el Premio Emprendedor Endeavor del Año 2026. Fue el sábado 14 de noviembre, en una gala con más de 400 personas.",
+        "Los premiados son Santiago Sosa, CEO, Alejandro Vázquez, presidente, y Martín Palombo, director de producto.",
+        "La empresa nació en Buenos Aires hace más de 15 años. La fundaron en 2011 cinco amigos de la universidad. Hoy opera en Brasil, donde se llama Nuvemshop. También está en México, Colombia y Chile.",
+        "Su plataforma permite armar tiendas online. La usan más de 180.000 marcas de Latinoamérica, y más de 70.000 están en Argentina. Antes de 2020 tenía unos 18.000 clientes. En 2024 superó los 100.000.",
+        "Proyecta cerrar 2026 con cerca de US$ 4.000 millones transaccionados en la región. Su crecimiento interanual supera el 50%. El equipo pasa de 1.600 personas en Latinoamérica.",
+        "Sosa dijo que el premio refleja el objetivo original: bajar las barreras para vender por internet. Contó que la empresa pasó de plataforma a ecosistema de comercio electrónico.",
+        "María Julia Bearzi, de Endeavor Argentina, dijo que el premio no es solo para quien crece. Martín Migoya, presidente de Endeavor, habló de 200.000 puestos de trabajo generados. Dijo que acompañan a 300 empresas.",
+        "En la gala estuvo el presidente Javier Milei. Habló del potencial de Argentina como polo tecnológico. También se homenajeó a Carlos Miguens, ex directivo de Endeavor y ex presidente de Quilmes.",
+        "Se anunciaron además tres nuevos integrantes del board de Endeavor Argentina. Son Gastón Irigoyen, de Pomelo, Santiago Sosa, de Tiendanube, y Tomás Mindlin, de tapi."
+      ],
+      "id": "sta1",
+      "sec": "Startups",
+      "src": "Mercado",
+      "t": "Los fundadores de Tiendanube ganaron el Premio Emprendedor Endeavor del Año",
+      "u": "https://mercado.com.ar/eventos/los-fundadores-de-tiendanube-recibieron-el-premio-emprendedor-endeavor-del-ano-2026",
+      "v": "Endeavor"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "fon0",
+    "tec0",
+    "eco0",
+    "pol0",
+    "eco1",
+    "sta0",
+    "tec1",
+    "pol1",
+    "tec3",
+    "sta2",
+    "tec2",
+    "sta1"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Startups"
+  ],
+  "side": [
+    "tec0",
+    "eco0",
+    "pol0",
+    "sta0"
+  ]
+}
