@@ -1,0 +1,363 @@
+{
+  "fecha": "Sábado 21 de noviembre de 2026",
+  "fuentes": "Los Andes, La Número 12, Diario Popular, Infobae, Carburando, Motorsport.com, Planet F1, El Cronista, bilinkis.com, La Política Online, Perfil, TechCrunch, IBM Think, FinanceFeeds, Anthropic, OpenAI, LangChain, Hugging Face, iProUP",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "Boca enfrenta a Atlético Mineiro a las 19.30 en Barranquilla, con una sola duda en el ataque. Busca cortar 18 años sin títulos internacionales.",
+      "body": [
+        "Boca y Atlético Mineiro juegan hoy la final de la Copa Sudamericana. Arranca a las 19.30 en Argentina, las 17.30 en Barranquilla. La sede es el estadio Metropolitano Roberto Meléndez.",
+        "Arruabarrena tiene casi todo resuelto. Con Montero en el arco, la defensa sería Lozano, Di Lollo, Herrera y Blanco. En el medio, Ascacíbar, Paredes y Delgado. Arriba, Villa y Merentiel.",
+        "La duda es quién completa el ataque. Aranda es el principal candidato, según Diario Panorama. Se destaca por cómo se asocia con Paredes. Pero sumó minutos en apenas dos partidos desde que volvió. Los Andes suma a Velasco y a Leonel Flores en la pelea. La Número 12 ya pone a Aranda de entrada.",
+        "Blanco volvería al lateral izquierdo, con las cargas reguladas por una fatiga muscular. Delgado se recuperó de un esguince leve de rodilla. Según Los Andes, también estaría desde el inicio.",
+        "En Argentina se ve por DSports. La Número 12 agrega ESPN, que está en la grilla básica de los cableoperadores. También se puede ver por Disney+, solo con plan Premium.",
+        "Boca no gana un título internacional desde 2008. Aquel año se quedó con la Recopa Sudamericana, ante Arsenal. Son 18 años de sequía fuera del país. Si gana, será su tercera Sudamericana, después de las de 2004 y 2005.",
+        "El campeón se lleva 10 millones de dólares de Conmebol. También obtiene plaza directa en la Libertadores 2027. Además, juega la Recopa 2027.",
+        "El equipo ganó la tabla anual y tiene pendiente la final de la Copa Argentina. Según Los Andes, con la Sudamericana podría cerrar 2026 con cinco títulos.",
+        "Boca eliminó a O'Higgins, Recoleta (7-1), San Pablo (2-1) y Vasco da Gama (3-2).",
+        "Mineiro llega con siete partidos sin ganar. Es séptimo en el Brasileirao, con 51 puntos, fuera de la zona de Libertadores. Perdió la final de la Sudamericana 2025 ante Lanús, por penales. Busca su primer título con Eduardo Domínguez."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Los Andes / La Número 12",
+      "t": "Boca juega hoy la final de la Sudamericana: el equipo, la hora y lo que se juega",
+      "u": "https://www.losandes.com.ar/deportes/boca-vs-atletico-mineiro-la-final-la-copa-sudamericana-2026-como-llegan-formaciones-y-datos-clave-n6014990",
+      "v": "Boca"
+    },
+    {
+      "b": "En la conferencia de prensa en el Metropolitano, el técnico y el capitán de Boca hablaron de la final, del rival y de los juveniles.",
+      "body": [
+        "Arruabarrena y Paredes hablaron ayer en conferencia de prensa, en el Metropolitano de Barranquilla. Fue a un día de la final con Atlético Mineiro.",
+        "El técnico evitó el tema de la revancha. Dijo que es un segundo ciclo, con otro grupo y otro momento. Anticipó que la final tendrá momentos para disfrutar y otros para sufrir. Para él, el que controle más minutos estará más cerca de ganar.",
+        "Sobre Mineiro, destacó que es un equipo competitivo. Tiene plantel largo, buen presupuesto y un técnico con identidad clara. La racha de siete partidos sin ganar no cambia nada, dijo. Una final es una final. Habló también de los miedos lógicos de estos partidos.",
+        "Arruabarrena bromeó con los juveniles del plantel, a los que llamó \"Wachiturros\". Son Delgado, Di Lollo, Aranda, Leonel Flores, Ayrton Costa, Williams Alarcón y Carlos Palacios.",
+        "Paredes habló de \"el partido más importante\" desde que volvió a Boca. Jugarla con el club del que es hincha le da un valor extra. \"No siento que tengamos presión\", dijo, según Noticias Argentinas.",
+        "Sobre el mal momento de Mineiro, opinó que no influirá demasiado. Como capitán, intenta darles confianza a los más chicos para que disfruten. Definió a Boca como \"el equipo más grande de Sudamérica\".",
+        "Recordó que este año Boca quedó eliminado de la Libertadores y cayó ante Huracán. Según él, el grupo se recuperó y merece conseguir cosas importantes.",
+        "Por el calor, el plantel entrenó jueves y viernes a las 19.30 de Argentina. Es la hora de la final. Lo hizo en el estadio Romelio Martínez. Hoy se esperan hasta 32 grados en Barranquilla.",
+        "El viernes también estaba previsto el reconocimiento de la cancha, según el cronograma difundido. Boca busca su primer título internacional en 18 años."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Diario Popular / Elonce",
+      "t": "Arruabarrena y Paredes, en la previa: sin revancha, sin presión y con calor",
+      "u": "https://www.diariopopular.com.ar/futbol/arruabarrena-y-paredes-palpitaron-la-final-boca-conferencia-prensa-n930251",
+      "v": "Boca"
+    },
+    {
+      "b": "El equipo de Placente juega mañana a las 12.30 en Qatar. Mozambique debutó con un 4-0 y está arriba en el Grupo C.",
+      "body": [
+        "La Selección Argentina Sub 17 enfrenta mañana a Mozambique. Es la segunda fecha del Grupo C del Mundial de Qatar. Se juega a las 12.30 de Argentina, en Aspire Zone.",
+        "Argentina llega sin puntos, tras caer 2-0 ante Australia. Mozambique, en cambio, le ganó 4-0 a Dinamarca en su debut. El equipo de Diego Placente quedó tercero en el grupo. Lo superan Mozambique y Australia.",
+        "El torneo tiene 48 equipos en 12 grupos. Pasan a los 16avos los dos primeros de cada zona. También pasan los ocho mejores terceros. Por eso Argentina necesita sumar ya. El grupo se cierra el miércoles 25, a las 12.30, contra Dinamarca.",
+        "En el debut, Placente metió a Bautista Giménez, defensor de River de 16 años. Es el único jugador de la lista nacido en 2010. Su ingreso no cambió el rumbo del partido.",
+        "El equipo tuvo situaciones en el primer tiempo y no las concretó. Placente pidió la revisión del VAR por una mano de un defensor australiano. El árbitro entendió que la pelota no estaba en juego. No cobró penal.",
+        "Sobre el final, Benjamín Vallejo vio la roja por una falta fuerte sobre Emile Katrib. El VAR la confirmó. Las fuentes consultadas no informan qué cambios prepara Placente para mañana."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae / Tendencia de Noticias",
+      "t": "Argentina Sub 17 busca su primer triunfo ante Mozambique, que goleó a Dinamarca",
+      "u": "https://www.infobae.com/deportes/2026/11/19/la-seleccion-argentina-debutara-en-el-mundial-sub-17-ante-australia-hora-tv-y-todo-lo-que-tenes-que-saber/",
+      "v": "Selección"
+    },
+    {
+      "b": "El argentino volvió a la Q3 después de cinco carreras y se queja de una vuelta final arruinada por los neumáticos fríos. La sanción a Piastri le da un lugar.",
+      "body": [
+        "Franco Colapinto clasificó décimo en Las Vegas y saldrá noveno en la carrera. Ganó un puesto por la sanción a Oscar Piastri. El australiano pierde diez lugares por cambiar piezas del motor. Colapinto volvió a la Q3 por primera vez en cinco carreras.",
+        "En la Q1 terminó 15º y pasó el corte por poco. Tuvo un bloqueo de ruedas en la curva 1. En la Q2 mejoró y fue séptimo, con 1m34s982. En la Q3 hizo 1m35s314. Quedó a 1,421 segundos del mejor tiempo.",
+        "Estuvo lejos de conformarse. \"Conforme no estoy, obviamente, porque estábamos para mucho más\", dijo, según Todo Fierro. Contó que tuvo una sola tanda con rebufo, sin referencias para seguir.",
+        "El problema fue la vuelta previa a la Q3. Quiso quedarse detrás de los Mercedes. Los Racing Bulls lo atacaron y todo se volvió un caos. Los neumáticos estaban fríos y patinaron toda la vuelta. No llegaron a la temperatura ideal. \"La vuelta fue un desastre\", resumió.",
+        "Pierre Gasly fue la sorpresa de la tarde. Terminó segundo en la Q2, a 0,165 de Verstappen. En la Q3 fue noveno, con 1m35s105. Saldrá octavo por la sanción a Piastri.",
+        "Kimi Antonelli hizo el mejor tiempo, con 1m33s893. Pero tiene cinco puestos de sanción por cambios en el motor. La pole pasa a Max Verstappen, que quedó a 0,258. Segundo largará George Russell.",
+        "Ferrari tuvo un día para el olvido. Leclerc (11º) y Hamilton (12º) quedaron eliminados en la Q2. También se despidieron allí Hülkenberg, Sainz, Bortoleto y Albon. La temperatura rondó los 9 grados.",
+        "Colapinto suma 27 puntos y no puntúa hace seis carreras. \"Habrá que avanzar en la carrera\", dijo. Había sido noveno en la segunda práctica y quinto en la tercera. La largada es el domingo a la 1.00 de Argentina."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Carburando / Todo Fierro",
+      "t": "Colapinto clasificó 10º en Las Vegas y largará 9º: \"Estábamos para mucho más\"",
+      "u": "https://www.carburando.com/formula-1/colapinto-termino-decimo-y-antonelli-consiguio-la-pole-en-la-clasificacion-del-gp-de-las-vegas-de-f1-id201053",
+      "v": "Colapinto"
+    },
+    {
+      "b": "El argentino superó a Verstappen en la tercera práctica libre de Las Vegas. La carrera es el domingo a la 1.00, con frío y una sola parada prevista.",
+      "body": [
+        "Colapinto fue quinto en la tercera práctica libre del GP de Las Vegas. Hizo 1m35s198, a 1,157 segundos de Russell, el más rápido. Su compañero Gasly fue noveno. Ambos Alpine entraron entre los diez primeros.",
+        "Fue la única sesión en seco del fin de semana. La lluvia del jueves limitó las dos primeras. Hacía unos 14 grados. Motorsport.com señaló que este circuito favorece al auto resbaladizo de Alpine.",
+        "Russell hizo 1m34s041. Antonelli quedó segundo, a 0,911, y Norris tercero. Leclerc fue cuarto y Verstappen, sexto. Piastri terminó 12º. Russell se fue largo dos veces. Según la nota, había rechazado una mejora del turbo para evitar una sanción de grilla.",
+        "Hubo tensión en pista. Verstappen y Colapinto pelearon por el aire limpio. Los dos fueron señalados por conducción errática en la curva 16. Los comisarios iban a revisar el episodio.",
+        "Verstappen también tuvo un roce con Russell en la curva 14. Dijo por radio que lo había empujado hacia el muro. Ese incidente se investigaba aparte. Hadjar, por su parte, pidió una penalización para Albon.",
+        "La carrera es el domingo 22 a la 1.00 de Argentina. En Las Vegas será de noche. Son 50 vueltas. Se transmite por Fox Sports y Disney+ Premium. Colapinto largará noveno y Gasly, octavo.",
+        "Se esperan entre 7 y 11 grados. Mantener los neumáticos en temperatura será clave. Colapinto ya lo sufrió en la Q3. Los equipos prevén una sola parada en boxes. Alpine estrena un turbo nuevo, que le provee Mercedes.",
+        "Alpine es sexto en Constructores, con 69 puntos. Gasly aporta 42 y Colapinto, 27. Racing Bulls, quinto, les saca 43. Haas, séptimo, está 38 atrás. Según Perfil 442, el quinto puesto está fuera de alcance. El objetivo es cerrar sexto.",
+        "Colapinto no suma desde hace seis carreras. Terminó 13º en Brasil. Perfil 442 lo ve con chances de puntuar en Las Vegas."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Motorsport.com / Planet F1",
+      "t": "Colapinto fue 5º en la última práctica y llega con chances de sumar en una carrera helada",
+      "u": "https://www.motorsport.com/f1/news/f1-las-vegas-gp-george-russell-tops-final-practice-after-max-verstappen-collision/10876181/",
+      "v": "Colapinto"
+    },
+    {
+      "autor": "Andrés Malamud",
+      "b": "El politólogo sostiene que la economía argentina sigue sin resolver crecer sin inflación. Para él, el Gobierno no engañó: se confundió solo.",
+      "body": [
+        "Según la nota de El Cronista, Malamud habló con Canal C Argentina. La nota no dice si fue un programa, un podcast o una entrevista puntual. Tampoco nombra a quien le preguntó.",
+        "Malamud arranca con una comparación. Para él, la Argentina está estabilizada frente a un mundo en guerra. No ve autoritarismo, invasiones, bombardeos ni violaciones masivas de derechos humanos. Sus problemas, dice, son la inflación y una actividad débil.",
+        "El desafío pendiente, según Malamud, es crecer sin inflación. Sostiene que casi todos los países ya lo resolvieron, salvo seis.",
+        "Después va al Gobierno. Malamud afirma que creyó haber encontrado la fórmula. Según él, quedó en evidencia cuando necesitó un rescate de Estados Unidos.",
+        "Ahora, dice, se discute si el gobierno de Trump podrá hacer otro rescate el año próximo. Como los mercados dudan, el riesgo país sube. Malamud marca que eso pasa solo en la Argentina. No pasa en Chile, Uruguay ni Brasil, aunque todos crecen menos por las guerras.",
+        "Reconoce que algunos problemas económicos son globales y otros solo argentinos. Para Malamud, el Gobierno vino a resolver los argentinos. Y sostiene que eso no está funcionando.",
+        "Su criterio para juzgarlo es este. No hay que exigirle lo que cada uno quisiera, sino lo que prometió. Menciona la dolarización y la idea de destruir el Banco Central. Sobre esto último, dice que el Gobierno terminó recapitalizándolo. Y que eso no le parece tan malo.",
+        "Ahí aparece la frase del título: \"No nos mintieron, se mintieron solos\". Malamud recuerda la promesa de los mejores 18 años de la historia económica argentina. Cuando esas metas no se cumplen, sospecha que el Gobierno no sabía bien lo que prometía. Por eso habla de un error propio y no de un engaño.",
+        "Usa también la imagen de un barco. El timonel no conoce el rumbo y no tiene brújula.",
+        "Cierra con una relativización. Según la nota, Malamud dice que la Argentina no tiene violencia política y que su violencia social es baja. Por eso considera que crecer sin inflación es un problema \"trivial\" frente a los de otros países."
+      ],
+      "donde": "Canal C Argentina, según una nota de El Cronista publicada el 17 de noviembre",
+      "id": "ana0",
+      "sec": "Análisis",
+      "src": "El Cronista",
+      "t": "Malamud: el Gobierno se equivocó con su propio programa",
+      "u": "https://www.cronista.com/economia-politica/la-bomba-politica-de-malamud-sobre-el-gobierno-y-su-programa-no-nos-mintieron-se-mintieron-solos/",
+      "v": "Entrevista",
+      "via": "una nota de El Cronista"
+    },
+    {
+      "autor": "Santiago Bilinkis",
+      "b": "Según la descripción del episodio, el cerebro registra la mala suerte, pero no la buena cuando te toca a vos.",
+      "body": [
+        "Esta nota se basa solo en la descripción escrita del episodio en la web de Bilinkis, no en el video.",
+        "La idea de partida es un sesgo. Según la descripción, el cerebro registra con claridad la mala suerte propia y la ajena. En cambio, no registra la buena suerte propia. Lo presenta como uno de los sesgos más silenciosos. Cuando la buena suerte te toca a vos, se vuelve invisible.",
+        "Después viene un argumento sobre las rachas. Las rachas de éxito muy llamativas serían lo esperable cuando participa muchísima gente. No serían una excepción.",
+        "El episodio también incluye consejos para tener más suerte. La descripción no los detalla.",
+        "Por último, la descripción cuenta que Bilinkis hizo una encuesta propia sobre si la gente se considera afortunada. Tuvo 3.012 respuestas. Los resultados completos están en la sección de encuestas de su web."
+      ],
+      "donde": "episodio \"Por qué a algunos todo les sale bien\" de Futuro en construcción, publicado el 20 de noviembre en su web",
+      "id": "ana2",
+      "sec": "Análisis",
+      "src": "bilinkis.com",
+      "t": "Bilinkis: la buena suerte propia es la que no se ve",
+      "u": "https://www.bilinkis.com/futuro-en-construccion/por-que-a-algunos-todo-les-sale-bien",
+      "v": "Video",
+      "via": "la descripción del episodio en su web"
+    },
+    {
+      "b": "Llegó a 1.038 puntos el viernes, el nivel más alto desde las legislativas del año pasado. El dólar, las tasas y los dólares del Tesoro quedaron bajo la lupa.",
+      "body": [
+        "El riesgo país superó los 1.000 puntos este viernes. Abrió con una suba de 107 puntos y tocó 1.038. Es el nivel más alto desde las legislativas del año pasado, según La Política Online. El jueves había llegado a 930.",
+        "El mercado reaccionó de inmediato. Los bonos cayeron más de 3%. El Merval perdió más de 2% en la apertura. Las acciones argentinas ya bajaban en Wall Street antes de que abriera la rueda.",
+        "El dólar acompañó. El oficial subió $5 y cotizó a $1.590 en el Banco Nación. El blue sumó $10 y llegó a $1.650. El contado con liquidación estaba en $1.730 el jueves. La brecha supera el 10%. Según Infobae, durante el año no había pasado el 5%.",
+        "Lo que viene es más presión sobre las tasas en pesos. Según la consultora LCG, vencen $25 billones la semana próxima. En diciembre vencen $37 billones y en enero, $42 billones. Si el Tesoro paga más tasa para renovar, sube el costo. Se encarecen el descuento de cheques y los créditos de consumo. Infobae advierte que eso puede golpear a la actividad.",
+        "En paralelo, el Tesoro habría comprado dólares al Banco Central. Según Max Capital, el 12 de noviembre sus depósitos en dólares subieron USD 300 millones. El 11 tenía apenas USD 59 millones. No hay confirmación oficial de que sea una compra al BCRA. El destino serían los USD 4.400 millones en bonos que vencen el 9 de enero. Esa operación mejora la caja del Tesoro, pero no suma dólares nuevos al sector público.",
+        "Las reservas tampoco ayudan. Desde el acuerdo con el FMI de abril de 2025 subieron unos USD 1.000 millones. En ese período el Banco Central compró más de USD 15.000 millones. Hay cálculos que ubican el faltante para financiar 2027 en torno a USD 5.000 millones.",
+        "Por eso crece la presión sobre Caputo. Semanas atrás, Milei puso en duda su continuidad, según La Política Online. En el mercado se menciona a Pablo Quirno como posible reemplazo. En el Gobierno advierten que el riesgo país podría dispararse todavía más. El lunes, Caputo había destacado la fortaleza del esquema cambiario. Después llegó, según Infobae, una “tormenta perfecta” en los mercados internacionales."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "La Política Online / Infobae",
+      "t": "El riesgo país superó los 1.000 puntos y crece la presión sobre Caputo",
+      "u": "https://www.lapoliticaonline.com/economia/el-riesgo-pais-rompe-la-barrera-psicologica-de-los-1000-puntos-y-le-mete-presion-a-la-continuidad-de-caputo/",
+      "v": "Riesgo país"
+    },
+    {
+      "b": "Levent Alpöge publicó una prueba chequeada por computadora. Casi al mismo tiempo apareció otra, escrita solo por humanos. Los especialistas todavía las analizan.",
+      "body": [
+        "Un matemático de Anthropic dice haber resuelto la hipótesis de Riemann. Lo hizo con ayuda de Claude. Se llama Levent Alpöge y publicó su trabajo el viernes 20 de noviembre. El problema es de 1859 y trata de cómo se distribuyen los números primos.",
+        "Alpöge no publicó un artículo clásico. Entregó la prueba en Lean, un programa que chequea demostraciones paso a paso. Cuenta que trabajó con Claude en un ida y vuelta intenso. Él mismo admite que el argumento es larguísimo y difícil de leer. Según IBM, la prueba cubre también la versión generalizada de la hipótesis.",
+        "Según TechCrunch, varios matemáticos aseguran que la prueba pasa el chequeo de Lean. Entre ellos está Andrew Sutherland, del MIT. Falta lo más difícil: que los especialistas entiendan la prueba. El experto Chris Birkbeck la describió como un argumento que usa muchos resultados avanzados.",
+        "Alpöge dice que va a trabajar en una explicación que pueda leer una persona. Reconoce que le incomoda haberla publicado sin una.",
+        "James Maynard, de Oxford, dijo que sería un hito histórico si se confirma. Aclaró que verificarla quizás no revele por qué funciona. Youness Lamzouri, de la Universidad de Lorraine, dijo algo parecido. Entender las ideas puede llevar meses o años.",
+        "Por esos días apareció otra prueba, sin inteligencia artificial. Alessandro Masullo, de Stanford, escribió una demostración de la versión generalizada de la hipótesis. La difundió Ravi Vakil, presidente de la Sociedad Matemática Estadounidense. Vakil la describió como un borrador. Masullo dice que es fruto de 12 años de trabajo. No está formalizada en Lean, así que es muy pronto para saber si resiste.",
+        "Por qué importa: Si se confirma, un problema abierto desde 1859 se habría resuelto con una IA como socia. La prueba llegó en un formato que una máquina puede verificar. Pero pasar el chequeo de Lean no garantiza que los matemáticos entiendan el argumento. Esa comprensión puede llevar meses o años, según uno de los expertos citados. La prueba humana de Masullo, por su parte, todavía no tuvo ningún chequeo formal."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "TechCrunch / IBM Think",
+      "t": "Un matemático de Anthropic dice haber resuelto la hipótesis de Riemann con ayuda de Claude",
+      "u": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
+      "v": "Investigación"
+    },
+    {
+      "b": "El fallo devuelve al Estado el control de los aumentos de las cuotas. Las prepagas advierten que el sistema está en riesgo.",
+      "body": [
+        "La Corte Suprema declaró inconstitucionales dos artículos del decreto 70/2023 de Milei. Son los que sacaron al Estado del control de los precios de las prepagas. El fallo se conoció el jueves 19. Las notas no precisan la fecha de la sentencia.",
+        "El caso nació en el reclamo de una afiliada de Swiss Medical. Su cuota subió 110% entre diciembre de 2023 y febrero de 2024. Con la regulación anterior, calculó, el aumento habría sido de 6,26%.",
+        "Antes pasó por otras instancias. Un juez de primera instancia rechazó el amparo. La Cámara Federal de La Plata lo revocó. Declaró inconstitucionales esos artículos y fijó un tope de aumentos atado a la inflación. La empresa y el Estado apelaron, y la causa llegó a la Corte.",
+        "Según Perfil, el fallo lleva las firmas de Rosatti, Rosenkrantz y Lorenzetti. La Corte consideró que el Gobierno no probó la urgencia. Dijo que no alcanza con “invocar una emergencia genérica”. Aclaró que no se pronuncia sobre otros puntos del decreto. Es la primera vez que declara inconstitucionales artículos de ese DNU.",
+        "Según Infobae, la Superintendencia de Servicios de Salud vuelve a autorizar los aumentos. Las prepagas no podrían subir precios sin su aval. Según esa nota, la Corte revocó el tope atado a la inflación. Los aumentos se evaluarían por costos y cálculos actuariales, que estiman riesgos y gastos. Las notas no aclaran cuánto podrán subir las cuotas ni desde cuándo.",
+        "Hugo Magonza, presidente de la Unión Argentina de Salud, criticó el fallo. Habló de “un nivel de inseguridad jurídica enorme”. Dijo: “Están matando al sistema, la gente se va a quedar sin cobertura”. Anticipó más juicios, con pedidos de devoluciones e indemnizaciones. Sostiene que en casi quince años el sistema perdió 18% de cuota en promedio. Una fuente del sector cuestionó el uso de un DNU. Dijo que los aumentos deberían seguir los costos, no la inflación.",
+        "En las notas consultadas no hay una respuesta oficial del Gobierno. Solo consta que el decreto había desactivado las facultades de la Superintendencia para regular precios. La Unión Argentina de Salud prepara un documento jurídico."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Perfil / Infobae",
+      "t": "La Corte Suprema declaró inconstitucional la desregulación de los precios de las prepagas",
+      "u": "https://www.perfil.com/politica/la-corte-suprema-de-justicia-declara-inconstitucional-la-desregulacion-del-gobierno-a-los-precios-de-las-prepagas-aKKDz3e69HmJ",
+      "v": "Prepagas"
+    },
+    {
+      "b": "La salida a bolsa se cerró formalmente el 20 de noviembre con unos US$93.500 millones brutos. En su primera rueda completa, la acción perdió parte de la suba del debut.",
+      "body": [
+        "Anthropic debutó el jueves 19 en el Nasdaq con un precio de salida de US$83. Cerró esa primera rueda en US$97,17.",
+        "Ahora se conocieron más detalles sobre quién vendió. Los siete fundadores colocaron unos 3,4 millones de acciones cada uno. A US$83, son cerca de US$280 millones por cabeza. En total, unos US$1.950 millones antes de comisiones e impuestos, según TechCrunch.",
+        "Cada fundador prometió donar el 80% de lo que tiene en la empresa. Anthropic aclara que las promesas son voluntarias y revocables, sin obligación legal.",
+        "El 20 de noviembre la empresa anunció el cierre formal de la operación. Se vendieron 1.127 millones de acciones. Eso incluye 147 millones de la opción de ampliación de los bancos. Anthropic vendió 1.103 millones; el resto, accionistas vendedores. A la empresa le correspondieron unos US$91.600 millones. No recibió nada por las acciones de los vendedores. En total se recaudaron unos US$93.500 millones brutos.",
+        "Aparte hubo una colocación privada de acciones sin voto. Las compraron AMD, Broadcom, Google, Micron, Microsoft, Nvidia y TSMC por unos US$26.000 millones. Sumado todo, la operación llega a unos US$119.500 millones brutos.",
+        "TechCrunch agrega que Anthropic dice tener unos US$230.000 millones de capital de trabajo. Necesita cerca de US$70.700 millones en los próximos 12 meses para cómputo e infraestructura. Hasta 2030, los compromisos suman unos US$451.600 millones.",
+        "El viernes 20, la acción cayó 8,5% y cerró en US$88,91. Tocó un mínimo de US$83,05, cinco centavos arriba del precio de salida. Se operaron unos 400 millones de acciones, contra 857 millones en el debut.",
+        "Todo el mercado cayó fuerte ese día. Según FinanceFeeds, el Nasdaq bajó 5,3% y el S&P 500, 3,7%. Nvidia retrocedió entre 12% y 14%. Seaport Research inició cobertura con recomendación neutral. Citó un crecimiento de ingresos más lento."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch / FinanceFeeds",
+      "t": "Los fundadores de Anthropic vendieron casi US$2.000 millones y la acción cayó 8,5% el viernes",
+      "u": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "La sesión del jueves se estiró hasta pasada la medianoche. Discapacidad salió por unanimidad; patentes y propiedad privada, con votos divididos.",
+      "body": [
+        "El Senado sesionó el jueves 19 y sancionó tres leyes de peso. La de Discapacidad salió por unanimidad, con 71 votos. El Tratado de Patentes sumó 47 votos contra 22. La de propiedad privada, 42 contra 26.",
+        "La ley de Discapacidad reemplaza la emergencia que vencía el 31 de diciembre. El nuevo régimen es permanente. La pensión no contributiva equivale al 70% de la jubilación mínima. Se podrá cobrar con un empleo formal si los ingresos no superan dos salarios mínimos. El presupuesto de Incluir Salud no puede bajar en términos reales. El Estado tiene 90 días para saldar la deuda con prestadores. Tiene 30 para reglamentar la ley.",
+        "El libertario Agustín Monteverde dijo que la ley no implica “ningún recorte”. Aseguró que el Presupuesto del año próximo tendrá las partidas. Citó a la Oficina de Presupuesto del Congreso: costará $1,2 billones en 2028. La oposición votó a favor, pero con desconfianza. Lucía Corpacci advirtió que Incluir Salud tiene un recorte real de 13% en 2027. Según Perfil, Caputo intentó frenar la ley hasta el final.",
+        "La ley de propiedad privada reincorpora el tope a la venta de tierras a extranjeros. Ese límite lo había fijado el kirchnerismo en 2011. Es de 15% del total, 30% por nacionalidad y 1.000 hectáreas en la zona núcleo. También pone límites a las indemnizaciones por expropiación. Ante un alquiler impago, el dueño debe intimar al inquilino. Después espera diez días antes de demandar. Varios bloques expresaron preocupación por el régimen de desalojos.",
+        "El Tratado de Patentes figura entre los compromisos del acuerdo comercial con Estados Unidos. Francisco Paoltroni, de La Libertad Avanza, lo defendió como una forma de simplificar trámites. La salteña Flavia Royón destacó que una solicitud en el INPI cubriría 159 países. José Mayans, del kirchnerismo, lo vinculó con ese acuerdo, que el Congreso todavía no trató. Los laboratorios locales advirtieron que facilitaría extender monopolios de medicamentos con cambios menores.",
+        "La ley de Discapacidad quedó sancionada sin cambios. El Ejecutivo tiene 30 días para reglamentarla. El Presupuesto 2027 llegará al recinto de Diputados el miércoles 25, según La Política Online. La oposición quiere incluir allí partidas específicas para esta ley."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "El Senado sancionó la ley de Discapacidad, el Tratado de Patentes y la de propiedad privada",
+      "u": "https://www.infobae.com/politica/2026/11/20/el-senado-sanciono-el-tratado-de-patentes-y-la-ley-de-propiedad-privada-con-tope-a-venta-de-tierras-a-extranjeros/",
+      "v": "Senado"
+    },
+    {
+      "b": "El gobernador no define si sostiene las primarias bonaerenses y espera lo que pase en el Congreso. Dirigentes del interior toman distancia de la interna de Buenos Aires.",
+      "body": [
+        "Esta semana el Gobierno consiguió dictamen para suspender las PASO nacionales. El Senado lo votaría el jueves 26. En Buenos Aires, Axel Kicillof todavía no definió qué hará con las provinciales.",
+        "Según Infobae, su plan A es mantener las PASO. Las provinciales necesitan su firma. Eso le da margen para negociar con Sergio Massa y el kirchnerismo. El plan B sería un acuerdo interno del peronismo o una jugada por fuera. Su postura dependerá de lo que ocurra en el Congreso. Un dirigente municipal le dijo a Perfil que hay tiempo para decidir hasta febrero.",
+        "El ministro bonaerense Carlos Bianco dijo que la Provincia quiere mantener las PASO. Lo mismo vale para las nacionales. Perfil recuerda que el año pasado Kicillof envió un proyecto para suspender las primarias bonaerenses.",
+        "Hay un vacío legal en debate. La ley bonaerense ata las primarias provinciales a las nacionales. Infobae dice que no aclara qué pasa si las nacionales se suspenden. Perfil sostiene que permite primarias locales igual. Legisladores de La Libertad Avanza presentaron un proyecto para suspender las PASO bonaerenses. Buenos Aires concentra el 37% del padrón.",
+        "En el peronismo bonaerense hay posturas distintas. Facundo Tignanelli, jefe del bloque de Fuerza Patria en Diputados, dijo algo parecido. Afirmó: “Si existieran las herramientas de las PASO, probablemente habría una PASO”. Jorge Ferraresi, del sector de Kicillof, da por hecho que se eliminarán las primarias nacionales. Dijo que hay que discutir consensos. Alexis Guerrera, del Frente Renovador, planteó que un acuerdo podría incluir PASO provinciales.",
+        "Hay gestos de unidad. Este sábado el PJ bonaerense se reúne en congreso en La Plata. Lo preside Kicillof. Según Perfil, debe instalar a Máximo Kirchner al frente del cuerpo deliberativo. El viernes, Kicillof reconoció el rol de Cristina Kirchner en la historia del feriado. Guerrera dijo que la unidad es fundamental.",
+        "En el interior también hay movimientos. El lunes 23, el PJ chaqueño reúne en Resistencia a dirigentes del norte grande. El lema es “Hacia un nuevo federalismo”. El anfitrión es Jorge Capitanich. Estarán Sergio Uñac y Ricardo Quintela. Capitanich dijo que hay que hacer “gestos de construcción” todo el tiempo. Admitió ambiciones distintas, pero pidió converger. Quintela no fue al acto de Massa en San Fernando. Consideró que ahondaba la grieta bonaerense. Propone armar cuanto antes una mesa con reglas claras. Uñac, en cambio, es el único que plantea abiertamente su aspiración presidencial para 2027."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "Kicillof deja abierta la carta de las PASO mientras el peronismo muestra gestos de unidad",
+      "u": "https://www.infobae.com/politica/2026/11/20/kicillof-se-aferra-a-sostener-las-paso-en-buenos-aires-para-negociar-a-nivel-nacional-con-massa-y-cfk/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "OpenAI actualizó el 20 de noviembre su herramienta de programación con agentes. Ahora GPT-6.2 Sol es el modelo por defecto.",
+      "body": [
+        "OpenAI lanzó el 20 de noviembre la versión 0.171.0 de Codex para la terminal. Llegó dos días después de la 0.170.0. Esa sumó soporte para llamadas de voz en tiempo real.",
+        "La novedad más visible es el control remoto. Hay comandos nuevos para vincular otro dispositivo y manejar desde ahí una sesión de Codex.",
+        "También se puede lanzar una tarea sin pantalla interactiva. Corre sobre un servidor de Codex ya abierto.",
+        "Otros cambios: el espacio de trabajo de la terminal viene activado de entrada. Al escribir instrucciones se puede deshacer y rehacer. Y hay una barra de estado configurable para conectores personalizados.",
+        "GPT-6.2 Sol pasó a ser el modelo por defecto. Sol y Astra llegaron a Codex el 17 de noviembre. OpenAI recomienda Astra para los proyectos más difíciles y Sol para el uso diario.",
+        "Los suscriptores Pro de US$200 acceden a Sol en modo Ultrafast. Los de US$500 lo tienen en los dos modelos.",
+        "Por qué importa: Codex funciona en la terminal, un entorno pensado sobre todo para programadores. Para quien arma herramientas con IA sin programar, lo más concreto es el control remoto. Permitiría seguir una sesión desde otro dispositivo. También cambia el modelo por defecto, ahora Sol. El registro de cambios es breve y no detalla cómo funciona cada novedad."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "OpenAI (registro de cambios de Codex)",
+      "t": "Codex suma control remoto y deshacer en su versión de terminal",
+      "u": "https://learn.chatgpt.com/docs/changelog",
+      "v": "Herramientas"
+    },
+    {
+      "b": "Salió oficialmente el 17 de noviembre con licencia Apache-2.0. Apunta a razonar, programar y usar herramientas, aunque su ficha admite un rendimiento irregular.",
+      "body": [
+        "SenseNova lanzó el 17 de noviembre SenseNova-Loop-9B. Es un modelo abierto de unos 9.000 millones de parámetros. El 31 de octubre había salido una versión preliminar.",
+        "Lee texto e imágenes y responde con texto. Está pensado para razonar, programar y usar herramientas. Acepta documentos muy largos.",
+        "Su particularidad es que reutiliza varias capas internas más de una vez. Así hace más pasos de cálculo con el mismo tamaño.",
+        "La licencia es Apache-2.0, pensada para uso libre, incluido el comercial. El 18 se sumaron versiones comprimidas, más livianas.",
+        "En Hugging Face tiene 453 likes y 1.631 descargas en el último mes. Para entrar al repositorio hay que iniciar sesión y aceptar condiciones de uso.",
+        "La propia ficha reconoce límites. El rendimiento en programación y en agentes es irregular. Los trabajos de largo plazo todavía necesitan mejoras. Con muchas herramientas o varias consignas a la vez, puede dejar de seguir instrucciones. En sitios web complejos, con escenas 3D o animaciones, pueden hacer falta dos o tres correcciones.",
+        "La ficha lo compara con Qwen3.8, de 27.000 millones de parámetros. Los resultados son parejos: algo abajo en una prueba, algo arriba en otra.",
+        "Por qué importa: Es un modelo abierto, más chico que Qwen3.8, para razonar, programar y usar herramientas. Esas son tareas típicas de las automatizaciones con IA. La licencia permite usarlo en proyectos propios, también comerciales. Su ficha muestra resultados parejos frente a un modelo del triple de tamaño. Pero la misma ficha admite un rendimiento irregular en agentes y programación."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "Hugging Face",
+      "t": "SenseNova lanzó Loop-9B, un modelo abierto que lee texto e imágenes",
+      "u": "https://huggingface.co/sensenova/SenseNova-Loop-9B",
+      "v": "Open source"
+    },
+    {
+      "b": "La nueva pieza de LangSmith reparte permisos, pide aprobación humana en acciones sensibles y registra cada llamada. Está en beta pública.",
+      "body": [
+        "LangChain presentó el 19 de noviembre Tool Gateway, una nueva pieza de su plataforma LangSmith. Está en beta pública. Funciona como un punto único entre los agentes y las herramientas que usan.",
+        "Un administrador registra una sola vez los conectores a otros servicios. Después arma paquetes con las herramientas aprobadas. Cada agente ve solo las de su paquete.",
+        "Las llamadas pueden salir con la identidad del usuario o con la del agente. El usuario conecta sus credenciales una sola vez.",
+        "También hay controles. Se pueden bloquear herramientas para ciertos usuarios. Y se puede exigir que una persona confirme las acciones sensibles antes de ejecutarlas.",
+        "Cada llamada queda registrada: herramienta, servidor, usuario, resultado y duración. Aparece en el historial del agente. Los planes Enterprise suman un registro de auditoría de toda la organización.",
+        "LangSmith ya trae conectores propios para Google, Microsoft, Salesforce, GitHub y Linear. Los equipos no tienen que construirlos ni armar las autorizaciones de acceso.",
+        "Es compatible con LangChain, Deep Agents, Claude Code y Cursor. Trabaja junto con LLM Gateway, que controla las llamadas de los agentes al modelo. Los bloqueos y la auditoría requieren pedir acceso al equipo de LangChain. El ejemplo del anuncio es una gran minorista de EE.UU. con agentes para operaciones de tiendas.",
+        "Por qué importa: Si un agente usa muchas herramientas, hay que decidir qué puede tocar. También hay que registrar lo que hizo. Tool Gateway junta permisos, aprobaciones y registro en un solo lugar. Apunta a equipos de ingeniería, plataforma y seguridad de empresas. Se suma a LLM Gateway, que hace algo parecido con las llamadas al modelo. Sigue en beta, y parte de los controles requiere pedir acceso."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "LangChain",
+      "t": "LangChain lanzó Tool Gateway, un control central para las herramientas de los agentes",
+      "u": "https://langchain.com/blog/langsmith-tool-gateway",
+      "v": "Agentes"
+    },
+    {
+      "b": "La edtech argentina, con 12 años y más de 500.000 alumnos en la región, lanza cursos online en inglés. Apunta a superar los 5.000 estudiantes en su primer año.",
+      "body": [
+        "Coderhouse anunció su desembarco oficial en Estados Unidos. Las inscripciones ya están abiertas. La empresa nació en Argentina hace 12 años. Formó a más de 500.000 personas en Latinoamérica. Su CEO, Christian Patiño, presentó el lanzamiento.",
+        "Arranca con dos programas: Forward Deployed AI Engineering y Data Analytics. Ambos son online, en vivo y en inglés. Según LinkedIn, el primero es el puesto de mayor crecimiento de 2026.",
+        "La meta es superar los 5.000 alumnos en el primer año. Después sumaría más carreras. En los próximos meses abrirá una sede física en San Francisco. El público son estadounidenses y la comunidad hispanohablante. Apunta a profesionales que quieren cambiar de rubro. También a trabajadores que necesitan herramientas digitales. Y a jóvenes que buscan su primer empleo tech.",
+        "El modelo es por cohortes: grupos con fecha fija de inicio, comunidad y proyectos evaluados. Según la empresa, en los cursos a ritmo propio termina entre 5% y 15%. Las cohortes llegan a unas diez veces esa cifra. Hay chat directo con el instructor. Hay un tutor de IA, Atlas, disponible las 24 horas. También hay un agente de IA enfocado en empleabilidad, Nexa.",
+        "Los docentes trabajan en empresas tecnológicas. Entre los nombrados están Udit Mehrotra, de Google, y Alireza Abdoli, de Meta. Harshit Sharma lidera la operación estadounidense.",
+        "La nota cita datos de mercado. Según Ken Research, la educación online en Estados Unidos superó los US$110.000 millones en 2025. Proyecta US$177.600 millones para 2031. Según CompTIA, los avisos que piden IA pasaron de 125.000 a 275.000. Fue entre mayo de 2025 y enero.",
+        "La nota no informa montos de inversión ni de facturación."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Coderhouse desembarca en Estados Unidos y abrirá una oficina en San Francisco",
+      "u": "https://www.iproup.com/coffee-break/73324-una-edtech-argentina-desembarca-en-estados-unidos-y-abrira-oficinas-en-san-francisco",
+      "v": "Edtech"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana0",
+    "ana2",
+    "eco0",
+    "tec0",
+    "eco1",
+    "tec2",
+    "pol0",
+    "pol1",
+    "tec3",
+    "tec4",
+    "tec1",
+    "sta0"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Startups"
+  ],
+  "side": [
+    "fon0",
+    "tec0",
+    "eco0",
+    "pol0"
+  ]
+}
