@@ -1,0 +1,329 @@
+{
+  "fecha": "Lunes 23 de noviembre de 2026",
+  "fuentes": "Infobae, 617 News, Minutouno, OpenAI, TechCrunch, OpenRouter, Dragos, GitHub, Perfil, iProUP",
+  "lead": "dep1",
+  "notas": [
+    {
+      "b": "Con la Sudamericana superó a Independiente y Milan. Ascacíbar y Arruabarrena recibieron el 10 en el boletín de la final.",
+      "body": [
+        "Boca sumó 19 títulos internacionales y quedó cuarto en el ranking histórico. Por encima tiene solo a tres clubes.",
+        "Real Madrid lidera con 33. Lo sigue Al-Ahly, de Egipto, con 27. Barcelona es tercero con 20, apenas uno más que Boca.",
+        "Independiente y Milan comparten el quinto puesto con 18. Los dos quedaron atrás con la Sudamericana. Infobae recuerda que Milan no gana un título internacional desde 2007.",
+        "El conteo de Boca incluye 6 Libertadores, 4 Recopas, 3 Intercontinentales y 3 Sudamericanas. Es el primer club sudamericano con tres títulos en este torneo. Su último trofeo internacional era la Recopa de 2008.",
+        "Entre los argentinos, River figura con 12 y Estudiantes con 6. Racing y Vélez tienen 5.",
+        "El boletín de la final dejó dos notas perfectas. Ascacíbar recibió un 10 por abrir el marcador y por su lectura del juego. Arruabarrena también tuvo 10 por el planteo, con Aranda desde el arranque.",
+        "Facundo Herrera fue el mejor de los jugadores de campo después de ellos, con 9. Se destacó por su madurez pese a la poca experiencia en Primera.",
+        "Con 8 aparecen Di Lollo, Lozano, Paredes, Delgado y Villa. Villa dio la asistencia del segundo gol. Delgado jugó los 90 minutos pese a estar golpeado físicamente.",
+        "Merentiel, autor del segundo gol, sacó 7 por un primer tiempo flojo. Enner Valencia tuvo el puntaje más bajo, un 5, por una chance clara que desperdició.",
+        "Boca jugará la Libertadores 2027. Además, disputará la Recopa contra Estudiantes o Palmeiras, según quién gane la final de la Libertadores."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Boca ya es el cuarto club con más títulos internacionales del mundo",
+      "u": "https://www.infobae.com/deportes/2026/11/22/boca-juniors-corto-una-sequia-de-18-anos-con-la-copa-sudamericana-supero-a-independiente-y-milan-en-la-tabla-historica-de-titulos-internacionales/",
+      "v": "Boca"
+    },
+    {
+      "b": "El técnico habla de un \"mix\" para recibir a Independiente Rivadavia el miércoles. La duda grande es Paredes, que se descompensó tras la final.",
+      "body": [
+        "Boca juega el miércoles 25, a las 21, en La Bombonera. Es partido único por los octavos del Clausura. Tiene la localía porque terminó segundo en la Zona A.",
+        "Arruabarrena anticipó cambios, pero descartó un equipo totalmente alternativo. Quiere repartir descanso entre los que más corrieron en la final y mantener una base competitiva. Antes de decidir, va a mirar cómo quedaron físicamente los jugadores.",
+        "Paredes es la principal preocupación. Pidió el cambio en el segundo tiempo de la final y después se descompensó en plena entrevista. Su presencia no está confirmada. Depende de cómo responda y de los estudios que le hagan.",
+        "Minutouno publicó una formación probable. Con Montero en el arco, irían Gorosito, Figal, Costa y Braida en defensa. En el medio aparecen Battaglia, Belmonte y Alarcón. Adelante, Velasco, Bareiro y Flores. Paredes no figura.",
+        "Tampoco están en ese once varios protagonistas de la final: Ascacíbar, Merentiel, Herrera, Di Lollo y Villa. Ninguna fuente confirma que vayan a descansar. Es solo una proyección.",
+        "Independiente Rivadavia llega como séptimo de la Zona B. Dirige Alfredo Berti. En esta temporada perdió la final de la Supercopa Argentina ante Estudiantes. La Lepra mendocina busca una clasificación histórica en la Bombonera.",
+        "Boca llega como campeón de la Sudamericana y de la Tabla Anual, con 63 puntos. El árbitro será Luis Lobo Medina y el partido se verá por ESPN Premium."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "617 / Minutouno",
+      "t": "Arruabarrena promete un Boca con cambios para los octavos del Clausura",
+      "u": "https://617.news/boca-independiente-rivadavia-plan-arruabarrena-torneo-clausura/",
+      "v": "Boca"
+    },
+    {
+      "b": "El DT del Como dice que el chico todavía tiene mucho camino. Opina que el número de Maradona y Messi debería guardarse.",
+      "body": [
+        "Cesc Fábregas habló antes del partido con Cagliari. Fue después de la goleada 7-0 de Argentina a Costa Rica, con dos goles de Paz.",
+        "Su postura es clara: no quiere que le carguen a Paz el peso de la 10. Pidió dejarlo tranquilo porque todavía tiene mucho por recorrer.",
+        "Sobre la camiseta fue más lejos. Dijo que la usaron Maradona y Messi, y que deberían retirarla. Según Infobae, no cuestiona el talento del jugador. Rechaza una expectativa que considera prematura.",
+        "Paz tiene 22 años y es una de las figuras de la Selección. En el Como lleva 6 goles y 8 asistencias en 14 partidos de Serie A.",
+        "El técnico también habló del desgaste de los viajes. Paz y Perrone volvieron de la Selección cerca del mediodía previo al partido. Les quedaron unas 48 horas de margen.",
+        "Fábregas recordó la primera convocatoria del jugador. Contó que volvió, anotó contra Parma, pero \"no era él\". Su mensaje al plantel fue simple: la Selección terminó, ahora es el Como.",
+        "Paz esquivó el debate. Respondió que no piensa en eso y que solo quiere divertirse.",
+        "Fábregas conoce a Messi desde las inferiores del Barcelona y compartió plantel con él. El joven aparece en la carpeta del Manchester United, y el Real Madrid estudia recomprarlo."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Fábregas pide dejar tranquilo a Nico Paz y que se retire la 10",
+      "u": "https://www.infobae.com/deportes/2026/11/21/la-tajante-postura-del-dt-del-como-por-que-fabregas-no-quiere-que-nico-paz-use-la-10-de-argentina/",
+      "v": "Selección"
+    },
+    {
+      "b": "El asesor de Alpine destacó el trabajo de los dos pilotos. No habló del futuro del argentino en el equipo.",
+      "body": [
+        "Flavio Briatore, asesor ejecutivo de Alpine, elogió a sus dos pilotos. Lo hizo en un comunicado del equipo tras el Gran Premio de Las Vegas.",
+        "Dijo que tanto Pierre como Franco hicieron un trabajo excelente. Destacó que la carrera exigía precisión y concentración.",
+        "También subió una foto con ambos a Instagram. El texto fue breve: \"buen trabajo\".",
+        "Colapinto terminó sexto y sumó 8 puntos. Gasly fue quinto, con 10. Alpine se llevó 18 unidades, su mejor fin de semana de la temporada.",
+        "Fue la primera vez en puntos del argentino después de seis Grandes Premios. Igualó su mejor resultado en la F1, que ya había logrado en Canadá.",
+        "Alpine recortó diferencia con Racing Bulls en la pelea por el quinto puesto de constructores. Racing Bulls no sumó en Las Vegas. Igual, el equipo francés sigue 27 puntos detrás.",
+        "Quedan dos carreras: Qatar y Abu Dhabi. Colapinto dijo que el equipo seguirá trabajando para ellas."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Briatore felicitó a Colapinto y a Gasly por el doble puntaje en Las Vegas",
+      "u": "https://www.infobae.com/deportes/2026/11/22/el-elogio-de-flavio-briatore-a-franco-colapinto-luego-de-su-gran-tarea-en-el-gp-de-las-vegas-de-formula-1/",
+      "v": "Colapinto"
+    },
+    {
+      "b": "La tormenta global empujó las cotizaciones aun sin compras del Banco Central. Esta semana se confirmaría que la economía cayó dos trimestres seguidos.",
+      "body": [
+        "El riesgo país ya había superado los 1.000 puntos el viernes. Ahora el foco pasó al dólar y a la actividad.",
+        "El dólar oficial subió a $1.595, casi $1.600. El MEP tocó $1.700 y el contado con liquidación rondó $1.800. Pasó aun sin compras del Banco Central en los últimos días.",
+        "No es un fenómeno solo argentino. Brasil, México, Chile y Colombia vieron el dólar en máximos del año. En Brasil, el dólar subió cerca de 20% desde el balotaje.",
+        "El origen está afuera: una fuerte caída de Wall Street. Las tecnológicas de inteligencia artificial perdieron más de 40% en un mes. Bajaron también el oro, el bitcoin y las acciones emergentes.",
+        "Para la economía, el golpe llega en mal momento. Se conocería esta semana que hubo recesión técnica. Septiembre fue un mes de repunte, pero solo recuperó parte de la caída de julio.",
+        "El Financial Times sumó otro dato. Desde agosto, el Gobierno suspendió las emisiones de deuda en dólares dentro del país. Para el diario, el mercado ya no da por segura la reelección de Milei. Su imagen cayó de más de 40% en enero a niveles de 30% y pico.",
+        "Para el bolsillo, el riesgo es que el dólar le gane a los sueldos. También dificultaría seguir bajando la inflación. Los analistas esperaban un efecto moderado en los precios de noviembre, aunque con dudas. El artículo no trae datos nuevos sobre crédito. Sí dice que reactivarlo y empujar el consumo son prioridades oficiales.",
+        "Caputo apuesta a otro argumento. Destacó un superávit comercial de US$30.000 millones. Y que el dólar suba menos que el riesgo país. Según la nota, el salto mostró que el tipo de cambio no estaba atrasado.",
+        "Esta semana hay una licitación del Tesoro con vencimientos por unos $25 billones. Se mirará a qué plazos y con qué tasas se renueva la deuda. Si las tasas en pesos suben, la recuperación se frena. El Senado también tratará la suspensión de las PASO."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "El dólar se acerca a $1.600 y la recesión asoma por el golpe financiero",
+      "u": "https://www.infobae.com/economia/2026/11/22/el-shock-financiero-complica-al-gobierno-presiona-al-dolar-y-amenaza-el-repunte-de-la-economia/",
+      "v": "Dólar"
+    },
+    {
+      "b": "Su científico jefe, Jakub Pachocki, sugiere que los laboratorios usen la misma métrica y se pongan límites compartidos. OpenAI ya publicó sus propias mediciones.",
+      "body": [
+        "Jakub Pachocki, científico jefe de OpenAI, publicó el 22 de noviembre una propuesta. Busca frenar el ritmo de la IA. La idea: que todos los laboratorios midan su progreso con la misma vara.",
+        "Esa vara se llama perplexity. Mide qué tan bien un modelo adivina la próxima palabra de un texto. Cuanto más baja, mejor predice.",
+        "Pachocki sostiene que las pruebas de capacidades envejecen rápido. La perplexity, en cambio, sigue siendo informativa con el paso del tiempo.",
+        "OpenAI muestra su propia curva desde GPT-3.5, con valores cercanos a 0,99. GPT-4 estaba en torno a 0,91. Según el texto, por debajo de 0,8 aparecieron capacidades transformadoras en ciberseguridad y matemática.",
+        "Con esa vara, propone fijar límites comunes. Las empresas se comprometerían a no cruzar cierto umbral. Seguirían abajo hasta lograr un hito concreto de monitoreo de la IA. Hasta ahora son solo propuestas: no hay nada adoptado.",
+        "El propio texto admite varias limitaciones. Los laboratorios usan datos y pruebas distintos, así que comparar entre ellos es difícil. La perplexity tampoco corresponde a una tarea concreta.",
+        "Además, deja afuera mejoras posteriores al entrenamiento, como el razonamiento paso a paso. Esas suben mucho las capacidades sin bajar la perplexity. OpenAI mide sobre su propio código interno, un sesgo que reconoce.",
+        "Pachocki dice que no sabe qué capacidades vendrán. Espera que las auditorías actuales pierdan eficacia. Cree que la alineación no avanzará tan rápido como el entrenamiento. Sus proyecciones, hasta 2027, son extrapolaciones.",
+        "OpenAI admite que publicar sus cifras le da pistas a la competencia. Dice que la urgencia de las medidas compartidas pesa más. Según TechCrunch, no se fijó el umbral ni se explicó cómo se verificaría el hito.",
+        "Por qué importa: Un laboratorio grande publica una métrica interna y pide topes comunes. Dario Amodei, de Anthropic, ya había planteado límites al ritmo de avance. Sam Altman elogió el texto. Por ahora es la propuesta de una sola empresa y no hay acuerdo con otras. Faltan el umbral, el hito y la forma de comprobarlo. Y el propio texto reconoce que la medida no captura todas las capacidades."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "OpenAI / TechCrunch",
+      "t": "OpenAI propone una vara común para medir el avance de la IA",
+      "u": "https://openai.com/index/perplexity-and-intelligence/",
+      "v": "OpenAI"
+    },
+    {
+      "b": "La empresa de Elon Musk lanzó su operación local en La Boca, con Milei presente. Vende solo por internet y entrega desde febrero.",
+      "body": [
+        "Tesla presentó oficialmente su desembarco el viernes a la noche, en La Boca. Estuvo Javier Milei. Elon Musk participó por videollamada desde un avión, con fallas de conexión.",
+        "Habrá dos modelos: el sedán Model 3 y la camioneta Model Y. Todos los autos iniciales vienen de la fábrica de Shanghái, en China.",
+        "Los precios finales van de US$41.590 a US$54.590. El Model 3 más barato cuesta US$41.590. El Model Y más barato sale US$44.590. Incluyen US$600 de gastos de documentación y reserva, que no se devuelve.",
+        "La venta es solo por internet, sin concesionarios. En el sitio se elige el auto, se reserva y se simula el financiamiento. El Santander ofrece préstamos de 12 a 60 meses. Comafi y TCC ofrecen alquiler con opción de compra a 36 meses.",
+        "Para verlos hay exhibición en Unicenter y, desde el lunes, en Alcorta Shopping. El local propio abrirá en el primer trimestre de 2027, en Libertador y Lacroze. El servicio técnico funcionará en Munro. Las primeras entregas son para febrero y marzo de 2027.",
+        "Los aranceles tuvieron un rol central. El Gobierno vinculó la llegada de Tesla con otros cambios. Eliminó el impuesto PAIS, bajó impuestos internos y flexibilizó normas para eléctricos. Además, un plan permite importar 50.000 híbridos y eléctricos anuales sin el arancel de 35%. La mitad del cupo es para fabricantes locales. La otra mitad es para importadores. Tesla podría traer hasta 2.500 unidades sin arancel en 2027. Es la única que anunció inversión en cargadores.",
+        "Aun así, el precio local supera al de otros países. El Model 3 de entrada cuesta US$32.990 en Uruguay y US$29.900 en Chile. En Estados Unidos sale US$36.990. La diferencia argentina es de 24% frente a Uruguay.",
+        "Tesla firmó con YPF una carta de intención para cargadores rápidos en rutas. El piloto automático completo cuesta US$119 por mes, pero no está habilitado en Argentina. Entre enero y octubre se vendieron 6.736 eléctricos en el país. BYD lideró con 4.784."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae / Perfil",
+      "t": "Tesla llegó a la Argentina: cuánto cuestan sus autos y cómo comprarlos",
+      "u": "https://www.infobae.com/economia/2026/11/21/los-autos-de-elon-musk-todo-lo-que-hay-que-saber-sobre-la-llegada-de-tesla-a-la-argentina/",
+      "v": "Autos"
+    },
+    {
+      "b": "El jueves 26 concentra las votaciones del Senado y de Diputados. Lo que no salga pasaría a las sesiones extraordinarias de diciembre.",
+      "body": [
+        "El Senado ya tiene dictamen para suspender las PASO. La sesión de Diputados de la semana pasada se cayó por falta de quórum. Esta semana el oficialismo intenta ordenar lo que queda.",
+        "El martes 24 el Gobierno define qué entra en la última sesión ordinaria de Diputados. El tema central es el Presupuesto 2027. La sesión sería el jueves.",
+        "El miércoles, el Senado abre con un plenario de comisiones sobre ludopatía, desde las 10. Después, desde las 15, el jefe de Gabinete, Diego Santilli, presenta su primer informe. La oposición le hizo más de 1.600 preguntas.",
+        "El jueves, el Senado trataría la ludopatía y la reforma electoral que suspende las PASO. El oficialismo confía en tener los votos. Una senadora libertaria advirtió que los detalles pueden complicar. La Cámara Nacional Electoral pidió que los cambios se aprueben antes de que empiece 2027.",
+        "Patricia Bullrich, jefa del bloque libertario en el Senado, condiciona la agenda. Descartó votar ludopatía sin dictamen. Su bloque presentará un texto intermedio entre el de Diputados y el de Milei. Si el Senado lo modifica, vuelve a Diputados. Además, prepara cambios a la ley Malvinas.",
+        "Esa ley sale del entorno de Santiago Caputo. Busca frenar el avance petrolero británico y limitar capitales chinos. No tiene media sanción. Bullrich y otros libertarios cuestionan algunos artículos. La embajada china analiza el texto. El 28 se espera una decisión del tribunal internacional sobre el proyecto petrolero Sea Lion.",
+        "También está trabada la reforma de la carta orgánica del Banco Central. En Diputados, PRO y Provincias Unidas pelean la cuarta banca del Consejo de la Magistratura. El bloque de Pullaro y Llaryora amenaza con ir a la Justicia.",
+        "Para extraordinarias, el Gobierno debe publicar un decreto con el temario. Apunta a aprobarlo todo para el 30 de diciembre. Si diciembre se carga, algo pasaría a febrero. Ludopatía pierde estado parlamentario si el Senado no la vota antes del lunes 30."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Perfil / Infobae",
+      "t": "Semana clave en el Congreso: PASO, Presupuesto y una agenda trabada",
+      "u": "https://www.perfil.com/politica/bullrich-condiciona-los-planes-del-oficialismo-antes-de-un-superjueves-en-el-congreso-aHemL4E7BdyU",
+      "v": "Congreso"
+    },
+    {
+      "b": "El acto de San Fernando mostró dos caminos dentro del peronismo. Si se suspenden las PASO, nadie sabe cómo se elegirá al candidato.",
+      "body": [
+        "Máximo Kirchner ya presidió el congreso del PJ bonaerense, tras el acuerdo con Kicillof. El Senado votaría la suspensión de las PASO el jueves 26. Lo nuevo es cómo se acomoda el peronismo.",
+        "En San Fernando, Sergio Massa ocupó el centro de la escena. Nombró a tres posibles presidenciables: Sergio Uñac, Gerardo Zamora y Natalia de la Sota. Según Infobae, él mismo encabeza esa lista.",
+        "El cristinismo dice que la alianza con Massa está más sólida que nunca. La presenta como el acuerdo que dio origen al Frente de Todos en 2018. La diferencia, según esa lectura, es que Kicillof se fue. Esas posiciones llegan por fuentes cercanas a Cristina Kirchner. No hay declaraciones directas.",
+        "Kicillof quedó fuera del acto. Seguirá con su espacio, el MDF, y con el apoyo de Juan Grabois. Su jefe de Gabinete, Carlos Bianco, fue crítico. Dijo que, sin capacidad de hacer una interna, conviene dedicarse a otra cosa.",
+        "Ricardo Quintela, gobernador de La Rioja, rechazó la invitación. Consideró que el acto profundizaba la división bonaerense.",
+        "Sin PASO, hay propuestas distintas. Agustín Rossi y Victoria Tolosa Paz piden una primaria abierta con padrón nacional. Uñac propone votar por regiones. Miguel Ángel Pichetto es el único que planteó explícitamente un candidato por consenso. Máximo Kirchner sostiene que lo elijan los afiliados o quien quiera participar.",
+        "Perfil cuenta que faltan definiciones básicas. No está claro quién votaría, quién competiría, quién organizaría y quién pagaría. Los padrones son provinciales y no están depurados. La carta orgánica del PJ no prevé este escenario. Una competencia tendría que hacerse en abril o mayo de 2027.",
+        "El peronismo tampoco quiere llegar a la primera vuelta con varios candidatos. Pero no se descarta que aparezcan dos.",
+        "El pampeano Sergio Ziliotto impulsa una tercera cumbre de dirigentes antes de fin de año. Algunos prefieren esperar a que el Congreso vote."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / Perfil",
+      "t": "Peronismo sin PASO: Massa y Cristina por un lado, Kicillof por otro",
+      "u": "https://www.infobae.com/politica/2026/11/22/cristina-kirchner-expone-su-acuerdo-con-massa-el-camino-paralelo-de-kicillof-y-un-futuro-incierto-sin-las-paso/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "Una investigación de la firma de seguridad Dragos detectó datos comprometidos o políticas de privacidad que no se cumplían. OpenRouter dice que su propio sistema no fue vulnerado.",
+      "body": [
+        "OpenRouter reparte pedidos entre muchos proveedores de modelos de IA. Tomó medidas tras una investigación externa. Lo anunció el 22 de noviembre.",
+        "Dio de baja a tres proveedores, sin nombrarlos. Además, sacó 125 conexiones de su garantía de cero retención de datos. Esa garantía promete que nadie guarda lo que escribe el usuario.",
+        "Algunas de esas 125 las marcaron los investigadores. Otras las quitó por precaución. También avisó a todos los clientes que podrían estar afectados.",
+        "OpenRouter aclara que los hallazgos no mostraron una brecha en sus sistemas. Sí había proveedores con datos comprometidos o que no respetaban sus políticas.",
+        "La investigación es de Dragos, una firma de ciberseguridad. Su responsable de investigación, HD Moore, publicó los resultados el 19 de noviembre. Entre julio y noviembre enviaron casi dos millones de pedidos con señuelos escondidos. Eran direcciones y claves falsas que nadie legítimo usaría. Si alguien las tocaba, había visto el pedido.",
+        "Detectaron datos robados en tres proveedores de alojamiento. El mayor robo incluyó unos doscientos accesos a la nube de Amazon. Los atacantes hicieron decenas de miles de llamadas con ellos. Algunos pedidos robados estaban marcados como no retenibles.",
+        "También hallaron revendedores que leían y guardaban lo que enviaban los clientes. Un laboratorio chino abrió los enlaces secretos de más de la mitad de los pedidos. Incluyó la mayoría de los marcados como privados. Dragos no nombra a esos actores.",
+        "OpenRouter sigue con controles. Adapta las pruebas de los investigadores para correrlas siempre. También revisa por dónde viajan los pedidos. Ninguna conexión retirada vuelve sin garantías verificadas.",
+        "Por qué importa: Muchas empresas usan servicios como OpenRouter para no depender de un solo proveedor. La garantía de no guardar datos es lo que permite mandar información sensible. Esta investigación muestra que esa promesa puede fallar en algún eslabón de la cadena. Para quien arma automatizaciones, importa saber qué proveedores quedan detrás de cada pedido. Dragos recomienda elegirlos uno mismo y evitar los mercados de reventa. OpenRouter no dio instrucciones específicas a los usuarios."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "OpenRouter / Dragos",
+      "t": "OpenRouter echó a tres proveedores y retiró 125 conexiones de su garantía de no guardar datos",
+      "u": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/",
+      "v": "Privacidad"
+    },
+    {
+      "b": "El proyecto mide qué partes de un modelo se dañan menos al comprimirlas. Tiene licencia MIT, casi 500 estrellas en GitHub y resultados medidos por su propio autor.",
+      "body": [
+        "LookAtMyQuant es un proyecto de código abierto que achica modelos de IA. Sirve para que entren en computadoras con poca memoria.",
+        "Su método es medir primero. Evalúa cuánto empeora el resultado al comprimir cada parte del modelo. Después comprime más las partes que casi no se notan. Cuida las sensibles hasta llegar al tamaño buscado.",
+        "Lo publicó un usuario de GitHub que firma ShinMegamiBoson. Tiene 483 estrellas, 21 copias derivadas y licencia MIT. Esa licencia permite usarlo y modificarlo con pocas condiciones. En Hacker News, un hilo sobre el proyecto llegó a 548 puntos.",
+        "Los números que reporta son llamativos. Un modelo de 27.000 millones de parámetros pasó de 53,7 a 7,2 GB. Resolvió 401 de 540 problemas de matemática, igual que el original.",
+        "Con Inkling 2 Mini, de Thinking Machines, armó seis versiones para Mac con chip Apple. Van de 3,85 a 12,76 GB. La de 12,76 GB iguala al original en las pruebas. La de 11,18 y la de 8,87 GB rondan el 99%.",
+        "El título de Hacker News, Inkling-2-Mini en 5,4 GB de memoria, corresponde a una versión que ya pierde calidad. Según el README, de 5,38 GB para abajo la caída se nota. Ayer se informó que Inkling 2 Mini pide 32 GB de memoria.",
+        "Hay que leer los resultados con cautela. Todo lo midió el propio autor. Las muestras son chicas: 200 problemas de matemática y 164 de programación. La prueba con imágenes tiene solo cuatro casos.",
+        "Las mediciones de velocidad salen de una sola computadora. Parte de los archivos de la segunda versión no está publicada. Otros no pueden verificarlo todo. El README no muestra fecha de la última actualización.",
+        "Por qué importa: Correr un modelo propio, sin mandar datos afuera, suele chocar con la memoria que exige. Esta herramienta apunta a bajar ese costo midiendo qué se puede recortar. Puede servirle a quien arma automatizaciones con datos sensibles o prueba modelos en una Mac. La promesa es más chica que la del título: las versiones más livianas pierden calidad. Hasta que otros repliquen las pruebas, son resultados de un solo autor."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "GitHub",
+      "t": "LookAtMyQuant: una herramienta abierta para achicar modelos de IA sin perder tanta calidad",
+      "u": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "v": "Open source"
+    },
+    {
+      "b": "El fondo apunta a emprendimientos de inteligencia artificial, fintech y otros rubros. Cada inversión irá de US$50.000 a US$250.000.",
+      "body": [
+        "Grupo BIND creó Natan VC, un fondo propio para invertir en empresas tecnológicas jóvenes. Busca proyectos con potencial de negocio para el mundo financiero.",
+        "Cada inversión será de entre US$50.000 y US$250.000. Apunta a empresas en etapas muy tempranas. Mira startups de la región. También acepta empresas de afuera que quieran entrar al mercado argentino con BIND.",
+        "Los rubros de interés son fintech e inteligencia artificial. También movilidad, seguros, análisis de datos y automatización.",
+        "El fondo analiza unas 150 startups por año. Piensa invertir en tres o cuatro nuevas por año. Hoy tiene ocho en cartera. Entre ellas, Fonder, un asistente de tesorería con IA para pymes. También Autonomy, de movilidad con seguros y créditos. Y Theramot, de datos para fintech.",
+        "Micaela Bacher, de Natan VC, explicó cómo eligen. Lo principal es el equipo emprendedor. Valoran los que puedan hacer alianzas o trabajar en conjunto con el grupo. También piden una propuesta con un diferencial claro. Con la IA, muchas soluciones se vuelven iguales. Y buscan equipos capaces de crecer.",
+        "El proceso lleva unos seis meses desde el primer contacto hasta la decisión. Incluye reuniones, análisis del negocio y pruebas para ver cómo encajaría en BIND. Si no hay inversión, igual puede haber contratos, pruebas piloto o alianzas.",
+        "El fondo busca ganar dinero con el crecimiento de las empresas. También quiere soluciones que complementen los negocios del grupo. La nota no informa el tamaño total del fondo ni cómo postularse."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Grupo BIND lanzó Natan VC, un fondo para startups de hasta US$250.000",
+      "u": "https://www.iproup.com/startups/73341-grupo-bind-invierte-hasta-us250000-en-startups-de-ia-y-fintech",
+      "v": "Inversión"
+    },
+    {
+      "b": "Notable Capital, GIC y Baillie Gifford entraron años antes de la salida a bolsa. Según TechCrunch, la ganancia en papel ronda las 15 veces.",
+      "body": [
+        "Anthropic ya debutó en Nasdaq a unos US$111 por acción, 33% arriba del precio de salida. Los fundadores vendieron casi US$2.000 millones y Amazon y Google tendrán cerca del 30%. Esta nota cuenta quiénes apostaron primero.",
+        "Notable Capital, antes llamada GGV, entró en la ronda Serie E. Fue a una valuación de US$61.500 millones, la más alta de sus 25 años de historia. Puso cerca del 10% de la parte estadounidense de un fondo de más de US$1.000 millones.",
+        "La tesis era simple. Su equipo vio que los desarrolladores preferían Claude a ChatGPT. Lo usaban el 70% de las veces. Hans Tung, socio gerente, dijo que en IA el desarrollador es quien adopta primero.",
+        "GIC, el fondo soberano de Singapur, puso más de US$4.500 millones en tres rondas. Investigó la empresa durante 2024. Invirtió por primera vez tras una reunión, a comienzos de 2025, con el director financiero, Krishna Rao.",
+        "Esa primera compra fue en la Serie F, a US$183.000 millones. Después codirigió la Serie G, junto con Coatue, a US$380.000 millones. Y la ronda previa a la salida a bolsa, a US$965.000 millones. Una fuente dice que hoy tiene cerca del 1%.",
+        "Baillie Gifford invirtió US$1.500 millones en tres rondas. Su equipo estudió a Anthropic casi dos años antes de entrar, también en la Serie F. Lilian Li destacó que ejecutaba con constancia, con ingresos fuertes y buenos márgenes.",
+        "La salida a bolsa recaudó US$81.300 millones, la mayor de la historia. La valuación llegó a unos US$1,5 billones antes de empezar a cotizar. TechCrunch habla de una ganancia en papel de unas 15 veces, sin precisar para qué inversor."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Los inversores que apostaron temprano por Anthropic ahora ven ganancias enormes",
+      "u": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "El Gobierno de De la Espriella acusa al expresidente de incitar a la violencia. Petro no respondió y X tampoco se pronunció.",
+      "body": [
+        "El Ministerio de Tecnologías de la Información pidió a X suspender la cuenta @petrogustavo. La solicitud salió el 22 de noviembre. Pide que se evalúe el contenido de una publicación y el alcance de la cuenta.",
+        "El mensaje cuestionado es del 21 de noviembre. Petro pidió al pueblo colombiano exigir la renuncia del presidente Abelardo de la Espriella. Lo acompañó con un video de menos de dos minutos. Muestra fragmentos de un discurso suyo en Cali, el 19 de noviembre. Allí llamó a movilizarse en las calles de inmediato.",
+        "Según el Ministerio, el mensaje presiona para forzar la salida del presidente. Lo califica como parte de un plan antidemocrático y desestabilizador. Pide analizarlo bajo las reglas de X sobre violencia e incitación. Recuerda el estallido social de abril de 2021. Las redes sirvieron para convocar bloqueos con daños y muertes.",
+        "El pedido cita dos antecedentes más. El 30 de octubre, el Consejo de Estado ordenó borrar mensajes de Petro sobre un supuesto fraude. También menciona su inclusión en una lista de sanciones de Estados Unidos. Infobae aclara que ese dato requiere verificación independiente.",
+        "La solicitud no precisa qué norma de X se habría violado. Tampoco informa si hubo denuncias previas sobre la publicación.",
+        "De la Espriella dijo que garantizará la protesta pacífica. No tolerará violencia, vandalismo ni bloqueos. Afirmó que no aceptará intentos de quebrar el orden constitucional. Defendió su legitimidad: lo votaron cerca de 13 millones de personas. También anunció que pedirá a la justicia estadounidense avanzar en investigaciones sobre el gobierno anterior. No presentó pruebas.",
+        "El Gobierno informó que el 19 de noviembre hubo 285 actividades, con unas 55.000 personas. Según su cuenta, el 97% fue pacífico. Lo atribuye al decreto de octubre que regula el uso de la fuerza en protestas. Son cifras oficiales, sin verificación independiente.",
+        "Hasta la publicación, Petro no había respondido. X tampoco había tomado una decisión."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae",
+      "t": "Colombia pide a X que cancele la cuenta de Gustavo Petro",
+      "u": "https://www.infobae.com/colombia/2026/11/22/gobierno-de-la-espriella-pide-cancelar-en-x-la-cuenta-de-gustavo-petro-por-presunta-incitacion-a-la-violencia/",
+      "v": "Colombia"
+    },
+    {
+      "b": "El periodista Paris Marx, autor del libro Hyperscale, dice que el problema es la escala. Vecinos, republicanos y demócratas coinciden en el reclamo.",
+      "body": [
+        "TechCrunch entrevistó el 22 de noviembre a Paris Marx, autor del libro Hyperscale. Habló de los centros de datos de la IA. Su tesis: el problema no es la tecnología sino la escala del despliegue.",
+        "Marx califica la expansión actual de insostenible. Los vecinos de estas plantas sienten el impacto en la factura de luz y en el acceso al agua. También sufren el ruido de la refrigeración.",
+        "El rechazo cruza partidos. Según la nota, tanto Ron DeSantis como Bernie Sanders se oponen. La nota sugiere que el tema ayudó a los demócratas en las elecciones de medio término.",
+        "Marx ve además un enojo más amplio con las tecnológicas. Incluye la calidad de los productos, los efectos sociales y la cercanía con el gobierno de Trump. Los centros de datos son un blanco físico de ese malestar. Lo mismo pasa con las cámaras Flock o los autos de Waymo.",
+        "Cita ejemplos. En Chile, comunidades cerca de Santiago se organizaron por el agua mientras Google y Microsoft construían. En Irlanda, estas plantas consumen más del 20% de la electricidad. La red frenó nuevas conexiones cerca de Dublín en 2022.",
+        "En The Dalles, Oregon, Google reveló que usaba el 29% del agua de la ciudad. Lo hizo cerca de un año después de un reclamo. Un periodista que pedía los datos había sido demandado.",
+        "Las empresas respondieron. Microsoft, Amazon y OpenAI dijeron que dejarán de usar acuerdos de confidencialidad con gobiernos locales. Marx cree que cambiará poco. También ofrecen pagar más infraestructura eléctrica y pasar a refrigeración en circuito cerrado.",
+        "Marx advierte que ese sistema gasta más electricidad. Los vecinos temen fugas de químicos al agua. Dice que la industria dejó de hablar de renovables y nuclear. Ahora insiste con el agua, aunque muchas plantas están en zonas con escasez.",
+        "Como alternativa, propone que el sector público desarrolle tecnología propia. Menciona fondos europeos de soberanía digital, aunque teme que la industria los capture."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Por qué los centros de datos están en el centro del rechazo a las grandes tecnológicas",
+      "u": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "v": "Data centers"
+    }
+  ],
+  "orden": [
+    "dep1",
+    "dep0",
+    "dep2",
+    "fon0",
+    "eco1",
+    "tec0",
+    "eco0",
+    "pol1",
+    "pol0",
+    "tec1",
+    "tec4",
+    "sta0",
+    "tec2",
+    "lat0",
+    "tec3"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "fon0",
+    "eco1",
+    "tec0",
+    "pol0"
+  ]
+}
