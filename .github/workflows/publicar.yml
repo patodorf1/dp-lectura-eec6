@@ -7,16 +7,14 @@ permissions:
   contents: read
   pages: write
   id-token: write
-  actions: read   # para preguntarle a GitHub si ya ve el libro
 concurrency:
   group: pages
   cancel-in-progress: false
 jobs:
-  publicar:
+  # Dos tandas, como el modelo de GitHub. Desde el 22-nov, publicar en la misma
+  # tanda que sube el libro falla: GitHub todavía no lo tiene en su lista.
+  armar:
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
     steps:
       - uses: actions/checkout@v7
       - id: pages
@@ -40,18 +38,12 @@ jobs:
       - uses: actions/upload-pages-artifact@v5
         with:
           path: site
-      # GitHub a veces tarda en mostrar el libro recién subido y el paso de
-      # publicar lo busca enseguida (falló así el 24-nov). Esperamos a que aparezca.
-      - name: Esperar a que GitHub vea el libro
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          for i in $(seq 1 24); do
-            n=$(gh api "repos/${{ github.repository }}/actions/runs/${{ github.run_id }}/artifacts" \
-                  --jq '[.artifacts[] | select(.name == "github-pages")] | length')
-            [ "$n" -ge 1 ] && echo "GitHub ya ve el libro" && exit 0
-            sleep 5
-          done
-          echo "GitHub no mostró el libro en 2 minutos; se intenta publicar igual"
+  publicar:
+    needs: armar
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
       - id: deploy
         uses: actions/deploy-pages@v5
