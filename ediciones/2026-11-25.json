@@ -1,0 +1,392 @@
+{
+  "fecha": "Miércoles 25 de noviembre de 2026",
+  "fuentes": "Infobae, Diario Uno, Diario Río Negro, El Destape, TechCrunch, Hugging Face, TechNode, Bloomberg Línea, La Política Online, Perfil, iProUP",
+  "lead": "dep0",
+  "notas": [
+    {
+      "b": "Recibe esta noche a Independiente Rivadavia en los octavos del Clausura. Arruabarrena piensa en cuidar a los más desgastados.",
+      "body": [
+        "Boca juega hoy por primera vez en La Bombonera desde que ganó la Sudamericana. Recibe a Independiente Rivadavia a las 21, por los octavos de final del Clausura.",
+        "Lo transmite ESPN Premium. El árbitro es Luis Lobo Medina. Si hay empate a los 90 minutos, se juega alargue y, de persistir, penales.",
+        "Rodolfo Arruabarrena planea rotar. El plantel llega cansado. Los festejos del título se estiraron hasta la madrugada del lunes.",
+        "La gran duda es Leandro Paredes. Se descompensó tras la final por el calor y la deshidratación. Igual entrenó con el grupo. Si no juega, el reemplazo sería Tomás Belmonte.",
+        "Diario Uno anticipa que Paredes, Di Lollo, Blanco y Ascacíbar irían al banco. Acumulan muchos minutos. Blanco y Ascacíbar, además, llegaron con sobrecargas musculares. También hay dudas con Tomás Aranda.",
+        "Las formaciones probables no coinciden entre los medios. Todos ponen a Álvaro Montero en el arco y a Leandro Lozano por la derecha. Facundo Herrera, Milton Delgado y Miguel Merentiel también figuran en casi todas.",
+        "Independiente Rivadavia, dirigido por Alfredo Berti, no tiene a José Florentín. Lo expulsaron en el clásico mendocino ante Gimnasia. Gonzalo Ríos aparece como reemplazo. En el arco compiten Emanuel Gómez Riga y Nicolás Bolcato.",
+        "El equipo mendocino llega después de perder la Supercopa Argentina con Estudiantes. Boca, en cambio, llega con la Tabla Anual ganada. El sábado se quedó con la Sudamericana, 2-0 ante Atlético Mineiro.",
+        "El que gane se medirá en cuartos con Gimnasia de La Plata. Si avanza Boca, la serie se juega en la Bombonera. Si pasa Independiente Rivadavia, será en el Bosque."
+      ],
+      "id": "dep0",
+      "sec": "Deportes",
+      "src": "Diario Uno / Diario Río Negro",
+      "t": "Boca vuelve a la Bombonera como campeón: con rotaciones y la duda de Paredes",
+      "u": "https://diariouno.com.ar/ovacion/futbol/independiente-rivadavia-busca-dar-el-golpe-la-bombonera-hora-tv-y-probables-formaciones-n1619613",
+      "v": "Boca"
+    },
+    {
+      "b": "El campeón del mundo en 1986 elogió al defensor de Boca tras la final de la Sudamericana. Dice que ya tendría que estar convocado.",
+      "body": [
+        "Oscar Ruggeri quiere ver a Facundo \"Jagger\" Herrera en la Selección. Lo dijo en F90, de ESPN, tras el título de Boca en la Sudamericana.",
+        "El ex defensor pidió que lo convoquen cuanto antes. En la mesa recordaron que falta un Mundial, dentro de cuatro años. Ruggeri respondió que no hay que esperar. Para él, el pibe debería jugar ya.",
+        "Lo que más le gusta es la madurez. Según Ruggeri, Herrera sale a la cancha y parece un jugador veterano.",
+        "No es la primera vez que lo elogia. En septiembre, tras la semifinal con San Pablo, ya había destacado cómo lee el juego. Marcó que sabe cuándo despejar y cuándo salir jugando.",
+        "Herrera nació el 11 de julio de 2006. Lleva 17 partidos esta temporada y un gol, ante Independiente. Tuvo una gran actuación en la final de la Sudamericana.",
+        "En Boca pelea el puesto con Marco Pellegrino, Nicolás Figal y Ayrton Costa. Su compañero habitual en la zaga es Lautaro Di Lollo. El técnico es Rodolfo Arruabarrena.",
+        "El apodo viene de su parecido con Mick Jagger, el cantante de los Rolling Stones.",
+        "La nota no menciona ninguna convocatoria concreta de la Selección para Herrera."
+      ],
+      "id": "dep1",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Ruggeri pidió que Jagger Herrera juegue en la Selección: \"Parece un viejo\"",
+      "u": "https://www.infobae.com/deportes/2026/11/24/oscar-ruggeri-pidio-a-jagger-herrera-para-la-seleccion-argentina-tras-el-titulo-de-boca-juniors-en-la-sudamericana/",
+      "v": "Selección"
+    },
+    {
+      "b": "Tiene 19 años, madre argentina y lo comparan con Nico Paz. Placente lo sigue de cerca y España no piensa soltarlo.",
+      "body": [
+        "Carlos Díez es mediocampista, tiene 19 años y juega en las juveniles del Real Madrid. Nació en Madrid, pero su mamá es argentina. Por eso puede elegir entre las dos selecciones.",
+        "Diego Placente, técnico de las juveniles argentinas, lo tiene en el radar. Lo contó durante el Mundial Sub 17. Pensaría en él para el Sudamericano Sub 20 de enero.",
+        "Placente aclaró que la decisión será del jugador, \"ya sea con España o con Argentina\". También comparó el caso con el de Nico Paz. Según el técnico, el fútbol sudamericano le suma herramientas a quienes se formaron en Europa.",
+        "Del otro lado, España tampoco afloja. David Cubillo, entrenador de la Sub 17 española, habló tras la goleada 15-0 a Fiyi. Dijo que la federación no va a resignar la pelea por Díez.",
+        "Hay un antecedente que favorece a los españoles. En enero, Díez jugó 45 minutos con la Sub 19 de España. Fue en el 1-0 sobre Italia.",
+        "En la cancha, viene de un año fuerte. Es titular y capitán en el Juvenil A del Real Madrid. En abril anotó uno de los penales de la final de la UEFA Youth League. El Madrid le ganó 4-2 a Brujas tras empatar 1-1.",
+        "Fue el segundo título del Madrid en ese torneo, después del de 2020 ante Benfica. En la temporada acumula 21 goles, la mayoría en la liga juvenil española.",
+        "La nota toma datos de Marca y Bolavip."
+      ],
+      "id": "dep2",
+      "sec": "Deportes",
+      "src": "Infobae",
+      "t": "Carlos Díez, el juvenil del Real Madrid al que Argentina y España se disputan",
+      "u": "https://www.infobae.com/deportes/2026/11/23/juega-en-el-real-madrid-lo-comparan-con-nico-paz-y-se-lo-disputan-argentina-y-espana-la-calidad-la-tiene/",
+      "v": "Selección"
+    },
+    {
+      "b": "Cada fabricante podría abastecer solo a dos equipos. Alpine, hoy cliente de Mercedes, tendría que buscar otro proveedor.",
+      "body": [
+        "La FIA planea que cada fabricante abastezca como máximo a dos equipos desde 2030. Eso incluye a su propio equipo, así que queda un solo lugar para un cliente externo. La información sale de Motorsport y la recoge Infobae.",
+        "La medida hoy es una propuesta. Forma parte de un documento largo sobre los motores de la próxima generación. No se anunció en Las Vegas. El Consejo Mundial del Motor debe ratificarla el mes próximo, en Shanghái.",
+        "El golpe más fuerte es para los clientes de Mercedes. Hoy la marca alemana abastece a McLaren, Williams y Alpine. Con el nuevo tope, dos de los tres tendrían que irse.",
+        "Alpine tiene un problema extra. Renault, dueña del 76 % del equipo, vendió su fábrica de motores en Viry-Châtillon. Así que Alpine ya necesita un proveedor nuevo. El resto de las acciones es del grupo inversor Otro Capital.",
+        "Las cuentas son ajustadas. Con seis fabricantes, incluido Cadillac, habría 12 lugares para 11 equipos. Audi, Honda o General Motors tendrían que absorber a los que queden afuera de Mercedes.",
+        "Ferrari abastece a Haas y a Cadillac, pero Cadillac hará su propio motor desde 2030. Red Bull seguirá solo con Red Bull y Racing Bulls. Según la nota, el límite busca reducir el peso político de Ferrari y Mercedes.",
+        "Los motores serían V8 con turbo y combustibles sostenibles. El desarrollo tendría un tope de 190 millones de dólares en 2030.",
+        "Zak Brown, de McLaren, dijo en Las Vegas que están muy contentos con Mercedes. Williams y McLaren confían en seguir con la marca alemana.",
+        "Para Franco Colapinto, la nota marca los plazos. Williams lo cedió a Alpine por cinco años y el vínculo llegaría hasta 2029. En 2027 seguirá como titular. Un cambio de equipo para 2028 dependería de cómo le vaya ese año."
+      ],
+      "id": "fon0",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "La FIA planea limitar los motores clientes desde 2030 y Alpine queda en duda",
+      "u": "https://www.infobae.com/deportes/2026/11/24/la-drastica-decision-de-la-fia-que-afecta-el-futuro-de-alpine-en-la-formula-1/",
+      "v": "Alpine"
+    },
+    {
+      "b": "Motor mejorado, buena largada y más confianza explican su mejor momento. Cierra así su mejor año en la Fórmula 1.",
+      "body": [
+        "Infobae enumera seis motivos que explican el salto de Franco Colapinto en Las Vegas. Igualó allí su mejor resultado en la categoría.",
+        "Primero, el motor. Según el análisis de ADUO, Alpine montó una evolución del propulsor Mercedes. En un circuito con dos rectas largas, la reacción del motor pesa mucho.",
+        "Segundo, el trazado urbano le sienta bien al auto, que responde bien en las curvas. Tercero, Colapinto se adaptó al reglamento actual. Casi la mitad de la potencia es eléctrica y administrar la batería es clave.",
+        "Cuarto, Alpine usó poca carga aerodinámica, como en Monza. Eso da más velocidad en recta.",
+        "Quinto, Franco corre cada vez más suelto. Ya sabe que será titular en 2027, y eso le da tranquilidad.",
+        "Sexto, los rivales fallaron. Liam Lawson largó desde boxes por problemas mecánicos y terminó 14º. Arvid Lindblad abandonó al chocar contra el muro durante un Auto de Seguridad.",
+        "La largada fue otro punto alto. Colapinto reaccionó en 0,25 segundos y llegó a 200 km/h en 5,10. Pierre Gasly tardó 5,17. La Fórmula 1 lo elogió en redes por esa salida.",
+        "Después sufrió el sobrecalentamiento de las gomas y llegó a caer al 11º puesto. En la vuelta 12 pasó de una sola vez a los dos McLaren.",
+        "En 2026 sumó puntos en 9 de las 21 carreras. Sufrió cuatro abandonos por fallas mecánicas. Es su primera temporada con pretemporada completa y ya corrió 47 Grandes Premios.",
+        "Quedan Qatar y Abu Dhabi. En la última fecha, Gasly cumplirá 200 Grandes Premios."
+      ],
+      "id": "fon1",
+      "sec": "Fórmula 1",
+      "src": "Infobae",
+      "t": "Las seis razones detrás de la recuperación de Colapinto en Las Vegas",
+      "u": "https://www.infobae.com/deportes/2026/11/23/las-6-razones-que-explican-la-recuperacion-de-franco-colapinto-en-el-gp-de-las-vegas-por-que-termina-su-mejor-ano-en-la-f1/",
+      "v": "Colapinto"
+    },
+    {
+      "autor": "Alfredo Zaiat",
+      "b": "Para Zaiat, con la recesión el superávit fiscal pasó de ser la garantía del plan a una de las causas de su fracaso. Dice que el ajuste achica la economía y la recaudación.",
+      "body": [
+        "Zaiat sostiene que el superávit fiscal, que le dio fuerza política a Milei, ahora le cava la tumba política.",
+        "Parte del dato del INDEC: la actividad cayó en el tercer trimestre, segunda baja seguida. Eso encaja en la definición técnica de recesión. Para Zaiat, Milei prometió prosperidad y obtuvo lo contrario.",
+        "Según Achdjian y Moreno del Campo, de Econograma, llamarlo recesión es un tecnicismo. Dicen que los indicadores de la economía real van a la baja, sin recuperación clara.",
+        "Según Zaiat, la legitimidad de Milei se apoyaba en una promesa: aguantar el ajuste traería prosperidad futura. Esa expectativa se derrumbó y no ve señales de que se revierta.",
+        "El superávit, plantea, fue la herramienta para sumar apoyo de empresarios y financistas, locales y externos. Algunos creen en la ideología: menos gasto público atraería inversión privada. Otros lo valoran como garantía de pago de la deuda. Aclara que la historia no muestra crecimiento solo por recorte de gasto.",
+        "Para el autor, la lógica ahora se muerde la cola. La recesión hace dudar de la reelección de Milei. Y sostener el superávit le saca recursos al sector privado y profundiza la caída.",
+        "Como señales del derrumbe de expectativas marca el riesgo país arriba de los 1.000 puntos y la suba del dólar. Según sus números, el riesgo país tocó un mínimo de 402 el 10 de julio. Cerró el martes en 1.096, casi el triple en cuatro meses y medio. El dólar contado con liquidación pasó de 1.561 a 1.783 pesos, un 14,2% más.",
+        "Después cuestiona los dogmas fiscales. Dice que el resultado fiscal depende del ciclo. Un superávit puede ser razonable en épocas de alto crecimiento y precios de materias primas fuertes, como con Néstor Kirchner. Un déficit puede serlo tras shocks externos, como en 2008 y en 2020.",
+        "Sobre la estrategia de Milei, Zaiat recuerda que ganó legitimidad con un ajuste draconiano y gestos de ortodoxia. Así conquistó al poder económico, que al principio desconfiaba de un outsider con pocos legisladores. Hoy, con recesión, un shock externo por tasas internacionales más altas y mucha incertidumbre financiera, defender el superávit ahoga más a la economía real.",
+        "Describe un círculo vicioso. El ajuste profundiza la recesión, la recesión baja la recaudación y hay que recortar más para mantener el superávit.",
+        "Con datos de Vectorial sobre octubre, el superávit primario fue de 1,93 billones de pesos, 76,1% más real que un año antes. Pero la recaudación real cayó 1,5% y el gasto, 7,2%. La recaudación acumula una baja real de 3,6% en el año. Vectorial resume: \"El superávit no resiste al deterioro: se alimenta de él\".",
+        "Según Zaiat, las transferencias a provincias están 72% por debajo de 2023. La inversión pública es menos de la quinta parte. En octubre cayeron fondos para universidades, subsidios de energía y transporte y salarios públicos. Las prestaciones sociales, cerca de dos tercios del gasto corriente, bajaron 2,5% real.",
+        "Suma una encuesta del INDEC, procesada por Econograma. El 54% de las empresas dijo que la demanda interna insuficiente es su principal límite para producir. Solo el 9% mencionó la competencia externa. Para Zaiat, el problema es el poder de compra débil, no la regulación ni la ley laboral.",
+        "Cierra con una paradoja. El resultado fiscal pasó a ser el único objetivo de la gestión. Para asegurar el pago de la deuda, plantea, el programa destruye la base económica que genera esos recursos. Los acreedores lo notan, dice, en bonos y riesgo país. Lo que se presentaba como garantía del plan, concluye, es hoy una de las causas de su fracaso."
+      ],
+      "donde": "Columna de opinión en El Destape, 25 de noviembre de 2026",
+      "id": "ana1",
+      "sec": "Análisis",
+      "src": "El Destape",
+      "t": "Zaiat: el superávit de Milei ya es parte de la crisis",
+      "u": "https://www.eldestapeweb.com/economia/milei-recesion-superavit-fiscal-milei-vuelve-factor-desestabilizacion-riesgo-pais-casi-triplico-202611250547",
+      "v": "Columna"
+    },
+    {
+      "b": "El Indec informó que la actividad bajó entre julio y septiembre, después de caer entre abril y junio. Septiembre mostró una mejora mensual, pero no alcanzó.",
+      "body": [
+        "La actividad cayó en el tercer trimestre de 2026. Ya había bajado 0,6% entre abril y junio. Con dos caídas seguidas, el Indec la ubica en recesión técnica.",
+        "El dato de septiembre fue mixto. La actividad subió 1,1% frente a agosto. Pero quedó 1,2% abajo de septiembre de 2025. En los primeros nueve meses del año acumula una suba de 1%.",
+        "El golpe no fue parejo. Solo 5 de las 15 ramas crecieron en septiembre frente al año anterior. Subieron la minería (11,1%), luz, gas y agua (4%) y la construcción (3,5%).",
+        "Del otro lado cayeron la pesca (48,6%), el sistema financiero (11,5%) y la industria (1,8%). Esas tres restaron 1,1 puntos al dato anual. Según Equilibra, en el trimestre cayeron el comercio (4,5%) y el transporte (1,9%). El campo y la pesca bajaron más de 10%.",
+        "El ministro de Economía, Luis Caputo, puso el foco en lo positivo. Destacó la suba mensual de septiembre. Remarcó que julio y agosto se corrigieron para arriba. Y dijo que la tendencia general está 6,1% arriba de diciembre de 2023.",
+        "El secretario de Finanzas, Federico Furiase, habló de factores pasajeros. Mencionó las lluvias, el Mundial y el aumento del gas. Según él, la recuperación empezó en agosto. Infobae suma que el Gobierno también apunta a la guerra en Medio Oriente. Y a la incertidumbre política.",
+        "Economistas privados ven otras causas. Mencionan la salida de capitales y el crédito estancado. También el freno del consumo y la inversión.",
+        "El Indec aclaró que no le toca declarar una recesión. Dijo que hace falta mirar más de un indicador. El dato oficial del PIB del tercer trimestre sale el 16 de diciembre. Para evitar la recesión técnica harían falta revisiones muy grandes."
+      ],
+      "id": "eco0",
+      "sec": "Economía",
+      "src": "Infobae / Bloomberg Línea",
+      "t": "La economía entró en recesión técnica: cayó dos trimestres seguidos",
+      "u": "https://www.infobae.com/economia/2026/11/24/recesion-tecnica-que-dijo-el-gobierno-tras-el-dato-que-dejo-a-la-economia-con-dos-trimestres-consecutivos-de-caida/",
+      "v": "Actividad"
+    },
+    {
+      "b": "El billete oficial para el público llegó a $1.605. El riesgo país subió a 1.072 puntos, su nivel más alto desde octubre de 2025.",
+      "body": [
+        "Días atrás ya había dólar cerca de $1.600 y riesgo país arriba de 1.000. El martes 24 los números dieron otro salto.",
+        "En el Banco Nación el dólar subió $10 y cerró en $1.605. Es la primera vez que pasa los $1.600. El mayorista llegó a $1.590, también un récord. En noviembre acumula una suba de 3,7%.",
+        "El blue quedó en $1.675, otro máximo, y el dólar contado con liquidación en $1.812. La brecha entre el oficial y el contado con liquidación es de 14%. Es la más alta desde abril de 2025, cuando terminó el cepo para las personas.",
+        "Esa brecha ya superó la de octubre de 2025. Entonces hubo una corrida antes de las elecciones. El Tesoro de Estados Unidos intervino en el mercado local.",
+        "En los bonos el día arrancó con caídas de 1%. El riesgo país subió 40 puntos y llegó a 1.072. Es el nivel más alto desde el 24 de octubre de 2025. En julio había tocado 402 puntos.",
+        "Los bonos en dólares acumulan una baja de casi 7% en siete días. Desde comienzos de agosto cayeron 23%. Max Capital lo atribuye a riesgos electorales sumados a riesgos globales. El petróleo, además, cayó a mínimos de tres meses. Eso preocupa por Vaca Muerta, que explica casi la mitad del superávit comercial.",
+        "Infobae vincula la presión con tres cosas. La caída del real brasileño: el dólar subió 17,5% en Brasil en un mes. Los vencimientos de deuda de 2027. Y una posible mayor demanda de dólares antes de las presidenciales.",
+        "El equipo económico responde que el superávit cubre los vencimientos de 2026 y 2027. Dice que no hace falta emitir deuda externa."
+      ],
+      "id": "eco1",
+      "sec": "Economía",
+      "src": "Infobae",
+      "t": "El dólar pasó los $1.600 en el Banco Nación y el riesgo país tocó su máximo del año",
+      "u": "https://www.infobae.com/economia/2026/11/24/el-dolar-supera-los-1600-en-el-banco-nacion-y-alcanza-precios-record-en-todos-los-segmentos/",
+      "v": "Dólar"
+    },
+    {
+      "b": "El examen ShellBench midió modelos de OpenAI, Anthropic y Meta con interacciones reales. Más de un tercio de los intentos fracasó, y muchos incumplieron requisitos de seguridad.",
+      "body": [
+        "Las empresas de IA venden agentes personales para comprar, viajar y organizar la agenda. Millones de personas ya se anotaron. Una prueba nueva sugiere que todavía fallan bastante.",
+        "Se llama ShellBench. La armaron The OpenClaw Foundation, Parsewave, Hugging Face, Red Hat y la Universidad de California en Berkeley. Usaron más de 10 millones de interacciones reales y anonimizadas de agentes.",
+        "Los mejores modelos de OpenAI, Anthropic y Meta fallaron más de un tercio de las veces. Además, el 15,7% de todos los intentos incumplió al menos un requisito de seguridad. Incluso entre los intentos bien resueltos, cerca del 10% rompió alguna regla de seguridad.",
+        "Hay tareas donde la falla fue casi total. Calcular el retiro de un chico de la escuela salió mal el 79,5% de las veces. Recomendar pagos duplicados o equivocados de facturas falló en el 40,3%. Proteger un dato bancario sensible falló en el 18,6%.",
+        "También hubo problemas de consistencia. GPT-6 Astra, de OpenAI, fue el que mejor puntuó. Aun así, resolvió una misma tarea tres veces seguidas menos de la mitad de las veces.",
+        "El estudio comparó además los arneses, el programa que rodea al modelo y le da herramientas. En general pesó más elegir bien el modelo. Entre los más fuertes, en cambio, el arnés hizo más diferencia. GPT-6 Astra le ganó a Claude Fable 5.2, de Anthropic, en el arnés Pi. Rindió peor en Claude Code.",
+        "Muse Wonder Full, de Meta, sacó 56% en Pi y 38,1% en Claude Code. Muse Wonder 1.0 promedió 39,7% en cinco arneses.",
+        "Los investigadores no probaron los modelos dentro de los productos propios de Muse, Dots o Claude Duet. Los resultados pueden no reflejar lo que vive un usuario de esas apps. En octubre, Meta dijo que más de 10 millones de personas en Estados Unidos y Canadá habían configurado Muse en seis semanas. Cerca de una cuarta parte lo usa todos los días. TechCrunch consultó a Meta, OpenAI, Anthropic y a los autores.",
+        "Por qué importa: Los agentes ya se usan con plata, datos y tareas familiares en juego. Esta prueba parte de interacciones reales y no de ejercicios armados de laboratorio. Sus resultados dicen que la seguridad y la regularidad siguen siendo el punto débil, más que la capacidad. También muestran que el mismo modelo rinde distinto según el programa que lo rodea. Como es una sola prueba, y no midió los productos finales, conviene leer las cifras con cautela."
+      ],
+      "id": "tec1",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Una nueva prueba muestra que hasta los mejores agentes de IA fallan en tareas de la vida diaria",
+      "u": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+      "v": "Agentes"
+    },
+    {
+      "b": "Las acciones llegaron a valer US$ 76 en plena rueda, contra los US$ 83 de la colocación. En Silicon Valley lo leen como una señal para el resto de las empresas de IA.",
+      "body": [
+        "La acción de Anthropic perdió este martes el precio al que salió a bolsa. El valor de colocación había sido de US$ 83. Al mediodía llegó a operar en US$ 76, casi 12% menos que el cierre del lunes.",
+        "Anthropic había debutado en Nasdaq el jueves 19. Abrió a US$ 111 y cerró a US$ 97,17. Al día siguiente los fundadores vendieron casi US$ 2.000 millones, y el papel cayó 8,5%.",
+        "Cotizar por debajo del precio de salida suele leerse como una mala señal. Los bancos que colocan las acciones fijan ese precio con un descuento sobre lo que esperan que valga el papel en el mercado. Que el papel caiga por debajo de ese piso rompe esa expectativa.",
+        "Inversores de capital de riesgo y otros observadores ven a Anthropic como un termómetro del sector. Su acción sirve para medir cuánto están dispuestos a pagar los mercados por este negocio.",
+        "Si sigue operando mal, el golpe puede trasladarse a las startups de IA que todavía no salieron a bolsa. Sus valuaciones privadas podrían bajar. Y otras compañías del rubro tendrían más dificultades para lanzar sus propias ofertas públicas.",
+        "El martes también cayó Nvidia, más de 7% a mediodía. Con esa baja devolvió parte de la suba de más de 30% del lunes, cuando Jensen Huang fue reincorporado como CEO."
+      ],
+      "id": "tec2",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "La acción de Anthropic cayó por debajo del precio de salida a bolsa",
+      "u": "https://techcrunch.com/2026/11/24/anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups/",
+      "v": "Anthropic"
+    },
+    {
+      "b": "Salieron Esteban Leguízamo y Carlos Zamparolo, en el cargo desde diciembre de 2023. El oficialismo habla de una nueva etapa. La Política Online, de internas y falta de fondos.",
+      "body": [
+        "El Gobierno reemplazó a las dos máximas autoridades del PAMI el lunes 23. Dejaron sus cargos el director ejecutivo Esteban Leguízamo y el subdirector Carlos Zamparolo. Ambos estaban desde diciembre de 2023.",
+        "Asumen Verónica Gabriela Pérez como directora ejecutiva y Elizabeth Ana Osterberg como subdirectora. Los cambios se formalizaron en el Decreto 1412/2026.",
+        "Pérez es abogada y escribana. Venía de dirigir una sede regional del organismo. En septiembre había sido nombrada coordinadora ejecutiva. Osterberg conducía la Unidad Técnico Médica. Leguízamo es médico pediatra y llevaba más de dos décadas en el instituto. Zamparolo venía de la obra social de la UBA.",
+        "El Ministerio de Salud, de Mario Lugones, habló de una nueva etapa. Dijo que busca más modernización, eficiencia y controles. Agradeció a los salientes por su trabajo.",
+        "Infobae agrega un antecedente. En septiembre, Leguízamo y Zamparolo le habían planteado a Lugones su malestar. Se quejaban de que funcionarios ligados al asesor Santiago Caputo intervenían en decisiones clave. Según el diario, el reemplazo fue impulsado desde la Casa Rosada. Infobae y Perfil vinculan a Pérez con el entorno de Caputo.",
+        "La Política Online da otra versión. Habla de un ajuste de cuentas dentro del oficialismo. Lo presenta como la segunda parte de la salida del exviceministro de Salud Guido Giana. Según el sitio, Zamparolo tenía el poder real en el organismo. Atribuye el desplazamiento a Federico Sturzenegger y a Rodrigo Lugones, hijo del ministro.",
+        "El mismo medio habla de falta de fondos. Dice que se agravó al eliminarse el impuesto PAIS, que financiaba al PAMI. Dice que Caputo prometió aportes del Tesoro y no los cumplió. Algunas clínicas ya habrían cerrado por falta de pagos. LPO apunta al secretario de Hacienda, Carlos Guberman, por no enviar los fondos. Sectores del oficialismo temen un costo electoral el año próximo. El sitio se pregunta cómo reaccionarán los prestadores.",
+        "El PAMI atiende a casi seis millones de afiliados. Durante 2026 acumuló demoras en los giros del Tesoro y deudas con clínicas. Los médicos reclaman honorarios atrasados. En mayo el Gobierno había autorizado un adelanto de $580.000 millones."
+      ],
+      "id": "pol0",
+      "sec": "Política",
+      "src": "Infobae / La Política Online / Perfil",
+      "t": "El Gobierno desplazó a la cúpula del PAMI y puso a Verónica Pérez al frente",
+      "u": "https://www.infobae.com/politica/2026/11/24/cambio-en-la-cupula-del-pami-el-gobierno-desplazo-a-las-dos-maximas-autoridades-y-designo-una-nueva-directora-ejecutiva/",
+      "v": "PAMI"
+    },
+    {
+      "b": "Los fundadores de Mercado Libre juntaron más de lo previsto. Apuntan a empresas de IA para negocios y a la infraestructura que las sostiene.",
+      "body": [
+        "Kaszek Ventures cerró su séptimo fondo, con US$650 millones. La firma la crearon en 2011 Hernán Kazah y Nicolás Szekasy, exfundadores de Mercado Libre. Según iProUP, es el mayor fondo de riesgo para etapas tempranas de la región.",
+        "La meta inicial era de US$600 millones. Kaszek puso el tope en US$650 millones por la demanda de los inversores. Es 20% más que el fondo anterior, de US$540 millones en 2023. El primero, de 2011, fue de US$95 millones.",
+        "Entre los inversores aparecen la Universidad de Washington en St. Louis y la fundación Wellcome Trust. Con este cierre, los compromisos desde 2011 se acercan a US$4.000 millones.",
+        "Kaszek planea invertir en 20 a 30 empresas. Empezará por etapas muy tempranas. Guardará cerca del 60% del capital para rondas posteriores. A diferencia de fondos previos, este no incluye un tramo para etapas avanzadas.",
+        "El foco son las aplicaciones de IA para empresas en finanzas, salud y comercio electrónico. También la infraestructura, como centros de datos y chips. Kazah dijo que buscan firmas con la tecnología en el corazón del negocio.",
+        "Brasil y México seguirían como mercados principales. Argentina y Colombia aparecen como destinos prometedores. En la cartera de Kaszek están Nubank, QuintoAndar, Kavak y ARQ.",
+        "El dato de contexto es la sequía de capital. Según PitchBook, hasta septiembre solo 14 fondos de riesgo de la región cerraron su captación. En todo 2023 habían sido 68."
+      ],
+      "id": "sta0",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Kaszek cerró un fondo de US$650 millones para invertir en inteligencia artificial",
+      "u": "https://www.iproup.com/startups/73419-kaszek-ventures-levanta-usd-650-millones-e-invertira-en-ia",
+      "v": "Fondos"
+    },
+    {
+      "b": "El modelo está en Hugging Face con licencia Apache 2.0. Baidu lo presenta para programación, 3D y trabajo de oficina, pero aclara que todavía es una versión intermedia.",
+      "body": [
+        "Baidu publicó en Hugging Face los pesos de ERNIE 5.5 Flash Preview. Es el primer modelo de la familia ERNIE 5.5 que pasó por el entrenamiento posterior (el ajuste final para que siga instrucciones).",
+        "La licencia es Apache 2.0, de las más permisivas. Se puede usar, modificar e incluso integrar en productos comerciales. La versión base del modelo tiene otra licencia.",
+        "El modelo tiene 280.000 millones de parámetros en total. Pero activa solo 14.000 millones por cada palabra que procesa. Eso lo hace más barato de correr que uno denso del mismo tamaño. La propia ficha menciona también 300.000 millones en un encabezado, una inconsistencia.",
+        "Puede leer de una vez textos enormes, equivalentes a varios libros. Baidu lo ofrece en tres versiones, algunas más livianas para equipos más modestos.",
+        "Según la ficha, apunta a programación, scripts de modelado 3D y diseño asistido, y tareas de oficina como planillas, documentos y presentaciones. Baidu también mostró demos en las que arma escenas en Blender (software de 3D). Un modelo de video aparte hace el render final.",
+        "Los resultados que publica son de la propia empresa. Dice que alcanza 46,5 en una prueba de uso de terminal y 87,4 en otra de navegación web. En su tabla, Claude Opus 5.5 y GPT-6.1 Sol puntúan más alto en varias pruebas.",
+        "Baidu abrió el acceso pago por internet en su plataforma Qianfan el 12 de noviembre. Anunció entonces que los pesos llegarían bajo Apache 2.0. La ficha no indica la fecha exacta de publicación. Tiene unas 220 marcas de me gusta y unas 75 descargas en el último mes.",
+        "Por qué importa: Es un modelo grande con licencia abierta que apunta a trabajo con agentes, un terreno donde los mejores modelos suelen ser cerrados. Le sirve a empresas y desarrolladores que quieren correr un modelo propio sin depender del servicio de otra empresa. Pero es una versión intermedia, y Baidu avisa que algunas capacidades pueden quedar cortas. Además, los resultados no fueron verificados por terceros. Ninguna empresa de inferencia lo ofrece todavía en Hugging Face, así que usarlo exige hardware propio."
+      ],
+      "id": "tec0",
+      "sec": "Tecnología",
+      "src": "Hugging Face / TechNode",
+      "t": "Baidu abre los pesos de ERNIE 5.5 Flash Preview, un modelo de 280.000 millones de parámetros",
+      "u": "https://huggingface.co/baidu/ERNIE-5.5-Flash-Preview",
+      "v": "Open source"
+    },
+    {
+      "b": "El sanjuanino propone seis internas regionales para definir la oferta de 2027. En el peronismo dan por hecho que el Gobierno suspenderá las primarias.",
+      "body": [
+        "El lunes 23, Jorge Capitanich recibió en Chaco a Sergio Uñac y Ricardo Quintela. Fue el segundo Encuentro del Norte Grande, con el lema de un nuevo federalismo. Después hablaron con la prensa en la sede del PJ chaqueño.",
+        "Uñac, senador por San Juan, y Quintela están anotados en la carrera presidencial. Uñac asume que el Gobierno logrará suspender las PASO. Propone seis internas por región: NEA, NOA, Cuyo, Centro, Buenos Aires y Sur. Se votarían en fechas consecutivas y los resultados se sumarían.",
+        "Criticó a la conducción nacional del PJ por no prever ese escenario. Habló de mucha charla de café y poca acción. Dijo que se perdió un tiempo precioso. También planteó un desequilibrio entre Buenos Aires y el resto del país.",
+        "Quintela, gobernador de La Rioja, se reunió con intendentes chaqueños. Propuso armar un proyecto federal desde cada provincia, con producción, obra pública y trabajo.",
+        "Capitanich no será candidato a gobernador, según la nota. El PJ chaqueño convocaría internas abiertas el 4 de julio. Las elecciones provinciales se estiman para la segunda quincena de septiembre de 2027.",
+        "El resto del peronismo mira el mismo problema. Según Infobae, el peronismo da por hecha la suspensión de las PASO. El Senado la vota el jueves 26. Por eso quieren definir cómo elegir candidato para 2027. El tema irá a una tercera cumbre justicialista antes de fin de año.",
+        "Muchos dirigentes dicen que el candidato debe legitimarse con votos. Un candidato único sería la última opción. Hoy ven difícil negociarlo por los vínculos entre los principales nombres.",
+        "Massa aparece como posible candidato a presidente. Su entorno dice que no quiere ser candidato a gobernador. El kicillofismo propone que cada sector ponga su candidato y después discutir modelos. Uñac evaluará su situación en diciembre, tras la elección en San Juan. Zamora cuenta con un sector de la CGT, pero no se muestra aún. Máximo Kirchner dijo que hoy el candidato lo elige el Poder Judicial. El kirchnerismo apoya los movimientos de Massa, y Cristina Kirchner conserva un rol de liderazgo.",
+        "El viernes 27 hay otro encuentro, llamado Coordinar para Ganar."
+      ],
+      "id": "pol1",
+      "sec": "Política",
+      "src": "Infobae",
+      "t": "Uñac, Quintela y Capitanich se reunieron en Chaco y el PJ discute cómo elegir candidato sin PASO",
+      "u": "https://www.infobae.com/politica/2026/11/24/sergio-unac-ricardo-quintela-y-jorge-capitanich-se-reunieron-en-chaco-y-avanzaron-con-planteos-hacia-la-interna-del-pj/",
+      "v": "Peronismo"
+    },
+    {
+      "b": "El expresidente, destituido el 6 de noviembre, está detenido en Asunción. La medida todavía necesita la validación de un juez.",
+      "body": [
+        "La Fiscalía pidió ampliar la imputación contra Santiago Peña por Ueno Bank. Suma lavado de activos y cohecho pasivo agravado, que es soborno. La causa ya incluía lesión de confianza, administración en provecho propio y asociación criminal.",
+        "Peña ya no es presidente. El Senado lo destituyó por juicio político el 6 de noviembre. Ese día asumió Pedro Alliana. Peña está detenido en Asunción desde el 7.",
+        "El pedido alcanza a su hermano Francisco, en prisión preventiva desde el lunes. Se lo acusa de lavado, asociación criminal, cohecho y administración en provecho propio. La esposa de Francisco, Rocío Caballero Bosch, cumple arresto domiciliario por lavado.",
+        "El fiscal Christian Benítez lo informó en una conferencia de prensa. Habló en nombre de un equipo de siete investigadores. La Fiscalía analiza la compra de una finca de 1.184 hectáreas por unos US$3 millones. Según la nota, se compró con una sociedad de capital cercano a US$1.000. Habría tenido financiamiento de la entonces Financiera Ueno.",
+        "Peña integró hasta 2025 el grupo accionista que controlaba la entidad. Ueno Bank fue intervenido el 3 de noviembre por problemas de solvencia. Tenía unos 2,94 millones de clientes. Unas 20 personas están en prisión preventiva en la causa. Hay exdirectivos, funcionarios del Banco Central y dirigentes políticos.",
+        "Alliana anunció un proyecto de ley de emergencia para los trabajadores del banco. Prevé anticipos de hasta cinco salarios mínimos, unos US$2.375. El Estado pondrá cerca de US$10 millones, que luego recuperará de los responsables. Dijo que no asumirá el costo de las indemnizaciones. La cobertura de salud sigue hasta el 31 de diciembre.",
+        "La fiscal general, Alba Cantero, estudia reformas legales. Quiere que los bienes decomisados vayan primero a los clientes afectados. Hoy pasan al patrimonio del Estado. El fondo de garantía ya adelantó US$644 millones a más de 1,8 millones de ahorristas. Su fiscal general anterior, Emiliano Rolón, renunció tras cuestionamientos de diputados.",
+        "La diputada Rocío Vallejo presentó un contrato del Grupo Vázquez con el exministro Fernández Valdovinos. Fija honorarios de US$20.000 por mes. Como ministro, intervino en colocar unos US$33 millones de la Caja Fiscal en Ueno Bank. No se abrió una investigación formal contra él, aunque allanaron su casa."
+      ],
+      "id": "lat0",
+      "sec": "Latinoamérica",
+      "src": "Infobae",
+      "t": "Paraguay: la Fiscalía pidió ampliar los cargos contra Santiago Peña por lavado y soborno",
+      "u": "https://www.infobae.com/america/america-latina/2026/11/25/crisis-de-ueno-bank-la-fiscalia-de-paraguay-pidio-ampliar-los-cargos-contra-santiago-pena-por-lavado-de-activos-y-soborno/",
+      "v": "Paraguay"
+    },
+    {
+      "b": "Los usuarios podrán hablar con Muse dentro de un chat, sin salir a la app aparte. Walmart además suma sus ofertas de Black Friday al agente.",
+      "body": [
+        "Meta integró a Muse en los mensajes directos de Instagram. Hasta ahora había que abrir la aplicación de Muse aparte para usarlo.",
+        "Desde un chat se le puede preguntar por una publicación, un lugar o un producto. También sirve para ponerse al día con mensajes que el usuario se perdió. Se le pueden compartir posteos y pedirle que actúe. Por ejemplo, sumar una cafetería a un itinerario o buscar zapatillas en oferta por Black Friday.",
+        "Las charlas con Muse en Instagram aparecen como un chat lateral en la app principal de Muse. La función llega a iOS y Android en Estados Unidos, Canadá, México, Japón y Singapur.",
+        "Muse también puede ordenar los posteos y reels guardados en colecciones. Puede convertir un video de receta en una lista de compras. Y armar un itinerario de viaje con contenido de creadores, o sugerir looks a partir de reels de moda. Cuando alguien guarda un posteo, le aparecerá la opción de que Muse lo organice. Eso, por ahora, solo en Estados Unidos y Canadá.",
+        "Meta dice que nada se comparte, se publica ni se envía sin la aprobación del usuario. También afirma que se puede pedir a Muse que olvide datos o deshaga acciones. El 20 de noviembre, empleados de Meta habían advertido que Muse mezclaba conversaciones y exponía datos privados.",
+        "En paralelo, Walmart se asoció con Meta para vender sus ofertas de Black Friday a través de Muse. El cliente entra a su cuenta de Walmart en la app y pide productos, comparaciones u ofertas. Muse envía el pedido a Walmart, que devuelve opciones y ayuda a armar el carrito. Walmart dice que Muse no ve el historial de compras ni otros datos personales.",
+        "Los compradores pueden fijar topes de gasto, exigir aprobación antes de pagar y borrar el perfil del agente. La experiencia funciona con la Agent Gateway de Walmart, que lanzó en octubre. Walmart planea abrirla a más desarrolladores y plataformas de IA. TechCrunch contrasta el caso con Amazon, que bloquea que agentes de terceros compren por los clientes. Instacart también se asoció con Muse.",
+        "Por qué importa: Meta pasa de tener un agente en una app propia a ponerlo dentro del chat donde ya están sus usuarios. Y con Walmart, el agente empieza a comprar en tiendas de terceros. Así pasa de responder preguntas a concretar compras, lo que eleva el riesgo de errores con dinero y datos. Las promesas de control, como aprobar compras y borrar la memoria, son declaraciones de las empresas. Meta ya había recibido alertas internas por la privacidad de Muse."
+      ],
+      "id": "tec3",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Meta lleva su asistente Muse a los mensajes directos de Instagram",
+      "u": "https://techcrunch.com/2026/11/24/meta-brings-its-muse-ai-assistant-directly-into-instagram-dms/",
+      "v": "Meta"
+    },
+    {
+      "b": "Entre enero y octubre hubo 232 operaciones, 59% más en dinero que un año atrás. Argentina fue el único gran mercado de la región donde subió la cantidad.",
+      "body": [
+        "Las fusiones y compras de empresas movieron US$8.339 millones entre enero y octubre. Es 59% más que en el mismo período de 2025. Ya supera todo ese año, que cerró con US$6.900 millones.",
+        "Se concretaron 232 operaciones, 7% más que un año antes. El informe es de TTR Data y Datasite. A septiembre el acumulado era de 203 operaciones por US$6.515 millones.",
+        "En la región pasó lo contrario. Latinoamérica sumó 1.907 operaciones por US$92.195 millones. La cantidad cayó 27% y el monto, 4%. Argentina fue el único de los seis mercados principales donde subió la cantidad. Por monto quedó cuarta, detrás de Brasil, México y Colombia.",
+        "El sector más activo es petróleo, gas y combustibles, con 24 operaciones hasta septiembre. La mayor fue la compra de Raízen Argentina por la suiza Mercuria, por US$1.420 millones. En octubre, YPF aprobó comprar el 24,99% de YPF Luz por US$430 millones.",
+        "Noviembre todavía no entra en las estadísticas. Grupo Dia vendió Dia Argentina a Dorinka, del Grupo De Narváez, por US$53,8 millones. Tiene más de 900 sucursales. Alsea acordó vender 107 restaurantes de Burger King. Molinos Río de la Plata acordó comprar la marca de galletitas Tía Maruca.",
+        "Desde el 17 de noviembre rige un control previo de las fusiones. Las fusiones alcanzadas necesitan autorización de la autoridad antes de cerrarse. Las notificadas antes de esa fecha siguen con el régimen anterior."
+      ],
+      "id": "sta2",
+      "sec": "Startups",
+      "src": "iProUP",
+      "t": "Las fusiones y adquisiciones en Argentina suman US$8.339 millones y ya superan todo 2025",
+      "u": "https://www.iproup.com/startups/73315-fusiones-en-argentina-suman-us8-339-millones-hasta-octubre-de-2026",
+      "v": "Fusiones"
+    },
+    {
+      "b": "Según los reportes, pagaría US$ 7.500 millones por la startup. Lo que busca es software para que sus chips Trainium rindan más.",
+      "body": [
+        "Amazon pagaría US$ 7.500 millones por Decart, según reportes. También se queda con los cofundadores y el equipo.",
+        "A Amazon no le interesan los modelos de mundos de Decart. Quiere su tecnología para correr modelos de IA de manera eficiente en distintos chips. Se llama Decart Optimization Stack.",
+        "El objetivo es mejorar el rendimiento de los chips Trainium, los propios de Amazon. Con eso podría ofrecer centros de datos basados en Trainium a más clientes. Amazon trabaja con Decart desde 2025.",
+        "Anthropic también habría intentado comprar Decart por un monto parecido. Nvidia invirtió en la ronda de US$ 300 millones que valoró a la empresa en US$ 4.000 millones. Según rumores, también era un posible comprador.",
+        "TechCrunch compara la operación con la compra de Mellanox por Nvidia, que costó US$ 6.900 millones. Y con la de Annapurna Labs por Amazon, que dio origen a su unidad de chips propios.",
+        "Eze Vidra, de Remagine Ventures, dijo que la operación es una señal fuerte para el ecosistema israelí de tecnología profunda. Dean Meyer, socio de Sequoia, opinó que será recordada como una de las adquisiciones más estratégicas en muchos años."
+      ],
+      "id": "tec4",
+      "sec": "Tecnología",
+      "src": "TechCrunch",
+      "t": "Amazon compra Decart para achicar la distancia con Nvidia en chips de IA",
+      "u": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race/",
+      "v": "Amazon"
+    }
+  ],
+  "orden": [
+    "dep0",
+    "dep1",
+    "dep2",
+    "fon0",
+    "fon1",
+    "ana1",
+    "eco0",
+    "eco1",
+    "tec1",
+    "tec2",
+    "pol0",
+    "sta0",
+    "tec0",
+    "pol1",
+    "lat0",
+    "tec3",
+    "sta2",
+    "tec4"
+  ],
+  "secciones": [
+    "Deportes",
+    "Fórmula 1",
+    "Análisis",
+    "Tecnología",
+    "Economía",
+    "Política",
+    "Latinoamérica",
+    "Startups"
+  ],
+  "side": [
+    "eco0",
+    "tec1",
+    "lat0",
+    "fon1"
+  ]
+}
